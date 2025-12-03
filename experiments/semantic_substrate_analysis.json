@@ -1,0 +1,484 @@
+{
+  "vector_field_analysis": {
+    "love": {
+      "word": "love",
+      "gradient": [
+        0.46848510846797525,
+        0.055520184694124446,
+        -0.8816610294781756,
+        0.010632085889472618
+      ],
+      "gradient_magnitude": 0.9999999999577989,
+      "divergence": -3.999999999992898,
+      "curl": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "curl_magnitude": 0.0,
+      "laplacian": 4.654348018107156,
+      "interpretation": {
+        "gradient": "Direction of increasing distance from equilibrium",
+        "divergence": "Source (+) or sink (-) of semantic flow",
+        "curl": "Rotational semantic patterns",
+        "laplacian": "Semantic diffusion rate"
+      }
+    },
+    "hate": {
+      "word": "hate",
+      "gradient": [
+        -0.7427995544928566,
+        -0.0957728399808566,
+        0.0473062406747271,
+        -0.6609375949651053
+      ],
+      "gradient_magnitude": 0.9999999999389089,
+      "divergence": -3.9999999999984492,
+      "curl": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "curl_magnitude": 0.0,
+      "laplacian": 4.4743897475996155,
+      "interpretation": {
+        "gradient": "Direction of increasing distance from equilibrium",
+        "divergence": "Source (+) or sink (-) of semantic flow",
+        "curl": "Rotational semantic patterns",
+        "laplacian": "Semantic diffusion rate"
+      }
+    },
+    "wisdom": {
+      "word": "wisdom",
+      "gradient": [
+        0.18271290826432637,
+        0.5924716716620981,
+        -0.664909495504129,
+        0.4165197160899136
+      ],
+      "gradient_magnitude": 0.9999999998358333,
+      "divergence": -3.999999999987347,
+      "curl": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "curl_magnitude": 0.0,
+      "laplacian": 6.687391196358305,
+      "interpretation": {
+        "gradient": "Direction of increasing distance from equilibrium",
+        "divergence": "Source (+) or sink (-) of semantic flow",
+        "curl": "Rotational semantic patterns",
+        "laplacian": "Semantic diffusion rate"
+      }
+    },
+    "power": {
+      "word": "power",
+      "gradient": [
+        -0.6638683189841288,
+        0.2599071689091126,
+        0.6389150815105937,
+        -0.288988989816108
+      ],
+      "gradient_magnitude": 0.9999999995088931,
+      "divergence": -3.999999999992898,
+      "curl": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "curl_magnitude": 0.0,
+      "laplacian": 11.85239295597995,
+      "interpretation": {
+        "gradient": "Direction of increasing distance from equilibrium",
+        "divergence": "Source (+) or sink (-) of semantic flow",
+        "curl": "Rotational semantic patterns",
+        "laplacian": "Semantic diffusion rate"
+      }
+    },
+    "peace": {
+      "word": "peace",
+      "gradient": [
+        0.24378895742693804,
+        0.43558206747618117,
+        -0.8650863144610276,
+        0.04960720847435595
+      ],
+      "gradient_magnitude": 0.9999999999352599,
+      "divergence": -3.999999999987347,
+      "curl": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "curl_magnitude": 0.0,
+      "laplacian": 5.5420823485974315,
+      "interpretation": {
+        "gradient": "Direction of increasing distance from equilibrium",
+        "divergence": "Source (+) or sink (-) of semantic flow",
+        "curl": "Rotational semantic patterns",
+        "laplacian": "Semantic diffusion rate"
+      }
+    }
+  },
+  "semantic_queries": {
+    "near_love": [
+      [
+        "joy",
+        0.24062418831031931
+      ],
+      [
+        "hope",
+        0.2467792535850613
+      ],
+      [
+        "peace",
+        0.2816025568065745
+      ],
+      [
+        "faith",
+        0.2908607914449797
+      ]
+    ],
+    "between_love_hate": [
+      "hope",
+      "envy",
+      "betrayal",
+      "take",
+      "destroy",
+      "harm"
+    ],
+    "orthogonal_love_wisdom": [],
+    "parallel_love_hate": [
+      [
+        "hope",
+        "take",
+        0.9975220739415488
+      ],
+      [
+        "joy",
+        "pride",
+        0.996505532373262
+      ],
+      [
+        "hope",
+        "destroy",
+        0.996219818960915
+      ],
+      [
+        "joy",
+        "destroy",
+        0.9957502727123378
+      ],
+      [
+        "joy",
+        "greed",
+        0.994226435366822
+      ]
+    ],
+    "high_wisdom_region": [
+      "compassion",
+      "mercy",
+      "friendship",
+      "forgiveness",
+      "heal"
+    ]
+  },
+  "metadata_analysis": {
+    "love": {
+      "complexity": 1.0287577608001555,
+      "stability": 76.52280379553108,
+      "dimensionality": 1.9674085254644909,
+      "concreteness": 0.48000000000000004,
+      "richness": 4.941165424643866e-06
+    },
+    "wisdom": {
+      "complexity": 1.0287577608011533,
+      "stability": 61.75126590095097,
+      "dimensionality": 3.1512655647285723,
+      "concreteness": 0.38999999999999996,
+      "richness": 3.1174846027196145e-05
+    },
+    "peace": {
+      "complexity": 0.916290731906956,
+      "stability": 82.71298593879239,
+      "dimensionality": 2.064104603619198,
+      "concreteness": 0.4075,
+      "richness": 5.452162539791979e-06
+    },
+    "power": {
+      "complexity": 0.9594430428139373,
+      "stability": 48.090795421756276,
+      "dimensionality": 1.1952646215385827,
+      "concreteness": 0.5575,
+      "richness": 1.5002915905781712e-05
+    },
+    "light": {
+      "complexity": 0.9071182283904082,
+      "stability": 71.42857142857142,
+      "dimensionality": 2.4889250401284375,
+      "concreteness": 0.49,
+      "richness": 1.5184624447942643e-05
+    },
+    "darkness": {
+      "complexity": 0.9594430428404421,
+      "stability": 38.74167054083372,
+      "dimensionality": 1.3714733944587298,
+      "concreteness": 0.4925,
+      "richness": 3.952856430135381e-05
+    }
+  },
+  "resonance_patterns": {
+    "love": {
+      "harmonics": [
+        [
+          "hope",
+          0.9907135253367432
+        ],
+        [
+          "joy",
+          0.978548756713736
+        ],
+        [
+          "beauty",
+          0.9475806614441811
+        ],
+        [
+          "faith",
+          0.9374088860503155
+        ],
+        [
+          "peace",
+          0.9016354115222942
+        ]
+      ],
+      "entailments": [
+        [
+          "power",
+          0.9891966675756814
+        ],
+        [
+          "fire",
+          0.9829737938330578
+        ],
+        [
+          "hope",
+          0.9744220943389572
+        ],
+        [
+          "courage",
+          0.9445633777803559
+        ],
+        [
+          "earth",
+          0.9404404191570276
+        ]
+      ],
+      "antonyms": [
+        [
+          "power",
+          0.8629614115851563
+        ],
+        [
+          "fire",
+          0.5243163801772891
+        ],
+        [
+          "greed",
+          0.5205265824891406
+        ]
+      ]
+    },
+    "wisdom": {
+      "harmonics": [
+        [
+          "truth",
+          0.9503440746414509
+        ],
+        [
+          "honesty",
+          0.9456795645350204
+        ],
+        [
+          "humility",
+          0.9383638583392001
+        ],
+        [
+          "forgiveness",
+          0.9281390140212283
+        ],
+        [
+          "knowledge",
+          0.9131115635179218
+        ]
+      ],
+      "entailments": [
+        [
+          "fire",
+          0.9606382031924053
+        ],
+        [
+          "power",
+          0.9360772254788984
+        ],
+        [
+          "pride",
+          0.92149482372587
+        ],
+        [
+          "courage",
+          0.8980873995112446
+        ],
+        [
+          "greed",
+          0.8899416356951831
+        ]
+      ],
+      "antonyms": [
+        [
+          "greed",
+          0.6574308869798015
+        ],
+        [
+          "pride",
+          0.6334661130684803
+        ],
+        [
+          "destroy",
+          0.5557590895089674
+        ]
+      ]
+    },
+    "power": {
+      "harmonics": [
+        [
+          "joy",
+          -0.874452542205173
+        ],
+        [
+          "love",
+          -0.8629614115851563
+        ],
+        [
+          "fire",
+          0.8404957956190219
+        ],
+        [
+          "hope",
+          -0.7892719376493983
+        ],
+        [
+          "beauty",
+          -0.7413559760049566
+        ]
+      ],
+      "entailments": [
+        [
+          "joy",
+          0.949179491930214
+        ],
+        [
+          "love",
+          0.9277083397016541
+        ],
+        [
+          "hope",
+          0.9168146419410296
+        ],
+        [
+          "beauty",
+          0.9015611184434076
+        ],
+        [
+          "faith",
+          0.8854289295311689
+        ]
+      ],
+      "antonyms": [
+        [
+          "joy",
+          0.874452542205173
+        ],
+        [
+          "love",
+          0.8629614115851563
+        ],
+        [
+          "hope",
+          0.7892719376493983
+        ]
+      ]
+    },
+    "justice": {
+      "harmonics": [
+        [
+          "courage",
+          0.9668164738067531
+        ],
+        [
+          "truth",
+          0.9467555797582499
+        ],
+        [
+          "honesty",
+          0.9450635520470584
+        ],
+        [
+          "freedom",
+          0.906104061035038
+        ],
+        [
+          "loyalty",
+          0.8949239749770577
+        ]
+      ],
+      "entailments": [
+        [
+          "courage",
+          0.982921938404559
+        ],
+        [
+          "fire",
+          0.9474439571576425
+        ],
+        [
+          "earth",
+          0.933912383216485
+        ],
+        [
+          "power",
+          0.8862403764396773
+        ],
+        [
+          "create",
+          0.8781633250828184
+        ]
+      ],
+      "antonyms": [
+        [
+          "greed",
+          0.363971282461707
+        ],
+        [
+          "pride",
+          0.31406775826814787
+        ]
+      ]
+    }
+  }
+}
