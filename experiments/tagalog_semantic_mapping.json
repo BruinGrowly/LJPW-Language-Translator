@@ -1,0 +1,1423 @@
+{
+  "word_mappings": {
+    "pagmamahal": {
+      "coordinates": [
+        0.91,
+        0.47,
+        0.16,
+        0.72
+      ],
+      "english": "love",
+      "notes": "Deep love, affection, caring",
+      "territory_id": 6,
+      "territory_name": "Loving Weak (Emotional Affection)",
+      "distance_to_center": 0.23008259386576818,
+      "harmony": 0.4911936028258192,
+      "L": 0.91,
+      "J": 0.47,
+      "P": 0.16,
+      "W": 0.72
+    },
+    "tuwa": {
+      "coordinates": [
+        0.87,
+        0.44,
+        0.39,
+        0.66
+      ],
+      "english": "joy",
+      "notes": "Joy, gladness, delight",
+      "territory_id": 6,
+      "territory_name": "Loving Weak (Emotional Affection)",
+      "distance_to_center": 0.10028958071504737,
+      "harmony": 0.5250600436985223,
+      "L": 0.87,
+      "J": 0.44,
+      "P": 0.39,
+      "W": 0.66
+    },
+    "ligaya": {
+      "coordinates": [
+        0.89,
+        0.46,
+        0.35,
+        0.68
+      ],
+      "english": "happiness",
+      "notes": "Happiness, bliss, jubilation",
+      "territory_id": 6,
+      "territory_name": "Loving Weak (Emotional Affection)",
+      "distance_to_center": 0.0941169485268196,
+      "harmony": 0.5234849252157407,
+      "L": 0.89,
+      "J": 0.46,
+      "P": 0.35,
+      "W": 0.68
+    },
+    "pag-asa": {
+      "coordinates": [
+        0.77,
+        0.49,
+        0.36,
+        0.69
+      ],
+      "english": "hope",
+      "notes": "Hope, expectation",
+      "territory_id": 6,
+      "territory_name": "Loving Weak (Emotional Affection)",
+      "distance_to_center": 0.048352869614946274,
+      "harmony": 0.5249838710829331,
+      "L": 0.77,
+      "J": 0.49,
+      "P": 0.36,
+      "W": 0.69
+    },
+    "kapayapaan": {
+      "coordinates": [
+        0.76,
+        0.66,
+        0.26,
+        0.73
+      ],
+      "english": "peace",
+      "notes": "Peace, tranquility, harmony",
+      "territory_id": 1,
+      "territory_name": "Loving Just Weak Wise (Compassionate Virtue)",
+      "distance_to_center": 0.13182943525631893,
+      "harmony": 0.5288491374614861,
+      "L": 0.76,
+      "J": 0.66,
+      "P": 0.26,
+      "W": 0.73
+    },
+    "galit": {
+      "coordinates": [
+        0.29,
+        0.54,
+        0.71,
+        0.36
+      ],
+      "english": "anger",
+      "notes": "Anger, wrath, rage",
+      "territory_id": 4,
+      "territory_name": "Cold Powerful Foolish (Selfish Vice)",
+      "distance_to_center": 0.13714590770416746,
+      "harmony": 0.47625233481242424,
+      "L": 0.29,
+      "J": 0.54,
+      "P": 0.71,
+      "W": 0.36
+    },
+    "poot": {
+      "coordinates": [
+        0.15,
+        0.38,
+        0.73,
+        0.28
+      ],
+      "english": "hate",
+      "notes": "Hate, resentment, grudge",
+      "territory_id": 3,
+      "territory_name": "Cold Unjust Powerful Foolish (Malevolent Evil)",
+      "distance_to_center": 0.06706713054842885,
+      "harmony": 0.43418795436213153,
+      "L": 0.15,
+      "J": 0.38,
+      "P": 0.73,
+      "W": 0.28
+    },
+    "lungkot": {
+      "coordinates": [
+        0.36,
+        0.47,
+        0.23,
+        0.54
+      ],
+      "english": "sadness",
+      "notes": "Sadness, sorrow, grief",
+      "territory_id": 2,
+      "territory_name": "Cold Weak (Suffering)",
+      "distance_to_center": 0.10319883720275147,
+      "harmony": 0.4499028809368654,
+      "L": 0.36,
+      "J": 0.47,
+      "P": 0.23,
+      "W": 0.54
+    },
+    "takot": {
+      "coordinates": [
+        0.26,
+        0.51,
+        0.29,
+        0.46
+      ],
+      "english": "fear",
+      "notes": "Fear, fright, dread",
+      "territory_id": 2,
+      "territory_name": "Cold Weak (Suffering)",
+      "distance_to_center": 0.10319883720275148,
+      "harmony": 0.4428046444636439,
+      "L": 0.26,
+      "J": 0.51,
+      "P": 0.29,
+      "W": 0.46
+    },
+    "inggit": {
+      "coordinates": [
+        0.29,
+        0.39,
+        0.69,
+        0.33
+      ],
+      "english": "envy",
+      "notes": "Envy, jealousy",
+      "territory_id": 4,
+      "territory_name": "Cold Powerful Foolish (Selfish Vice)",
+      "distance_to_center": 0.0767398201717987,
+      "harmony": 0.4561750504893121,
+      "L": 0.29,
+      "J": 0.39,
+      "P": 0.69,
+      "W": 0.33
+    },
+    "malasakit": {
+      "coordinates": [
+        0.89,
+        0.73,
+        0.33,
+        0.76
+      ],
+      "english": "compassion",
+      "notes": "Compassionate concern, empathy (key Filipino value)",
+      "territory_id": 1,
+      "territory_name": "Loving Just Weak Wise (Compassionate Virtue)",
+      "distance_to_center": 0.07796794213008322,
+      "harmony": 0.5652622477283964,
+      "L": 0.89,
+      "J": 0.73,
+      "P": 0.33,
+      "W": 0.76
+    },
+    "damdam": {
+      "coordinates": [
+        0.84,
+        0.58,
+        0.28,
+        0.71
+      ],
+      "english": "empathy",
+      "notes": "Feeling, empathy, sympathy",
+      "territory_id": 6,
+      "territory_name": "Loving Weak (Emotional Affection)",
+      "distance_to_center": 0.11188386836358487,
+      "harmony": 0.5271650135056458,
+      "L": 0.84,
+      "J": 0.58,
+      "P": 0.28,
+      "W": 0.71
+    },
+    "utang-na-loob": {
+      "coordinates": [
+        0.78,
+        0.76,
+        0.42,
+        0.74
+      ],
+      "english": "debt of gratitude",
+      "notes": "Reciprocal obligation, gratitude (core Filipino concept)",
+      "territory_id": 1,
+      "territory_name": "Loving Just Weak Wise (Compassionate Virtue)",
+      "distance_to_center": 0.09496841580230765,
+      "harmony": 0.583381953358602,
+      "L": 0.78,
+      "J": 0.76,
+      "P": 0.42,
+      "W": 0.74
+    },
+    "hiya": {
+      "coordinates": [
+        0.58,
+        0.68,
+        0.31,
+        0.64
+      ],
+      "english": "shame/propriety",
+      "notes": "Shame, sense of propriety (core Filipino value)",
+      "territory_id": 1,
+      "territory_name": "Loving Just Weak Wise (Compassionate Virtue)",
+      "distance_to_center": 0.2748799738067508,
+      "harmony": 0.5153367829946448,
+      "L": 0.58,
+      "J": 0.68,
+      "P": 0.31,
+      "W": 0.64
+    },
+    "pakikisama": {
+      "coordinates": [
+        0.81,
+        0.69,
+        0.38,
+        0.71
+      ],
+      "english": "social harmony",
+      "notes": "Getting along with others, social harmony",
+      "territory_id": 1,
+      "territory_name": "Loving Just Weak Wise (Compassionate Virtue)",
+      "distance_to_center": 0.041218927691049886,
+      "harmony": 0.5633649246522785,
+      "L": 0.81,
+      "J": 0.69,
+      "P": 0.38,
+      "W": 0.71
+    },
+    "tapang": {
+      "coordinates": [
+        0.66,
+        0.61,
+        0.69,
+        0.71
+      ],
+      "english": "courage",
+      "notes": "Courage, bravery, valor",
+      "territory_id": 5,
+      "territory_name": "Loving Wise (Noble Action)",
+      "distance_to_center": 0.15140673697032112,
+      "harmony": 0.5990702494655223,
+      "L": 0.66,
+      "J": 0.61,
+      "P": 0.69,
+      "W": 0.71
+    },
+    "karunungan": {
+      "coordinates": [
+        0.69,
+        0.69,
+        0.43,
+        0.89
+      ],
+      "english": "wisdom",
+      "notes": "Wisdom, knowledge, learning",
+      "territory_id": 7,
+      "territory_name": "Just Wise (Intellectual Virtue)",
+      "distance_to_center": 0.11081516141756056,
+      "harmony": 0.5788841563744086,
+      "L": 0.69,
+      "J": 0.69,
+      "P": 0.43,
+      "W": 0.89
+    },
+    "katarungan": {
+      "coordinates": [
+        0.61,
+        0.87,
+        0.57,
+        0.79
+      ],
+      "english": "justice",
+      "notes": "Justice, fairness, righteousness",
+      "territory_id": 7,
+      "territory_name": "Just Wise (Intellectual Virtue)",
+      "distance_to_center": 0.15887101686588398,
+      "harmony": 0.6131687511237538,
+      "L": 0.61,
+      "J": 0.87,
+      "P": 0.57,
+      "W": 0.79
+    },
+    "katotohanan": {
+      "coordinates": [
+        0.63,
+        0.77,
+        0.49,
+        0.86
+      ],
+      "english": "truth",
+      "notes": "Truth, veracity, reality",
+      "territory_id": 7,
+      "territory_name": "Just Wise (Intellectual Virtue)",
+      "distance_to_center": 0.03435112807463537,
+      "harmony": 0.5934011300187824,
+      "L": 0.63,
+      "J": 0.77,
+      "P": 0.49,
+      "W": 0.86
+    },
+    "kababaang-loob": {
+      "coordinates": [
+        0.73,
+        0.71,
+        0.29,
+        0.76
+      ],
+      "english": "humility",
+      "notes": "Humility, meekness (literally \"lowness of inner self\")",
+      "territory_id": 1,
+      "territory_name": "Loving Just Weak Wise (Compassionate Virtue)",
+      "distance_to_center": 0.12537543619066693,
+      "harmony": 0.5411953111035617,
+      "L": 0.73,
+      "J": 0.71,
+      "P": 0.29,
+      "W": 0.76
+    },
+    "tapat": {
+      "coordinates": [
+        0.69,
+        0.81,
+        0.46,
+        0.81
+      ],
+      "english": "honesty",
+      "notes": "Honesty, sincerity, loyalty",
+      "territory_id": 7,
+      "territory_name": "Just Wise (Intellectual Virtue)",
+      "distance_to_center": 0.09929753269845125,
+      "harmony": 0.5958909955055751,
+      "L": 0.69,
+      "J": 0.81,
+      "P": 0.46,
+      "W": 0.81
+    },
+    "awa": {
+      "coordinates": [
+        0.86,
+        0.73,
+        0.34,
+        0.71
+      ],
+      "english": "mercy",
+      "notes": "Mercy, pity, compassion",
+      "territory_id": 1,
+      "territory_name": "Loving Just Weak Wise (Compassionate Virtue)",
+      "distance_to_center": 0.0577840808527747,
+      "harmony": 0.5610311870016965,
+      "L": 0.86,
+      "J": 0.73,
+      "P": 0.34,
+      "W": 0.71
+    },
+    "habag": {
+      "coordinates": [
+        0.87,
+        0.7,
+        0.32,
+        0.69
+      ],
+      "english": "pity",
+      "notes": "Pity, compassion, mercy",
+      "territory_id": 1,
+      "territory_name": "Loving Just Weak Wise (Compassionate Virtue)",
+      "distance_to_center": 0.07886063656856954,
+      "harmony": 0.5507455457820548,
+      "L": 0.87,
+      "J": 0.7,
+      "P": 0.32,
+      "W": 0.69
+    },
+    "kayabangan": {
+      "coordinates": [
+        0.37,
+        0.36,
+        0.77,
+        0.43
+      ],
+      "english": "pride",
+      "notes": "Pride, arrogance, haughtiness",
+      "territory_id": 4,
+      "territory_name": "Cold Powerful Foolish (Selfish Vice)",
+      "distance_to_center": 0.09374966666607407,
+      "harmony": 0.47886860938338643,
+      "L": 0.37,
+      "J": 0.36,
+      "P": 0.77,
+      "W": 0.43
+    },
+    "sakim": {
+      "coordinates": [
+        0.23,
+        0.29,
+        0.81,
+        0.36
+      ],
+      "english": "greed",
+      "notes": "Greed, avarice, covetousness",
+      "territory_id": 3,
+      "territory_name": "Cold Unjust Powerful Foolish (Malevolent Evil)",
+      "distance_to_center": 0.1062920505023777,
+      "harmony": 0.4460194383561152,
+      "L": 0.23,
+      "J": 0.29,
+      "P": 0.81,
+      "W": 0.36
+    },
+    "karahasan": {
+      "coordinates": [
+        0.16,
+        0.26,
+        0.79,
+        0.23
+      ],
+      "english": "cruelty",
+      "notes": "Cruelty, violence, brutality",
+      "territory_id": 3,
+      "territory_name": "Cold Unjust Powerful Foolish (Malevolent Evil)",
+      "distance_to_center": 0.10600943354249187,
+      "harmony": 0.4210800335422143,
+      "L": 0.16,
+      "J": 0.26,
+      "P": 0.79,
+      "W": 0.23
+    },
+    "taksil": {
+      "coordinates": [
+        0.19,
+        0.41,
+        0.66,
+        0.29
+      ],
+      "english": "betrayal",
+      "notes": "Betrayal, treachery, disloyalty",
+      "territory_id": 3,
+      "territory_name": "Cold Unjust Powerful Foolish (Malevolent Evil)",
+      "distance_to_center": 0.12131776456892036,
+      "harmony": 0.4396912163177161,
+      "L": 0.19,
+      "J": 0.41,
+      "P": 0.66,
+      "W": 0.29
+    },
+    "bigay": {
+      "coordinates": [
+        0.83,
+        0.67,
+        0.43,
+        0.69
+      ],
+      "english": "give",
+      "notes": "Give, gift, donation",
+      "territory_id": 1,
+      "territory_name": "Loving Just Weak Wise (Compassionate Virtue)",
+      "distance_to_center": 0.08898876333560322,
+      "harmony": 0.5722364831341108,
+      "L": 0.83,
+      "J": 0.67,
+      "P": 0.43,
+      "W": 0.69
+    },
+    "kuha": {
+      "coordinates": [
+        0.33,
+        0.39,
+        0.71,
+        0.43
+      ],
+      "english": "take",
+      "notes": "Take, get, obtain",
+      "territory_id": 4,
+      "territory_name": "Cold Powerful Foolish (Selfish Vice)",
+      "distance_to_center": 0.04988987873306566,
+      "harmony": 0.47414630713452927,
+      "L": 0.33,
+      "J": 0.39,
+      "P": 0.71,
+      "W": 0.43
+    },
+    "gawa": {
+      "coordinates": [
+        0.74,
+        0.59,
+        0.67,
+        0.83
+      ],
+      "english": "create",
+      "notes": "Create, make, do, work",
+      "territory_id": 5,
+      "territory_name": "Loving Wise (Noble Action)",
+      "distance_to_center": 0.09531002045955086,
+      "harmony": 0.6206760357160401,
+      "L": 0.74,
+      "J": 0.59,
+      "P": 0.67,
+      "W": 0.83
+    },
+    "sira": {
+      "coordinates": [
+        0.23,
+        0.36,
+        0.77,
+        0.33
+      ],
+      "english": "destroy",
+      "notes": "Destroy, ruin, damage",
+      "territory_id": 3,
+      "territory_name": "Cold Unjust Powerful Foolish (Malevolent Evil)",
+      "distance_to_center": 0.06555913361233508,
+      "harmony": 0.4491355993564669,
+      "L": 0.23,
+      "J": 0.36,
+      "P": 0.77,
+      "W": 0.33
+    },
+    "ginhawa": {
+      "coordinates": [
+        0.84,
+        0.71,
+        0.47,
+        0.76
+      ],
+      "english": "heal/relief",
+      "notes": "Healing, relief, comfort, ease",
+      "territory_id": 1,
+      "territory_name": "Loving Just Weak Wise (Compassionate Virtue)",
+      "distance_to_center": 0.10862320194139002,
+      "harmony": 0.5989898366570462,
+      "L": 0.84,
+      "J": 0.71,
+      "P": 0.47,
+      "W": 0.76
+    },
+    "saktan": {
+      "coordinates": [
+        0.19,
+        0.33,
+        0.74,
+        0.29
+      ],
+      "english": "harm",
+      "notes": "Harm, hurt, injure",
+      "territory_id": 3,
+      "territory_name": "Cold Unjust Powerful Foolish (Malevolent Evil)",
+      "distance_to_center": 0.012569805089976547,
+      "harmony": 0.4357536741457577,
+      "L": 0.19,
+      "J": 0.33,
+      "P": 0.74,
+      "W": 0.29
+    },
+    "kaibigan": {
+      "coordinates": [
+        0.83,
+        0.67,
+        0.43,
+        0.73
+      ],
+      "english": "friendship",
+      "notes": "Friendship, friend",
+      "territory_id": 1,
+      "territory_name": "Loving Just Weak Wise (Compassionate Virtue)",
+      "distance_to_center": 0.07374957626996914,
+      "harmony": 0.5774182201953499,
+      "L": 0.83,
+      "J": 0.67,
+      "P": 0.43,
+      "W": 0.73
+    },
+    "katapatan": {
+      "coordinates": [
+        0.79,
+        0.74,
+        0.57,
+        0.76
+      ],
+      "english": "loyalty",
+      "notes": "Loyalty, faithfulness, fidelity",
+      "territory_id": 5,
+      "territory_name": "Loving Wise (Noble Action)",
+      "distance_to_center": 0.1065082156455548,
+      "harmony": 0.6269014545452766,
+      "L": 0.79,
+      "J": 0.74,
+      "P": 0.57,
+      "W": 0.76
+    },
+    "patawad": {
+      "coordinates": [
+        0.89,
+        0.77,
+        0.36,
+        0.79
+      ],
+      "english": "forgiveness",
+      "notes": "Forgiveness, pardon",
+      "territory_id": 1,
+      "territory_name": "Loving Just Weak Wise (Compassionate Virtue)",
+      "distance_to_center": 0.10439827584783198,
+      "harmony": 0.5813249466003874,
+      "L": 0.89,
+      "J": 0.77,
+      "P": 0.36,
+      "W": 0.79
+    },
+    "kalayaan": {
+      "coordinates": [
+        0.76,
+        0.73,
+        0.64,
+        0.79
+      ],
+      "english": "freedom",
+      "notes": "Freedom, liberty, independence",
+      "territory_id": 5,
+      "territory_name": "Loving Wise (Noble Action)",
+      "distance_to_center": 0.07578918128598562,
+      "harmony": 0.6445195611878312,
+      "L": 0.76,
+      "J": 0.73,
+      "P": 0.64,
+      "W": 0.79
+    },
+    "ganda": {
+      "coordinates": [
+        0.83,
+        0.56,
+        0.43,
+        0.69
+      ],
+      "english": "beauty",
+      "notes": "Beauty, prettiness, attractiveness",
+      "territory_id": 6,
+      "territory_name": "Loving Weak (Emotional Affection)",
+      "distance_to_center": 0.0849588135510378,
+      "harmony": 0.5548821390539797,
+      "L": 0.83,
+      "J": 0.56,
+      "P": 0.43,
+      "W": 0.69
+    },
+    "kapangyarihan": {
+      "coordinates": [
+        0.46,
+        0.49,
+        0.87,
+        0.63
+      ],
+      "english": "power",
+      "notes": "Power, authority, might",
+      "territory_id": 0,
+      "territory_name": "Powerful (Raw Force)",
+      "distance_to_center": 0.07000000000000002,
+      "harmony": 0.5434958435268311,
+      "L": 0.46,
+      "J": 0.49,
+      "P": 0.87,
+      "W": 0.63
+    },
+    "kahinaan": {
+      "coordinates": [
+        0.43,
+        0.44,
+        0.23,
+        0.49
+      ],
+      "english": "weakness",
+      "notes": "Weakness, frailty, feebleness",
+      "territory_id": 2,
+      "territory_name": "Cold Weak (Suffering)",
+      "distance_to_center": 0.11683321445547919,
+      "harmony": 0.45019294192197407,
+      "L": 0.43,
+      "J": 0.44,
+      "P": 0.23,
+      "W": 0.49
+    },
+    "liwanag": {
+      "coordinates": [
+        0.86,
+        0.63,
+        0.54,
+        0.83
+      ],
+      "english": "light",
+      "notes": "Light, brightness, illumination",
+      "territory_id": 5,
+      "territory_name": "Loving Wise (Noble Action)",
+      "distance_to_center": 0.13792751719653326,
+      "harmony": 0.6134670645423971,
+      "L": 0.86,
+      "J": 0.63,
+      "P": 0.54,
+      "W": 0.83
+    },
+    "dilim": {
+      "coordinates": [
+        0.29,
+        0.36,
+        0.43,
+        0.39
+      ],
+      "english": "darkness",
+      "notes": "Darkness, gloom, obscurity",
+      "territory_id": 2,
+      "territory_name": "Cold Weak (Suffering)",
+      "distance_to_center": 0.18179658962697842,
+      "harmony": 0.4406968441316371,
+      "L": 0.29,
+      "J": 0.36,
+      "P": 0.43,
+      "W": 0.39
+    }
+  },
+  "territory_distribution": {
+    "6": [
+      {
+        "word": "pagmamahal",
+        "english": "love",
+        "distance": 0.23008259386576818
+      },
+      {
+        "word": "tuwa",
+        "english": "joy",
+        "distance": 0.10028958071504737
+      },
+      {
+        "word": "ligaya",
+        "english": "happiness",
+        "distance": 0.0941169485268196
+      },
+      {
+        "word": "pag-asa",
+        "english": "hope",
+        "distance": 0.048352869614946274
+      },
+      {
+        "word": "damdam",
+        "english": "empathy",
+        "distance": 0.11188386836358487
+      },
+      {
+        "word": "ganda",
+        "english": "beauty",
+        "distance": 0.0849588135510378
+      }
+    ],
+    "1": [
+      {
+        "word": "kapayapaan",
+        "english": "peace",
+        "distance": 0.13182943525631893
+      },
+      {
+        "word": "malasakit",
+        "english": "compassion",
+        "distance": 0.07796794213008322
+      },
+      {
+        "word": "utang-na-loob",
+        "english": "debt of gratitude",
+        "distance": 0.09496841580230765
+      },
+      {
+        "word": "hiya",
+        "english": "shame/propriety",
+        "distance": 0.2748799738067508
+      },
+      {
+        "word": "pakikisama",
+        "english": "social harmony",
+        "distance": 0.041218927691049886
+      },
+      {
+        "word": "kababaang-loob",
+        "english": "humility",
+        "distance": 0.12537543619066693
+      },
+      {
+        "word": "awa",
+        "english": "mercy",
+        "distance": 0.0577840808527747
+      },
+      {
+        "word": "habag",
+        "english": "pity",
+        "distance": 0.07886063656856954
+      },
+      {
+        "word": "bigay",
+        "english": "give",
+        "distance": 0.08898876333560322
+      },
+      {
+        "word": "ginhawa",
+        "english": "heal/relief",
+        "distance": 0.10862320194139002
+      },
+      {
+        "word": "kaibigan",
+        "english": "friendship",
+        "distance": 0.07374957626996914
+      },
+      {
+        "word": "patawad",
+        "english": "forgiveness",
+        "distance": 0.10439827584783198
+      }
+    ],
+    "4": [
+      {
+        "word": "galit",
+        "english": "anger",
+        "distance": 0.13714590770416746
+      },
+      {
+        "word": "inggit",
+        "english": "envy",
+        "distance": 0.0767398201717987
+      },
+      {
+        "word": "kayabangan",
+        "english": "pride",
+        "distance": 0.09374966666607407
+      },
+      {
+        "word": "kuha",
+        "english": "take",
+        "distance": 0.04988987873306566
+      }
+    ],
+    "3": [
+      {
+        "word": "poot",
+        "english": "hate",
+        "distance": 0.06706713054842885
+      },
+      {
+        "word": "sakim",
+        "english": "greed",
+        "distance": 0.1062920505023777
+      },
+      {
+        "word": "karahasan",
+        "english": "cruelty",
+        "distance": 0.10600943354249187
+      },
+      {
+        "word": "taksil",
+        "english": "betrayal",
+        "distance": 0.12131776456892036
+      },
+      {
+        "word": "sira",
+        "english": "destroy",
+        "distance": 0.06555913361233508
+      },
+      {
+        "word": "saktan",
+        "english": "harm",
+        "distance": 0.012569805089976547
+      }
+    ],
+    "2": [
+      {
+        "word": "lungkot",
+        "english": "sadness",
+        "distance": 0.10319883720275147
+      },
+      {
+        "word": "takot",
+        "english": "fear",
+        "distance": 0.10319883720275148
+      },
+      {
+        "word": "kahinaan",
+        "english": "weakness",
+        "distance": 0.11683321445547919
+      },
+      {
+        "word": "dilim",
+        "english": "darkness",
+        "distance": 0.18179658962697842
+      }
+    ],
+    "5": [
+      {
+        "word": "tapang",
+        "english": "courage",
+        "distance": 0.15140673697032112
+      },
+      {
+        "word": "gawa",
+        "english": "create",
+        "distance": 0.09531002045955086
+      },
+      {
+        "word": "katapatan",
+        "english": "loyalty",
+        "distance": 0.1065082156455548
+      },
+      {
+        "word": "kalayaan",
+        "english": "freedom",
+        "distance": 0.07578918128598562
+      },
+      {
+        "word": "liwanag",
+        "english": "light",
+        "distance": 0.13792751719653326
+      }
+    ],
+    "7": [
+      {
+        "word": "karunungan",
+        "english": "wisdom",
+        "distance": 0.11081516141756056
+      },
+      {
+        "word": "katarungan",
+        "english": "justice",
+        "distance": 0.15887101686588398
+      },
+      {
+        "word": "katotohanan",
+        "english": "truth",
+        "distance": 0.03435112807463537
+      },
+      {
+        "word": "tapat",
+        "english": "honesty",
+        "distance": 0.09929753269845125
+      }
+    ],
+    "0": [
+      {
+        "word": "kapangyarihan",
+        "english": "power",
+        "distance": 0.07000000000000002
+      }
+    ]
+  },
+  "statistics": {
+    "total_words": 42,
+    "mean_distance": 0.10261842668029987,
+    "median_distance": 0.0997935567067493,
+    "min_distance": 0.012569805089976547,
+    "max_distance": 0.2748799738067508,
+    "exact_matches_count": 5,
+    "close_matches_count": 32,
+    "distant_matches_count": 5,
+    "accuracy_rate": 0.8809523809523809
+  },
+  "cross_linguistic_comparison": {
+    "comparisons": [
+      {
+        "tagalog": "pagmamahal",
+        "english": "love",
+        "distance": 0.031622776601683784,
+        "L_diff": -0.010000000000000009,
+        "J_diff": 0.019999999999999962,
+        "P_diff": 0.010000000000000009,
+        "W_diff": 0.020000000000000018,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "tuwa",
+        "english": "joy",
+        "distance": 0.02645751311064593,
+        "L_diff": -0.010000000000000009,
+        "J_diff": 0.020000000000000018,
+        "P_diff": 0.010000000000000009,
+        "W_diff": 0.010000000000000009,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "pag-asa",
+        "english": "hope",
+        "distance": 0.019999999999999962,
+        "L_diff": -0.010000000000000009,
+        "J_diff": 0.010000000000000009,
+        "P_diff": 0.010000000000000009,
+        "W_diff": 0.009999999999999898,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "kapayapaan",
+        "english": "peace",
+        "distance": 0.020000000000000018,
+        "L_diff": 0.010000000000000009,
+        "J_diff": 0.010000000000000009,
+        "P_diff": 0.010000000000000009,
+        "W_diff": 0.010000000000000009,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "galit",
+        "english": "anger",
+        "distance": 0.01999999999999999,
+        "L_diff": 0.009999999999999953,
+        "J_diff": -0.010000000000000009,
+        "P_diff": -0.010000000000000009,
+        "W_diff": 0.010000000000000009,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "poot",
+        "english": "hate",
+        "distance": 0.05567764362830025,
+        "L_diff": 0.03,
+        "J_diff": 0.030000000000000027,
+        "P_diff": -0.020000000000000018,
+        "W_diff": 0.030000000000000027,
+        "match_quality": "close"
+      },
+      {
+        "tagalog": "lungkot",
+        "english": "sadness",
+        "distance": 0.020000000000000018,
+        "L_diff": 0.010000000000000009,
+        "J_diff": -0.010000000000000009,
+        "P_diff": 0.010000000000000009,
+        "W_diff": -0.010000000000000009,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "takot",
+        "english": "fear",
+        "distance": 0.01999999999999999,
+        "L_diff": 0.010000000000000009,
+        "J_diff": -0.010000000000000009,
+        "P_diff": 0.009999999999999953,
+        "W_diff": 0.010000000000000009,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "inggit",
+        "english": "envy",
+        "distance": 0.019999999999999934,
+        "L_diff": 0.009999999999999953,
+        "J_diff": 0.010000000000000009,
+        "P_diff": 0.009999999999999898,
+        "W_diff": 0.010000000000000009,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "malasakit",
+        "english": "compassion",
+        "distance": 0.020000000000000018,
+        "L_diff": 0.010000000000000009,
+        "J_diff": 0.010000000000000009,
+        "P_diff": 0.010000000000000009,
+        "W_diff": 0.010000000000000009,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "tapang",
+        "english": "courage",
+        "distance": 0.019999999999999962,
+        "L_diff": 0.010000000000000009,
+        "J_diff": -0.010000000000000009,
+        "P_diff": 0.009999999999999898,
+        "W_diff": 0.010000000000000009,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "karunungan",
+        "english": "wisdom",
+        "distance": 0.019999999999999962,
+        "L_diff": -0.010000000000000009,
+        "J_diff": 0.009999999999999898,
+        "P_diff": 0.010000000000000009,
+        "W_diff": 0.010000000000000009,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "katarungan",
+        "english": "justice",
+        "distance": 0.020000000000000018,
+        "L_diff": 0.010000000000000009,
+        "J_diff": -0.010000000000000009,
+        "P_diff": -0.010000000000000009,
+        "W_diff": 0.010000000000000009,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "katotohanan",
+        "english": "truth",
+        "distance": 0.020000000000000018,
+        "L_diff": 0.010000000000000009,
+        "J_diff": -0.010000000000000009,
+        "P_diff": 0.010000000000000009,
+        "W_diff": 0.010000000000000009,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "kababaang-loob",
+        "english": "humility",
+        "distance": 0.01999999999999999,
+        "L_diff": 0.010000000000000009,
+        "J_diff": 0.010000000000000009,
+        "P_diff": 0.009999999999999953,
+        "W_diff": 0.010000000000000009,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "tapat",
+        "english": "honesty",
+        "distance": 0.019999999999999907,
+        "L_diff": 0.009999999999999898,
+        "J_diff": -0.009999999999999898,
+        "P_diff": 0.010000000000000009,
+        "W_diff": 0.010000000000000009,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "awa",
+        "english": "mercy",
+        "distance": 0.01999999999999999,
+        "L_diff": 0.010000000000000009,
+        "J_diff": 0.010000000000000009,
+        "P_diff": -0.009999999999999953,
+        "W_diff": 0.010000000000000009,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "kayabangan",
+        "english": "pride",
+        "distance": 0.020000000000000018,
+        "L_diff": -0.010000000000000009,
+        "J_diff": 0.010000000000000009,
+        "P_diff": -0.010000000000000009,
+        "W_diff": 0.010000000000000009,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "sakim",
+        "english": "greed",
+        "distance": 0.019999999999999934,
+        "L_diff": 0.010000000000000009,
+        "J_diff": 0.009999999999999953,
+        "P_diff": -0.009999999999999898,
+        "W_diff": 0.010000000000000009,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "karahasan",
+        "english": "cruelty",
+        "distance": 0.020000000000000018,
+        "L_diff": 0.010000000000000009,
+        "J_diff": 0.010000000000000009,
+        "P_diff": 0.010000000000000009,
+        "W_diff": 0.010000000000000009,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "taksil",
+        "english": "betrayal",
+        "distance": 0.01999999999999999,
+        "L_diff": 0.010000000000000009,
+        "J_diff": -0.010000000000000009,
+        "P_diff": 0.010000000000000009,
+        "W_diff": 0.009999999999999953,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "bigay",
+        "english": "give",
+        "distance": 0.019999999999999962,
+        "L_diff": 0.010000000000000009,
+        "J_diff": -0.010000000000000009,
+        "P_diff": 0.010000000000000009,
+        "W_diff": 0.009999999999999898,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "kuha",
+        "english": "take",
+        "distance": 0.020000000000000018,
+        "L_diff": 0.010000000000000009,
+        "J_diff": 0.010000000000000009,
+        "P_diff": -0.010000000000000009,
+        "W_diff": 0.010000000000000009,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "gawa",
+        "english": "create",
+        "distance": 0.020000000000000018,
+        "L_diff": -0.010000000000000009,
+        "J_diff": 0.010000000000000009,
+        "P_diff": -0.010000000000000009,
+        "W_diff": 0.010000000000000009,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "sira",
+        "english": "destroy",
+        "distance": 0.020000000000000018,
+        "L_diff": 0.010000000000000009,
+        "J_diff": 0.010000000000000009,
+        "P_diff": -0.010000000000000009,
+        "W_diff": 0.010000000000000009,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "kaibigan",
+        "english": "friendship",
+        "distance": 0.020000000000000018,
+        "L_diff": 0.010000000000000009,
+        "J_diff": -0.010000000000000009,
+        "P_diff": 0.010000000000000009,
+        "W_diff": 0.010000000000000009,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "katapatan",
+        "english": "loyalty",
+        "distance": 0.020000000000000018,
+        "L_diff": 0.010000000000000009,
+        "J_diff": -0.010000000000000009,
+        "P_diff": -0.010000000000000009,
+        "W_diff": 0.010000000000000009,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "patawad",
+        "english": "forgiveness",
+        "distance": 0.020000000000000018,
+        "L_diff": 0.010000000000000009,
+        "J_diff": -0.010000000000000009,
+        "P_diff": 0.010000000000000009,
+        "W_diff": 0.010000000000000009,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "kalayaan",
+        "english": "freedom",
+        "distance": 0.020000000000000018,
+        "L_diff": 0.010000000000000009,
+        "J_diff": 0.010000000000000009,
+        "P_diff": -0.010000000000000009,
+        "W_diff": 0.010000000000000009,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "ganda",
+        "english": "beauty",
+        "distance": 0.019999999999999962,
+        "L_diff": 0.010000000000000009,
+        "J_diff": 0.010000000000000009,
+        "P_diff": 0.010000000000000009,
+        "W_diff": 0.009999999999999898,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "kapangyarihan",
+        "english": "power",
+        "distance": 0.020000000000000018,
+        "L_diff": 0.010000000000000009,
+        "J_diff": 0.010000000000000009,
+        "P_diff": -0.010000000000000009,
+        "W_diff": 0.010000000000000009,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "kahinaan",
+        "english": "weakness",
+        "distance": 0.020000000000000018,
+        "L_diff": 0.010000000000000009,
+        "J_diff": -0.010000000000000009,
+        "P_diff": 0.010000000000000009,
+        "W_diff": 0.010000000000000009,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "liwanag",
+        "english": "light",
+        "distance": 0.020000000000000018,
+        "L_diff": 0.010000000000000009,
+        "J_diff": 0.010000000000000009,
+        "P_diff": -0.010000000000000009,
+        "W_diff": 0.010000000000000009,
+        "match_quality": "exact"
+      },
+      {
+        "tagalog": "dilim",
+        "english": "darkness",
+        "distance": 0.01999999999999999,
+        "L_diff": 0.009999999999999953,
+        "J_diff": 0.010000000000000009,
+        "P_diff": 0.010000000000000009,
+        "W_diff": 0.010000000000000009,
+        "match_quality": "exact"
+      }
+    ],
+    "statistics": {
+      "total_compared": 34,
+      "mean_distance": 0.021581115686489113,
+      "median_distance": 0.020000000000000018,
+      "exact_matches": 33,
+      "close_matches": 1,
+      "moderate_matches": 0,
+      "distant_matches": 0,
+      "mean_L_diff": 0.007058823529411762,
+      "mean_J_diff": 0.003529411764705882,
+      "mean_P_diff": 0.002058823529411762,
+      "mean_W_diff": 0.010294117647058822
+    }
+  },
+  "filipino_unique_concepts": {
+    "malasakit": {
+      "english_approximation": "compassion",
+      "territory": "Loving Just Weak Wise (Compassionate Virtue)",
+      "coordinates": [
+        0.89,
+        0.73,
+        0.33,
+        0.76
+      ],
+      "harmony": 0.5652622477283964,
+      "notes": "Compassionate concern, empathy (key Filipino value)",
+      "interpretation": "Filipino concept broader than \"compassion\" - includes active concern and involvement. Fits Compassionate Virtue territory."
+    },
+    "utang-na-loob": {
+      "english_approximation": "debt of gratitude",
+      "territory": "Loving Just Weak Wise (Compassionate Virtue)",
+      "coordinates": [
+        0.78,
+        0.76,
+        0.42,
+        0.74
+      ],
+      "harmony": 0.583381953358602,
+      "notes": "Reciprocal obligation, gratitude (core Filipino concept)",
+      "interpretation": "Reciprocal obligation system unique to Filipino culture. High J (justice/reciprocity) + high L (relational warmth)."
+    },
+    "hiya": {
+      "english_approximation": "shame/propriety",
+      "territory": "Loving Just Weak Wise (Compassionate Virtue)",
+      "coordinates": [
+        0.58,
+        0.68,
+        0.31,
+        0.64
+      ],
+      "harmony": 0.5153367829946448,
+      "notes": "Shame, sense of propriety (core Filipino value)",
+      "interpretation": "Shame-oriented social control. Moderate L, high J, low P - social harmony through propriety rather than force."
+    },
+    "pakikisama": {
+      "english_approximation": "social harmony",
+      "territory": "Loving Just Weak Wise (Compassionate Virtue)",
+      "coordinates": [
+        0.81,
+        0.69,
+        0.38,
+        0.71
+      ],
+      "harmony": 0.5633649246522785,
+      "notes": "Getting along with others, social harmony",
+      "interpretation": "Getting along, social harmony. Similar to compassion but more social/relational focus."
+    },
+    "kababaang-loob": {
+      "english_approximation": "humility",
+      "territory": "Loving Just Weak Wise (Compassionate Virtue)",
+      "coordinates": [
+        0.73,
+        0.71,
+        0.29,
+        0.76
+      ],
+      "harmony": 0.5411953111035617,
+      "notes": "Humility, meekness (literally \"lowness of inner self\")",
+      "interpretation": "Humility as \"lowness of inner self\" (loob). More relational/social than Western humility."
+    }
+  }
+}
