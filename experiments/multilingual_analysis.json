@@ -1,0 +1,1054 @@
+{
+  "pairs": [
+    {
+      "positive": "love",
+      "negative": "hate",
+      "languages": {
+        "en": {
+          "distance": 0.8930285549745876,
+          "cosine_similarity": 0.7761817046046032,
+          "midpoint": [
+            0.575,
+            0.525,
+            0.675,
+            0.55
+          ],
+          "midpoint_to_ne": 0.19102318729672577,
+          "positive_harmony": 0.5851812182152939,
+          "negative_harmony": 0.46488136406810404,
+          "midpoint_harmony": 0.5419445944197869,
+          "dimensional_shifts": {
+            "L": -0.75,
+            "J": -0.14999999999999997,
+            "P": 0.35,
+            "W": -0.29999999999999993
+          }
+        },
+        "fr": {
+          "distance": 0.8860022573334675,
+          "cosine_similarity": 0.7723606594649034,
+          "midpoint": [
+            0.575,
+            0.5,
+            0.675,
+            0.55
+          ],
+          "midpoint_to_ne": 0.1776951267902414,
+          "positive_harmony": 0.5752941692051209,
+          "negative_harmony": 0.46488136406810404,
+          "midpoint_harmony": 0.5377773325031417,
+          "dimensional_shifts": {
+            "L": -0.75,
+            "J": -0.10000000000000003,
+            "P": 0.35,
+            "W": -0.29999999999999993
+          }
+        },
+        "zh": {
+          "distance": 0.9327915093953203,
+          "cosine_similarity": 0.7480998884585823,
+          "midpoint": [
+            0.55,
+            0.5,
+            0.6799999999999999,
+            0.565
+          ],
+          "midpoint_to_ne": 0.17284394141826318,
+          "positive_harmony": 0.5820306582383865,
+          "negative_harmony": 0.4573679980302044,
+          "midpoint_harmony": 0.5368762002026385,
+          "dimensional_shifts": {
+            "L": -0.74,
+            "J": -0.15999999999999998,
+            "P": 0.4,
+            "W": -0.37
+          }
+        },
+        "ar": {
+          "distance": 0.8580209787645054,
+          "cosine_similarity": 0.7997482668303493,
+          "midpoint": [
+            0.5750000000000001,
+            0.55,
+            0.6950000000000001,
+            0.57
+          ],
+          "midpoint_to_ne": 0.18972874870456505,
+          "positive_harmony": 0.5963630737023276,
+          "negative_harmony": 0.4739336492890995,
+          "midpoint_harmony": 0.5515568255729189,
+          "dimensional_shifts": {
+            "L": -0.7100000000000001,
+            "J": -0.14,
+            "P": 0.35,
+            "W": -0.3
+          }
+        }
+      }
+    },
+    {
+      "positive": "justice",
+      "negative": "injustice",
+      "languages": {
+        "en": {
+          "distance": 0.946044396421225,
+          "cosine_similarity": 0.8139520379989735,
+          "midpoint": [
+            0.425,
+            0.5499999999999999,
+            0.75,
+            0.625
+          ],
+          "midpoint_to_ne": 0.24768933785086503,
+          "positive_harmony": 0.6489997295836065,
+          "negative_harmony": 0.43941845771682453,
+          "midpoint_harmony": 0.5381986157856846,
+          "dimensional_shifts": {
+            "L": -0.35,
+            "J": -0.7999999999999999,
+            "P": 0.10000000000000009,
+            "W": -0.35000000000000003
+          }
+        },
+        "fr": {
+          "distance": 0.946044396421225,
+          "cosine_similarity": 0.8139520379989735,
+          "midpoint": [
+            0.425,
+            0.5499999999999999,
+            0.75,
+            0.625
+          ],
+          "midpoint_to_ne": 0.24768933785086503,
+          "positive_harmony": 0.6489997295836065,
+          "negative_harmony": 0.43941845771682453,
+          "midpoint_harmony": 0.5381986157856846,
+          "dimensional_shifts": {
+            "L": -0.35,
+            "J": -0.7999999999999999,
+            "P": 0.10000000000000009,
+            "W": -0.35000000000000003
+          }
+        },
+        "zh": {
+          "distance": 0.9414350747661784,
+          "cosine_similarity": 0.813963759610125,
+          "midpoint": [
+            0.425,
+            0.555,
+            0.75,
+            0.625
+          ],
+          "midpoint_to_ne": 0.2504653031559461,
+          "positive_harmony": 0.6523113300049488,
+          "negative_harmony": 0.4397898700843042,
+          "midpoint_harmony": 0.5389561597403448,
+          "dimensional_shifts": {
+            "L": -0.39,
+            "J": -0.75,
+            "P": 0.1399999999999999,
+            "W": -0.38999999999999996
+          }
+        },
+        "ar": {
+          "distance": 0.9563994981178106,
+          "cosine_similarity": 0.7975480278747463,
+          "midpoint": [
+            0.425,
+            0.54,
+            0.7849999999999999,
+            0.625
+          ],
+          "midpoint_to_ne": 0.2493582725417386,
+          "positive_harmony": 0.6442938008145995,
+          "negative_harmony": 0.4406968441316371,
+          "midpoint_harmony": 0.5394153819731093,
+          "dimensional_shifts": {
+            "L": -0.30999999999999994,
+            "J": -0.84,
+            "P": 0.13,
+            "W": -0.31000000000000005
+          }
+        }
+      }
+    },
+    {
+      "positive": "power",
+      "negative": "weakness",
+      "languages": {
+        "en": {
+          "distance": 0.7842193570679061,
+          "cosine_similarity": 0.8672953142454423,
+          "midpoint": [
+            0.42500000000000004,
+            0.55,
+            0.575,
+            0.55
+          ],
+          "midpoint_to_ne": 0.31099961106888857,
+          "positive_harmony": 0.5660957919083767,
+          "negative_harmony": 0.445237247851061,
+          "midpoint_harmony": 0.5109315109990166,
+          "dimensional_shifts": {
+            "L": -0.04999999999999999,
+            "J": -0.09999999999999998,
+            "P": -0.75,
+            "W": -0.2
+          }
+        },
+        "fr": {
+          "distance": 0.7842193570679061,
+          "cosine_similarity": 0.8650845420408293,
+          "midpoint": [
+            0.45,
+            0.525,
+            0.575,
+            0.55
+          ],
+          "midpoint_to_ne": 0.2855341627283852,
+          "positive_harmony": 0.5682030587490339,
+          "negative_harmony": 0.445237247851061,
+          "midpoint_harmony": 0.5116151594158967,
+          "dimensional_shifts": {
+            "L": -0.09999999999999998,
+            "J": -0.050000000000000044,
+            "P": -0.75,
+            "W": -0.2
+          }
+        },
+        "zh": {
+          "distance": 0.812403840463596,
+          "cosine_similarity": 0.8467273002364684,
+          "midpoint": [
+            0.4,
+            0.53,
+            0.57,
+            0.53
+          ],
+          "midpoint_to_ne": 0.33098295739357936,
+          "positive_harmony": 0.5533937542460364,
+          "negative_harmony": 0.4375715715900052,
+          "midpoint_harmony": 0.5016736483890955,
+          "dimensional_shifts": {
+            "L": -0.03999999999999998,
+            "J": -0.09999999999999998,
+            "P": -0.78,
+            "W": -0.2
+          }
+        },
+        "ar": {
+          "distance": 0.7563068160475614,
+          "cosine_similarity": 0.8855311427002946,
+          "midpoint": [
+            0.44999999999999996,
+            0.5700000000000001,
+            0.58,
+            0.5700000000000001
+          ],
+          "midpoint_to_ne": 0.29460447736753764,
+          "positive_harmony": 0.5793225014062126,
+          "negative_harmony": 0.4531674779761293,
+          "midpoint_harmony": 0.5204946994907784,
+          "dimensional_shifts": {
+            "L": -0.06,
+            "J": -0.09999999999999998,
+            "P": -0.72,
+            "W": -0.20000000000000007
+          }
+        }
+      }
+    },
+    {
+      "positive": "wisdom",
+      "negative": "ignorance",
+      "languages": {
+        "en": {
+          "distance": 0.9407443861113389,
+          "cosine_similarity": 0.8474624962075884,
+          "midpoint": [
+            0.5249999999999999,
+            0.575,
+            0.5,
+            0.5499999999999999
+          ],
+          "midpoint_to_ne": 0.320383454761634,
+          "positive_harmony": 0.6110989864405163,
+          "negative_harmony": 0.43015116549559873,
+          "midpoint_harmony": 0.5190254892564111,
+          "dimensional_shifts": {
+            "L": -0.35,
+            "J": -0.35,
+            "P": 0.0,
+            "W": -0.7999999999999999
+          }
+        },
+        "fr": {
+          "distance": 0.9420721840708385,
+          "cosine_similarity": 0.8338942502741813,
+          "midpoint": [
+            0.5249999999999999,
+            0.575,
+            0.475,
+            0.5499999999999999
+          ],
+          "midpoint_to_ne": 0.3379122046996823,
+          "positive_harmony": 0.5965208056710891,
+          "negative_harmony": 0.43015116549559873,
+          "midpoint_harmony": 0.5153544329496096,
+          "dimensional_shifts": {
+            "L": -0.35,
+            "J": -0.35,
+            "P": 0.04999999999999999,
+            "W": -0.7999999999999999
+          }
+        },
+        "zh": {
+          "distance": 1.031406806260265,
+          "cosine_similarity": 0.8013862876758483,
+          "midpoint": [
+            0.54,
+            0.5800000000000001,
+            0.485,
+            0.5449999999999999
+          ],
+          "midpoint_to_ne": 0.33157552395344264,
+          "positive_harmony": 0.6083978117292747,
+          "negative_harmony": 0.4244904742193287,
+          "midpoint_harmony": 0.5188076513657023,
+          "dimensional_shifts": {
+            "L": -0.42,
+            "J": -0.4,
+            "P": 0.07,
+            "W": -0.85
+          }
+        },
+        "ar": {
+          "distance": 0.8947625383307015,
+          "cosine_similarity": 0.8643881772097061,
+          "midpoint": [
+            0.525,
+            0.575,
+            0.48,
+            0.57
+          ],
+          "midpoint_to_ne": 0.3262682302722715,
+          "positive_harmony": 0.5992312207558556,
+          "negative_harmony": 0.43579767472529574,
+          "midpoint_harmony": 0.5186191597820183,
+          "dimensional_shifts": {
+            "L": -0.31000000000000005,
+            "J": -0.31,
+            "P": 0.0,
+            "W": -0.78
+          }
+        }
+      }
+    },
+    {
+      "positive": "peace",
+      "negative": "war",
+      "languages": {
+        "en": {
+          "distance": 0.8874119674649423,
+          "cosine_similarity": 0.7912815216179633,
+          "midpoint": [
+            0.55,
+            0.675,
+            0.675,
+            0.625
+          ],
+          "midpoint_to_ne": 0.2813455314821971,
+          "positive_harmony": 0.5894768662928039,
+          "negative_harmony": 0.49783143380575545,
+          "midpoint_harmony": 0.5732092441138367,
+          "dimensional_shifts": {
+            "L": -0.6,
+            "J": -0.25,
+            "P": 0.5499999999999999,
+            "W": -0.25
+          }
+        },
+        "fr": {
+          "distance": 0.881986394452885,
+          "cosine_similarity": 0.7911153502109074,
+          "midpoint": [
+            0.55,
+            0.665,
+            0.675,
+            0.625
+          ],
+          "midpoint_to_ne": 0.2721021647929321,
+          "positive_harmony": 0.5873976053031232,
+          "negative_harmony": 0.49783143380575545,
+          "midpoint_harmony": 0.5717609627615847,
+          "dimensional_shifts": {
+            "L": -0.6,
+            "J": -0.22999999999999998,
+            "P": 0.5499999999999999,
+            "W": -0.25
+          }
+        },
+        "zh": {
+          "distance": 1.0061808982484213,
+          "cosine_similarity": 0.7404617295872493,
+          "midpoint": [
+            0.55,
+            0.6699999999999999,
+            0.6599999999999999,
+            0.64
+          ],
+          "midpoint_to_ne": 0.2761820017397946,
+          "positive_harmony": 0.5835488556379208,
+          "negative_harmony": 0.4869467040530248,
+          "midpoint_harmony": 0.5727192193419497,
+          "dimensional_shifts": {
+            "L": -0.66,
+            "J": -0.29999999999999993,
+            "P": 0.62,
+            "W": -0.32000000000000006
+          }
+        },
+        "ar": {
+          "distance": 0.8694250974063263,
+          "cosine_similarity": 0.802304629399966,
+          "midpoint": [
+            0.5549999999999999,
+            0.715,
+            0.6699999999999999,
+            0.625
+          ],
+          "midpoint_to_ne": 0.3184661176404799,
+          "positive_harmony": 0.5836920821468097,
+          "negative_harmony": 0.5095010420123055,
+          "midpoint_harmony": 0.5789820812491638,
+          "dimensional_shifts": {
+            "L": -0.5499999999999999,
+            "J": -0.27,
+            "P": 0.58,
+            "W": -0.20999999999999996
+          }
+        }
+      }
+    },
+    {
+      "positive": "harmony",
+      "negative": "chaos",
+      "languages": {
+        "en": {
+          "distance": 0.9565563234854495,
+          "cosine_similarity": 0.8174472651273793,
+          "midpoint": [
+            0.55,
+            0.525,
+            0.75,
+            0.625
+          ],
+          "midpoint_to_ne": 0.15017392611568756,
+          "positive_harmony": 0.6870388909057225,
+          "negative_harmony": 0.44846319536562795,
+          "midpoint_harmony": 0.5572544295497351,
+          "dimensional_shifts": {
+            "L": -0.5,
+            "J": -0.6499999999999999,
+            "P": 0.19999999999999996,
+            "W": -0.44999999999999996
+          }
+        },
+        "fr": {
+          "distance": 0.9565563234854495,
+          "cosine_similarity": 0.8174472651273793,
+          "midpoint": [
+            0.55,
+            0.525,
+            0.75,
+            0.625
+          ],
+          "midpoint_to_ne": 0.15017392611568756,
+          "positive_harmony": 0.6870388909057225,
+          "negative_harmony": 0.44846319536562795,
+          "midpoint_harmony": 0.5572544295497351,
+          "dimensional_shifts": {
+            "L": -0.5,
+            "J": -0.6499999999999999,
+            "P": 0.19999999999999996,
+            "W": -0.44999999999999996
+          }
+        },
+        "zh": {
+          "distance": 1.0787492757819122,
+          "cosine_similarity": 0.7642461669550497,
+          "midpoint": [
+            0.565,
+            0.53,
+            0.74,
+            0.64
+          ],
+          "midpoint_to_ne": 0.13969709404636876,
+          "positive_harmony": 0.6873501240426599,
+          "negative_harmony": 0.44232259328012025,
+          "midpoint_harmony": 0.5620154255612505,
+          "dimensional_shifts": {
+            "L": -0.57,
+            "J": -0.7,
+            "P": 0.28,
+            "W": -0.52
+          }
+        },
+        "ar": {
+          "distance": 0.889831444712986,
+          "cosine_similarity": 0.8393165135627658,
+          "midpoint": [
+            0.55,
+            0.525,
+            0.77,
+            0.625
+          ],
+          "midpoint_to_ne": 0.15563074273741673,
+          "positive_harmony": 0.6831586889894137,
+          "negative_harmony": 0.4559222130953105,
+          "midpoint_harmony": 0.559144066915437,
+          "dimensional_shifts": {
+            "L": -0.46,
+            "J": -0.61,
+            "P": 0.19999999999999996,
+            "W": -0.41
+          }
+        }
+      }
+    },
+    {
+      "positive": "order",
+      "negative": "chaos",
+      "languages": {
+        "en": {
+          "distance": 0.8351646544245033,
+          "cosine_similarity": 0.8375200618604673,
+          "midpoint": [
+            0.42500000000000004,
+            0.55,
+            0.7749999999999999,
+            0.575
+          ],
+          "midpoint_to_ne": 0.2699548260079822,
+          "positive_harmony": 0.623382206803577,
+          "negative_harmony": 0.44846319536562795,
+          "midpoint_harmony": 0.5335366684253132,
+          "dimensional_shifts": {
+            "L": -0.25000000000000006,
+            "J": -0.7,
+            "P": 0.15000000000000002,
+            "W": -0.35
+          }
+        },
+        "fr": {
+          "distance": 0.8215838362577491,
+          "cosine_similarity": 0.8376068376068377,
+          "midpoint": [
+            0.4,
+            0.55,
+            0.7749999999999999,
+            0.575
+          ],
+          "midpoint_to_ne": 0.2883614192034017,
+          "positive_harmony": 0.6089163762838188,
+          "negative_harmony": 0.44846319536562795,
+          "midpoint_harmony": 0.5288412894047366,
+          "dimensional_shifts": {
+            "L": -0.2,
+            "J": -0.7,
+            "P": 0.15000000000000002,
+            "W": -0.35
+          }
+        },
+        "zh": {
+          "distance": 0.915204895091804,
+          "cosine_similarity": 0.8027544950972276,
+          "midpoint": [
+            0.43,
+            0.55,
+            0.78,
+            0.5800000000000001
+          ],
+          "midpoint_to_ne": 0.2653412483670791,
+          "positive_harmony": 0.6338818080315936,
+          "negative_harmony": 0.44232259328012025,
+          "midpoint_harmony": 0.5355341231563313,
+          "dimensional_shifts": {
+            "L": -0.29999999999999993,
+            "J": -0.74,
+            "P": 0.19999999999999996,
+            "W": -0.4
+          }
+        },
+        "ar": {
+          "distance": 0.8140638795573724,
+          "cosine_similarity": 0.8469509262271685,
+          "midpoint": [
+            0.42000000000000004,
+            0.5750000000000001,
+            0.7949999999999999,
+            0.575
+          ],
+          "midpoint_to_ne": 0.2914000138726832,
+          "positive_harmony": 0.616609614821662,
+          "negative_harmony": 0.4559222130953105,
+          "midpoint_harmony": 0.5376218052596803,
+          "dimensional_shifts": {
+            "L": -0.2,
+            "J": -0.7100000000000001,
+            "P": 0.15000000000000002,
+            "W": -0.31
+          }
+        }
+      }
+    },
+    {
+      "positive": "truth",
+      "negative": "lie",
+      "languages": {
+        "en": {
+          "distance": 0.9137833441248533,
+          "cosine_similarity": 0.8758719287698785,
+          "midpoint": [
+            0.45,
+            0.625,
+            0.625,
+            0.6
+          ],
+          "midpoint_to_ne": 0.30007342115722274,
+          "positive_harmony": 0.6432825627141214,
+          "negative_harmony": 0.44171124012795615,
+          "midpoint_harmony": 0.5369388662126166,
+          "dimensional_shifts": {
+            "L": -0.4,
+            "J": -0.6499999999999999,
+            "P": 0.050000000000000044,
+            "W": -0.5
+          }
+        },
+        "fr": {
+          "distance": 0.9137833441248533,
+          "cosine_similarity": 0.8758719287698785,
+          "midpoint": [
+            0.45,
+            0.625,
+            0.625,
+            0.6
+          ],
+          "midpoint_to_ne": 0.30007342115722274,
+          "positive_harmony": 0.6432825627141214,
+          "negative_harmony": 0.44171124012795615,
+          "midpoint_harmony": 0.5369388662126166,
+          "dimensional_shifts": {
+            "L": -0.4,
+            "J": -0.6499999999999999,
+            "P": 0.050000000000000044,
+            "W": -0.5
+          }
+        },
+        "zh": {
+          "distance": 0.9942333730065593,
+          "cosine_similarity": 0.8356271040905953,
+          "midpoint": [
+            0.455,
+            0.62,
+            0.63,
+            0.6
+          ],
+          "midpoint_to_ne": 0.2922294271373093,
+          "positive_harmony": 0.6481070924277806,
+          "negative_harmony": 0.43579767472529574,
+          "midpoint_harmony": 0.5378488538036674,
+          "dimensional_shifts": {
+            "L": -0.45000000000000007,
+            "J": -0.6799999999999999,
+            "P": 0.10000000000000009,
+            "W": -0.56
+          }
+        },
+        "ar": {
+          "distance": 0.8753285097607639,
+          "cosine_similarity": 0.8880494606549102,
+          "midpoint": [
+            0.45,
+            0.645,
+            0.645,
+            0.6
+          ],
+          "midpoint_to_ne": 0.30910227770917503,
+          "positive_harmony": 0.6419460143774516,
+          "negative_harmony": 0.4493990465200584,
+          "midpoint_harmony": 0.5419141923082356,
+          "dimensional_shifts": {
+            "L": -0.36,
+            "J": -0.6499999999999999,
+            "P": 0.050000000000000044,
+            "W": -0.45999999999999996
+          }
+        }
+      }
+    },
+    {
+      "positive": "compassion",
+      "negative": "cruelty",
+      "languages": {
+        "en": {
+          "distance": 0.9836157786453,
+          "cosine_similarity": 0.7362794021123357,
+          "midpoint": [
+            0.525,
+            0.5249999999999999,
+            0.7,
+            0.575
+          ],
+          "midpoint_to_ne": 0.18767474013569319,
+          "positive_harmony": 0.6089163762838188,
+          "negative_harmony": 0.4482589563283827,
+          "midpoint_harmony": 0.5406480057588443,
+          "dimensional_shifts": {
+            "L": -0.75,
+            "J": -0.35,
+            "P": 0.4,
+            "W": -0.35
+          }
+        },
+        "fr": {
+          "distance": 0.9836157786453,
+          "cosine_similarity": 0.7362794021123357,
+          "midpoint": [
+            0.525,
+            0.5249999999999999,
+            0.7,
+            0.575
+          ],
+          "midpoint_to_ne": 0.18767474013569319,
+          "positive_harmony": 0.6089163762838188,
+          "negative_harmony": 0.4482589563283827,
+          "midpoint_harmony": 0.5406480057588443,
+          "dimensional_shifts": {
+            "L": -0.75,
+            "J": -0.35,
+            "P": 0.4,
+            "W": -0.35
+          }
+        },
+        "zh": {
+          "distance": 1.0673799698326742,
+          "cosine_similarity": 0.6889934477844452,
+          "midpoint": [
+            0.525,
+            0.5,
+            0.7,
+            0.5800000000000001
+          ],
+          "midpoint_to_ne": 0.17073675083297082,
+          "positive_harmony": 0.6050472960189867,
+          "negative_harmony": 0.43941089022524693,
+          "midpoint_harmony": 0.5372275223171894,
+          "dimensional_shifts": {
+            "L": -0.81,
+            "J": -0.36000000000000004,
+            "P": 0.44000000000000006,
+            "W": -0.4
+          }
+        },
+        "ar": {
+          "distance": 0.9326306878931231,
+          "cosine_similarity": 0.7648826481717743,
+          "midpoint": [
+            0.53,
+            0.55,
+            0.7250000000000001,
+            0.575
+          ],
+          "midpoint_to_ne": 0.2004785975734068,
+          "positive_harmony": 0.613736116737237,
+          "negative_harmony": 0.4582084588836898,
+          "midpoint_harmony": 0.5481227434460881,
+          "dimensional_shifts": {
+            "L": -0.7,
+            "J": -0.33999999999999997,
+            "P": 0.41000000000000003,
+            "W": -0.31
+          }
+        }
+      }
+    },
+    {
+      "positive": "freedom",
+      "negative": "oppression",
+      "languages": {
+        "en": {
+          "distance": 0.75,
+          "cosine_similarity": 0.8831240054187234,
+          "midpoint": [
+            0.475,
+            0.5,
+            0.8500000000000001,
+            0.6
+          ],
+          "midpoint_to_ne": 0.23204300912761844,
+          "positive_harmony": 0.6644627558146257,
+          "negative_harmony": 0.4543304292574721,
+          "midpoint_harmony": 0.5430350869881226,
+          "dimensional_shifts": {
+            "L": -0.55,
+            "J": -0.39999999999999997,
+            "P": 0.09999999999999998,
+            "W": -0.3
+          }
+        },
+        "fr": {
+          "distance": 0.7582875444051552,
+          "cosine_similarity": 0.8899746954838733,
+          "midpoint": [
+            0.5,
+            0.475,
+            0.875,
+            0.6
+          ],
+          "midpoint_to_ne": 0.22553017111907664,
+          "positive_harmony": 0.6677824338161994,
+          "negative_harmony": 0.4543304292574721,
+          "midpoint_harmony": 0.5442453180846483,
+          "dimensional_shifts": {
+            "L": -0.6000000000000001,
+            "J": -0.35000000000000003,
+            "P": 0.050000000000000044,
+            "W": -0.3
+          }
+        },
+        "zh": {
+          "distance": 0.7282856582413251,
+          "cosine_similarity": 0.8820802447776587,
+          "midpoint": [
+            0.43999999999999995,
+            0.48000000000000004,
+            0.87,
+            0.58
+          ],
+          "midpoint_to_ne": 0.26803823996773296,
+          "positive_harmony": 0.6469900119206186,
+          "negative_harmony": 0.4476808448535288,
+          "midpoint_harmony": 0.531449539569666,
+          "dimensional_shifts": {
+            "L": -0.52,
+            "J": -0.4,
+            "P": 0.10000000000000009,
+            "W": -0.3
+          }
+        },
+        "ar": {
+          "distance": 0.7573638491504596,
+          "cosine_similarity": 0.8898928167920896,
+          "midpoint": [
+            0.5,
+            0.52,
+            0.88,
+            0.62
+          ],
+          "midpoint_to_ne": 0.2379619677280384,
+          "positive_harmony": 0.6864701922330434,
+          "negative_harmony": 0.4619510060809726,
+          "midpoint_harmony": 0.5557099677043587,
+          "dimensional_shifts": {
+            "L": -0.56,
+            "J": -0.39999999999999997,
+            "P": 0.10000000000000009,
+            "W": -0.30000000000000004
+          }
+        }
+      }
+    },
+    {
+      "positive": "hope",
+      "negative": "despair",
+      "languages": {
+        "en": {
+          "distance": 0.7664854858377946,
+          "cosine_similarity": 0.9648000599013277,
+          "midpoint": [
+            0.525,
+            0.525,
+            0.475,
+            0.5
+          ],
+          "midpoint_to_ne": 0.34266712431308605,
+          "positive_harmony": 0.6089163762838188,
+          "negative_harmony": 0.42469666875976836,
+          "midpoint_harmony": 0.5029245388739558,
+          "dimensional_shifts": {
+            "L": -0.55,
+            "J": -0.25,
+            "P": -0.25,
+            "W": -0.39999999999999997
+          }
+        },
+        "fr": {
+          "distance": 0.7747902942086975,
+          "cosine_similarity": 0.9598061607647361,
+          "midpoint": [
+            0.5349999999999999,
+            0.515,
+            0.475,
+            0.5
+          ],
+          "midpoint_to_ne": 0.33696343731182465,
+          "positive_harmony": 0.606967826928736,
+          "negative_harmony": 0.42469666875976836,
+          "midpoint_harmony": 0.5028989505505533,
+          "dimensional_shifts": {
+            "L": -0.57,
+            "J": -0.22999999999999998,
+            "P": -0.25,
+            "W": -0.39999999999999997
+          }
+        },
+        "zh": {
+          "distance": 0.8367795408588812,
+          "cosine_similarity": 0.9578298425956076,
+          "midpoint": [
+            0.53,
+            0.525,
+            0.45499999999999996,
+            0.5
+          ],
+          "midpoint_to_ne": 0.35587455385992406,
+          "positive_harmony": 0.6147876063338464,
+          "negative_harmony": 0.4176256127211442,
+          "midpoint_harmony": 0.5008088606856856,
+          "dimensional_shifts": {
+            "L": -0.6,
+            "J": -0.29000000000000004,
+            "P": -0.24999999999999994,
+            "W": -0.43999999999999995
+          }
+        },
+        "ar": {
+          "distance": 0.7209715667070373,
+          "cosine_similarity": 0.9744241754345461,
+          "midpoint": [
+            0.525,
+            0.55,
+            0.495,
+            0.5
+          ],
+          "midpoint_to_ne": 0.33801446431328935,
+          "positive_harmony": 0.6132879966510992,
+          "negative_harmony": 0.43200979404002754,
+          "midpoint_harmony": 0.5086478024690233,
+          "dimensional_shifts": {
+            "L": -0.51,
+            "J": -0.26000000000000006,
+            "P": -0.25,
+            "W": -0.36000000000000004
+          }
+        }
+      }
+    },
+    {
+      "positive": "courage",
+      "negative": "fear",
+      "languages": {
+        "en": {
+          "distance": 0.7176350047203661,
+          "cosine_similarity": 0.9872572504094814,
+          "midpoint": [
+            0.5,
+            0.6,
+            0.625,
+            0.575
+          ],
+          "midpoint_to_ne": 0.26666216095464307,
+          "positive_harmony": 0.6601612148988434,
+          "negative_harmony": 0.45326111688237775,
+          "midpoint_harmony": 0.5390453253047313,
+          "dimensional_shifts": {
+            "L": -0.39999999999999997,
+            "J": -0.3,
+            "P": -0.44999999999999996,
+            "W": -0.24999999999999994
+          }
+        },
+        "fr": {
+          "distance": 0.7176350047203661,
+          "cosine_similarity": 0.9872572504094814,
+          "midpoint": [
+            0.5,
+            0.6,
+            0.625,
+            0.575
+          ],
+          "midpoint_to_ne": 0.26666216095464307,
+          "positive_harmony": 0.6601612148988434,
+          "negative_harmony": 0.45326111688237775,
+          "midpoint_harmony": 0.5390453253047313,
+          "dimensional_shifts": {
+            "L": -0.39999999999999997,
+            "J": -0.3,
+            "P": -0.44999999999999996,
+            "W": -0.24999999999999994
+          }
+        },
+        "zh": {
+          "distance": 0.800187478032492,
+          "cosine_similarity": 0.9866744635825387,
+          "midpoint": [
+            0.5,
+            0.605,
+            0.625,
+            0.575
+          ],
+          "midpoint_to_ne": 0.27016951731274197,
+          "positive_harmony": 0.6796826498034103,
+          "negative_harmony": 0.44522929317631876,
+          "midpoint_harmony": 0.5397224386254361,
+          "dimensional_shifts": {
+            "L": -0.43999999999999995,
+            "J": -0.35000000000000003,
+            "P": -0.49,
+            "W": -0.29
+          }
+        },
+        "ar": {
+          "distance": 0.6729784543356496,
+          "cosine_similarity": 0.9855333278537222,
+          "midpoint": [
+            0.5,
+            0.6,
+            0.65,
+            0.575
+          ],
+          "midpoint_to_ne": 0.25897800695232787,
+          "positive_harmony": 0.6491555803434576,
+          "negative_harmony": 0.46158513166972587,
+          "midpoint_harmony": 0.5421619600776407,
+          "dimensional_shifts": {
+            "L": -0.36000000000000004,
+            "J": -0.26,
+            "P": -0.46,
+            "W": -0.21000000000000008
+          }
+        }
+      }
+    }
+  ],
+  "statistics": {
+    "average_distance": 0.8725914085257476,
+    "std_distance": 0.0993642793835622,
+    "average_cosine_similarity": 0.8455528806604566,
+    "average_midpoint_harmony": 0.5370271123536926,
+    "average_dimensional_shifts": {
+      "L": -0.46041666666666664,
+      "J": -0.41312499999999996,
+      "P": 0.047291666666666676,
+      "W": -0.37916666666666665
+    },
+    "std_dimensional_shifts": {
+      "L": 0.19664157190537926,
+      "J": 0.22803654289086434,
+      "P": 0.36337507486818765,
+      "W": 0.15770742279827465
+    }
+  }
+}
