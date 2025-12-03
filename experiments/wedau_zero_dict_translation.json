@@ -1,0 +1,310 @@
+{
+  "god": {
+    "coords": [
+      1.0,
+      0.9299999999999999,
+      0.65,
+      1.0
+    ],
+    "translations": [
+      {
+        "word": "jesus",
+        "distance": 0.15684387141358122
+      },
+      {
+        "word": "christ",
+        "distance": 0.15684387141358122
+      },
+      {
+        "word": "heaven",
+        "distance": 0.16999999999999993
+      }
+    ]
+  },
+  "yesu": {
+    "coords": [
+      1.0,
+      0.9299999999999999,
+      0.73,
+      1.0
+    ],
+    "translations": [
+      {
+        "word": "god",
+        "distance": 0.165227116418583
+      },
+      {
+        "word": "jesus",
+        "distance": 0.17606816861659005
+      },
+      {
+        "word": "christ",
+        "distance": 0.17606816861659005
+      }
+    ]
+  },
+  "keriso": {
+    "coords": [
+      1.0,
+      0.9299999999999999,
+      0.73,
+      1.0
+    ],
+    "translations": [
+      {
+        "word": "god",
+        "distance": 0.165227116418583
+      },
+      {
+        "word": "jesus",
+        "distance": 0.17606816861659005
+      },
+      {
+        "word": "christ",
+        "distance": 0.17606816861659005
+      }
+    ]
+  },
+  "john": {
+    "coords": [
+      0.75,
+      0.72,
+      0.62,
+      0.75
+    ],
+    "translations": [
+      {
+        "word": "simon",
+        "distance": 0.0
+      },
+      {
+        "word": "andrew",
+        "distance": 0.0
+      },
+      {
+        "word": "james",
+        "distance": 0.04242640687119289
+      }
+    ]
+  },
+  "yamna": {
+    "coords": [
+      0.7,
+      0.6799999999999999,
+      0.6799999999999999,
+      0.75
+    ],
+    "translations": [
+      {
+        "word": "beginning",
+        "distance": 0.06164414002968973
+      },
+      {
+        "word": "peter",
+        "distance": 0.06403124237432854
+      },
+      {
+        "word": "call",
+        "distance": 0.08062257748298546
+      }
+    ]
+  },
+  "natuna": {
+    "coords": [
+      0.7,
+      0.6799999999999999,
+      0.6799999999999999,
+      0.75
+    ],
+    "translations": [
+      {
+        "word": "beginning",
+        "distance": 0.06164414002968973
+      },
+      {
+        "word": "peter",
+        "distance": 0.06403124237432854
+      },
+      {
+        "word": "call",
+        "distance": 0.08062257748298546
+      }
+    ]
+  },
+  "ponana": {
+    "coords": [
+      0.7,
+      0.6799999999999999,
+      0.6799999999999999,
+      0.75
+    ],
+    "translations": [
+      {
+        "word": "beginning",
+        "distance": 0.06164414002968973
+      },
+      {
+        "word": "peter",
+        "distance": 0.06403124237432854
+      },
+      {
+        "word": "call",
+        "distance": 0.08062257748298546
+      }
+    ]
+  },
+  "peroveta": {
+    "coords": [
+      0.6,
+      0.6,
+      0.6799999999999999,
+      0.65
+    ],
+    "translations": [
+      {
+        "word": "net",
+        "distance": 0.050990195135927834
+      },
+      {
+        "word": "go",
+        "distance": 0.06557438524301994
+      },
+      {
+        "word": "fisherman",
+        "distance": 0.0734846922834954
+      }
+    ]
+  },
+  "mutuyuwa": {
+    "coords": [
+      0.6,
+      0.6,
+      0.6799999999999999,
+      0.65
+    ],
+    "translations": [
+      {
+        "word": "net",
+        "distance": 0.050990195135927834
+      },
+      {
+        "word": "go",
+        "distance": 0.06557438524301994
+      },
+      {
+        "word": "fisherman",
+        "distance": 0.0734846922834954
+      }
+    ]
+  },
+  "bababataitohi": {
+    "coords": [
+      0.7,
+      0.6799999999999999,
+      0.6799999999999999,
+      0.75
+    ],
+    "translations": [
+      {
+        "word": "beginning",
+        "distance": 0.06164414002968973
+      },
+      {
+        "word": "peter",
+        "distance": 0.06403124237432854
+      },
+      {
+        "word": "call",
+        "distance": 0.08062257748298546
+      }
+    ]
+  },
+  "judiya": {
+    "coords": [
+      0.75,
+      0.72,
+      0.7,
+      0.75
+    ],
+    "translations": [
+      {
+        "word": "peter",
+        "distance": 0.019999999999999907
+      },
+      {
+        "word": "great",
+        "distance": 0.07211102550927985
+      },
+      {
+        "word": "simon",
+        "distance": 0.07999999999999996
+      }
+    ]
+  },
+  "jerusalem": {
+    "coords": [
+      0.75,
+      0.72,
+      0.7,
+      0.75
+    ],
+    "translations": [
+      {
+        "word": "peter",
+        "distance": 0.019999999999999907
+      },
+      {
+        "word": "great",
+        "distance": 0.07211102550927985
+      },
+      {
+        "word": "simon",
+        "distance": 0.07999999999999996
+      }
+    ]
+  },
+  "paratana": {
+    "coords": [
+      0.6,
+      0.6,
+      0.6799999999999999,
+      0.65
+    ],
+    "translations": [
+      {
+        "word": "net",
+        "distance": 0.050990195135927834
+      },
+      {
+        "word": "go",
+        "distance": 0.06557438524301994
+      },
+      {
+        "word": "fisherman",
+        "distance": 0.0734846922834954
+      }
+    ]
+  },
+  "riwana": {
+    "coords": [
+      0.7,
+      0.6799999999999999,
+      0.6799999999999999,
+      0.75
+    ],
+    "translations": [
+      {
+        "word": "beginning",
+        "distance": 0.06164414002968973
+      },
+      {
+        "word": "peter",
+        "distance": 0.06403124237432854
+      },
+      {
+        "word": "call",
+        "distance": 0.08062257748298546
+      }
+    ]
+  }
+}

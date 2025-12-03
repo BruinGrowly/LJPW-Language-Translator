@@ -1,0 +1,930 @@
+{
+  "verse_1": {
+    "wedau_text": "We\ua78ci yamna God natuna Yesu Keriso Tuyeghana Ahiahina me ivi karenanei.",
+    "word_translations": [
+      {
+        "wedau": "we\ua78ci",
+        "coords": [
+          0.75,
+          0.72,
+          0.62,
+          0.75
+        ],
+        "english_candidates": [
+          [
+            "baptize",
+            0.07071067811865482
+          ],
+          [
+            "name",
+            0.07280109889280514
+          ],
+          [
+            "call",
+            0.07615773105863904
+          ]
+        ],
+        "best_guess": "baptize",
+        "distance": 0.07071067811865482,
+        "semantic_role": "verb"
+      },
+      {
+        "wedau": "yamna",
+        "coords": [
+          0.72,
+          0.7,
+          0.72,
+          0.77
+        ],
+        "english_candidates": [
+          [
+            "beginning",
+            0.08124038404635953
+          ],
+          [
+            "start",
+            0.10583005244258359
+          ],
+          [
+            "prepare",
+            0.11916375287812983
+          ]
+        ],
+        "best_guess": "beginning",
+        "distance": 0.08124038404635953,
+        "semantic_role": "verb"
+      },
+      {
+        "wedau": "god",
+        "coords": [
+          0.92,
+          0.86,
+          0.68,
+          0.93
+        ],
+        "english_candidates": [
+          [
+            "divine",
+            0.030000000000000027
+          ],
+          [
+            "god",
+            0.05830951894845299
+          ],
+          [
+            "jesus",
+            0.06557438524302002
+          ]
+        ],
+        "best_guess": "divine",
+        "distance": 0.030000000000000027,
+        "semantic_role": "agent"
+      },
+      {
+        "wedau": "natuna",
+        "coords": [
+          0.72,
+          0.7,
+          0.6,
+          0.77
+        ],
+        "english_candidates": [
+          [
+            "name",
+            0.048989794855663515
+          ],
+          [
+            "prepare",
+            0.06782329983125268
+          ],
+          [
+            "make_ready",
+            0.06782329983125268
+          ]
+        ],
+        "best_guess": "name",
+        "distance": 0.048989794855663515,
+        "semantic_role": "noun"
+      },
+      {
+        "wedau": "yesu",
+        "coords": [
+          0.92,
+          0.86,
+          0.68,
+          0.93
+        ],
+        "english_candidates": [
+          [
+            "divine",
+            0.030000000000000027
+          ],
+          [
+            "god",
+            0.05830951894845299
+          ],
+          [
+            "jesus",
+            0.06557438524302002
+          ]
+        ],
+        "best_guess": "divine",
+        "distance": 0.030000000000000027,
+        "semantic_role": "agent"
+      },
+      {
+        "wedau": "keriso",
+        "coords": [
+          0.92,
+          0.86,
+          0.68,
+          0.93
+        ],
+        "english_candidates": [
+          [
+            "divine",
+            0.030000000000000027
+          ],
+          [
+            "god",
+            0.05830951894845299
+          ],
+          [
+            "jesus",
+            0.06557438524302002
+          ]
+        ],
+        "best_guess": "divine",
+        "distance": 0.030000000000000027,
+        "semantic_role": "agent"
+      },
+      {
+        "wedau": "tuyeghana",
+        "coords": [
+          0.75,
+          0.72,
+          0.62,
+          0.75
+        ],
+        "english_candidates": [
+          [
+            "baptize",
+            0.07071067811865482
+          ],
+          [
+            "name",
+            0.07280109889280514
+          ],
+          [
+            "call",
+            0.07615773105863904
+          ]
+        ],
+        "best_guess": "baptize",
+        "distance": 0.07071067811865482,
+        "semantic_role": "agent"
+      },
+      {
+        "wedau": "ahiahina",
+        "coords": [
+          0.75,
+          0.72,
+          0.62,
+          0.75
+        ],
+        "english_candidates": [
+          [
+            "baptize",
+            0.07071067811865482
+          ],
+          [
+            "name",
+            0.07280109889280514
+          ],
+          [
+            "call",
+            0.07615773105863904
+          ]
+        ],
+        "best_guess": "baptize",
+        "distance": 0.07071067811865482,
+        "semantic_role": "agent"
+      },
+      {
+        "wedau": "me",
+        "coords": [
+          0.6,
+          0.6,
+          0.5499999999999999,
+          0.65
+        ],
+        "english_candidates": [
+          [
+            "as",
+            0.050990195135927834
+          ],
+          [
+            "the",
+            0.05385164807134499
+          ],
+          [
+            "about",
+            0.06480740698407852
+          ]
+        ],
+        "best_guess": "as",
+        "distance": 0.050990195135927834,
+        "semantic_role": "object"
+      },
+      {
+        "wedau": "ivi",
+        "coords": [
+          0.6,
+          0.6,
+          0.5499999999999999,
+          0.65
+        ],
+        "english_candidates": [
+          [
+            "as",
+            0.050990195135927834
+          ],
+          [
+            "the",
+            0.05385164807134499
+          ],
+          [
+            "about",
+            0.06480740698407852
+          ]
+        ],
+        "best_guess": "as",
+        "distance": 0.050990195135927834,
+        "semantic_role": "object"
+      },
+      {
+        "wedau": "karenanei",
+        "coords": [
+          0.6,
+          0.6,
+          0.5499999999999999,
+          0.65
+        ],
+        "english_candidates": [
+          [
+            "as",
+            0.050990195135927834
+          ],
+          [
+            "the",
+            0.05385164807134499
+          ],
+          [
+            "about",
+            0.06480740698407852
+          ]
+        ],
+        "best_guess": "as",
+        "distance": 0.050990195135927834,
+        "semantic_role": "object"
+      }
+    ],
+    "reconstructed": "baptize beginning divine name divine divine baptize baptize as as as"
+  },
+  "verse_2": {
+    "wedau_text": "Warihagha peroveta Aisaiya, wenana\ua78carena God ponana i girumi:",
+    "word_translations": [
+      {
+        "wedau": "warihagha",
+        "coords": [
+          0.75,
+          0.72,
+          0.62,
+          0.75
+        ],
+        "english_candidates": [
+          [
+            "baptize",
+            0.07071067811865482
+          ],
+          [
+            "name",
+            0.07280109889280514
+          ],
+          [
+            "call",
+            0.07615773105863904
+          ]
+        ],
+        "best_guess": "baptize",
+        "distance": 0.07071067811865482,
+        "semantic_role": "verb"
+      },
+      {
+        "wedau": "peroveta",
+        "coords": [
+          0.6,
+          0.6,
+          0.72,
+          0.65
+        ],
+        "english_candidates": [
+          [
+            "send",
+            0.08366600265340751
+          ],
+          [
+            "cry",
+            0.08831760866327845
+          ],
+          [
+            "go",
+            0.09110433579144292
+          ]
+        ],
+        "best_guess": "send",
+        "distance": 0.08366600265340751,
+        "semantic_role": "verb"
+      },
+      {
+        "wedau": "aisaiya",
+        "coords": [
+          0.75,
+          0.72,
+          0.62,
+          0.75
+        ],
+        "english_candidates": [
+          [
+            "baptize",
+            0.07071067811865482
+          ],
+          [
+            "name",
+            0.07280109889280514
+          ],
+          [
+            "call",
+            0.07615773105863904
+          ]
+        ],
+        "best_guess": "baptize",
+        "distance": 0.07071067811865482,
+        "semantic_role": "agent"
+      },
+      {
+        "wedau": "wenana\ua78carena",
+        "coords": [
+          0.72,
+          0.73,
+          0.6,
+          0.8200000000000001
+        ],
+        "english_candidates": [
+          [
+            "baptize",
+            0.04582575694955844
+          ],
+          [
+            "message",
+            0.048989794855663515
+          ],
+          [
+            "way",
+            0.048989794855663515
+          ]
+        ],
+        "best_guess": "baptize",
+        "distance": 0.04582575694955844,
+        "semantic_role": "noun"
+      },
+      {
+        "wedau": "god",
+        "coords": [
+          0.92,
+          0.86,
+          0.68,
+          0.93
+        ],
+        "english_candidates": [
+          [
+            "divine",
+            0.030000000000000027
+          ],
+          [
+            "god",
+            0.05830951894845299
+          ],
+          [
+            "jesus",
+            0.06557438524302002
+          ]
+        ],
+        "best_guess": "divine",
+        "distance": 0.030000000000000027,
+        "semantic_role": "agent"
+      },
+      {
+        "wedau": "ponana",
+        "coords": [
+          0.72,
+          0.7,
+          0.6,
+          0.77
+        ],
+        "english_candidates": [
+          [
+            "name",
+            0.048989794855663515
+          ],
+          [
+            "prepare",
+            0.06782329983125268
+          ],
+          [
+            "make_ready",
+            0.06782329983125268
+          ]
+        ],
+        "best_guess": "name",
+        "distance": 0.048989794855663515,
+        "semantic_role": "noun"
+      },
+      {
+        "wedau": "i",
+        "coords": [
+          0.6,
+          0.6,
+          0.5499999999999999,
+          0.65
+        ],
+        "english_candidates": [
+          [
+            "as",
+            0.050990195135927834
+          ],
+          [
+            "the",
+            0.05385164807134499
+          ],
+          [
+            "about",
+            0.06480740698407852
+          ]
+        ],
+        "best_guess": "as",
+        "distance": 0.050990195135927834,
+        "semantic_role": "object"
+      },
+      {
+        "wedau": "girumi",
+        "coords": [
+          0.6,
+          0.6,
+          0.5499999999999999,
+          0.65
+        ],
+        "english_candidates": [
+          [
+            "as",
+            0.050990195135927834
+          ],
+          [
+            "the",
+            0.05385164807134499
+          ],
+          [
+            "about",
+            0.06480740698407852
+          ]
+        ],
+        "best_guess": "as",
+        "distance": 0.050990195135927834,
+        "semantic_role": "object"
+      }
+    ],
+    "reconstructed": "baptize send baptize baptize divine name as as"
+  },
+  "verse_3": {
+    "wedau_text": "Taupariverena au mutuyuwa evivi ghoreghore, 'Taumi ana aninae ona vokaukauwei, ana eta ona vovai-didimani.'",
+    "word_translations": [
+      {
+        "wedau": "taupariverena",
+        "coords": [
+          0.75,
+          0.72,
+          0.62,
+          0.75
+        ],
+        "english_candidates": [
+          [
+            "baptize",
+            0.07071067811865482
+          ],
+          [
+            "name",
+            0.07280109889280514
+          ],
+          [
+            "call",
+            0.07615773105863904
+          ]
+        ],
+        "best_guess": "baptize",
+        "distance": 0.07071067811865482,
+        "semantic_role": "verb"
+      },
+      {
+        "wedau": "au",
+        "coords": [
+          0.6,
+          0.6,
+          0.72,
+          0.65
+        ],
+        "english_candidates": [
+          [
+            "send",
+            0.08366600265340751
+          ],
+          [
+            "cry",
+            0.08831760866327845
+          ],
+          [
+            "go",
+            0.09110433579144292
+          ]
+        ],
+        "best_guess": "send",
+        "distance": 0.08366600265340751,
+        "semantic_role": "verb"
+      },
+      {
+        "wedau": "mutuyuwa",
+        "coords": [
+          0.6,
+          0.6,
+          0.72,
+          0.65
+        ],
+        "english_candidates": [
+          [
+            "send",
+            0.08366600265340751
+          ],
+          [
+            "cry",
+            0.08831760866327845
+          ],
+          [
+            "go",
+            0.09110433579144292
+          ]
+        ],
+        "best_guess": "send",
+        "distance": 0.08366600265340751,
+        "semantic_role": "verb"
+      },
+      {
+        "wedau": "evivi",
+        "coords": [
+          0.6,
+          0.6,
+          0.72,
+          0.65
+        ],
+        "english_candidates": [
+          [
+            "send",
+            0.08366600265340751
+          ],
+          [
+            "cry",
+            0.08831760866327845
+          ],
+          [
+            "go",
+            0.09110433579144292
+          ]
+        ],
+        "best_guess": "send",
+        "distance": 0.08366600265340751,
+        "semantic_role": "verb"
+      },
+      {
+        "wedau": "ghoreghore",
+        "coords": [
+          0.6,
+          0.65,
+          0.6799999999999999,
+          0.65
+        ],
+        "english_candidates": [
+          [
+            "send",
+            0.07681145747868608
+          ],
+          [
+            "cry",
+            0.07937253933193775
+          ],
+          [
+            "voice",
+            0.09746794344808961
+          ]
+        ],
+        "best_guess": "send",
+        "distance": 0.07681145747868608,
+        "semantic_role": "noun"
+      },
+      {
+        "wedau": "'taumi",
+        "coords": [
+          0.6,
+          0.6,
+          0.6,
+          0.65
+        ],
+        "english_candidates": [
+          [
+            "come",
+            0.05744562646538034
+          ],
+          [
+            "cry",
+            0.0734846922834954
+          ],
+          [
+            "go",
+            0.07681145747868608
+          ]
+        ],
+        "best_guess": "come",
+        "distance": 0.05744562646538034,
+        "semantic_role": "noun"
+      },
+      {
+        "wedau": "ana",
+        "coords": [
+          0.6,
+          0.6,
+          0.6,
+          0.65
+        ],
+        "english_candidates": [
+          [
+            "come",
+            0.05744562646538034
+          ],
+          [
+            "cry",
+            0.0734846922834954
+          ],
+          [
+            "go",
+            0.07681145747868608
+          ]
+        ],
+        "best_guess": "come",
+        "distance": 0.05744562646538034,
+        "semantic_role": "noun"
+      },
+      {
+        "wedau": "aninae",
+        "coords": [
+          0.6,
+          0.6,
+          0.6,
+          0.65
+        ],
+        "english_candidates": [
+          [
+            "come",
+            0.05744562646538034
+          ],
+          [
+            "cry",
+            0.0734846922834954
+          ],
+          [
+            "go",
+            0.07681145747868608
+          ]
+        ],
+        "best_guess": "come",
+        "distance": 0.05744562646538034,
+        "semantic_role": "noun"
+      },
+      {
+        "wedau": "ona",
+        "coords": [
+          0.6,
+          0.6,
+          0.6,
+          0.65
+        ],
+        "english_candidates": [
+          [
+            "come",
+            0.05744562646538034
+          ],
+          [
+            "cry",
+            0.0734846922834954
+          ],
+          [
+            "go",
+            0.07681145747868608
+          ]
+        ],
+        "best_guess": "come",
+        "distance": 0.05744562646538034,
+        "semantic_role": "noun"
+      },
+      {
+        "wedau": "vokaukauwei",
+        "coords": [
+          0.6,
+          0.63,
+          0.6,
+          0.7000000000000001
+        ],
+        "english_candidates": [
+          [
+            "voice",
+            0.07348469228349541
+          ],
+          [
+            "say",
+            0.07615773105863909
+          ],
+          [
+            "about",
+            0.08306623862918072
+          ]
+        ],
+        "best_guess": "voice",
+        "distance": 0.07348469228349541,
+        "semantic_role": "noun"
+      },
+      {
+        "wedau": "ana",
+        "coords": [
+          0.6,
+          0.6,
+          0.6,
+          0.65
+        ],
+        "english_candidates": [
+          [
+            "come",
+            0.05744562646538034
+          ],
+          [
+            "cry",
+            0.0734846922834954
+          ],
+          [
+            "go",
+            0.07681145747868608
+          ]
+        ],
+        "best_guess": "come",
+        "distance": 0.05744562646538034,
+        "semantic_role": "noun"
+      },
+      {
+        "wedau": "eta",
+        "coords": [
+          0.6,
+          0.6,
+          0.6,
+          0.65
+        ],
+        "english_candidates": [
+          [
+            "come",
+            0.05744562646538034
+          ],
+          [
+            "cry",
+            0.0734846922834954
+          ],
+          [
+            "go",
+            0.07681145747868608
+          ]
+        ],
+        "best_guess": "come",
+        "distance": 0.05744562646538034,
+        "semantic_role": "noun"
+      },
+      {
+        "wedau": "ona",
+        "coords": [
+          0.6,
+          0.6,
+          0.6,
+          0.65
+        ],
+        "english_candidates": [
+          [
+            "come",
+            0.05744562646538034
+          ],
+          [
+            "cry",
+            0.0734846922834954
+          ],
+          [
+            "go",
+            0.07681145747868608
+          ]
+        ],
+        "best_guess": "come",
+        "distance": 0.05744562646538034,
+        "semantic_role": "noun"
+      },
+      {
+        "wedau": "vovai",
+        "coords": [
+          0.6,
+          0.6,
+          0.5499999999999999,
+          0.65
+        ],
+        "english_candidates": [
+          [
+            "as",
+            0.050990195135927834
+          ],
+          [
+            "the",
+            0.05385164807134499
+          ],
+          [
+            "about",
+            0.06480740698407852
+          ]
+        ],
+        "best_guess": "as",
+        "distance": 0.050990195135927834,
+        "semantic_role": "object"
+      },
+      {
+        "wedau": "didimani",
+        "coords": [
+          0.6,
+          0.65,
+          0.6299999999999999,
+          0.65
+        ],
+        "english_candidates": [
+          [
+            "cry",
+            0.07615773105863918
+          ],
+          [
+            "voice",
+            0.07745966692414832
+          ],
+          [
+            "come",
+            0.08660254037844392
+          ]
+        ],
+        "best_guess": "cry",
+        "distance": 0.07615773105863918,
+        "semantic_role": "object"
+      },
+      {
+        "wedau": "'",
+        "coords": [
+          0.6,
+          0.6,
+          0.5499999999999999,
+          0.65
+        ],
+        "english_candidates": [
+          [
+            "as",
+            0.050990195135927834
+          ],
+          [
+            "the",
+            0.05385164807134499
+          ],
+          [
+            "about",
+            0.06480740698407852
+          ]
+        ],
+        "best_guess": "as",
+        "distance": 0.050990195135927834,
+        "semantic_role": "object"
+      }
+    ],
+    "reconstructed": "baptize send send send send come come come come voice come come come as cry as"
+  }
+}
