@@ -1,0 +1,1186 @@
+{
+  "statistics": {
+    "total_pairs": 26,
+    "average_shift": {
+      "L": 0.0019230769230769247,
+      "J": -0.004999999999999985,
+      "P": 0.0030769230769230713,
+      "W": 0.0026923076923076905
+    },
+    "std_dev_shift": {
+      "L": 0.024022302260964905,
+      "J": 0.028989387978786575,
+      "P": 0.01976189627486942,
+      "W": 0.010212244651809036
+    },
+    "average_shift_magnitude": 0.03441224066006605,
+    "isometric_count": 18,
+    "isometric_ratio": 0.6923076923076923,
+    "average_harmony_shift": -0.0018095457253894643
+  },
+  "universal_concepts": [
+    {
+      "english": "justice",
+      "french": "justice",
+      "en_coords": {
+        "word": "justice",
+        "language": "en",
+        "L": 0.6,
+        "J": 0.95,
+        "P": 0.7,
+        "W": 0.8
+      },
+      "fr_coords": {
+        "word": "justice",
+        "language": "fr",
+        "L": 0.6,
+        "J": 0.95,
+        "P": 0.7,
+        "W": 0.8
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": 0.0,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.0,
+      "is_isometric": true,
+      "harmony_shift": 0.0
+    },
+    {
+      "english": "compassion",
+      "french": "compassion",
+      "en_coords": {
+        "word": "compassion",
+        "language": "en",
+        "L": 0.9,
+        "J": 0.7,
+        "P": 0.5,
+        "W": 0.75
+      },
+      "fr_coords": {
+        "word": "compassion",
+        "language": "fr",
+        "L": 0.9,
+        "J": 0.7,
+        "P": 0.5,
+        "W": 0.75
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": 0.0,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.0,
+      "is_isometric": true,
+      "harmony_shift": 0.0
+    },
+    {
+      "english": "law",
+      "french": "loi",
+      "en_coords": {
+        "word": "law",
+        "language": "en",
+        "L": 0.5,
+        "J": 0.9,
+        "P": 0.75,
+        "W": 0.7
+      },
+      "fr_coords": {
+        "word": "loi",
+        "language": "fr",
+        "L": 0.5,
+        "J": 0.92,
+        "P": 0.75,
+        "W": 0.7
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": 0.020000000000000018,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.020000000000000018,
+      "is_isometric": true,
+      "harmony_shift": 0.0010432055975435617
+    },
+    {
+      "english": "balance",
+      "french": "\u00e9quilibre",
+      "en_coords": {
+        "word": "balance",
+        "language": "en",
+        "L": 0.65,
+        "J": 0.9,
+        "P": 0.6,
+        "W": 0.8
+      },
+      "fr_coords": {
+        "word": "\u00e9quilibre",
+        "language": "fr",
+        "L": 0.65,
+        "J": 0.88,
+        "P": 0.6,
+        "W": 0.8
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": -0.020000000000000018,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.020000000000000018,
+      "is_isometric": true,
+      "harmony_shift": -0.0015261330377281945
+    },
+    {
+      "english": "energy",
+      "french": "\u00e9nergie",
+      "en_coords": {
+        "word": "energy",
+        "language": "en",
+        "L": 0.55,
+        "J": 0.6,
+        "P": 0.9,
+        "W": 0.65
+      },
+      "fr_coords": {
+        "word": "\u00e9nergie",
+        "language": "fr",
+        "L": 0.55,
+        "J": 0.6,
+        "P": 0.9,
+        "W": 0.65
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": 0.0,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.0,
+      "is_isometric": true,
+      "harmony_shift": 0.0
+    },
+    {
+      "english": "knowledge",
+      "french": "connaissance",
+      "en_coords": {
+        "word": "knowledge",
+        "language": "en",
+        "L": 0.6,
+        "J": 0.7,
+        "P": 0.5,
+        "W": 0.9
+      },
+      "fr_coords": {
+        "word": "connaissance",
+        "language": "fr",
+        "L": 0.6,
+        "J": 0.7,
+        "P": 0.5,
+        "W": 0.92
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": 0.0,
+        "P": 0.0,
+        "W": 0.020000000000000018
+      },
+      "shift_magnitude": 0.020000000000000018,
+      "is_isometric": true,
+      "harmony_shift": 0.0008606013693398529
+    },
+    {
+      "english": "understanding",
+      "french": "compr\u00e9hension",
+      "en_coords": {
+        "word": "understanding",
+        "language": "en",
+        "L": 0.75,
+        "J": 0.7,
+        "P": 0.5,
+        "W": 0.92
+      },
+      "fr_coords": {
+        "word": "compr\u00e9hension",
+        "language": "fr",
+        "L": 0.75,
+        "J": 0.7,
+        "P": 0.48,
+        "W": 0.92
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": 0.0,
+        "P": -0.020000000000000018,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.020000000000000018,
+      "is_isometric": true,
+      "harmony_shift": -0.005806594383984787
+    },
+    {
+      "english": "insight",
+      "french": "perspicacit\u00e9",
+      "en_coords": {
+        "word": "insight",
+        "language": "en",
+        "L": 0.7,
+        "J": 0.75,
+        "P": 0.55,
+        "W": 0.95
+      },
+      "fr_coords": {
+        "word": "perspicacit\u00e9",
+        "language": "fr",
+        "L": 0.7,
+        "J": 0.75,
+        "P": 0.55,
+        "W": 0.95
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": 0.0,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.0,
+      "is_isometric": true,
+      "harmony_shift": 0.0
+    },
+    {
+      "english": "honor",
+      "french": "honneur",
+      "en_coords": {
+        "word": "honor",
+        "language": "en",
+        "L": 0.7,
+        "J": 0.9,
+        "P": 0.75,
+        "W": 0.8
+      },
+      "fr_coords": {
+        "word": "honneur",
+        "language": "fr",
+        "L": 0.7,
+        "J": 0.92,
+        "P": 0.75,
+        "W": 0.8
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": 0.020000000000000018,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.020000000000000018,
+      "is_isometric": true,
+      "harmony_shift": 0.0019163387339347082
+    },
+    {
+      "english": "harmony",
+      "french": "harmonie",
+      "en_coords": {
+        "word": "harmony",
+        "language": "en",
+        "L": 0.8,
+        "J": 0.85,
+        "P": 0.65,
+        "W": 0.85
+      },
+      "fr_coords": {
+        "word": "harmonie",
+        "language": "fr",
+        "L": 0.8,
+        "J": 0.85,
+        "P": 0.65,
+        "W": 0.85
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": 0.0,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.0,
+      "is_isometric": true,
+      "harmony_shift": 0.0
+    },
+    {
+      "english": "control",
+      "french": "contr\u00f4le",
+      "en_coords": {
+        "word": "control",
+        "language": "en",
+        "L": 0.35,
+        "J": 0.7,
+        "P": 0.9,
+        "W": 0.7
+      },
+      "fr_coords": {
+        "word": "contr\u00f4le",
+        "language": "fr",
+        "L": 0.35,
+        "J": 0.72,
+        "P": 0.9,
+        "W": 0.7
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": 0.020000000000000018,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.020000000000000018,
+      "is_isometric": true,
+      "harmony_shift": 0.00235312229719431
+    },
+    {
+      "english": "community",
+      "french": "communaut\u00e9",
+      "en_coords": {
+        "word": "community",
+        "language": "en",
+        "L": 0.9,
+        "J": 0.7,
+        "P": 0.65,
+        "W": 0.7
+      },
+      "fr_coords": {
+        "word": "communaut\u00e9",
+        "language": "fr",
+        "L": 0.92,
+        "J": 0.7,
+        "P": 0.65,
+        "W": 0.7
+      },
+      "semantic_shift": {
+        "L": 0.020000000000000018,
+        "J": 0.0,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.020000000000000018,
+      "is_isometric": true,
+      "harmony_shift": 0.0013313814736332086
+    },
+    {
+      "english": "solidarity",
+      "french": "solidarit\u00e9",
+      "en_coords": {
+        "word": "solidarity",
+        "language": "en",
+        "L": 0.92,
+        "J": 0.75,
+        "P": 0.7,
+        "W": 0.75
+      },
+      "fr_coords": {
+        "word": "solidarit\u00e9",
+        "language": "fr",
+        "L": 0.95,
+        "J": 0.75,
+        "P": 0.7,
+        "W": 0.75
+      },
+      "semantic_shift": {
+        "L": 0.029999999999999916,
+        "J": 0.0,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.029999999999999916,
+      "is_isometric": true,
+      "harmony_shift": 0.0019304274431035662
+    },
+    {
+      "english": "truth",
+      "french": "v\u00e9rit\u00e9",
+      "en_coords": {
+        "word": "truth",
+        "language": "en",
+        "L": 0.65,
+        "J": 0.95,
+        "P": 0.6,
+        "W": 0.85
+      },
+      "fr_coords": {
+        "word": "v\u00e9rit\u00e9",
+        "language": "fr",
+        "L": 0.65,
+        "J": 0.95,
+        "P": 0.6,
+        "W": 0.85
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": 0.0,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.0,
+      "is_isometric": true,
+      "harmony_shift": 0.0
+    }
+  ],
+  "cultural_divergences": [],
+  "all_pairs": [
+    {
+      "english": "love",
+      "french": "amour",
+      "en_coords": {
+        "word": "love",
+        "language": "en",
+        "L": 0.95,
+        "J": 0.6,
+        "P": 0.5,
+        "W": 0.7
+      },
+      "fr_coords": {
+        "word": "amour",
+        "language": "fr",
+        "L": 0.95,
+        "J": 0.55,
+        "P": 0.5,
+        "W": 0.7
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": -0.04999999999999993,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.04999999999999993,
+      "is_isometric": true,
+      "harmony_shift": -0.00988704901017301
+    },
+    {
+      "english": "justice",
+      "french": "justice",
+      "en_coords": {
+        "word": "justice",
+        "language": "en",
+        "L": 0.6,
+        "J": 0.95,
+        "P": 0.7,
+        "W": 0.8
+      },
+      "fr_coords": {
+        "word": "justice",
+        "language": "fr",
+        "L": 0.6,
+        "J": 0.95,
+        "P": 0.7,
+        "W": 0.8
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": 0.0,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.0,
+      "is_isometric": true,
+      "harmony_shift": 0.0
+    },
+    {
+      "english": "power",
+      "french": "pouvoir",
+      "en_coords": {
+        "word": "power",
+        "language": "en",
+        "L": 0.45,
+        "J": 0.6,
+        "P": 0.95,
+        "W": 0.65
+      },
+      "fr_coords": {
+        "word": "pouvoir",
+        "language": "fr",
+        "L": 0.5,
+        "J": 0.55,
+        "P": 0.95,
+        "W": 0.65
+      },
+      "semantic_shift": {
+        "L": 0.04999999999999999,
+        "J": -0.04999999999999993,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.0707106781186547,
+      "is_isometric": false,
+      "harmony_shift": 0.002107266840657207
+    },
+    {
+      "english": "wisdom",
+      "french": "sagesse",
+      "en_coords": {
+        "word": "wisdom",
+        "language": "en",
+        "L": 0.7,
+        "J": 0.75,
+        "P": 0.5,
+        "W": 0.95
+      },
+      "fr_coords": {
+        "word": "sagesse",
+        "language": "fr",
+        "L": 0.7,
+        "J": 0.75,
+        "P": 0.45,
+        "W": 0.95
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": 0.0,
+        "P": -0.04999999999999999,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.04999999999999999,
+      "is_isometric": true,
+      "harmony_shift": -0.014578180769427185
+    },
+    {
+      "english": "warmth",
+      "french": "chaleur",
+      "en_coords": {
+        "word": "warmth",
+        "language": "en",
+        "L": 0.85,
+        "J": 0.5,
+        "P": 0.4,
+        "W": 0.6
+      },
+      "fr_coords": {
+        "word": "chaleur",
+        "language": "fr",
+        "L": 0.85,
+        "J": 0.45,
+        "P": 0.45,
+        "W": 0.6
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": -0.04999999999999999,
+        "P": 0.04999999999999999,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.07071067811865474,
+      "is_isometric": false,
+      "harmony_shift": 0.0007884004626742547
+    },
+    {
+      "english": "tenderness",
+      "french": "tendresse",
+      "en_coords": {
+        "word": "tenderness",
+        "language": "en",
+        "L": 0.9,
+        "J": 0.55,
+        "P": 0.35,
+        "W": 0.65
+      },
+      "fr_coords": {
+        "word": "tendresse",
+        "language": "fr",
+        "L": 0.92,
+        "J": 0.5,
+        "P": 0.35,
+        "W": 0.65
+      },
+      "semantic_shift": {
+        "L": 0.020000000000000018,
+        "J": -0.050000000000000044,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.053851648071345085,
+      "is_isometric": false,
+      "harmony_shift": -0.007014626838282023
+    },
+    {
+      "english": "compassion",
+      "french": "compassion",
+      "en_coords": {
+        "word": "compassion",
+        "language": "en",
+        "L": 0.9,
+        "J": 0.7,
+        "P": 0.5,
+        "W": 0.75
+      },
+      "fr_coords": {
+        "word": "compassion",
+        "language": "fr",
+        "L": 0.9,
+        "J": 0.7,
+        "P": 0.5,
+        "W": 0.75
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": 0.0,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.0,
+      "is_isometric": true,
+      "harmony_shift": 0.0
+    },
+    {
+      "english": "law",
+      "french": "loi",
+      "en_coords": {
+        "word": "law",
+        "language": "en",
+        "L": 0.5,
+        "J": 0.9,
+        "P": 0.75,
+        "W": 0.7
+      },
+      "fr_coords": {
+        "word": "loi",
+        "language": "fr",
+        "L": 0.5,
+        "J": 0.92,
+        "P": 0.75,
+        "W": 0.7
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": 0.020000000000000018,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.020000000000000018,
+      "is_isometric": true,
+      "harmony_shift": 0.0010432055975435617
+    },
+    {
+      "english": "order",
+      "french": "ordre",
+      "en_coords": {
+        "word": "order",
+        "language": "en",
+        "L": 0.55,
+        "J": 0.85,
+        "P": 0.7,
+        "W": 0.75
+      },
+      "fr_coords": {
+        "word": "ordre",
+        "language": "fr",
+        "L": 0.5,
+        "J": 0.9,
+        "P": 0.7,
+        "W": 0.75
+      },
+      "semantic_shift": {
+        "L": -0.050000000000000044,
+        "J": 0.050000000000000044,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.07071067811865482,
+      "is_isometric": false,
+      "harmony_shift": -0.01050485042746574
+    },
+    {
+      "english": "balance",
+      "french": "\u00e9quilibre",
+      "en_coords": {
+        "word": "balance",
+        "language": "en",
+        "L": 0.65,
+        "J": 0.9,
+        "P": 0.6,
+        "W": 0.8
+      },
+      "fr_coords": {
+        "word": "\u00e9quilibre",
+        "language": "fr",
+        "L": 0.65,
+        "J": 0.88,
+        "P": 0.6,
+        "W": 0.8
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": -0.020000000000000018,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.020000000000000018,
+      "is_isometric": true,
+      "harmony_shift": -0.0015261330377281945
+    },
+    {
+      "english": "strength",
+      "french": "force",
+      "en_coords": {
+        "word": "strength",
+        "language": "en",
+        "L": 0.5,
+        "J": 0.65,
+        "P": 0.9,
+        "W": 0.6
+      },
+      "fr_coords": {
+        "word": "force",
+        "language": "fr",
+        "L": 0.45,
+        "J": 0.65,
+        "P": 0.95,
+        "W": 0.6
+      },
+      "semantic_shift": {
+        "L": -0.04999999999999999,
+        "J": 0.0,
+        "P": 0.04999999999999993,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.0707106781186547,
+      "is_isometric": false,
+      "harmony_shift": -0.00975996080678887
+    },
+    {
+      "english": "might",
+      "french": "puissance",
+      "en_coords": {
+        "word": "might",
+        "language": "en",
+        "L": 0.45,
+        "J": 0.6,
+        "P": 0.95,
+        "W": 0.55
+      },
+      "fr_coords": {
+        "word": "puissance",
+        "language": "fr",
+        "L": 0.45,
+        "J": 0.55,
+        "P": 0.95,
+        "W": 0.6
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": -0.04999999999999993,
+        "P": 0.0,
+        "W": 0.04999999999999993
+      },
+      "shift_magnitude": 0.07071067811865465,
+      "is_isometric": false,
+      "harmony_shift": 0.0
+    },
+    {
+      "english": "energy",
+      "french": "\u00e9nergie",
+      "en_coords": {
+        "word": "energy",
+        "language": "en",
+        "L": 0.55,
+        "J": 0.6,
+        "P": 0.9,
+        "W": 0.65
+      },
+      "fr_coords": {
+        "word": "\u00e9nergie",
+        "language": "fr",
+        "L": 0.55,
+        "J": 0.6,
+        "P": 0.9,
+        "W": 0.65
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": 0.0,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.0,
+      "is_isometric": true,
+      "harmony_shift": 0.0
+    },
+    {
+      "english": "knowledge",
+      "french": "connaissance",
+      "en_coords": {
+        "word": "knowledge",
+        "language": "en",
+        "L": 0.6,
+        "J": 0.7,
+        "P": 0.5,
+        "W": 0.9
+      },
+      "fr_coords": {
+        "word": "connaissance",
+        "language": "fr",
+        "L": 0.6,
+        "J": 0.7,
+        "P": 0.5,
+        "W": 0.92
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": 0.0,
+        "P": 0.0,
+        "W": 0.020000000000000018
+      },
+      "shift_magnitude": 0.020000000000000018,
+      "is_isometric": true,
+      "harmony_shift": 0.0008606013693398529
+    },
+    {
+      "english": "understanding",
+      "french": "compr\u00e9hension",
+      "en_coords": {
+        "word": "understanding",
+        "language": "en",
+        "L": 0.75,
+        "J": 0.7,
+        "P": 0.5,
+        "W": 0.92
+      },
+      "fr_coords": {
+        "word": "compr\u00e9hension",
+        "language": "fr",
+        "L": 0.75,
+        "J": 0.7,
+        "P": 0.48,
+        "W": 0.92
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": 0.0,
+        "P": -0.020000000000000018,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.020000000000000018,
+      "is_isometric": true,
+      "harmony_shift": -0.005806594383984787
+    },
+    {
+      "english": "insight",
+      "french": "perspicacit\u00e9",
+      "en_coords": {
+        "word": "insight",
+        "language": "en",
+        "L": 0.7,
+        "J": 0.75,
+        "P": 0.55,
+        "W": 0.95
+      },
+      "fr_coords": {
+        "word": "perspicacit\u00e9",
+        "language": "fr",
+        "L": 0.7,
+        "J": 0.75,
+        "P": 0.55,
+        "W": 0.95
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": 0.0,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.0,
+      "is_isometric": true,
+      "harmony_shift": 0.0
+    },
+    {
+      "english": "freedom",
+      "french": "libert\u00e9",
+      "en_coords": {
+        "word": "freedom",
+        "language": "en",
+        "L": 0.75,
+        "J": 0.7,
+        "P": 0.8,
+        "W": 0.75
+      },
+      "fr_coords": {
+        "word": "libert\u00e9",
+        "language": "fr",
+        "L": 0.8,
+        "J": 0.65,
+        "P": 0.85,
+        "W": 0.75
+      },
+      "semantic_shift": {
+        "L": 0.050000000000000044,
+        "J": -0.04999999999999993,
+        "P": 0.04999999999999993,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.08660254037844381,
+      "is_isometric": false,
+      "harmony_shift": 0.0033196780015737337
+    },
+    {
+      "english": "duty",
+      "french": "devoir",
+      "en_coords": {
+        "word": "duty",
+        "language": "en",
+        "L": 0.6,
+        "J": 0.85,
+        "P": 0.7,
+        "W": 0.75
+      },
+      "fr_coords": {
+        "word": "devoir",
+        "language": "fr",
+        "L": 0.55,
+        "J": 0.9,
+        "P": 0.7,
+        "W": 0.75
+      },
+      "semantic_shift": {
+        "L": -0.04999999999999993,
+        "J": 0.050000000000000044,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.07071067811865474,
+      "is_isometric": false,
+      "harmony_shift": -0.010013514791142875
+    },
+    {
+      "english": "honor",
+      "french": "honneur",
+      "en_coords": {
+        "word": "honor",
+        "language": "en",
+        "L": 0.7,
+        "J": 0.9,
+        "P": 0.75,
+        "W": 0.8
+      },
+      "fr_coords": {
+        "word": "honneur",
+        "language": "fr",
+        "L": 0.7,
+        "J": 0.92,
+        "P": 0.75,
+        "W": 0.8
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": 0.020000000000000018,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.020000000000000018,
+      "is_isometric": true,
+      "harmony_shift": 0.0019163387339347082
+    },
+    {
+      "english": "beauty",
+      "french": "beaut\u00e9",
+      "en_coords": {
+        "word": "beauty",
+        "language": "en",
+        "L": 0.85,
+        "J": 0.75,
+        "P": 0.55,
+        "W": 0.8
+      },
+      "fr_coords": {
+        "word": "beaut\u00e9",
+        "language": "fr",
+        "L": 0.88,
+        "J": 0.75,
+        "P": 0.55,
+        "W": 0.8
+      },
+      "semantic_shift": {
+        "L": 0.030000000000000027,
+        "J": 0.0,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.030000000000000027,
+      "is_isometric": true,
+      "harmony_shift": 0.0028938353555942875
+    },
+    {
+      "english": "harmony",
+      "french": "harmonie",
+      "en_coords": {
+        "word": "harmony",
+        "language": "en",
+        "L": 0.8,
+        "J": 0.85,
+        "P": 0.65,
+        "W": 0.85
+      },
+      "fr_coords": {
+        "word": "harmonie",
+        "language": "fr",
+        "L": 0.8,
+        "J": 0.85,
+        "P": 0.65,
+        "W": 0.85
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": 0.0,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.0,
+      "is_isometric": true,
+      "harmony_shift": 0.0
+    },
+    {
+      "english": "authority",
+      "french": "autorit\u00e9",
+      "en_coords": {
+        "word": "authority",
+        "language": "en",
+        "L": 0.4,
+        "J": 0.75,
+        "P": 0.9,
+        "W": 0.75
+      },
+      "fr_coords": {
+        "word": "autorit\u00e9",
+        "language": "fr",
+        "L": 0.4,
+        "J": 0.78,
+        "P": 0.9,
+        "W": 0.75
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": 0.030000000000000027,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.030000000000000027,
+      "is_isometric": true,
+      "harmony_shift": 0.0034984636296179206
+    },
+    {
+      "english": "control",
+      "french": "contr\u00f4le",
+      "en_coords": {
+        "word": "control",
+        "language": "en",
+        "L": 0.35,
+        "J": 0.7,
+        "P": 0.9,
+        "W": 0.7
+      },
+      "fr_coords": {
+        "word": "contr\u00f4le",
+        "language": "fr",
+        "L": 0.35,
+        "J": 0.72,
+        "P": 0.9,
+        "W": 0.7
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": 0.020000000000000018,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.020000000000000018,
+      "is_isometric": true,
+      "harmony_shift": 0.00235312229719431
+    },
+    {
+      "english": "community",
+      "french": "communaut\u00e9",
+      "en_coords": {
+        "word": "community",
+        "language": "en",
+        "L": 0.9,
+        "J": 0.7,
+        "P": 0.65,
+        "W": 0.7
+      },
+      "fr_coords": {
+        "word": "communaut\u00e9",
+        "language": "fr",
+        "L": 0.92,
+        "J": 0.7,
+        "P": 0.65,
+        "W": 0.7
+      },
+      "semantic_shift": {
+        "L": 0.020000000000000018,
+        "J": 0.0,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.020000000000000018,
+      "is_isometric": true,
+      "harmony_shift": 0.0013313814736332086
+    },
+    {
+      "english": "solidarity",
+      "french": "solidarit\u00e9",
+      "en_coords": {
+        "word": "solidarity",
+        "language": "en",
+        "L": 0.92,
+        "J": 0.75,
+        "P": 0.7,
+        "W": 0.75
+      },
+      "fr_coords": {
+        "word": "solidarit\u00e9",
+        "language": "fr",
+        "L": 0.95,
+        "J": 0.75,
+        "P": 0.7,
+        "W": 0.75
+      },
+      "semantic_shift": {
+        "L": 0.029999999999999916,
+        "J": 0.0,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.029999999999999916,
+      "is_isometric": true,
+      "harmony_shift": 0.0019304274431035662
+    },
+    {
+      "english": "truth",
+      "french": "v\u00e9rit\u00e9",
+      "en_coords": {
+        "word": "truth",
+        "language": "en",
+        "L": 0.65,
+        "J": 0.95,
+        "P": 0.6,
+        "W": 0.85
+      },
+      "fr_coords": {
+        "word": "v\u00e9rit\u00e9",
+        "language": "fr",
+        "L": 0.65,
+        "J": 0.95,
+        "P": 0.6,
+        "W": 0.85
+      },
+      "semantic_shift": {
+        "L": 0.0,
+        "J": 0.0,
+        "P": 0.0,
+        "W": 0.0
+      },
+      "shift_magnitude": 0.0,
+      "is_isometric": true,
+      "harmony_shift": 0.0
+    }
+  ]
+}
