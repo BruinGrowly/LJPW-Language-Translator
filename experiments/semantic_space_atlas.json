@@ -1,0 +1,851 @@
+{
+  "metadata": {
+    "dimensions": 4,
+    "dimension_names": [
+      "Love",
+      "Justice",
+      "Power",
+      "Wisdom"
+    ],
+    "natural_equilibrium": [
+      0.618034,
+      0.414214,
+      0.718282,
+      0.693147
+    ],
+    "anchor_point": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "known_concepts": 34
+  },
+  "regions": [
+    {
+      "name": "The Transcendent",
+      "center": [
+        0.9,
+        0.9,
+        0.75,
+        0.93
+      ],
+      "radius": 0.15,
+      "characteristics": {
+        "L": 0.9,
+        "J": 0.9,
+        "P": 0.75,
+        "W": 0.93
+      },
+      "examples": [
+        "love",
+        "wisdom",
+        "beauty",
+        "truth",
+        "joy",
+        "harmony"
+      ],
+      "harmony_range": [
+        0.7218223646922095,
+        0.8218223646922096
+      ],
+      "description": "The Transcendent: high Love, high Justice, high Power, high Wisdom"
+    },
+    {
+      "name": "The Peaceful",
+      "center": [
+        0.85,
+        0.85,
+        0.35,
+        0.88
+      ],
+      "radius": 0.15,
+      "characteristics": {
+        "L": 0.85,
+        "J": 0.85,
+        "P": 0.35,
+        "W": 0.88
+      },
+      "examples": [
+        "peace",
+        "patience",
+        "humility",
+        "forgiveness"
+      ],
+      "harmony_range": [
+        0.5402525078704031,
+        0.6402525078704032
+      ],
+      "description": "The Peaceful: high Love, high Justice, low Power, high Wisdom"
+    },
+    {
+      "name": "The Passionate",
+      "center": [
+        0.82,
+        0.75,
+        0.85,
+        0.5
+      ],
+      "radius": 0.15,
+      "characteristics": {
+        "L": 0.82,
+        "J": 0.75,
+        "P": 0.85,
+        "W": 0.5
+      },
+      "examples": [
+        "courage",
+        "passion",
+        "zeal"
+      ],
+      "harmony_range": [
+        0.5726125538607816,
+        0.6726125538607817
+      ],
+      "description": "The Passionate: high Love, high Justice, high Power"
+    },
+    {
+      "name": "The Austere",
+      "center": [
+        0.4,
+        0.85,
+        0.38,
+        0.88
+      ],
+      "radius": 0.15,
+      "characteristics": {
+        "L": 0.4,
+        "J": 0.85,
+        "P": 0.38,
+        "W": 0.88
+      },
+      "examples": [
+        "discipline",
+        "duty",
+        "rigor"
+      ],
+      "harmony_range": [
+        0.4808104238596342,
+        0.5808104238596342
+      ],
+      "description": "The Austere: high Justice, low Power, high Wisdom"
+    },
+    {
+      "name": "The Dominating",
+      "center": [
+        0.35,
+        0.35,
+        0.88,
+        0.45
+      ],
+      "radius": 0.15,
+      "characteristics": {
+        "L": 0.35,
+        "J": 0.35,
+        "P": 0.88,
+        "W": 0.45
+      },
+      "examples": [
+        "pride",
+        "greed",
+        "wrath",
+        "power"
+      ],
+      "harmony_range": [
+        0.4312517195386096,
+        0.5312517195386096
+      ],
+      "description": "The Dominating: low Love, low Justice, high Power"
+    },
+    {
+      "name": "The Abyssal",
+      "center": [
+        0.25,
+        0.28,
+        0.3,
+        0.35
+      ],
+      "radius": 0.15,
+      "characteristics": {
+        "L": 0.25,
+        "J": 0.28,
+        "P": 0.3,
+        "W": 0.35
+      },
+      "examples": [
+        "despair",
+        "nihilism",
+        "void"
+      ],
+      "harmony_range": [
+        0.3646146383269469,
+        0.4646146383269469
+      ],
+      "description": "The Abyssal: low Love, low Justice, low Power, low Wisdom"
+    },
+    {
+      "name": "The Equilibrial",
+      "center": [
+        0.618034,
+        0.414214,
+        0.718282,
+        0.693147
+      ],
+      "radius": 0.12,
+      "characteristics": {
+        "L": 0.618034,
+        "J": 0.414214,
+        "P": 0.718282,
+        "W": 0.693147
+      },
+      "examples": [
+        "balance",
+        "neutrality",
+        "equanimity"
+      ],
+      "harmony_range": [
+        0.5012733188630357,
+        0.6012733188630358
+      ],
+      "description": "The Equilibrial: high Power"
+    },
+    {
+      "name": "The Sentimental",
+      "center": [
+        0.85,
+        0.35,
+        0.4,
+        0.45
+      ],
+      "radius": 0.15,
+      "characteristics": {
+        "L": 0.85,
+        "J": 0.35,
+        "P": 0.4,
+        "W": 0.45
+      },
+      "examples": [
+        "sentimentality",
+        "naive_love"
+      ],
+      "harmony_range": [
+        0.4372396185345062,
+        0.5372396185345062
+      ],
+      "description": "The Sentimental: high Love, low Justice"
+    },
+    {
+      "name": "The Detached",
+      "center": [
+        0.35,
+        0.4,
+        0.38,
+        0.88
+      ],
+      "radius": 0.15,
+      "characteristics": {
+        "L": 0.35,
+        "J": 0.4,
+        "P": 0.38,
+        "W": 0.88
+      },
+      "examples": [
+        "detachment",
+        "cold_wisdom",
+        "cynicism"
+      ],
+      "harmony_range": [
+        0.42918509600725363,
+        0.5291850960072536
+      ],
+      "description": "The Detached: low Love, low Power, high Wisdom"
+    },
+    {
+      "name": "The Mystical",
+      "center": [
+        0.88,
+        0.45,
+        0.38,
+        0.9
+      ],
+      "radius": 0.15,
+      "characteristics": {
+        "L": 0.88,
+        "J": 0.45,
+        "P": 0.38,
+        "W": 0.9
+      },
+      "examples": [
+        "mysticism",
+        "ecstasy",
+        "transcendence"
+      ],
+      "harmony_range": [
+        0.4924799701800135,
+        0.5924799701800135
+      ],
+      "description": "The Mystical: high Love, low Power, high Wisdom"
+    },
+    {
+      "name": "The Tyrannical",
+      "center": [
+        0.3,
+        0.8,
+        0.85,
+        0.45
+      ],
+      "radius": 0.15,
+      "characteristics": {
+        "L": 0.3,
+        "J": 0.8,
+        "P": 0.85,
+        "W": 0.45
+      },
+      "examples": [
+        "tyranny",
+        "oppression",
+        "dogma"
+      ],
+      "harmony_range": [
+        0.46957172106657613,
+        0.5695717210665762
+      ],
+      "description": "The Tyrannical: low Love, high Justice, high Power"
+    },
+    {
+      "name": "The Naive",
+      "center": [
+        0.78,
+        0.75,
+        0.35,
+        0.45
+      ],
+      "radius": 0.15,
+      "characteristics": {
+        "L": 0.78,
+        "J": 0.75,
+        "P": 0.35,
+        "W": 0.45
+      },
+      "examples": [
+        "naivety",
+        "innocence",
+        "simplicity"
+      ],
+      "harmony_range": [
+        0.4723908008063396,
+        0.5723908008063396
+      ],
+      "description": "The Naive: high Love, high Justice, low Power"
+    },
+    {
+      "name": "The Machiavellian",
+      "center": [
+        0.35,
+        0.35,
+        0.85,
+        0.82
+      ],
+      "radius": 0.15,
+      "characteristics": {
+        "L": 0.35,
+        "J": 0.35,
+        "P": 0.85,
+        "W": 0.82
+      },
+      "examples": [
+        "cunning",
+        "manipulation",
+        "strategy"
+      ],
+      "harmony_range": [
+        0.4631808995130315,
+        0.5631808995130315
+      ],
+      "description": "The Machiavellian: low Love, low Justice, high Power, high Wisdom"
+    }
+  ],
+  "attractors": [
+    {
+      "name": "Divine Perfection",
+      "position": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "strength": 1.0,
+      "basin_radius": 0.3,
+      "interpretation": "Ultimate telos of all meaning. All positive concepts pulled toward this.",
+      "harmony": 1.0
+    },
+    {
+      "name": "Natural Equilibrium",
+      "position": [
+        0.618034,
+        0.414214,
+        0.718282,
+        0.693147
+      ],
+      "strength": 0.5,
+      "basin_radius": 0.25,
+      "interpretation": "Balance point. Reflection point for opposites. Equanimity.",
+      "harmony": 0.5512733188630358
+    },
+    {
+      "name": "Pure Love",
+      "position": [
+        0.95,
+        0.6,
+        0.5,
+        0.7
+      ],
+      "strength": 0.7,
+      "basin_radius": 0.2,
+      "interpretation": "Primary moral attractor. Connection, compassion, unity.",
+      "harmony": 0.5851812182152939
+    },
+    {
+      "name": "Pure Justice",
+      "position": [
+        0.62,
+        0.95,
+        0.58,
+        0.85
+      ],
+      "strength": 0.6,
+      "basin_radius": 0.18,
+      "interpretation": "Order, balance, righteousness. Structural harmony.",
+      "harmony": 0.6297040398661475
+    },
+    {
+      "name": "Pure Wisdom",
+      "position": [
+        0.7,
+        0.75,
+        0.45,
+        0.95
+      ],
+      "strength": 0.65,
+      "basin_radius": 0.18,
+      "interpretation": "Understanding, insight, clarity. Cognitive perfection.",
+      "harmony": 0.5965208056710891
+    },
+    {
+      "name": "Pure Power",
+      "position": [
+        0.52,
+        0.58,
+        0.95,
+        0.68
+      ],
+      "strength": 0.4,
+      "basin_radius": 0.15,
+      "interpretation": "Force, capability. Morally ambiguous - depends on context.",
+      "harmony": 0.5829774918895725
+    },
+    {
+      "name": "The Void",
+      "position": [
+        0.2,
+        0.2,
+        0.2,
+        0.2
+      ],
+      "strength": -0.6,
+      "basin_radius": 0.2,
+      "interpretation": "Absence of meaning. Nihilism, despair. Meanings avoid this.",
+      "harmony": 0.3846153846153846
+    },
+    {
+      "name": "Golden Harmony",
+      "position": [
+        0.618033988749895,
+        0.618033988749895,
+        0.618033988749895,
+        0.618033988749895
+      ],
+      "strength": 0.55,
+      "basin_radius": 0.15,
+      "interpretation": "\u03c6-symmetry. Aesthetic perfection. Beauty, art, music.",
+      "harmony": 0.5669152706817991
+    }
+  ],
+  "boundaries": [
+    {
+      "name": "Virtue-Vice Boundary",
+      "point1": [
+        0.618034,
+        0.414214,
+        0.718282,
+        0.693147
+      ],
+      "point2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "axis": null,
+      "transition": "Moral valence flips: virtue \u2194 vice"
+    },
+    {
+      "name": "Love-Hate Transition",
+      "point1": [
+        0.618034,
+        0.414214,
+        0.718282,
+        0.693147
+      ],
+      "point2": [
+        0.618034,
+        0.6,
+        0.5,
+        0.7
+      ],
+      "axis": 0,
+      "transition": "Connection \u2194 separation"
+    },
+    {
+      "name": "Justice-Injustice Transition",
+      "point1": [
+        0.618034,
+        0.414214,
+        0.718282,
+        0.693147
+      ],
+      "point2": [
+        0.6,
+        0.414214,
+        0.6,
+        0.8
+      ],
+      "axis": 1,
+      "transition": "Order \u2194 chaos, fairness \u2194 corruption"
+    },
+    {
+      "name": "Power Moral Threshold",
+      "point1": [
+        0.6,
+        0.6,
+        0.5,
+        0.7
+      ],
+      "point2": [
+        0.6,
+        0.6,
+        0.85,
+        0.7
+      ],
+      "axis": 2,
+      "transition": "Capability \u2192 domination (when L, J low)"
+    },
+    {
+      "name": "Wisdom-Ignorance Transition",
+      "point1": [
+        0.618034,
+        0.414214,
+        0.718282,
+        0.693147
+      ],
+      "point2": [
+        0.7,
+        0.7,
+        0.5,
+        0.693147
+      ],
+      "axis": 3,
+      "transition": "Clarity \u2194 confusion, understanding \u2194 delusion"
+    },
+    {
+      "name": "Aesthetic Valence Threshold",
+      "point1": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "point2": [
+        0.8,
+        0.8,
+        0.5,
+        0.8
+      ],
+      "axis": null,
+      "transition": "Unpleasant \u2194 pleasant (H \u2248 0.55)"
+    }
+  ],
+  "symmetries": {
+    "reflection_through_ne": {
+      "type": "reflection",
+      "center": [
+        0.618034,
+        0.414214,
+        0.718282,
+        0.693147
+      ],
+      "property": "Opposites reflect through Natural Equilibrium",
+      "examples": [
+        {
+          "pair": "love-hate",
+          "coords1": [
+            0.95,
+            0.6,
+            0.5,
+            0.7
+          ],
+          "coords2": [
+            0.15,
+            0.2,
+            0.82,
+            0.35
+          ],
+          "reflected_coords1": [
+            0.286068,
+            0.22842800000000008,
+            0.936564,
+            0.686294
+          ],
+          "distance_to_reflected": 0.3821040072283985,
+          "symmetry_quality": "weak"
+        },
+        {
+          "pair": "justice-injustice",
+          "coords1": [
+            0.62,
+            0.95,
+            0.58,
+            0.85
+          ],
+          "coords2": [
+            0.28,
+            0.15,
+            0.75,
+            0.38
+          ],
+          "reflected_coords1": [
+            0.616068,
+            -0.1215719999999999,
+            0.856564,
+            0.5362939999999999
+          ],
+          "distance_to_reflected": 0.4716744134887962,
+          "symmetry_quality": "weak"
+        },
+        {
+          "pair": "wisdom-ignorance",
+          "coords1": [
+            0.7,
+            0.75,
+            0.45,
+            0.95
+          ],
+          "coords2": [
+            0.25,
+            0.32,
+            0.58,
+            0.15
+          ],
+          "reflected_coords1": [
+            0.536068,
+            0.07842800000000005,
+            0.986564,
+            0.43629399999999996
+          ],
+          "distance_to_reflected": 0.6224551970543744,
+          "symmetry_quality": "weak"
+        }
+      ]
+    },
+    "dimensional_permutations": {
+      "type": "permutation",
+      "description": "How do dimensions relate under permutation?",
+      "tests": {
+        "L_J_interchange": "Possible (both moral dimensions)",
+        "P_W_interchange": "Less natural (force vs understanding)",
+        "observation": "L-J form moral plane, P-W form capability plane"
+      }
+    },
+    "scale_invariance": {
+      "type": "scaling",
+      "description": "Does meaning preserve under scaling from origin?",
+      "result": {
+        "scale_factor": 1.5,
+        "original_distance": 1.0123734488813896,
+        "scaled_distance": 1.5185601733220844,
+        "ratio": 1.5,
+        "conclusion": "Linear scaling preserved (expected for Euclidean space)"
+      }
+    },
+    "phi_symmetry": {
+      "type": "golden_ratio",
+      "description": "\u03c6-based transformations and their preservation",
+      "result": {
+        "golden_point": [
+          0.618033988749895,
+          0.618033988749895,
+          0.618033988749895,
+          0.618033988749895
+        ],
+        "golden_harmony": 0.5669152706817991,
+        "golden_tension": 0.23923673637772902,
+        "ne_harmony": 0.5512733188630358,
+        "ne_tension": 0.0,
+        "observation": "Golden point has special aesthetic properties",
+        "phi_in_ne": "\u03c6\u207b\u00b9 appears as L-coordinate in Natural Equilibrium"
+      }
+    },
+    "conservation_laws": {
+      "type": "conservation",
+      "description": "What quantities are conserved under transformations?",
+      "result": {
+        "coordinate_sum": {
+          "love": 2.75,
+          "hate": 1.52,
+          "conserved": false
+        },
+        "coordinate_product": {
+          "love": 0.19949999999999998,
+          "hate": 0.008609999999999998,
+          "conserved": false
+        },
+        "magnitude": {
+          "love": 1.4150971698084907,
+          "hate": 0.9259589623736032,
+          "ratio": 1.5282504163910575,
+          "note": "Not conserved - magnitude changes with valence"
+        },
+        "conclusion": "No simple additive conservation law. Moral transformation is non-linear."
+      }
+    }
+  },
+  "mathematical_laws": {
+    "harmony_law": {
+      "equation": "H = 1/(1 + d(coords, anchor))",
+      "interpretation": "Harmony inversely proportional to distance from perfection",
+      "range": [
+        0,
+        1
+      ],
+      "significance": "Quantifies moral/aesthetic value"
+    },
+    "antonym_law": {
+      "equation": "opposite(C) \u2248 2\u00d7NE - C",
+      "interpretation": "Opposites reflect through Natural Equilibrium",
+      "accuracy": "~0.26 average error",
+      "significance": "Duality is geometric reflection"
+    },
+    "dimensional_coupling": {
+      "observation": "L and J tend to correlate positively (r \u2248 0.7)",
+      "hypothesis": "\u03ba_LJ = \u03b1 \u00d7 min(L, J)",
+      "interpretation": "Love and Justice reinforce each other",
+      "significance": "Moral dimensions are coupled"
+    },
+    "power_neutrality": {
+      "observation": "P shifts minimally in virtue \u2194 vice transitions (+0.05)",
+      "interpretation": "Power is morally neutral - depends on L, J, W context",
+      "formula": "moral_valence(P) = f(L, J, W) \u00d7 P",
+      "significance": "Power amplifies existing moral direction"
+    },
+    "semantic_stability": {
+      "observation": "91.7% coordinate stability over 1500 years",
+      "rate": "~0.00006 per year average drift",
+      "interpretation": "Meanings are extraordinarily stable",
+      "significance": "Semantic space is nearly static (geological timescale changes)"
+    },
+    "aesthetic_threshold": {
+      "threshold": "H \u2248 0.55",
+      "interpretation": "Below H=0.55: unpleasant; above: pleasant",
+      "significance": "Aesthetic valence has sharp boundary",
+      "universality": "Cross-cultural (from qualia mapping)"
+    },
+    "clustering_coefficient": {
+      "observation": "Average 4.3 neighbors within r=0.3",
+      "interpretation": "Meanings naturally cluster in clouds",
+      "formula": "C(concept) = |{neighbors within r}|",
+      "significance": "Semantic space has structure (not uniform)"
+    },
+    "golden_aesthetic": {
+      "observation": "\u03c6\u207b\u00b9 appears in Natural Equilibrium L-coordinate",
+      "hypothesis": "Coordinates near \u03c6\u207b\u00b9 have enhanced aesthetic properties",
+      "significance": "Mathematical beauty encoded in semantic structure",
+      "status": "Speculative - needs testing"
+    }
+  },
+  "critical_points": {
+    "harmony_maximum": {
+      "type": "maximum",
+      "location": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "value": 1.0,
+      "name": "Divine Perfection",
+      "interpretation": "Global maximum of harmony function"
+    },
+    "harmony_minimum": {
+      "type": "minimum",
+      "location": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "value": 0.3333333333333333,
+      "name": "The Void",
+      "interpretation": "Global minimum - absolute absence"
+    },
+    "natural_equilibrium": {
+      "type": "saddle",
+      "location": [
+        0.618034,
+        0.414214,
+        0.718282,
+        0.693147
+      ],
+      "harmony": 0.5512733188630358,
+      "name": "Natural Equilibrium",
+      "interpretation": "Unstable equilibrium - reflection point for opposites"
+    },
+    "dimensional_maxima": {
+      "pure_love": {
+        "coords": [
+          0.95,
+          0.6,
+          0.5,
+          0.7
+        ],
+        "harmony": 0.5851812182152939
+      },
+      "pure_justice": {
+        "coords": [
+          0.62,
+          0.95,
+          0.58,
+          0.85
+        ],
+        "harmony": 0.6297040398661475
+      },
+      "pure_wisdom": {
+        "coords": [
+          0.7,
+          0.75,
+          0.45,
+          0.95
+        ],
+        "harmony": 0.5965208056710891
+      },
+      "pure_power": {
+        "coords": [
+          0.52,
+          0.58,
+          0.95,
+          0.68
+        ],
+        "harmony": 0.5829774918895725
+      }
+    }
+  }
+}
