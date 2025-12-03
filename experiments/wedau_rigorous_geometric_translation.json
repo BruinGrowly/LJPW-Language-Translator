@@ -1,0 +1,378 @@
+{
+  "corpus_stats": {
+    "total_words": 35,
+    "unique_words": 32,
+    "proper_nouns": 9
+  },
+  "graph_stats": {
+    "nodes": 32,
+    "edges": 433
+  },
+  "translations": {
+    "god": {
+      "coords": [
+        0.92,
+        0.86,
+        0.68,
+        0.93
+      ],
+      "top_3": [
+        {
+          "word": "god",
+          "distance": 0.07685671696378081,
+          "metadata": {
+            "distance": 0.07685671696378081,
+            "centrality": 0.0,
+            "method": "geodesic",
+            "coords": [
+              0.92,
+              0.86,
+              0.68,
+              0.93
+            ],
+            "target_coords": [
+              0.88,
+              0.85,
+              0.72,
+              0.92
+            ]
+          }
+        },
+        {
+          "word": "jesus",
+          "distance": 0.08603089211970284,
+          "metadata": {
+            "distance": 0.08603089211970284,
+            "centrality": 0.06250684181718665,
+            "method": "geodesic",
+            "coords": [
+              0.92,
+              0.86,
+              0.68,
+              0.93
+            ],
+            "target_coords": [
+              0.95,
+              0.82,
+              0.65,
+              0.9
+            ]
+          }
+        },
+        {
+          "word": "christ",
+          "distance": 0.08603089211970284,
+          "metadata": {
+            "distance": 0.08603089211970284,
+            "centrality": 0.010782703886152161,
+            "method": "geodesic",
+            "coords": [
+              0.92,
+              0.86,
+              0.68,
+              0.93
+            ],
+            "target_coords": [
+              0.95,
+              0.82,
+              0.65,
+              0.9
+            ]
+          }
+        }
+      ]
+    },
+    "yesu": {
+      "coords": [
+        0.92,
+        0.86,
+        0.68,
+        0.93
+      ],
+      "top_3": [
+        {
+          "word": "god",
+          "distance": 0.07685671696378081,
+          "metadata": {
+            "distance": 0.07685671696378081,
+            "centrality": 0.0,
+            "method": "geodesic",
+            "coords": [
+              0.92,
+              0.86,
+              0.68,
+              0.93
+            ],
+            "target_coords": [
+              0.88,
+              0.85,
+              0.72,
+              0.92
+            ]
+          }
+        },
+        {
+          "word": "jesus",
+          "distance": 0.08603089211970284,
+          "metadata": {
+            "distance": 0.08603089211970284,
+            "centrality": 0.06250684181718665,
+            "method": "geodesic",
+            "coords": [
+              0.92,
+              0.86,
+              0.68,
+              0.93
+            ],
+            "target_coords": [
+              0.95,
+              0.82,
+              0.65,
+              0.9
+            ]
+          }
+        },
+        {
+          "word": "christ",
+          "distance": 0.08603089211970284,
+          "metadata": {
+            "distance": 0.08603089211970284,
+            "centrality": 0.010782703886152161,
+            "method": "geodesic",
+            "coords": [
+              0.92,
+              0.86,
+              0.68,
+              0.93
+            ],
+            "target_coords": [
+              0.95,
+              0.82,
+              0.65,
+              0.9
+            ]
+          }
+        }
+      ]
+    },
+    "keriso": {
+      "coords": [
+        0.92,
+        0.86,
+        0.68,
+        0.93
+      ],
+      "top_3": [
+        {
+          "word": "god",
+          "distance": 0.07685671696378081,
+          "metadata": {
+            "distance": 0.07685671696378081,
+            "centrality": 0.0,
+            "method": "geodesic",
+            "coords": [
+              0.92,
+              0.86,
+              0.68,
+              0.93
+            ],
+            "target_coords": [
+              0.88,
+              0.85,
+              0.72,
+              0.92
+            ]
+          }
+        },
+        {
+          "word": "jesus",
+          "distance": 0.08603089211970284,
+          "metadata": {
+            "distance": 0.08603089211970284,
+            "centrality": 0.06250684181718665,
+            "method": "geodesic",
+            "coords": [
+              0.92,
+              0.86,
+              0.68,
+              0.93
+            ],
+            "target_coords": [
+              0.95,
+              0.82,
+              0.65,
+              0.9
+            ]
+          }
+        },
+        {
+          "word": "christ",
+          "distance": 0.08603089211970284,
+          "metadata": {
+            "distance": 0.08603089211970284,
+            "centrality": 0.010782703886152161,
+            "method": "geodesic",
+            "coords": [
+              0.92,
+              0.86,
+              0.68,
+              0.93
+            ],
+            "target_coords": [
+              0.95,
+              0.82,
+              0.65,
+              0.9
+            ]
+          }
+        }
+      ]
+    },
+    "yamna": {
+      "coords": [
+        0.7,
+        0.7,
+        0.6,
+        0.75
+      ],
+      "top_3": [
+        {
+          "word": "call",
+          "distance": 0.05817843258895228,
+          "metadata": {
+            "distance": 0.05817843258895228,
+            "centrality": 0.007389162561576354,
+            "method": "geodesic",
+            "coords": [
+              0.7,
+              0.7,
+              0.6,
+              0.75
+            ],
+            "target_coords": [
+              0.68,
+              0.72,
+              0.62,
+              0.72
+            ]
+          }
+        },
+        {
+          "word": "prepare",
+          "distance": 0.0824580425846869,
+          "metadata": {
+            "distance": 0.0824580425846869,
+            "centrality": 0.02380952380952381,
+            "method": "geodesic",
+            "coords": [
+              0.7,
+              0.7,
+              0.6,
+              0.75
+            ],
+            "target_coords": [
+              0.68,
+              0.75,
+              0.62,
+              0.78
+            ]
+          }
+        },
+        {
+          "word": "voice",
+          "distance": 0.09645466500775887,
+          "metadata": {
+            "distance": 0.09645466500775887,
+            "centrality": 0.019704433497536946,
+            "method": "geodesic",
+            "coords": [
+              0.7,
+              0.7,
+              0.6,
+              0.75
+            ],
+            "target_coords": [
+              0.65,
+              0.68,
+              0.62,
+              0.7
+            ]
+          }
+        }
+      ]
+    },
+    "natuna": {
+      "coords": [
+        0.7,
+        0.7,
+        0.6,
+        0.75
+      ],
+      "top_3": [
+        {
+          "word": "call",
+          "distance": 0.05817843258895228,
+          "metadata": {
+            "distance": 0.05817843258895228,
+            "centrality": 0.007389162561576354,
+            "method": "geodesic",
+            "coords": [
+              0.7,
+              0.7,
+              0.6,
+              0.75
+            ],
+            "target_coords": [
+              0.68,
+              0.72,
+              0.62,
+              0.72
+            ]
+          }
+        },
+        {
+          "word": "prepare",
+          "distance": 0.0824580425846869,
+          "metadata": {
+            "distance": 0.0824580425846869,
+            "centrality": 0.02380952380952381,
+            "method": "geodesic",
+            "coords": [
+              0.7,
+              0.7,
+              0.6,
+              0.75
+            ],
+            "target_coords": [
+              0.68,
+              0.75,
+              0.62,
+              0.78
+            ]
+          }
+        },
+        {
+          "word": "voice",
+          "distance": 0.09645466500775887,
+          "metadata": {
+            "distance": 0.09645466500775887,
+            "centrality": 0.019704433497536946,
+            "method": "geodesic",
+            "coords": [
+              0.7,
+              0.7,
+              0.6,
+              0.75
+            ],
+            "target_coords": [
+              0.65,
+              0.68,
+              0.62,
+              0.7
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
