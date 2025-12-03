@@ -1,0 +1,90 @@
+{
+  "harmony_correlation": {
+    "high_harmony_sonority": 2.672222222222222,
+    "low_harmony_sonority": 3.238888888888889
+  },
+  "sound_symbolism": {
+    "high_front_vowels_brightness": {
+      "hypothesis": "Words with /i/ have high L+W (bright, light)",
+      "num_words": 7,
+      "mean_value": 0.7578571428571428
+    },
+    "stops_power": {
+      "hypothesis": "Words with stops have high P (power)",
+      "num_words": 14,
+      "mean_value": 0.6185714285714285
+    },
+    "fricatives_softness": {
+      "hypothesis": "Words with fricatives have low P (soft)",
+      "num_words": 12,
+      "mean_value": 0.615
+    },
+    "nasals_warmth": {
+      "hypothesis": "Words with nasals have high L (warm, nurturing)",
+      "num_words": 6,
+      "mean_value": 0.4916666666666667
+    }
+  },
+  "most_resonant": [
+    {
+      "word": "joie",
+      "language": "french",
+      "resonance": 0.4,
+      "harmony": 0.675
+    },
+    {
+      "word": "light",
+      "language": "english",
+      "resonance": 0.3,
+      "harmony": 0.63
+    },
+    {
+      "word": "hate",
+      "language": "english",
+      "resonance": 0.3,
+      "harmony": 0.38
+    },
+    {
+      "word": "dark",
+      "language": "english",
+      "resonance": 0.3,
+      "harmony": 0.44
+    },
+    {
+      "word": "death",
+      "language": "english",
+      "resonance": 0.3,
+      "harmony": 0.435
+    },
+    {
+      "word": "guerre",
+      "language": "french",
+      "resonance": 0.3,
+      "harmony": 0.405
+    },
+    {
+      "word": "zhanzheng",
+      "language": "chinese",
+      "resonance": 0.3,
+      "harmony": 0.395
+    },
+    {
+      "word": "love",
+      "language": "english",
+      "resonance": 0.2,
+      "harmony": 0.585
+    },
+    {
+      "word": "joy",
+      "language": "english",
+      "resonance": 0.2,
+      "harmony": 0.68
+    },
+    {
+      "word": "hope",
+      "language": "english",
+      "resonance": 0.2,
+      "harmony": 0.59
+    }
+  ]
+}
