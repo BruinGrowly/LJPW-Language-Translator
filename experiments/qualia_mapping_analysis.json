@@ -1,0 +1,636 @@
+{
+  "metadata": {
+    "total_qualia": 20,
+    "categories": [
+      "texture",
+      "color",
+      "emotion",
+      "sound",
+      "taste"
+    ],
+    "cultures_tested": [
+      "US",
+      "China",
+      "Brazil",
+      "Kenya"
+    ]
+  },
+  "universality_analysis": {
+    "universal_count": 20,
+    "variable_count": 0,
+    "universality_rate": 1.0,
+    "universal_qualia": [
+      {
+        "name": "rough",
+        "category": "texture",
+        "max_variance": 0.00032499999999999993,
+        "mean_coords": [
+          0.425,
+          0.475,
+          0.6775,
+          0.575
+        ]
+      },
+      {
+        "name": "minor_chord",
+        "category": "sound",
+        "max_variance": 0.00035000000000000065,
+        "mean_coords": [
+          0.575,
+          0.65,
+          0.425,
+          0.7549999999999999
+        ]
+      },
+      {
+        "name": "sour",
+        "category": "taste",
+        "max_variance": 0.00046874999999999895,
+        "mean_coords": [
+          0.425,
+          0.5475,
+          0.625,
+          0.655
+        ]
+      },
+      {
+        "name": "bitter",
+        "category": "taste",
+        "max_variance": 0.00046874999999999993,
+        "mean_coords": [
+          0.3524999999999999,
+          0.475,
+          0.525,
+          0.725
+        ]
+      },
+      {
+        "name": "dissonance",
+        "category": "sound",
+        "max_variance": 0.00046875000000000004,
+        "mean_coords": [
+          0.325,
+          0.375,
+          0.5549999999999999,
+          0.45249999999999996
+        ]
+      },
+      {
+        "name": "smooth",
+        "category": "texture",
+        "max_variance": 0.00046875000000000004,
+        "mean_coords": [
+          0.7549999999999999,
+          0.825,
+          0.4525,
+          0.855
+        ]
+      },
+      {
+        "name": "sadness",
+        "category": "emotion",
+        "max_variance": 0.00046875000000000004,
+        "mean_coords": [
+          0.3524999999999999,
+          0.4525,
+          0.275,
+          0.575
+        ]
+      },
+      {
+        "name": "blue",
+        "category": "color",
+        "max_variance": 0.0004687500000000008,
+        "mean_coords": [
+          0.5475,
+          0.725,
+          0.425,
+          0.8474999999999999
+        ]
+      },
+      {
+        "name": "sweet",
+        "category": "taste",
+        "max_variance": 0.0005250000000000009,
+        "mean_coords": [
+          0.845,
+          0.625,
+          0.575,
+          0.6749999999999999
+        ]
+      },
+      {
+        "name": "major_chord",
+        "category": "sound",
+        "max_variance": 0.0006687499999999987,
+        "mean_coords": [
+          0.8125,
+          0.8424999999999999,
+          0.475,
+          0.875
+        ]
+      },
+      {
+        "name": "black",
+        "category": "color",
+        "max_variance": 0.0006687499999999992,
+        "mean_coords": [
+          0.3125,
+          0.475,
+          0.625,
+          0.575
+        ]
+      },
+      {
+        "name": "cold",
+        "category": "texture",
+        "max_variance": 0.0007249999999999993,
+        "mean_coords": [
+          0.435,
+          0.6074999999999999,
+          0.525,
+          0.7525
+        ]
+      },
+      {
+        "name": "green",
+        "category": "color",
+        "max_variance": 0.0009187499999999995,
+        "mean_coords": [
+          0.6875,
+          0.7549999999999999,
+          0.475,
+          0.8374999999999999
+        ]
+      },
+      {
+        "name": "warm",
+        "category": "texture",
+        "max_variance": 0.0009187499999999995,
+        "mean_coords": [
+          0.8374999999999999,
+          0.6924999999999999,
+          0.575,
+          0.725
+        ]
+      },
+      {
+        "name": "joy",
+        "category": "emotion",
+        "max_variance": 0.0009187499999999995,
+        "mean_coords": [
+          0.9450000000000001,
+          0.8374999999999999,
+          0.58,
+          0.875
+        ]
+      },
+      {
+        "name": "umami",
+        "category": "taste",
+        "max_variance": 0.001324999999999999,
+        "mean_coords": [
+          0.6950000000000001,
+          0.725,
+          0.655,
+          0.78
+        ]
+      },
+      {
+        "name": "silence",
+        "category": "sound",
+        "max_variance": 0.0018499999999999999,
+        "mean_coords": [
+          0.64,
+          0.6749999999999999,
+          0.38749999999999996,
+          0.8200000000000001
+        ]
+      },
+      {
+        "name": "red",
+        "category": "color",
+        "max_variance": 0.008918750000000003,
+        "mean_coords": [
+          0.7375,
+          0.48750000000000004,
+          0.8374999999999999,
+          0.525
+        ]
+      },
+      {
+        "name": "yellow",
+        "category": "color",
+        "max_variance": 0.01141875,
+        "mean_coords": [
+          0.8374999999999999,
+          0.7375,
+          0.565,
+          0.7475
+        ]
+      },
+      {
+        "name": "white",
+        "category": "color",
+        "max_variance": 0.03816875,
+        "mean_coords": [
+          0.8625,
+          0.7875,
+          0.5449999999999999,
+          0.925
+        ]
+      }
+    ],
+    "variable_qualia": []
+  },
+  "clustering_analysis": {
+    "centroids": {
+      "color": {
+        "L": 0.6641666666666667,
+        "J": 0.66125,
+        "P": 0.57875,
+        "W": 0.7429166666666666
+      },
+      "sound": {
+        "L": 0.588125,
+        "J": 0.635625,
+        "P": 0.46062499999999995,
+        "W": 0.725625
+      },
+      "taste": {
+        "L": 0.579375,
+        "J": 0.593125,
+        "P": 0.595,
+        "W": 0.70875
+      },
+      "texture": {
+        "L": 0.613125,
+        "J": 0.6499999999999999,
+        "P": 0.5575,
+        "W": 0.7268749999999999
+      },
+      "emotion": {
+        "L": 0.6487499999999999,
+        "J": 0.645,
+        "P": 0.4275,
+        "W": 0.725
+      }
+    },
+    "intra_category_cohesion": {
+      "color": {
+        "mean_distance": 0.2849834716141098,
+        "max_distance": 0.4343887387915218,
+        "members": 6
+      },
+      "sound": {
+        "mean_distance": 0.24898631645044755,
+        "max_distance": 0.46974893560283876,
+        "members": 4
+      },
+      "taste": {
+        "mean_distance": 0.226752440848022,
+        "max_distance": 0.27039178750472437,
+        "members": 4
+      },
+      "texture": {
+        "mean_distance": 0.2545261239207887,
+        "max_distance": 0.32168623105442357,
+        "members": 4
+      },
+      "emotion": {
+        "mean_distance": 0.41300915546752714,
+        "max_distance": 0.41300915546752714,
+        "members": 2
+      }
+    },
+    "inter_category_distances": {
+      "color_vs_sound": 0.14384537898575528,
+      "color_vs_taste": 0.1151610436398621,
+      "color_vs_texture": 0.0586575809725866,
+      "color_vs_emotion": 0.15394578771618128,
+      "sound_vs_taste": 0.142211879778027,
+      "sound_vs_texture": 0.10108396880811521,
+      "sound_vs_emotion": 0.06972042383692163,
+      "taste_vs_texture": 0.07815749324281063,
+      "taste_vs_emotion": 0.18927286849942332,
+      "texture_vs_emotion": 0.13489868883721587
+    }
+  },
+  "harmony_analysis": {
+    "ranked_by_harmony": [
+      {
+        "name": "joy",
+        "category": "emotion",
+        "harmony": 0.6799985443829846,
+        "distance_to_ne": 0.5816100309356776,
+        "mean_coords": [
+          0.9450000000000001,
+          0.8374999999999999,
+          0.58,
+          0.875
+        ]
+      },
+      {
+        "name": "white",
+        "category": "color",
+        "harmony": 0.6552930962124056,
+        "distance_to_ne": 0.5318726615318746,
+        "mean_coords": [
+          0.8625,
+          0.7875,
+          0.5449999999999999,
+          0.925
+        ]
+      },
+      {
+        "name": "umami",
+        "category": "taste",
+        "harmony": 0.6330236700168961,
+        "distance_to_ne": 0.33772734281517686,
+        "mean_coords": [
+          0.6950000000000001,
+          0.725,
+          0.655,
+          0.78
+        ]
+      },
+      {
+        "name": "yellow",
+        "category": "color",
+        "harmony": 0.628865885398248,
+        "distance_to_ne": 0.42323608433709903,
+        "mean_coords": [
+          0.8374999999999999,
+          0.7375,
+          0.565,
+          0.7475
+        ]
+      },
+      {
+        "name": "major_chord",
+        "category": "sound",
+        "harmony": 0.6278915024233751,
+        "distance_to_ne": 0.5599130004607857,
+        "mean_coords": [
+          0.8125,
+          0.8424999999999999,
+          0.475,
+          0.875
+        ]
+      },
+      {
+        "name": "warm",
+        "category": "texture",
+        "harmony": 0.6195110248243627,
+        "distance_to_ne": 0.38360496358232893,
+        "mean_coords": [
+          0.8374999999999999,
+          0.6924999999999999,
+          0.575,
+          0.725
+        ]
+      },
+      {
+        "name": "smooth",
+        "category": "texture",
+        "harmony": 0.6092252288880907,
+        "distance_to_ne": 0.5332366154766568,
+        "mean_coords": [
+          0.7549999999999999,
+          0.825,
+          0.4525,
+          0.855
+        ]
+      },
+      {
+        "name": "sweet",
+        "category": "taste",
+        "harmony": 0.5982682961792355,
+        "distance_to_ne": 0.34176504807396557,
+        "mean_coords": [
+          0.845,
+          0.625,
+          0.575,
+          0.6749999999999999
+        ]
+      },
+      {
+        "name": "green",
+        "category": "color",
+        "harmony": 0.5959400923150073,
+        "distance_to_ne": 0.4483129967834971,
+        "mean_coords": [
+          0.6875,
+          0.7549999999999999,
+          0.475,
+          0.8374999999999999
+        ]
+      },
+      {
+        "name": "red",
+        "category": "color",
+        "harmony": 0.5669149309601474,
+        "distance_to_ne": 0.2492575135978853,
+        "mean_coords": [
+          0.7375,
+          0.48750000000000004,
+          0.8374999999999999,
+          0.525
+        ]
+      },
+      {
+        "name": "blue",
+        "category": "color",
+        "harmony": 0.5566670373423172,
+        "distance_to_ne": 0.45978490958816814,
+        "mean_coords": [
+          0.5475,
+          0.725,
+          0.425,
+          0.8474999999999999
+        ]
+      },
+      {
+        "name": "silence",
+        "category": "sound",
+        "harmony": 0.5550201470981488,
+        "distance_to_ne": 0.44045460388671154,
+        "mean_coords": [
+          0.64,
+          0.6749999999999999,
+          0.38749999999999996,
+          0.8200000000000001
+        ]
+      },
+      {
+        "name": "minor_chord",
+        "category": "sound",
+        "harmony": 0.5455741046018011,
+        "distance_to_ne": 0.38377999958960857,
+        "mean_coords": [
+          0.575,
+          0.65,
+          0.425,
+          0.7549999999999999
+        ]
+      },
+      {
+        "name": "cold",
+        "category": "texture",
+        "harmony": 0.5342242815713277,
+        "distance_to_ne": 0.33427777832963995,
+        "mean_coords": [
+          0.435,
+          0.6074999999999999,
+          0.525,
+          0.7525
+        ]
+      },
+      {
+        "name": "sour",
+        "category": "taste",
+        "harmony": 0.5286403465701052,
+        "distance_to_ne": 0.25531159018932137,
+        "mean_coords": [
+          0.425,
+          0.5475,
+          0.625,
+          0.655
+        ]
+      },
+      {
+        "name": "rough",
+        "category": "texture",
+        "harmony": 0.5144390014426848,
+        "distance_to_ne": 0.2378632970531603,
+        "mean_coords": [
+          0.425,
+          0.475,
+          0.6775,
+          0.575
+        ]
+      },
+      {
+        "name": "bitter",
+        "category": "taste",
+        "harmony": 0.5004845314696964,
+        "distance_to_ne": 0.3355231558104448,
+        "mean_coords": [
+          0.3524999999999999,
+          0.475,
+          0.525,
+          0.725
+        ]
+      },
+      {
+        "name": "black",
+        "category": "color",
+        "harmony": 0.49159823235815164,
+        "distance_to_ne": 0.3459858495444575,
+        "mean_coords": [
+          0.3125,
+          0.475,
+          0.625,
+          0.575
+        ]
+      },
+      {
+        "name": "dissonance",
+        "category": "sound",
+        "harmony": 0.46310798062608244,
+        "distance_to_ne": 0.414703090276646,
+        "mean_coords": [
+          0.325,
+          0.375,
+          0.5549999999999999,
+          0.45249999999999996
+        ]
+      },
+      {
+        "name": "sadness",
+        "category": "emotion",
+        "harmony": 0.4558210110679341,
+        "distance_to_ne": 0.5314430995741689,
+        "mean_coords": [
+          0.3524999999999999,
+          0.4525,
+          0.275,
+          0.575
+        ]
+      }
+    ],
+    "highest_harmony": {
+      "name": "joy",
+      "category": "emotion",
+      "harmony": 0.6799985443829846,
+      "distance_to_ne": 0.5816100309356776,
+      "mean_coords": [
+        0.9450000000000001,
+        0.8374999999999999,
+        0.58,
+        0.875
+      ]
+    },
+    "lowest_harmony": {
+      "name": "sadness",
+      "category": "emotion",
+      "harmony": 0.4558210110679341,
+      "distance_to_ne": 0.5314430995741689,
+      "mean_coords": [
+        0.3524999999999999,
+        0.4525,
+        0.275,
+        0.575
+      ]
+    },
+    "average_harmony_by_category": {
+      "emotion": 0.5679097777254594,
+      "color": 0.5825465457643796,
+      "taste": 0.5651042110589833,
+      "sound": 0.5478984336873519,
+      "texture": 0.5693498841816165
+    },
+    "overall_average": 0.5680254472874503
+  },
+  "linguistic_comparison": {
+    "comparisons": [
+      {
+        "emotion": "joy",
+        "quale_coords": [
+          0.9450000000000001,
+          0.8374999999999999,
+          0.58,
+          0.875
+        ],
+        "linguistic_coords": [
+          0.92,
+          0.78,
+          0.55,
+          0.85
+        ],
+        "distance": 0.07386643351347068,
+        "cosine_similarity": 0.9998220893500083,
+        "interpretation": "Nearly identical"
+      },
+      {
+        "emotion": "sadness",
+        "quale_coords": [
+          0.3524999999999999,
+          0.4525,
+          0.275,
+          0.575
+        ],
+        "linguistic_coords": [
+          0.38,
+          0.48,
+          0.3,
+          0.6
+        ],
+        "distance": 0.05255949010407161,
+        "cosine_similarity": 0.9998774029507802,
+        "interpretation": "Nearly identical"
+      }
+    ],
+    "conclusion": "Qualia and linguistic labels map to same coordinates"
+  }
+}
