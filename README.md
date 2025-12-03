@@ -426,9 +426,9 @@ If you use this framework in your research, please cite:
 ```bibtex
 @software{ljpw_framework,
   title = {LJPW Language Translator: Geometric Semantic Mapping Framework},
-  author = {[Your Name]},
-  year = {2024},
-  url = {https://github.com/yourusername/LJPW-Language-Translator}
+  author = {Wellington Taureka},
+  year = {2025},
+  url = {https://github.com/BruinGrowly/LJPW-Language-Translator}
 }
 ```
 
@@ -444,11 +444,11 @@ See [LICENSE](LICENSE) file for details.
 
 For questions, collaborations, or to report findings:
 - Open an issue on GitHub
-- [Your contact information]
+- bruinnecessities@gmail.com
 
 ---
 
-*"In the beginning was the Word, and the Word was with God, and the Word was God."*
+*"In the beginning was the Word, and the Word was with God, and the Word was a God."*
 — John 1:1
 
 *Perhaps the Word was coordinates all along.*
