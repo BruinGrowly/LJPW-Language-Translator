@@ -1,0 +1,1764 @@
+{
+  "metadata": {
+    "created": "2025-12-04T10:54:35.817711",
+    "total_concepts": 81,
+    "total_domains": 2,
+    "description": "Complete LJPW semantic space mapping"
+  },
+  "anchor_concepts": {
+    "love": [
+      0.91,
+      0.48,
+      0.17,
+      0.72
+    ],
+    "compassion": [
+      0.86,
+      0.54,
+      0.23,
+      0.69
+    ],
+    "kindness": [
+      0.83,
+      0.61,
+      0.27,
+      0.72
+    ],
+    "anger": [
+      0.29,
+      0.34,
+      0.79,
+      0.42
+    ],
+    "fear": [
+      0.31,
+      0.38,
+      0.62,
+      0.48
+    ],
+    "sadness": [
+      0.42,
+      0.41,
+      0.24,
+      0.52
+    ],
+    "bond": [
+      0.88,
+      0.52,
+      0.19,
+      0.67
+    ],
+    "beauty": [
+      0.79,
+      0.58,
+      0.32,
+      0.74
+    ],
+    "sleep": [
+      0.58,
+      0.51,
+      0.36,
+      0.61
+    ],
+    "life": [
+      0.76,
+      0.63,
+      0.34,
+      0.71
+    ],
+    "knowledge": [
+      0.59,
+      0.72,
+      0.41,
+      0.89
+    ],
+    "truth": [
+      0.67,
+      0.81,
+      0.38,
+      0.84
+    ],
+    "power": [
+      0.51,
+      0.68,
+      0.79,
+      0.64
+    ],
+    "strength": [
+      0.48,
+      0.61,
+      0.81,
+      0.58
+    ],
+    "freedom": [
+      0.61,
+      0.79,
+      0.68,
+      0.76
+    ],
+    "justice": [
+      0.56,
+      0.91,
+      0.48,
+      0.82
+    ],
+    "honor": [
+      0.65,
+      0.84,
+      0.72,
+      0.81
+    ],
+    "good": [
+      0.73,
+      0.69,
+      0.38,
+      0.78
+    ],
+    "evil": [
+      0.19,
+      0.28,
+      0.71,
+      0.33
+    ],
+    "sacred": [
+      0.71,
+      0.78,
+      0.43,
+      0.87
+    ]
+  },
+  "domains": {
+    "emotions": {
+      "description": "All human emotional states and feelings",
+      "concepts": {
+        "joy": {
+          "coordinates": [
+            0.93,
+            0.48,
+            0.12000000000000001,
+            0.72
+          ],
+          "definition": "Intense happiness and delight",
+          "related": []
+        },
+        "happiness": {
+          "coordinates": [
+            0.91,
+            0.48,
+            0.09000000000000001,
+            0.72
+          ],
+          "definition": "State of well-being and contentment",
+          "related": []
+        },
+        "contentment": {
+          "coordinates": [
+            0.86,
+            0.48,
+            0.07,
+            0.77
+          ],
+          "definition": "Peaceful satisfaction with one's situation",
+          "related": []
+        },
+        "delight": {
+          "coordinates": [
+            0.9400000000000001,
+            0.48,
+            0.11000000000000001,
+            0.72
+          ],
+          "definition": "Great pleasure and enjoyment",
+          "related": []
+        },
+        "elation": {
+          "coordinates": [
+            0.9500000000000001,
+            0.48,
+            0.27,
+            0.6699999999999999
+          ],
+          "definition": "Extreme happiness and excitement",
+          "related": []
+        },
+        "euphoria": {
+          "coordinates": [
+            0.9600000000000001,
+            0.48,
+            0.32,
+            0.62
+          ],
+          "definition": "Intense state of pleasure and well-being",
+          "related": []
+        },
+        "bliss": {
+          "coordinates": [
+            0.97,
+            0.58,
+            0.05000000000000002,
+            0.87
+          ],
+          "definition": "Perfect happiness and spiritual joy",
+          "related": []
+        },
+        "ecstasy": {
+          "coordinates": [
+            0.98,
+            0.48,
+            0.37,
+            0.57
+          ],
+          "definition": "Overwhelming feeling of rapture",
+          "related": []
+        },
+        "affection": {
+          "coordinates": [
+            0.86,
+            0.48,
+            0.09000000000000001,
+            0.72
+          ],
+          "definition": "Gentle caring feeling",
+          "related": []
+        },
+        "tenderness": {
+          "coordinates": [
+            0.89,
+            0.53,
+            0.05000000000000002,
+            0.72
+          ],
+          "definition": "Gentle warmth and care",
+          "related": []
+        },
+        "adoration": {
+          "coordinates": [
+            0.9500000000000001,
+            0.5599999999999999,
+            0.17,
+            0.77
+          ],
+          "definition": "Deep love and respect",
+          "related": []
+        },
+        "infatuation": {
+          "coordinates": [
+            0.9600000000000001,
+            0.48,
+            0.32,
+            0.52
+          ],
+          "definition": "Intense but often short-lived passion",
+          "related": []
+        },
+        "devotion": {
+          "coordinates": [
+            0.93,
+            0.63,
+            0.17,
+            0.82
+          ],
+          "definition": "Loyal commitment and dedication",
+          "related": []
+        },
+        "serenity": {
+          "coordinates": [
+            0.81,
+            0.53,
+            0.020000000000000018,
+            0.9199999999999999
+          ],
+          "definition": "State of calm and peaceful tranquility",
+          "related": []
+        },
+        "tranquility": {
+          "coordinates": [
+            0.79,
+            0.48,
+            0.010000000000000009,
+            0.8999999999999999
+          ],
+          "definition": "Quality of being calm and peaceful",
+          "related": []
+        },
+        "calm": {
+          "coordinates": [
+            0.76,
+            0.48,
+            0.03,
+            0.87
+          ],
+          "definition": "State of quietness and composure",
+          "related": []
+        },
+        "rage": {
+          "coordinates": [
+            0.29,
+            0.34,
+            0.91,
+            0.31999999999999995
+          ],
+          "definition": "Violent uncontrollable anger",
+          "related": []
+        },
+        "fury": {
+          "coordinates": [
+            0.29,
+            0.34,
+            0.89,
+            0.33999999999999997
+          ],
+          "definition": "Wild intense anger",
+          "related": []
+        },
+        "wrath": {
+          "coordinates": [
+            0.29,
+            0.49,
+            0.87,
+            0.42
+          ],
+          "definition": "Divine or righteous anger",
+          "related": []
+        },
+        "irritation": {
+          "coordinates": [
+            0.29,
+            0.34,
+            0.54,
+            0.47
+          ],
+          "definition": "Mild annoyance",
+          "related": []
+        },
+        "annoyance": {
+          "coordinates": [
+            0.29,
+            0.34,
+            0.5900000000000001,
+            0.44999999999999996
+          ],
+          "definition": "Feeling of being bothered",
+          "related": []
+        },
+        "frustration": {
+          "coordinates": [
+            0.33999999999999997,
+            0.34,
+            0.6900000000000001,
+            0.52
+          ],
+          "definition": "Feeling of being blocked or helpless",
+          "related": []
+        },
+        "resentment": {
+          "coordinates": [
+            0.29,
+            0.24000000000000002,
+            0.74,
+            0.5
+          ],
+          "definition": "Bitter indignation at perceived unfairness",
+          "related": []
+        },
+        "hostility": {
+          "coordinates": [
+            0.24,
+            0.26,
+            0.89,
+            0.42
+          ],
+          "definition": "Deep-seated anger and opposition",
+          "related": []
+        },
+        "terror": {
+          "coordinates": [
+            0.31,
+            0.38,
+            0.8200000000000001,
+            0.32999999999999996
+          ],
+          "definition": "Extreme fear and dread",
+          "related": []
+        },
+        "panic": {
+          "coordinates": [
+            0.31,
+            0.38,
+            0.8,
+            0.27999999999999997
+          ],
+          "definition": "Sudden overwhelming fear",
+          "related": []
+        },
+        "anxiety": {
+          "coordinates": [
+            0.31,
+            0.38,
+            0.52,
+            0.58
+          ],
+          "definition": "Persistent worry and unease",
+          "related": []
+        },
+        "worry": {
+          "coordinates": [
+            0.36,
+            0.38,
+            0.47,
+            0.6
+          ],
+          "definition": "Anxious concern about potential problems",
+          "related": []
+        },
+        "dread": {
+          "coordinates": [
+            0.31,
+            0.33,
+            0.72,
+            0.53
+          ],
+          "definition": "Great fear of something in the future",
+          "related": []
+        },
+        "horror": {
+          "coordinates": [
+            0.22999999999999998,
+            0.38,
+            0.77,
+            0.38
+          ],
+          "definition": "Intense shock and fear",
+          "related": []
+        },
+        "nervousness": {
+          "coordinates": [
+            0.31,
+            0.38,
+            0.42,
+            0.5599999999999999
+          ],
+          "definition": "Slight anxiety or apprehension",
+          "related": []
+        },
+        "grief": {
+          "coordinates": [
+            0.31999999999999995,
+            0.41,
+            0.19,
+            0.52
+          ],
+          "definition": "Deep sorrow over loss",
+          "related": []
+        },
+        "sorrow": {
+          "coordinates": [
+            0.33999999999999997,
+            0.36,
+            0.24,
+            0.52
+          ],
+          "definition": "Deep distress and regret",
+          "related": []
+        },
+        "melancholy": {
+          "coordinates": [
+            0.37,
+            0.41,
+            0.24,
+            0.62
+          ],
+          "definition": "Pensive sadness with no obvious cause",
+          "related": []
+        },
+        "despair": {
+          "coordinates": [
+            0.27,
+            0.20999999999999996,
+            0.24,
+            0.42000000000000004
+          ],
+          "definition": "Complete loss of hope",
+          "related": []
+        },
+        "depression": {
+          "coordinates": [
+            0.3,
+            0.41,
+            0.15999999999999998,
+            0.47000000000000003
+          ],
+          "definition": "Persistent feeling of sadness and hopelessness",
+          "related": []
+        },
+        "misery": {
+          "coordinates": [
+            0.24,
+            0.26,
+            0.13999999999999999,
+            0.52
+          ],
+          "definition": "Great unhappiness and suffering",
+          "related": []
+        },
+        "loneliness": {
+          "coordinates": [
+            0.31999999999999995,
+            0.41,
+            0.12,
+            0.52
+          ],
+          "definition": "Sadness from lack of companionship",
+          "related": []
+        },
+        "heartbreak": {
+          "coordinates": [
+            0.3,
+            0.41,
+            0.15999999999999998,
+            0.52
+          ],
+          "definition": "Overwhelming grief from emotional loss",
+          "related": []
+        },
+        "nostalgia": {
+          "coordinates": [
+            0.7140000000000001,
+            0.45199999999999996,
+            0.198,
+            0.64
+          ],
+          "definition": "Sentimental longing for the past",
+          "related": []
+        },
+        "bittersweet": {
+          "coordinates": [
+            0.763,
+            0.45899999999999996,
+            0.191,
+            0.66
+          ],
+          "definition": "Mixed feeling of happiness and sadness",
+          "related": []
+        },
+        "guilt": {
+          "coordinates": [
+            0.42,
+            0.61,
+            0.24,
+            0.67
+          ],
+          "definition": "Remorse for wrongdoing",
+          "related": []
+        },
+        "shame": {
+          "coordinates": [
+            0.33999999999999997,
+            0.51,
+            0.13999999999999999,
+            0.52
+          ],
+          "definition": "Painful feeling of humiliation",
+          "related": []
+        },
+        "embarrassment": {
+          "coordinates": [
+            0.37,
+            0.53,
+            0.15999999999999998,
+            0.52
+          ],
+          "definition": "Self-conscious awkwardness",
+          "related": []
+        },
+        "pride": {
+          "coordinates": [
+            0.78,
+            0.6599999999999999,
+            0.445,
+            0.765
+          ],
+          "definition": "Satisfaction in achievements",
+          "related": []
+        },
+        "envy": {
+          "coordinates": [
+            0.31999999999999995,
+            0.41,
+            0.44,
+            0.47000000000000003
+          ],
+          "definition": "Resentful desire for others' advantages",
+          "related": []
+        },
+        "jealousy": {
+          "coordinates": [
+            0.21,
+            0.38,
+            0.77,
+            0.48
+          ],
+          "definition": "Fear of losing something to a rival",
+          "related": []
+        },
+        "surprise": {
+          "coordinates": [
+            0.62,
+            0.58,
+            0.45,
+            0.75
+          ],
+          "definition": "Sudden unexpected feeling",
+          "related": []
+        },
+        "astonishment": {
+          "coordinates": [
+            0.64,
+            0.6,
+            0.55,
+            0.8
+          ],
+          "definition": "Great surprise or amazement",
+          "related": []
+        },
+        "curiosity": {
+          "coordinates": [
+            0.68,
+            0.62,
+            0.38,
+            0.85
+          ],
+          "definition": "Strong desire to learn",
+          "related": []
+        },
+        "interest": {
+          "coordinates": [
+            0.65,
+            0.6,
+            0.4,
+            0.82
+          ],
+          "definition": "Feeling of wanting to know more",
+          "related": []
+        },
+        "disgust": {
+          "coordinates": [
+            0.22,
+            0.35,
+            0.65,
+            0.4
+          ],
+          "definition": "Revulsion or strong disapproval",
+          "related": []
+        },
+        "contempt": {
+          "coordinates": [
+            0.24,
+            0.5,
+            0.75,
+            0.48
+          ],
+          "definition": "Feeling that something is worthless",
+          "related": []
+        },
+        "revulsion": {
+          "coordinates": [
+            0.2,
+            0.33,
+            0.77,
+            0.35
+          ],
+          "definition": "Strong feeling of disgust",
+          "related": []
+        },
+        "hope": {
+          "coordinates": [
+            0.78,
+            0.7,
+            0.42,
+            0.8
+          ],
+          "definition": "Expectation and desire for positive outcome",
+          "related": []
+        },
+        "optimism": {
+          "coordinates": [
+            0.8,
+            0.73,
+            0.45,
+            0.83
+          ],
+          "definition": "Hopefulness about the future",
+          "related": []
+        },
+        "gratitude": {
+          "coordinates": [
+            0.806,
+            0.624,
+            0.39,
+            0.756
+          ],
+          "definition": "Thankful appreciation",
+          "related": []
+        },
+        "appreciation": {
+          "coordinates": [
+            0.793,
+            0.6419999999999999,
+            0.4175,
+            0.7605
+          ],
+          "definition": "Recognition of value or quality",
+          "related": []
+        }
+      }
+    },
+    "actions": {
+      "description": "All human actions and activities",
+      "concepts": {
+        "walk": {
+          "coordinates": [
+            0.55,
+            0.5,
+            0.45,
+            0.6
+          ],
+          "definition": "Move at regular pace on foot",
+          "related": []
+        },
+        "run": {
+          "coordinates": [
+            0.57,
+            0.52,
+            0.65,
+            0.55
+          ],
+          "definition": "Move swiftly on foot",
+          "related": []
+        },
+        "jump": {
+          "coordinates": [
+            0.6,
+            0.52,
+            0.65,
+            0.62
+          ],
+          "definition": "Push off ground into the air",
+          "related": []
+        },
+        "dance": {
+          "coordinates": [
+            0.75,
+            0.58,
+            0.55,
+            0.68
+          ],
+          "definition": "Move rhythmically to music",
+          "related": []
+        },
+        "create": {
+          "coordinates": [
+            0.72,
+            0.68,
+            0.6,
+            0.85
+          ],
+          "definition": "Bring something into existence",
+          "related": []
+        },
+        "build": {
+          "coordinates": [
+            0.74,
+            0.7,
+            0.7,
+            0.9
+          ],
+          "definition": "Construct by putting parts together",
+          "related": []
+        },
+        "make": {
+          "coordinates": [
+            0.67,
+            0.63,
+            0.6,
+            0.85
+          ],
+          "definition": "Form by combining materials",
+          "related": []
+        },
+        "destroy": {
+          "coordinates": [
+            0.18,
+            0.32,
+            0.82,
+            0.35
+          ],
+          "definition": "Cause to cease to exist",
+          "related": []
+        },
+        "break": {
+          "coordinates": [
+            0.2,
+            0.34,
+            0.72,
+            0.37
+          ],
+          "definition": "Separate into pieces",
+          "related": []
+        },
+        "think": {
+          "coordinates": [
+            0.58,
+            0.65,
+            0.38,
+            0.88
+          ],
+          "definition": "Use mind to consider",
+          "related": []
+        },
+        "know": {
+          "coordinates": [
+            0.59,
+            0.72,
+            0.41,
+            0.89
+          ],
+          "definition": "Have information in mind",
+          "related": []
+        },
+        "learn": {
+          "coordinates": [
+            0.64,
+            0.72,
+            0.49,
+            0.9400000000000001
+          ],
+          "definition": "Acquire knowledge or skill",
+          "related": []
+        },
+        "understand": {
+          "coordinates": [
+            0.59,
+            0.77,
+            0.41,
+            0.97
+          ],
+          "definition": "Comprehend meaning",
+          "related": []
+        },
+        "remember": {
+          "coordinates": [
+            0.62,
+            0.68,
+            0.35,
+            0.85
+          ],
+          "definition": "Recall from memory",
+          "related": []
+        },
+        "forget": {
+          "coordinates": [
+            0.45,
+            0.42,
+            0.3,
+            0.4
+          ],
+          "definition": "Fail to remember",
+          "related": []
+        },
+        "speak": {
+          "coordinates": [
+            0.62,
+            0.62,
+            0.52,
+            0.75
+          ],
+          "definition": "Express thoughts in words",
+          "related": []
+        },
+        "listen": {
+          "coordinates": [
+            0.68,
+            0.65,
+            0.35,
+            0.8
+          ],
+          "definition": "Pay attention to sounds",
+          "related": []
+        },
+        "teach": {
+          "coordinates": [
+            0.75,
+            0.72,
+            0.48,
+            0.9
+          ],
+          "definition": "Impart knowledge or skill",
+          "related": []
+        },
+        "help": {
+          "coordinates": [
+            0.82,
+            0.7,
+            0.4,
+            0.75
+          ],
+          "definition": "Assist or aid someone",
+          "related": []
+        },
+        "love (verb)": {
+          "coordinates": [
+            0.91,
+            0.48,
+            0.17,
+            0.72
+          ],
+          "definition": "Feel deep affection for",
+          "related": []
+        },
+        "hate": {
+          "coordinates": [
+            0.12,
+            0.25,
+            0.75,
+            0.3
+          ],
+          "definition": "Feel intense dislike for",
+          "related": []
+        },
+        "care": {
+          "coordinates": [
+            0.85,
+            0.62,
+            0.28,
+            0.72
+          ],
+          "definition": "Feel concern or interest",
+          "related": []
+        },
+        "trust": {
+          "coordinates": [
+            0.78,
+            0.75,
+            0.38,
+            0.82
+          ],
+          "definition": "Have confidence in",
+          "related": []
+        }
+      }
+    }
+  },
+  "concept_index": {
+    "joy": {
+      "coordinates": [
+        0.93,
+        0.48,
+        0.12000000000000001,
+        0.72
+      ],
+      "definition": "Intense happiness and delight",
+      "domain": "Emotions"
+    },
+    "happiness": {
+      "coordinates": [
+        0.91,
+        0.48,
+        0.09000000000000001,
+        0.72
+      ],
+      "definition": "State of well-being and contentment",
+      "domain": "Emotions"
+    },
+    "contentment": {
+      "coordinates": [
+        0.86,
+        0.48,
+        0.07,
+        0.77
+      ],
+      "definition": "Peaceful satisfaction with one's situation",
+      "domain": "Emotions"
+    },
+    "delight": {
+      "coordinates": [
+        0.9400000000000001,
+        0.48,
+        0.11000000000000001,
+        0.72
+      ],
+      "definition": "Great pleasure and enjoyment",
+      "domain": "Emotions"
+    },
+    "elation": {
+      "coordinates": [
+        0.9500000000000001,
+        0.48,
+        0.27,
+        0.6699999999999999
+      ],
+      "definition": "Extreme happiness and excitement",
+      "domain": "Emotions"
+    },
+    "euphoria": {
+      "coordinates": [
+        0.9600000000000001,
+        0.48,
+        0.32,
+        0.62
+      ],
+      "definition": "Intense state of pleasure and well-being",
+      "domain": "Emotions"
+    },
+    "bliss": {
+      "coordinates": [
+        0.97,
+        0.58,
+        0.05000000000000002,
+        0.87
+      ],
+      "definition": "Perfect happiness and spiritual joy",
+      "domain": "Emotions"
+    },
+    "ecstasy": {
+      "coordinates": [
+        0.98,
+        0.48,
+        0.37,
+        0.57
+      ],
+      "definition": "Overwhelming feeling of rapture",
+      "domain": "Emotions"
+    },
+    "affection": {
+      "coordinates": [
+        0.86,
+        0.48,
+        0.09000000000000001,
+        0.72
+      ],
+      "definition": "Gentle caring feeling",
+      "domain": "Emotions"
+    },
+    "tenderness": {
+      "coordinates": [
+        0.89,
+        0.53,
+        0.05000000000000002,
+        0.72
+      ],
+      "definition": "Gentle warmth and care",
+      "domain": "Emotions"
+    },
+    "adoration": {
+      "coordinates": [
+        0.9500000000000001,
+        0.5599999999999999,
+        0.17,
+        0.77
+      ],
+      "definition": "Deep love and respect",
+      "domain": "Emotions"
+    },
+    "infatuation": {
+      "coordinates": [
+        0.9600000000000001,
+        0.48,
+        0.32,
+        0.52
+      ],
+      "definition": "Intense but often short-lived passion",
+      "domain": "Emotions"
+    },
+    "devotion": {
+      "coordinates": [
+        0.93,
+        0.63,
+        0.17,
+        0.82
+      ],
+      "definition": "Loyal commitment and dedication",
+      "domain": "Emotions"
+    },
+    "serenity": {
+      "coordinates": [
+        0.81,
+        0.53,
+        0.020000000000000018,
+        0.9199999999999999
+      ],
+      "definition": "State of calm and peaceful tranquility",
+      "domain": "Emotions"
+    },
+    "tranquility": {
+      "coordinates": [
+        0.79,
+        0.48,
+        0.010000000000000009,
+        0.8999999999999999
+      ],
+      "definition": "Quality of being calm and peaceful",
+      "domain": "Emotions"
+    },
+    "calm": {
+      "coordinates": [
+        0.76,
+        0.48,
+        0.03,
+        0.87
+      ],
+      "definition": "State of quietness and composure",
+      "domain": "Emotions"
+    },
+    "rage": {
+      "coordinates": [
+        0.29,
+        0.34,
+        0.91,
+        0.31999999999999995
+      ],
+      "definition": "Violent uncontrollable anger",
+      "domain": "Emotions"
+    },
+    "fury": {
+      "coordinates": [
+        0.29,
+        0.34,
+        0.89,
+        0.33999999999999997
+      ],
+      "definition": "Wild intense anger",
+      "domain": "Emotions"
+    },
+    "wrath": {
+      "coordinates": [
+        0.29,
+        0.49,
+        0.87,
+        0.42
+      ],
+      "definition": "Divine or righteous anger",
+      "domain": "Emotions"
+    },
+    "irritation": {
+      "coordinates": [
+        0.29,
+        0.34,
+        0.54,
+        0.47
+      ],
+      "definition": "Mild annoyance",
+      "domain": "Emotions"
+    },
+    "annoyance": {
+      "coordinates": [
+        0.29,
+        0.34,
+        0.5900000000000001,
+        0.44999999999999996
+      ],
+      "definition": "Feeling of being bothered",
+      "domain": "Emotions"
+    },
+    "frustration": {
+      "coordinates": [
+        0.33999999999999997,
+        0.34,
+        0.6900000000000001,
+        0.52
+      ],
+      "definition": "Feeling of being blocked or helpless",
+      "domain": "Emotions"
+    },
+    "resentment": {
+      "coordinates": [
+        0.29,
+        0.24000000000000002,
+        0.74,
+        0.5
+      ],
+      "definition": "Bitter indignation at perceived unfairness",
+      "domain": "Emotions"
+    },
+    "hostility": {
+      "coordinates": [
+        0.24,
+        0.26,
+        0.89,
+        0.42
+      ],
+      "definition": "Deep-seated anger and opposition",
+      "domain": "Emotions"
+    },
+    "terror": {
+      "coordinates": [
+        0.31,
+        0.38,
+        0.8200000000000001,
+        0.32999999999999996
+      ],
+      "definition": "Extreme fear and dread",
+      "domain": "Emotions"
+    },
+    "panic": {
+      "coordinates": [
+        0.31,
+        0.38,
+        0.8,
+        0.27999999999999997
+      ],
+      "definition": "Sudden overwhelming fear",
+      "domain": "Emotions"
+    },
+    "anxiety": {
+      "coordinates": [
+        0.31,
+        0.38,
+        0.52,
+        0.58
+      ],
+      "definition": "Persistent worry and unease",
+      "domain": "Emotions"
+    },
+    "worry": {
+      "coordinates": [
+        0.36,
+        0.38,
+        0.47,
+        0.6
+      ],
+      "definition": "Anxious concern about potential problems",
+      "domain": "Emotions"
+    },
+    "dread": {
+      "coordinates": [
+        0.31,
+        0.33,
+        0.72,
+        0.53
+      ],
+      "definition": "Great fear of something in the future",
+      "domain": "Emotions"
+    },
+    "horror": {
+      "coordinates": [
+        0.22999999999999998,
+        0.38,
+        0.77,
+        0.38
+      ],
+      "definition": "Intense shock and fear",
+      "domain": "Emotions"
+    },
+    "nervousness": {
+      "coordinates": [
+        0.31,
+        0.38,
+        0.42,
+        0.5599999999999999
+      ],
+      "definition": "Slight anxiety or apprehension",
+      "domain": "Emotions"
+    },
+    "grief": {
+      "coordinates": [
+        0.31999999999999995,
+        0.41,
+        0.19,
+        0.52
+      ],
+      "definition": "Deep sorrow over loss",
+      "domain": "Emotions"
+    },
+    "sorrow": {
+      "coordinates": [
+        0.33999999999999997,
+        0.36,
+        0.24,
+        0.52
+      ],
+      "definition": "Deep distress and regret",
+      "domain": "Emotions"
+    },
+    "melancholy": {
+      "coordinates": [
+        0.37,
+        0.41,
+        0.24,
+        0.62
+      ],
+      "definition": "Pensive sadness with no obvious cause",
+      "domain": "Emotions"
+    },
+    "despair": {
+      "coordinates": [
+        0.27,
+        0.20999999999999996,
+        0.24,
+        0.42000000000000004
+      ],
+      "definition": "Complete loss of hope",
+      "domain": "Emotions"
+    },
+    "depression": {
+      "coordinates": [
+        0.3,
+        0.41,
+        0.15999999999999998,
+        0.47000000000000003
+      ],
+      "definition": "Persistent feeling of sadness and hopelessness",
+      "domain": "Emotions"
+    },
+    "misery": {
+      "coordinates": [
+        0.24,
+        0.26,
+        0.13999999999999999,
+        0.52
+      ],
+      "definition": "Great unhappiness and suffering",
+      "domain": "Emotions"
+    },
+    "loneliness": {
+      "coordinates": [
+        0.31999999999999995,
+        0.41,
+        0.12,
+        0.52
+      ],
+      "definition": "Sadness from lack of companionship",
+      "domain": "Emotions"
+    },
+    "heartbreak": {
+      "coordinates": [
+        0.3,
+        0.41,
+        0.15999999999999998,
+        0.52
+      ],
+      "definition": "Overwhelming grief from emotional loss",
+      "domain": "Emotions"
+    },
+    "nostalgia": {
+      "coordinates": [
+        0.7140000000000001,
+        0.45199999999999996,
+        0.198,
+        0.64
+      ],
+      "definition": "Sentimental longing for the past",
+      "domain": "Emotions"
+    },
+    "bittersweet": {
+      "coordinates": [
+        0.763,
+        0.45899999999999996,
+        0.191,
+        0.66
+      ],
+      "definition": "Mixed feeling of happiness and sadness",
+      "domain": "Emotions"
+    },
+    "guilt": {
+      "coordinates": [
+        0.42,
+        0.61,
+        0.24,
+        0.67
+      ],
+      "definition": "Remorse for wrongdoing",
+      "domain": "Emotions"
+    },
+    "shame": {
+      "coordinates": [
+        0.33999999999999997,
+        0.51,
+        0.13999999999999999,
+        0.52
+      ],
+      "definition": "Painful feeling of humiliation",
+      "domain": "Emotions"
+    },
+    "embarrassment": {
+      "coordinates": [
+        0.37,
+        0.53,
+        0.15999999999999998,
+        0.52
+      ],
+      "definition": "Self-conscious awkwardness",
+      "domain": "Emotions"
+    },
+    "pride": {
+      "coordinates": [
+        0.78,
+        0.6599999999999999,
+        0.445,
+        0.765
+      ],
+      "definition": "Satisfaction in achievements",
+      "domain": "Emotions"
+    },
+    "envy": {
+      "coordinates": [
+        0.31999999999999995,
+        0.41,
+        0.44,
+        0.47000000000000003
+      ],
+      "definition": "Resentful desire for others' advantages",
+      "domain": "Emotions"
+    },
+    "jealousy": {
+      "coordinates": [
+        0.21,
+        0.38,
+        0.77,
+        0.48
+      ],
+      "definition": "Fear of losing something to a rival",
+      "domain": "Emotions"
+    },
+    "surprise": {
+      "coordinates": [
+        0.62,
+        0.58,
+        0.45,
+        0.75
+      ],
+      "definition": "Sudden unexpected feeling",
+      "domain": "Emotions"
+    },
+    "astonishment": {
+      "coordinates": [
+        0.64,
+        0.6,
+        0.55,
+        0.8
+      ],
+      "definition": "Great surprise or amazement",
+      "domain": "Emotions"
+    },
+    "curiosity": {
+      "coordinates": [
+        0.68,
+        0.62,
+        0.38,
+        0.85
+      ],
+      "definition": "Strong desire to learn",
+      "domain": "Emotions"
+    },
+    "interest": {
+      "coordinates": [
+        0.65,
+        0.6,
+        0.4,
+        0.82
+      ],
+      "definition": "Feeling of wanting to know more",
+      "domain": "Emotions"
+    },
+    "disgust": {
+      "coordinates": [
+        0.22,
+        0.35,
+        0.65,
+        0.4
+      ],
+      "definition": "Revulsion or strong disapproval",
+      "domain": "Emotions"
+    },
+    "contempt": {
+      "coordinates": [
+        0.24,
+        0.5,
+        0.75,
+        0.48
+      ],
+      "definition": "Feeling that something is worthless",
+      "domain": "Emotions"
+    },
+    "revulsion": {
+      "coordinates": [
+        0.2,
+        0.33,
+        0.77,
+        0.35
+      ],
+      "definition": "Strong feeling of disgust",
+      "domain": "Emotions"
+    },
+    "hope": {
+      "coordinates": [
+        0.78,
+        0.7,
+        0.42,
+        0.8
+      ],
+      "definition": "Expectation and desire for positive outcome",
+      "domain": "Emotions"
+    },
+    "optimism": {
+      "coordinates": [
+        0.8,
+        0.73,
+        0.45,
+        0.83
+      ],
+      "definition": "Hopefulness about the future",
+      "domain": "Emotions"
+    },
+    "gratitude": {
+      "coordinates": [
+        0.806,
+        0.624,
+        0.39,
+        0.756
+      ],
+      "definition": "Thankful appreciation",
+      "domain": "Emotions"
+    },
+    "appreciation": {
+      "coordinates": [
+        0.793,
+        0.6419999999999999,
+        0.4175,
+        0.7605
+      ],
+      "definition": "Recognition of value or quality",
+      "domain": "Emotions"
+    },
+    "walk": {
+      "coordinates": [
+        0.55,
+        0.5,
+        0.45,
+        0.6
+      ],
+      "definition": "Move at regular pace on foot",
+      "domain": "Actions"
+    },
+    "run": {
+      "coordinates": [
+        0.57,
+        0.52,
+        0.65,
+        0.55
+      ],
+      "definition": "Move swiftly on foot",
+      "domain": "Actions"
+    },
+    "jump": {
+      "coordinates": [
+        0.6,
+        0.52,
+        0.65,
+        0.62
+      ],
+      "definition": "Push off ground into the air",
+      "domain": "Actions"
+    },
+    "dance": {
+      "coordinates": [
+        0.75,
+        0.58,
+        0.55,
+        0.68
+      ],
+      "definition": "Move rhythmically to music",
+      "domain": "Actions"
+    },
+    "create": {
+      "coordinates": [
+        0.72,
+        0.68,
+        0.6,
+        0.85
+      ],
+      "definition": "Bring something into existence",
+      "domain": "Actions"
+    },
+    "build": {
+      "coordinates": [
+        0.74,
+        0.7,
+        0.7,
+        0.9
+      ],
+      "definition": "Construct by putting parts together",
+      "domain": "Actions"
+    },
+    "make": {
+      "coordinates": [
+        0.67,
+        0.63,
+        0.6,
+        0.85
+      ],
+      "definition": "Form by combining materials",
+      "domain": "Actions"
+    },
+    "destroy": {
+      "coordinates": [
+        0.18,
+        0.32,
+        0.82,
+        0.35
+      ],
+      "definition": "Cause to cease to exist",
+      "domain": "Actions"
+    },
+    "break": {
+      "coordinates": [
+        0.2,
+        0.34,
+        0.72,
+        0.37
+      ],
+      "definition": "Separate into pieces",
+      "domain": "Actions"
+    },
+    "think": {
+      "coordinates": [
+        0.58,
+        0.65,
+        0.38,
+        0.88
+      ],
+      "definition": "Use mind to consider",
+      "domain": "Actions"
+    },
+    "know": {
+      "coordinates": [
+        0.59,
+        0.72,
+        0.41,
+        0.89
+      ],
+      "definition": "Have information in mind",
+      "domain": "Actions"
+    },
+    "learn": {
+      "coordinates": [
+        0.64,
+        0.72,
+        0.49,
+        0.9400000000000001
+      ],
+      "definition": "Acquire knowledge or skill",
+      "domain": "Actions"
+    },
+    "understand": {
+      "coordinates": [
+        0.59,
+        0.77,
+        0.41,
+        0.97
+      ],
+      "definition": "Comprehend meaning",
+      "domain": "Actions"
+    },
+    "remember": {
+      "coordinates": [
+        0.62,
+        0.68,
+        0.35,
+        0.85
+      ],
+      "definition": "Recall from memory",
+      "domain": "Actions"
+    },
+    "forget": {
+      "coordinates": [
+        0.45,
+        0.42,
+        0.3,
+        0.4
+      ],
+      "definition": "Fail to remember",
+      "domain": "Actions"
+    },
+    "speak": {
+      "coordinates": [
+        0.62,
+        0.62,
+        0.52,
+        0.75
+      ],
+      "definition": "Express thoughts in words",
+      "domain": "Actions"
+    },
+    "listen": {
+      "coordinates": [
+        0.68,
+        0.65,
+        0.35,
+        0.8
+      ],
+      "definition": "Pay attention to sounds",
+      "domain": "Actions"
+    },
+    "teach": {
+      "coordinates": [
+        0.75,
+        0.72,
+        0.48,
+        0.9
+      ],
+      "definition": "Impart knowledge or skill",
+      "domain": "Actions"
+    },
+    "help": {
+      "coordinates": [
+        0.82,
+        0.7,
+        0.4,
+        0.75
+      ],
+      "definition": "Assist or aid someone",
+      "domain": "Actions"
+    },
+    "love (verb)": {
+      "coordinates": [
+        0.91,
+        0.48,
+        0.17,
+        0.72
+      ],
+      "definition": "Feel deep affection for",
+      "domain": "Actions"
+    },
+    "hate": {
+      "coordinates": [
+        0.12,
+        0.25,
+        0.75,
+        0.3
+      ],
+      "definition": "Feel intense dislike for",
+      "domain": "Actions"
+    },
+    "care": {
+      "coordinates": [
+        0.85,
+        0.62,
+        0.28,
+        0.72
+      ],
+      "definition": "Feel concern or interest",
+      "domain": "Actions"
+    },
+    "trust": {
+      "coordinates": [
+        0.78,
+        0.75,
+        0.38,
+        0.82
+      ],
+      "definition": "Have confidence in",
+      "domain": "Actions"
+    }
+  }
+}
