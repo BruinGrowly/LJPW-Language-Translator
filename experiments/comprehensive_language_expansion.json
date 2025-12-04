@@ -1,0 +1,4878 @@
+{
+  "metadata": {
+    "experiment": "Comprehensive Language Expansion",
+    "date": "2025-12-04T04:39:43.856091",
+    "description": "Maps 10+ typologically diverse languages to LJPW framework",
+    "new_languages": 10,
+    "total_languages": 17,
+    "total_families": 13
+  },
+  "mappings": [
+    {
+      "word": "愛 (ai)",
+      "language": "Japanese",
+      "family": "Japonic",
+      "morphology": "agglutinative",
+      "script": "kanji_kana",
+      "speakers_millions": 128,
+      "english_equivalent": "love",
+      "ljpw_coordinates": [
+        0.91,
+        0.48,
+        0.16,
+        0.71
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.49175387413985394,
+      "notes": ""
+    },
+    {
+      "word": "喜び (yorokobi)",
+      "language": "Japanese",
+      "family": "Japonic",
+      "morphology": "agglutinative",
+      "script": "kanji_kana",
+      "speakers_millions": 128,
+      "english_equivalent": "joy",
+      "ljpw_coordinates": [
+        0.87,
+        0.45,
+        0.38,
+        0.66
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.5248773055887679,
+      "notes": ""
+    },
+    {
+      "word": "平和 (heiwa)",
+      "language": "Japanese",
+      "family": "Japonic",
+      "morphology": "agglutinative",
+      "script": "kanji_kana",
+      "speakers_millions": 128,
+      "english_equivalent": "peace",
+      "ljpw_coordinates": [
+        0.75,
+        0.67,
+        0.25,
+        0.74
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.020000000000000018,
+      "harmony": 0.5276306105757405,
+      "notes": ""
+    },
+    {
+      "word": "希望 (kibō)",
+      "language": "Japanese",
+      "family": "Japonic",
+      "morphology": "agglutinative",
+      "script": "kanji_kana",
+      "speakers_millions": 128,
+      "english_equivalent": "hope",
+      "ljpw_coordinates": [
+        0.78,
+        0.5,
+        0.35,
+        0.7
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.020000000000000018,
+      "harmony": 0.5261773601892223,
+      "notes": ""
+    },
+    {
+      "word": "慈悲 (jihi)",
+      "language": "Japanese",
+      "family": "Japonic",
+      "morphology": "agglutinative",
+      "script": "kanji_kana",
+      "speakers_millions": 128,
+      "english_equivalent": "compassion",
+      "ljpw_coordinates": [
+        0.89,
+        0.74,
+        0.3,
+        0.76
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.02645751311064593,
+      "harmony": 0.5580286371165948,
+      "notes": "Buddhist concept"
+    },
+    {
+      "word": "正義 (seigi)",
+      "language": "Japanese",
+      "family": "Japonic",
+      "morphology": "agglutinative",
+      "script": "kanji_kana",
+      "speakers_millions": 128,
+      "english_equivalent": "justice",
+      "ljpw_coordinates": [
+        0.58,
+        0.92,
+        0.51,
+        0.85
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.020000000000000018,
+      "harmony": 0.599742249299417,
+      "notes": ""
+    },
+    {
+      "word": "真実 (shinjitsu)",
+      "language": "Japanese",
+      "family": "Japonic",
+      "morphology": "agglutinative",
+      "script": "kanji_kana",
+      "speakers_millions": 128,
+      "english_equivalent": "truth",
+      "ljpw_coordinates": [
+        0.63,
+        0.89,
+        0.4,
+        0.92
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.01999999999999999,
+      "harmony": 0.5821014365829495,
+      "notes": ""
+    },
+    {
+      "word": "知恵 (chie)",
+      "language": "Japanese",
+      "family": "Japonic",
+      "morphology": "agglutinative",
+      "script": "kanji_kana",
+      "speakers_millions": 128,
+      "english_equivalent": "wisdom",
+      "ljpw_coordinates": [
+        0.66,
+        0.75,
+        0.4,
+        0.93
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.01999999999999999,
+      "harmony": 0.5757432449067362,
+      "notes": ""
+    },
+    {
+      "word": "勇気 (yūki)",
+      "language": "Japanese",
+      "family": "Japonic",
+      "morphology": "agglutinative",
+      "script": "kanji_kana",
+      "speakers_millions": 128,
+      "english_equivalent": "courage",
+      "ljpw_coordinates": [
+        0.68,
+        0.74,
+        0.82,
+        0.8
+      ],
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_english": 0.019999999999999962,
+      "harmony": 0.6700879817797692,
+      "notes": ""
+    },
+    {
+      "word": "力 (chikara)",
+      "language": "Japanese",
+      "family": "Japonic",
+      "morphology": "agglutinative",
+      "script": "kanji_kana",
+      "speakers_millions": 128,
+      "english_equivalent": "power",
+      "ljpw_coordinates": [
+        0.43,
+        0.52,
+        0.9,
+        0.59
+      ],
+      "territory_id": 0,
+      "territory_name": "Raw Power",
+      "distance_to_english": 0.020000000000000018,
+      "harmony": 0.5386805602390635,
+      "notes": ""
+    },
+    {
+      "word": "名誉 (meiyo)",
+      "language": "Japanese",
+      "family": "Japonic",
+      "morphology": "agglutinative",
+      "script": "kanji_kana",
+      "speakers_millions": 128,
+      "english_equivalent": "honor",
+      "ljpw_coordinates": [
+        0.65,
+        0.85,
+        0.73,
+        0.82
+      ],
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_english": 0.019999999999999962,
+      "harmony": 0.6665333999547025,
+      "notes": ""
+    },
+    {
+      "word": "善 (zen)",
+      "language": "Japanese",
+      "family": "Japonic",
+      "morphology": "agglutinative",
+      "script": "kanji_kana",
+      "speakers_millions": 128,
+      "english_equivalent": "good",
+      "ljpw_coordinates": [
+        0.74,
+        0.69,
+        0.37,
+        0.8
+      ],
+      "territory_id": 2,
+      "territory_name": "Harmonious Balance",
+      "distance_to_english": 0.019999999999999962,
+      "harmony": 0.5633854011018965,
+      "notes": ""
+    },
+    {
+      "word": "悪 (aku)",
+      "language": "Japanese",
+      "family": "Japonic",
+      "morphology": "agglutinative",
+      "script": "kanji_kana",
+      "speakers_millions": 128,
+      "english_equivalent": "evil",
+      "ljpw_coordinates": [
+        0.18,
+        0.27,
+        0.72,
+        0.32
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.020000000000000018,
+      "harmony": 0.43077438936919493,
+      "notes": ""
+    },
+    {
+      "word": "憎しみ (nikushimi)",
+      "language": "Japanese",
+      "family": "Japonic",
+      "morphology": "agglutinative",
+      "script": "kanji_kana",
+      "speakers_millions": 128,
+      "english_equivalent": "hate",
+      "ljpw_coordinates": [
+        0.13,
+        0.2,
+        0.83,
+        0.28
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.019999999999999976,
+      "harmony": 0.41765062984948553,
+      "notes": ""
+    },
+    {
+      "word": "怒り (ikari)",
+      "language": "Japanese",
+      "family": "Japonic",
+      "morphology": "agglutinative",
+      "script": "kanji_kana",
+      "speakers_millions": 128,
+      "english_equivalent": "anger",
+      "ljpw_coordinates": [
+        0.28,
+        0.33,
+        0.8,
+        0.4
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.019999999999999962,
+      "harmony": 0.46097478736948394,
+      "notes": ""
+    },
+    {
+      "word": "恐怖 (kyōfu)",
+      "language": "Japanese",
+      "family": "Japonic",
+      "morphology": "agglutinative",
+      "script": "kanji_kana",
+      "speakers_millions": 128,
+      "english_equivalent": "fear",
+      "ljpw_coordinates": [
+        0.3,
+        0.37,
+        0.63,
+        0.46
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.01999999999999999,
+      "harmony": 0.46578595163309894,
+      "notes": ""
+    },
+    {
+      "word": "悲しみ (kanashimi)",
+      "language": "Japanese",
+      "family": "Japonic",
+      "morphology": "agglutinative",
+      "script": "kanji_kana",
+      "speakers_millions": 128,
+      "english_equivalent": "sadness",
+      "ljpw_coordinates": [
+        0.41,
+        0.4,
+        0.22,
+        0.5
+      ],
+      "territory_id": 4,
+      "territory_name": "Uncertain Transition",
+      "distance_to_english": 0.01999999999999999,
+      "harmony": 0.4441288213744512,
+      "notes": ""
+    },
+    {
+      "word": "苦しみ (kurushimi)",
+      "language": "Japanese",
+      "family": "Japonic",
+      "morphology": "agglutinative",
+      "script": "kanji_kana",
+      "speakers_millions": 128,
+      "english_equivalent": "suffering",
+      "ljpw_coordinates": [
+        0.25,
+        0.32,
+        0.48,
+        0.41
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.020000000000000018,
+      "harmony": 0.438221381960351,
+      "notes": ""
+    },
+    {
+      "word": "幸せ (shiawase)",
+      "language": "Japanese",
+      "family": "Japonic",
+      "morphology": "agglutinative",
+      "script": "kanji_kana",
+      "speakers_millions": 128,
+      "english_equivalent": "happiness",
+      "ljpw_coordinates": [
+        0.87,
+        0.46,
+        0.36,
+        0.68
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.020000000000000018,
+      "harmony": 0.5247100247544875,
+      "notes": ""
+    },
+    {
+      "word": "美 (bi)",
+      "language": "Japanese",
+      "family": "Japonic",
+      "morphology": "agglutinative",
+      "script": "kanji_kana",
+      "speakers_millions": 128,
+      "english_equivalent": "beauty",
+      "ljpw_coordinates": [
+        0.8,
+        0.59,
+        0.3,
+        0.75
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.020000000000000018,
+      "harmony": 0.5341526966724905,
+      "notes": ""
+    },
+    {
+      "word": "和 (wa)",
+      "language": "Japanese",
+      "family": "Japonic",
+      "morphology": "agglutinative",
+      "script": "kanji_kana",
+      "speakers_millions": 128,
+      "english_equivalent": "harmony",
+      "ljpw_coordinates": [
+        0.76,
+        0.68,
+        0.24,
+        0.75
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.0,
+      "harmony": 0.5278484694720638,
+      "notes": "Core Japanese value"
+    },
+    {
+      "word": "義理 (giri)",
+      "language": "Japanese",
+      "family": "Japonic",
+      "morphology": "agglutinative",
+      "script": "kanji_kana",
+      "speakers_millions": 128,
+      "english_equivalent": "duty",
+      "ljpw_coordinates": [
+        0.6,
+        0.85,
+        0.67,
+        0.78
+      ],
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_english": 0.02645751311064593,
+      "harmony": 0.6317424027997776,
+      "notes": "Social obligation"
+    },
+    {
+      "word": "誠 (makoto)",
+      "language": "Japanese",
+      "family": "Japonic",
+      "morphology": "agglutinative",
+      "script": "kanji_kana",
+      "speakers_millions": 128,
+      "english_equivalent": "sincerity",
+      "ljpw_coordinates": [
+        0.71,
+        0.87,
+        0.43,
+        0.89
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.0,
+      "harmony": 0.6017514514039646,
+      "notes": ""
+    },
+    {
+      "word": "恩 (on)",
+      "language": "Japanese",
+      "family": "Japonic",
+      "morphology": "agglutinative",
+      "script": "kanji_kana",
+      "speakers_millions": 128,
+      "english_equivalent": "gratitude",
+      "ljpw_coordinates": [
+        0.79,
+        0.77,
+        0.4,
+        0.75
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.0,
+      "harmony": 0.5811373900276886,
+      "notes": "Debt of kindness"
+    },
+    {
+      "word": "侘寂 (wabi-sabi)",
+      "language": "Japanese",
+      "family": "Japonic",
+      "morphology": "agglutinative",
+      "script": "kanji_kana",
+      "speakers_millions": 128,
+      "english_equivalent": "aesthetic_imperfection",
+      "ljpw_coordinates": [
+        0.68,
+        0.61,
+        0.28,
+        0.81
+      ],
+      "territory_id": 2,
+      "territory_name": "Harmonious Balance",
+      "distance_to_english": 0.0,
+      "harmony": 0.5264697755457888,
+      "notes": "Beauty in impermanence"
+    },
+    {
+      "word": "sevgi",
+      "language": "Turkish",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 88,
+      "english_equivalent": "love",
+      "ljpw_coordinates": [
+        0.9,
+        0.48,
+        0.17,
+        0.72
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.49417560279540296,
+      "notes": ""
+    },
+    {
+      "word": "sevinç",
+      "language": "Turkish",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 88,
+      "english_equivalent": "joy",
+      "ljpw_coordinates": [
+        0.86,
+        0.45,
+        0.39,
+        0.65
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.5252888341259397,
+      "notes": ""
+    },
+    {
+      "word": "barış",
+      "language": "Turkish",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 88,
+      "english_equivalent": "peace",
+      "ljpw_coordinates": [
+        0.75,
+        0.67,
+        0.26,
+        0.74
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.5299684632349159,
+      "notes": ""
+    },
+    {
+      "word": "umut",
+      "language": "Turkish",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 88,
+      "english_equivalent": "hope",
+      "ljpw_coordinates": [
+        0.77,
+        0.5,
+        0.37,
+        0.69
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.5285042763956996,
+      "notes": ""
+    },
+    {
+      "word": "şefkat",
+      "language": "Turkish",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 88,
+      "english_equivalent": "compassion",
+      "ljpw_coordinates": [
+        0.88,
+        0.73,
+        0.32,
+        0.74
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.5600093676074871,
+      "notes": ""
+    },
+    {
+      "word": "merhamet",
+      "language": "Turkish",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 88,
+      "english_equivalent": "mercy",
+      "ljpw_coordinates": [
+        0.87,
+        0.74,
+        0.33,
+        0.72
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.020000000000000018,
+      "harmony": 0.5611116674882876,
+      "notes": ""
+    },
+    {
+      "word": "adalet",
+      "language": "Turkish",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 88,
+      "english_equivalent": "justice",
+      "ljpw_coordinates": [
+        0.58,
+        0.91,
+        0.53,
+        0.84
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.6036803119739999,
+      "notes": ""
+    },
+    {
+      "word": "gerçek",
+      "language": "Turkish",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 88,
+      "english_equivalent": "truth",
+      "ljpw_coordinates": [
+        0.62,
+        0.88,
+        0.42,
+        0.9
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.5845306674279013,
+      "notes": ""
+    },
+    {
+      "word": "bilgelik",
+      "language": "Turkish",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 88,
+      "english_equivalent": "wisdom",
+      "ljpw_coordinates": [
+        0.66,
+        0.75,
+        0.42,
+        0.91
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.020000000000000018,
+      "harmony": 0.5804131066671289,
+      "notes": ""
+    },
+    {
+      "word": "cesaret",
+      "language": "Turkish",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 88,
+      "english_equivalent": "courage",
+      "ljpw_coordinates": [
+        0.68,
+        0.74,
+        0.82,
+        0.79
+      ],
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_english": 0.017320508075688724,
+      "harmony": 0.6682313689552005,
+      "notes": ""
+    },
+    {
+      "word": "güç",
+      "language": "Turkish",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 88,
+      "english_equivalent": "power",
+      "ljpw_coordinates": [
+        0.44,
+        0.53,
+        0.89,
+        0.6
+      ],
+      "territory_id": 0,
+      "territory_name": "Raw Power",
+      "distance_to_english": 0.040000000000000036,
+      "harmony": 0.543302565280503,
+      "notes": ""
+    },
+    {
+      "word": "onur",
+      "language": "Turkish",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 88,
+      "english_equivalent": "honor",
+      "ljpw_coordinates": [
+        0.65,
+        0.84,
+        0.73,
+        0.81
+      ],
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.6635478619417301,
+      "notes": ""
+    },
+    {
+      "word": "iyi",
+      "language": "Turkish",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 88,
+      "english_equivalent": "good",
+      "ljpw_coordinates": [
+        0.73,
+        0.69,
+        0.38,
+        0.78
+      ],
+      "territory_id": 2,
+      "territory_name": "Harmonious Balance",
+      "distance_to_english": 0.014142135623730885,
+      "harmony": 0.5631398942019616,
+      "notes": ""
+    },
+    {
+      "word": "kötü",
+      "language": "Turkish",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 88,
+      "english_equivalent": "bad",
+      "ljpw_coordinates": [
+        0.24,
+        0.31,
+        0.69,
+        0.36
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.019999999999999962,
+      "harmony": 0.44468963952292223,
+      "notes": ""
+    },
+    {
+      "word": "nefret",
+      "language": "Turkish",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 88,
+      "english_equivalent": "hate",
+      "ljpw_coordinates": [
+        0.14,
+        0.21,
+        0.82,
+        0.29
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.0,
+      "harmony": 0.42043703724170806,
+      "notes": ""
+    },
+    {
+      "word": "öfke",
+      "language": "Turkish",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 88,
+      "english_equivalent": "anger",
+      "ljpw_coordinates": [
+        0.29,
+        0.34,
+        0.79,
+        0.42
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.46533280711713937,
+      "notes": ""
+    },
+    {
+      "word": "korku",
+      "language": "Turkish",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 88,
+      "english_equivalent": "fear",
+      "ljpw_coordinates": [
+        0.31,
+        0.38,
+        0.62,
+        0.48
+      ],
+      "territory_id": 4,
+      "territory_name": "Uncertain Transition",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.469639714795215,
+      "notes": ""
+    },
+    {
+      "word": "üzüntü",
+      "language": "Turkish",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 88,
+      "english_equivalent": "sadness",
+      "ljpw_coordinates": [
+        0.42,
+        0.41,
+        0.24,
+        0.52
+      ],
+      "territory_id": 4,
+      "territory_name": "Uncertain Transition",
+      "distance_to_english": 0.014142135623730944,
+      "harmony": 0.45010999449149564,
+      "notes": ""
+    },
+    {
+      "word": "acı",
+      "language": "Turkish",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 88,
+      "english_equivalent": "pain",
+      "ljpw_coordinates": [
+        0.22,
+        0.3,
+        0.55,
+        0.39
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.020000000000000018,
+      "harmony": 0.4360252783958422,
+      "notes": ""
+    },
+    {
+      "word": "mutluluk",
+      "language": "Turkish",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 88,
+      "english_equivalent": "happiness",
+      "ljpw_coordinates": [
+        0.85,
+        0.46,
+        0.38,
+        0.67
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.5267165390996336,
+      "notes": ""
+    },
+    {
+      "word": "güzellik",
+      "language": "Turkish",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 88,
+      "english_equivalent": "beauty",
+      "ljpw_coordinates": [
+        0.79,
+        0.59,
+        0.32,
+        0.73
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.5363135711305776,
+      "notes": ""
+    },
+    {
+      "word": "namus",
+      "language": "Turkish",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 88,
+      "english_equivalent": "honor_virtue",
+      "ljpw_coordinates": [
+        0.63,
+        0.86,
+        0.7,
+        0.8
+      ],
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_english": 0.0,
+      "harmony": 0.6513567657422489,
+      "notes": "Personal/family honor"
+    },
+    {
+      "word": "sabır",
+      "language": "Turkish",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 88,
+      "english_equivalent": "patience",
+      "ljpw_coordinates": [
+        0.69,
+        0.72,
+        0.35,
+        0.83
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.0,
+      "harmony": 0.5583041426016057,
+      "notes": ""
+    },
+    {
+      "word": "hoşgörü",
+      "language": "Turkish",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 88,
+      "english_equivalent": "tolerance",
+      "ljpw_coordinates": [
+        0.8,
+        0.78,
+        0.29,
+        0.81
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.0,
+      "harmony": 0.5577733287113842,
+      "notes": ""
+    },
+    {
+      "word": "tình yêu",
+      "language": "Vietnamese",
+      "family": "Austroasiatic",
+      "morphology": "isolating",
+      "script": "Latin",
+      "speakers_millions": 85,
+      "english_equivalent": "love",
+      "ljpw_coordinates": [
+        0.91,
+        0.47,
+        0.17,
+        0.71
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.49248132643645315,
+      "notes": ""
+    },
+    {
+      "word": "niềm vui",
+      "language": "Vietnamese",
+      "family": "Austroasiatic",
+      "morphology": "isolating",
+      "script": "Latin",
+      "speakers_millions": 85,
+      "english_equivalent": "joy",
+      "ljpw_coordinates": [
+        0.86,
+        0.44,
+        0.39,
+        0.66
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.5246492495820407,
+      "notes": ""
+    },
+    {
+      "word": "hòa bình",
+      "language": "Vietnamese",
+      "family": "Austroasiatic",
+      "morphology": "isolating",
+      "script": "Latin",
+      "speakers_millions": 85,
+      "english_equivalent": "peace",
+      "ljpw_coordinates": [
+        0.74,
+        0.67,
+        0.27,
+        0.73
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.5306511403786668,
+      "notes": ""
+    },
+    {
+      "word": "hy vọng",
+      "language": "Vietnamese",
+      "family": "Austroasiatic",
+      "morphology": "isolating",
+      "script": "Latin",
+      "speakers_millions": 85,
+      "english_equivalent": "hope",
+      "ljpw_coordinates": [
+        0.77,
+        0.49,
+        0.37,
+        0.68
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.014142135623730885,
+      "harmony": 0.5259623228618404,
+      "notes": ""
+    },
+    {
+      "word": "lòng từ bi",
+      "language": "Vietnamese",
+      "family": "Austroasiatic",
+      "morphology": "isolating",
+      "script": "Latin",
+      "speakers_millions": 85,
+      "english_equivalent": "compassion",
+      "ljpw_coordinates": [
+        0.89,
+        0.74,
+        0.31,
+        0.77
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.030000000000000027,
+      "harmony": 0.5617370713223073,
+      "notes": "Buddhist influence"
+    },
+    {
+      "word": "công lý",
+      "language": "Vietnamese",
+      "family": "Austroasiatic",
+      "morphology": "isolating",
+      "script": "Latin",
+      "speakers_millions": 85,
+      "english_equivalent": "justice",
+      "ljpw_coordinates": [
+        0.58,
+        0.91,
+        0.52,
+        0.85
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.6019156940073621,
+      "notes": ""
+    },
+    {
+      "word": "sự thật",
+      "language": "Vietnamese",
+      "family": "Austroasiatic",
+      "morphology": "isolating",
+      "script": "Latin",
+      "speakers_millions": 85,
+      "english_equivalent": "truth",
+      "ljpw_coordinates": [
+        0.63,
+        0.89,
+        0.41,
+        0.91
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.5845306674279013,
+      "notes": ""
+    },
+    {
+      "word": "trí tuệ",
+      "language": "Vietnamese",
+      "family": "Austroasiatic",
+      "morphology": "isolating",
+      "script": "Latin",
+      "speakers_millions": 85,
+      "english_equivalent": "wisdom",
+      "ljpw_coordinates": [
+        0.65,
+        0.75,
+        0.42,
+        0.92
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.579207006611506,
+      "notes": ""
+    },
+    {
+      "word": "can đảm",
+      "language": "Vietnamese",
+      "family": "Austroasiatic",
+      "morphology": "isolating",
+      "script": "Latin",
+      "speakers_millions": 85,
+      "english_equivalent": "courage",
+      "ljpw_coordinates": [
+        0.67,
+        0.73,
+        0.81,
+        0.78
+      ],
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.6596120568384535,
+      "notes": ""
+    },
+    {
+      "word": "sức mạnh",
+      "language": "Vietnamese",
+      "family": "Austroasiatic",
+      "morphology": "isolating",
+      "script": "Latin",
+      "speakers_millions": 85,
+      "english_equivalent": "power",
+      "ljpw_coordinates": [
+        0.43,
+        0.52,
+        0.88,
+        0.61
+      ],
+      "territory_id": 0,
+      "territory_name": "Raw Power",
+      "distance_to_english": 0.044721359549995836,
+      "harmony": 0.5406609075831137,
+      "notes": ""
+    },
+    {
+      "word": "danh dự",
+      "language": "Vietnamese",
+      "family": "Austroasiatic",
+      "morphology": "isolating",
+      "script": "Latin",
+      "speakers_millions": 85,
+      "english_equivalent": "honor",
+      "ljpw_coordinates": [
+        0.64,
+        0.84,
+        0.72,
+        0.8
+      ],
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.656569557785131,
+      "notes": ""
+    },
+    {
+      "word": "tốt",
+      "language": "Vietnamese",
+      "family": "Austroasiatic",
+      "morphology": "isolating",
+      "script": "Latin",
+      "speakers_millions": 85,
+      "english_equivalent": "good",
+      "ljpw_coordinates": [
+        0.73,
+        0.68,
+        0.39,
+        0.78
+      ],
+      "territory_id": 2,
+      "territory_name": "Harmonious Balance",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.5643720439977328,
+      "notes": ""
+    },
+    {
+      "word": "ác",
+      "language": "Vietnamese",
+      "family": "Austroasiatic",
+      "morphology": "isolating",
+      "script": "Latin",
+      "speakers_millions": 85,
+      "english_equivalent": "evil",
+      "ljpw_coordinates": [
+        0.19,
+        0.28,
+        0.71,
+        0.33
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.0,
+      "harmony": 0.43351722196070386,
+      "notes": ""
+    },
+    {
+      "word": "căm thù",
+      "language": "Vietnamese",
+      "family": "Austroasiatic",
+      "morphology": "isolating",
+      "script": "Latin",
+      "speakers_millions": 85,
+      "english_equivalent": "hate",
+      "ljpw_coordinates": [
+        0.14,
+        0.21,
+        0.82,
+        0.3
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.4213447237575934,
+      "notes": ""
+    },
+    {
+      "word": "giận dữ",
+      "language": "Vietnamese",
+      "family": "Austroasiatic",
+      "morphology": "isolating",
+      "script": "Latin",
+      "speakers_millions": 85,
+      "english_equivalent": "anger",
+      "ljpw_coordinates": [
+        0.29,
+        0.35,
+        0.78,
+        0.42
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.017320508075688756,
+      "harmony": 0.46616488037961284,
+      "notes": ""
+    },
+    {
+      "word": "sợ hãi",
+      "language": "Vietnamese",
+      "family": "Austroasiatic",
+      "morphology": "isolating",
+      "script": "Latin",
+      "speakers_millions": 85,
+      "english_equivalent": "fear",
+      "ljpw_coordinates": [
+        0.31,
+        0.39,
+        0.61,
+        0.48
+      ],
+      "territory_id": 4,
+      "territory_name": "Uncertain Transition",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.4700897634015996,
+      "notes": ""
+    },
+    {
+      "word": "buồn",
+      "language": "Vietnamese",
+      "family": "Austroasiatic",
+      "morphology": "isolating",
+      "script": "Latin",
+      "speakers_millions": 85,
+      "english_equivalent": "sadness",
+      "ljpw_coordinates": [
+        0.42,
+        0.42,
+        0.24,
+        0.52
+      ],
+      "territory_id": 4,
+      "territory_name": "Uncertain Transition",
+      "distance_to_english": 0.017320508075688773,
+      "harmony": 0.45108415061169,
+      "notes": ""
+    },
+    {
+      "word": "đau đớn",
+      "language": "Vietnamese",
+      "family": "Austroasiatic",
+      "morphology": "isolating",
+      "script": "Latin",
+      "speakers_millions": 85,
+      "english_equivalent": "pain",
+      "ljpw_coordinates": [
+        0.22,
+        0.31,
+        0.56,
+        0.4
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.036055512754639925,
+      "harmony": 0.4386190364129302,
+      "notes": ""
+    },
+    {
+      "word": "hạnh phúc",
+      "language": "Vietnamese",
+      "family": "Austroasiatic",
+      "morphology": "isolating",
+      "script": "Latin",
+      "speakers_millions": 85,
+      "english_equivalent": "happiness",
+      "ljpw_coordinates": [
+        0.86,
+        0.46,
+        0.37,
+        0.68
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.5262388658360835,
+      "notes": ""
+    },
+    {
+      "word": "vẻ đẹp",
+      "language": "Vietnamese",
+      "family": "Austroasiatic",
+      "morphology": "isolating",
+      "script": "Latin",
+      "speakers_millions": 85,
+      "english_equivalent": "beauty",
+      "ljpw_coordinates": [
+        0.79,
+        0.58,
+        0.32,
+        0.74
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.5358155077252832,
+      "notes": ""
+    },
+    {
+      "word": "hiếu đạo",
+      "language": "Vietnamese",
+      "family": "Austroasiatic",
+      "morphology": "isolating",
+      "script": "Latin",
+      "speakers_millions": 85,
+      "english_equivalent": "filial_piety",
+      "ljpw_coordinates": [
+        0.82,
+        0.8,
+        0.38,
+        0.84
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.590127097821844,
+      "notes": "Confucian value"
+    },
+    {
+      "word": "nghĩa",
+      "language": "Vietnamese",
+      "family": "Austroasiatic",
+      "morphology": "isolating",
+      "script": "Latin",
+      "speakers_millions": 85,
+      "english_equivalent": "duty",
+      "ljpw_coordinates": [
+        0.61,
+        0.85,
+        0.66,
+        0.79
+      ],
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_english": 0.040000000000000036,
+      "harmony": 0.6336385443608974,
+      "notes": ""
+    },
+    {
+      "word": "nhân",
+      "language": "Vietnamese",
+      "family": "Austroasiatic",
+      "morphology": "isolating",
+      "script": "Latin",
+      "speakers_millions": 85,
+      "english_equivalent": "benevolence",
+      "ljpw_coordinates": [
+        0.85,
+        0.76,
+        0.33,
+        0.82
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.0,
+      "harmony": 0.5716682448764987,
+      "notes": "Confucian virtue"
+    },
+    {
+      "word": "사랑 (sarang)",
+      "language": "Korean",
+      "family": "Koreanic",
+      "morphology": "agglutinative",
+      "script": "Hangul",
+      "speakers_millions": 81,
+      "english_equivalent": "love",
+      "ljpw_coordinates": [
+        0.91,
+        0.48,
+        0.16,
+        0.72
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.4924225024706421,
+      "notes": ""
+    },
+    {
+      "word": "기쁨 (gippeum)",
+      "language": "Korean",
+      "family": "Koreanic",
+      "morphology": "agglutinative",
+      "script": "Hangul",
+      "speakers_millions": 81,
+      "english_equivalent": "joy",
+      "ljpw_coordinates": [
+        0.87,
+        0.45,
+        0.38,
+        0.67
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.5259009499252367,
+      "notes": ""
+    },
+    {
+      "word": "평화 (pyeonghwa)",
+      "language": "Korean",
+      "family": "Koreanic",
+      "morphology": "agglutinative",
+      "script": "Hangul",
+      "speakers_millions": 81,
+      "english_equivalent": "peace",
+      "ljpw_coordinates": [
+        0.75,
+        0.67,
+        0.26,
+        0.74
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.5299684632349159,
+      "notes": ""
+    },
+    {
+      "word": "희망 (huimang)",
+      "language": "Korean",
+      "family": "Koreanic",
+      "morphology": "agglutinative",
+      "script": "Hangul",
+      "speakers_millions": 81,
+      "english_equivalent": "hope",
+      "ljpw_coordinates": [
+        0.78,
+        0.5,
+        0.36,
+        0.7
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.5281759536381595,
+      "notes": ""
+    },
+    {
+      "word": "자비 (jabi)",
+      "language": "Korean",
+      "family": "Koreanic",
+      "morphology": "agglutinative",
+      "script": "Hangul",
+      "speakers_millions": 81,
+      "english_equivalent": "compassion",
+      "ljpw_coordinates": [
+        0.88,
+        0.73,
+        0.32,
+        0.75
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.5610311870016965,
+      "notes": ""
+    },
+    {
+      "word": "정의 (jeong-ui)",
+      "language": "Korean",
+      "family": "Koreanic",
+      "morphology": "agglutinative",
+      "script": "Hangul",
+      "speakers_millions": 81,
+      "english_equivalent": "justice",
+      "ljpw_coordinates": [
+        0.58,
+        0.91,
+        0.53,
+        0.84
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.6036803119739999,
+      "notes": ""
+    },
+    {
+      "word": "진실 (jinsil)",
+      "language": "Korean",
+      "family": "Koreanic",
+      "morphology": "agglutinative",
+      "script": "Hangul",
+      "speakers_millions": 81,
+      "english_equivalent": "truth",
+      "ljpw_coordinates": [
+        0.63,
+        0.88,
+        0.42,
+        0.9
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.5863456878791742,
+      "notes": ""
+    },
+    {
+      "word": "지혜 (jihye)",
+      "language": "Korean",
+      "family": "Koreanic",
+      "morphology": "agglutinative",
+      "script": "Hangul",
+      "speakers_millions": 81,
+      "english_equivalent": "wisdom",
+      "ljpw_coordinates": [
+        0.66,
+        0.75,
+        0.41,
+        0.92
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.5781033555396714,
+      "notes": ""
+    },
+    {
+      "word": "용기 (yong-gi)",
+      "language": "Korean",
+      "family": "Koreanic",
+      "morphology": "agglutinative",
+      "script": "Hangul",
+      "speakers_millions": 81,
+      "english_equivalent": "courage",
+      "ljpw_coordinates": [
+        0.68,
+        0.74,
+        0.81,
+        0.8
+      ],
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.6684113673000418,
+      "notes": ""
+    },
+    {
+      "word": "힘 (him)",
+      "language": "Korean",
+      "family": "Koreanic",
+      "morphology": "agglutinative",
+      "script": "Hangul",
+      "speakers_millions": 81,
+      "english_equivalent": "power",
+      "ljpw_coordinates": [
+        0.44,
+        0.53,
+        0.89,
+        0.6
+      ],
+      "territory_id": 0,
+      "territory_name": "Raw Power",
+      "distance_to_english": 0.040000000000000036,
+      "harmony": 0.543302565280503,
+      "notes": ""
+    },
+    {
+      "word": "명예 (myeong-ye)",
+      "language": "Korean",
+      "family": "Koreanic",
+      "morphology": "agglutinative",
+      "script": "Hangul",
+      "speakers_millions": 81,
+      "english_equivalent": "honor",
+      "ljpw_coordinates": [
+        0.65,
+        0.85,
+        0.72,
+        0.82
+      ],
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_english": 0.017320508075688724,
+      "harmony": 0.6641134847405648,
+      "notes": ""
+    },
+    {
+      "word": "선 (seon)",
+      "language": "Korean",
+      "family": "Koreanic",
+      "morphology": "agglutinative",
+      "script": "Hangul",
+      "speakers_millions": 81,
+      "english_equivalent": "good",
+      "ljpw_coordinates": [
+        0.74,
+        0.69,
+        0.38,
+        0.79
+      ],
+      "territory_id": 2,
+      "territory_name": "Harmonious Balance",
+      "distance_to_english": 0.014142135623730885,
+      "harmony": 0.5651169193162344,
+      "notes": ""
+    },
+    {
+      "word": "악 (ak)",
+      "language": "Korean",
+      "family": "Koreanic",
+      "morphology": "agglutinative",
+      "script": "Hangul",
+      "speakers_millions": 81,
+      "english_equivalent": "evil",
+      "ljpw_coordinates": [
+        0.18,
+        0.27,
+        0.72,
+        0.32
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.020000000000000018,
+      "harmony": 0.43077438936919493,
+      "notes": ""
+    },
+    {
+      "word": "증오 (jeung-o)",
+      "language": "Korean",
+      "family": "Koreanic",
+      "morphology": "agglutinative",
+      "script": "Hangul",
+      "speakers_millions": 81,
+      "english_equivalent": "hate",
+      "ljpw_coordinates": [
+        0.13,
+        0.2,
+        0.83,
+        0.28
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.019999999999999976,
+      "harmony": 0.41765062984948553,
+      "notes": ""
+    },
+    {
+      "word": "분노 (bunno)",
+      "language": "Korean",
+      "family": "Koreanic",
+      "morphology": "agglutinative",
+      "script": "Hangul",
+      "speakers_millions": 81,
+      "english_equivalent": "anger",
+      "ljpw_coordinates": [
+        0.28,
+        0.33,
+        0.79,
+        0.41
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.014142135623730925,
+      "harmony": 0.4616856356900894,
+      "notes": ""
+    },
+    {
+      "word": "두려움 (duryeoum)",
+      "language": "Korean",
+      "family": "Koreanic",
+      "morphology": "agglutinative",
+      "script": "Hangul",
+      "speakers_millions": 81,
+      "english_equivalent": "fear",
+      "ljpw_coordinates": [
+        0.3,
+        0.38,
+        0.62,
+        0.47
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.46728014282763053,
+      "notes": ""
+    },
+    {
+      "word": "슬픔 (seulpeum)",
+      "language": "Korean",
+      "family": "Koreanic",
+      "morphology": "agglutinative",
+      "script": "Hangul",
+      "speakers_millions": 81,
+      "english_equivalent": "sadness",
+      "ljpw_coordinates": [
+        0.41,
+        0.4,
+        0.23,
+        0.51
+      ],
+      "territory_id": 4,
+      "territory_name": "Uncertain Transition",
+      "distance_to_english": 0.014142135623730925,
+      "harmony": 0.4461476402037066,
+      "notes": ""
+    },
+    {
+      "word": "고통 (gotong)",
+      "language": "Korean",
+      "family": "Koreanic",
+      "morphology": "agglutinative",
+      "script": "Hangul",
+      "speakers_millions": 81,
+      "english_equivalent": "suffering",
+      "ljpw_coordinates": [
+        0.23,
+        0.31,
+        0.5,
+        0.41
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.04795831523312722,
+      "harmony": 0.4364597018537793,
+      "notes": ""
+    },
+    {
+      "word": "행복 (haengbok)",
+      "language": "Korean",
+      "family": "Koreanic",
+      "morphology": "agglutinative",
+      "script": "Hangul",
+      "speakers_millions": 81,
+      "english_equivalent": "happiness",
+      "ljpw_coordinates": [
+        0.86,
+        0.45,
+        0.37,
+        0.67
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.0,
+      "harmony": 0.5235903355361204,
+      "notes": ""
+    },
+    {
+      "word": "아름다움 (areumdaum)",
+      "language": "Korean",
+      "family": "Koreanic",
+      "morphology": "agglutinative",
+      "script": "Hangul",
+      "speakers_millions": 81,
+      "english_equivalent": "beauty",
+      "ljpw_coordinates": [
+        0.79,
+        0.58,
+        0.31,
+        0.74
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.0,
+      "harmony": 0.5335651609814519,
+      "notes": ""
+    },
+    {
+      "word": "정 (jeong)",
+      "language": "Korean",
+      "family": "Koreanic",
+      "morphology": "agglutinative",
+      "script": "Hangul",
+      "speakers_millions": 81,
+      "english_equivalent": "affection",
+      "ljpw_coordinates": [
+        0.83,
+        0.69,
+        0.29,
+        0.76
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.0,
+      "harmony": 0.5468444333993361,
+      "notes": "Deep emotional bond (Korean concept)"
+    },
+    {
+      "word": "효 (hyo)",
+      "language": "Korean",
+      "family": "Koreanic",
+      "morphology": "agglutinative",
+      "script": "Hangul",
+      "speakers_millions": 81,
+      "english_equivalent": "filial_piety",
+      "ljpw_coordinates": [
+        0.82,
+        0.81,
+        0.37,
+        0.85
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.0,
+      "harmony": 0.5887553419175691,
+      "notes": "Confucian virtue"
+    },
+    {
+      "word": "의리 (uiri)",
+      "language": "Korean",
+      "family": "Koreanic",
+      "morphology": "agglutinative",
+      "script": "Hangul",
+      "speakers_millions": 81,
+      "english_equivalent": "loyalty",
+      "ljpw_coordinates": [
+        0.62,
+        0.86,
+        0.69,
+        0.8
+      ],
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_english": 0.21142374511865966,
+      "harmony": 0.6460725289440012,
+      "notes": ""
+    },
+    {
+      "word": "한 (han)",
+      "language": "Korean",
+      "family": "Koreanic",
+      "morphology": "agglutinative",
+      "script": "Hangul",
+      "speakers_millions": 81,
+      "english_equivalent": "grief_resentment",
+      "ljpw_coordinates": [
+        0.35,
+        0.44,
+        0.31,
+        0.58
+      ],
+      "territory_id": 4,
+      "territory_name": "Uncertain Transition",
+      "distance_to_english": 0.0,
+      "harmony": 0.45905489044807385,
+      "notes": "Unique Korean emotion"
+    },
+    {
+      "word": "Liebe",
+      "language": "German",
+      "family": "Germanic",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 134,
+      "english_equivalent": "love",
+      "ljpw_coordinates": [
+        0.91,
+        0.47,
+        0.17,
+        0.72
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.4931538983948185,
+      "notes": ""
+    },
+    {
+      "word": "Freude",
+      "language": "German",
+      "family": "Germanic",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 134,
+      "english_equivalent": "joy",
+      "ljpw_coordinates": [
+        0.87,
+        0.44,
+        0.39,
+        0.66
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.0,
+      "harmony": 0.5250600436985223,
+      "notes": ""
+    },
+    {
+      "word": "Frieden",
+      "language": "German",
+      "family": "Germanic",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 134,
+      "english_equivalent": "peace",
+      "ljpw_coordinates": [
+        0.74,
+        0.66,
+        0.27,
+        0.73
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.5295890064071178,
+      "notes": ""
+    },
+    {
+      "word": "Hoffnung",
+      "language": "German",
+      "family": "Germanic",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 134,
+      "english_equivalent": "hope",
+      "ljpw_coordinates": [
+        0.77,
+        0.49,
+        0.37,
+        0.69
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.5269328479456823,
+      "notes": ""
+    },
+    {
+      "word": "Mitgefühl",
+      "language": "German",
+      "family": "Germanic",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 134,
+      "english_equivalent": "compassion",
+      "ljpw_coordinates": [
+        0.88,
+        0.72,
+        0.32,
+        0.75
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.5599295607503469,
+      "notes": ""
+    },
+    {
+      "word": "Gerechtigkeit",
+      "language": "German",
+      "family": "Germanic",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 134,
+      "english_equivalent": "justice",
+      "ljpw_coordinates": [
+        0.58,
+        0.91,
+        0.53,
+        0.84
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.6036803119739999,
+      "notes": ""
+    },
+    {
+      "word": "Wahrheit",
+      "language": "German",
+      "family": "Germanic",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 134,
+      "english_equivalent": "truth",
+      "ljpw_coordinates": [
+        0.63,
+        0.88,
+        0.42,
+        0.91
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.5868094611436775,
+      "notes": ""
+    },
+    {
+      "word": "Weisheit",
+      "language": "German",
+      "family": "Germanic",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 134,
+      "english_equivalent": "wisdom",
+      "ljpw_coordinates": [
+        0.66,
+        0.74,
+        0.42,
+        0.92
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.5796232603823843,
+      "notes": ""
+    },
+    {
+      "word": "Mut",
+      "language": "German",
+      "family": "Germanic",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 134,
+      "english_equivalent": "courage",
+      "ljpw_coordinates": [
+        0.68,
+        0.73,
+        0.81,
+        0.79
+      ],
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.6642443542726603,
+      "notes": ""
+    },
+    {
+      "word": "Kraft",
+      "language": "German",
+      "family": "Germanic",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 134,
+      "english_equivalent": "power",
+      "ljpw_coordinates": [
+        0.44,
+        0.53,
+        0.88,
+        0.61
+      ],
+      "territory_id": 0,
+      "territory_name": "Raw Power",
+      "distance_to_english": 0.050990195135927896,
+      "harmony": 0.5442895399418758,
+      "notes": ""
+    },
+    {
+      "word": "Ehre",
+      "language": "German",
+      "family": "Germanic",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 134,
+      "english_equivalent": "honor",
+      "ljpw_coordinates": [
+        0.65,
+        0.84,
+        0.72,
+        0.81
+      ],
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.6611810157136448,
+      "notes": ""
+    },
+    {
+      "word": "gut",
+      "language": "German",
+      "family": "Germanic",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 134,
+      "english_equivalent": "good",
+      "ljpw_coordinates": [
+        0.73,
+        0.68,
+        0.39,
+        0.78
+      ],
+      "territory_id": 2,
+      "territory_name": "Harmonious Balance",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.5643720439977328,
+      "notes": ""
+    },
+    {
+      "word": "böse",
+      "language": "German",
+      "family": "Germanic",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 134,
+      "english_equivalent": "evil",
+      "ljpw_coordinates": [
+        0.19,
+        0.28,
+        0.71,
+        0.33
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.0,
+      "harmony": 0.43351722196070386,
+      "notes": ""
+    },
+    {
+      "word": "Hass",
+      "language": "German",
+      "family": "Germanic",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 134,
+      "english_equivalent": "hate",
+      "ljpw_coordinates": [
+        0.14,
+        0.21,
+        0.82,
+        0.29
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.0,
+      "harmony": 0.42043703724170806,
+      "notes": ""
+    },
+    {
+      "word": "Zorn",
+      "language": "German",
+      "family": "Germanic",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 134,
+      "english_equivalent": "anger",
+      "ljpw_coordinates": [
+        0.29,
+        0.34,
+        0.79,
+        0.42
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.46533280711713937,
+      "notes": ""
+    },
+    {
+      "word": "Angst",
+      "language": "German",
+      "family": "Germanic",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 134,
+      "english_equivalent": "fear",
+      "ljpw_coordinates": [
+        0.31,
+        0.38,
+        0.62,
+        0.48
+      ],
+      "territory_id": 4,
+      "territory_name": "Uncertain Transition",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.469639714795215,
+      "notes": ""
+    },
+    {
+      "word": "Traurigkeit",
+      "language": "German",
+      "family": "Germanic",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 134,
+      "english_equivalent": "sadness",
+      "ljpw_coordinates": [
+        0.42,
+        0.41,
+        0.24,
+        0.52
+      ],
+      "territory_id": 4,
+      "territory_name": "Uncertain Transition",
+      "distance_to_english": 0.014142135623730944,
+      "harmony": 0.45010999449149564,
+      "notes": ""
+    },
+    {
+      "word": "Schmerz",
+      "language": "German",
+      "family": "Germanic",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 134,
+      "english_equivalent": "pain",
+      "ljpw_coordinates": [
+        0.22,
+        0.3,
+        0.55,
+        0.39
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.020000000000000018,
+      "harmony": 0.4360252783958422,
+      "notes": ""
+    },
+    {
+      "word": "Glück",
+      "language": "German",
+      "family": "Germanic",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 134,
+      "english_equivalent": "happiness",
+      "ljpw_coordinates": [
+        0.86,
+        0.45,
+        0.38,
+        0.67
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.5254874507175261,
+      "notes": ""
+    },
+    {
+      "word": "Schönheit",
+      "language": "German",
+      "family": "Germanic",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 134,
+      "english_equivalent": "beauty",
+      "ljpw_coordinates": [
+        0.79,
+        0.58,
+        0.32,
+        0.74
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.5358155077252832,
+      "notes": ""
+    },
+    {
+      "word": "Pflicht",
+      "language": "German",
+      "family": "Germanic",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 134,
+      "english_equivalent": "duty",
+      "ljpw_coordinates": [
+        0.6,
+        0.83,
+        0.69,
+        0.77
+      ],
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_english": 0.014142135623730885,
+      "harmony": 0.632394403906744,
+      "notes": ""
+    },
+    {
+      "word": "Treue",
+      "language": "German",
+      "family": "Germanic",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 134,
+      "english_equivalent": "loyalty",
+      "ljpw_coordinates": [
+        0.76,
+        0.81,
+        0.54,
+        0.79
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.0,
+      "harmony": 0.6284957450887396,
+      "notes": ""
+    },
+    {
+      "word": "Gemütlichkeit",
+      "language": "German",
+      "family": "Germanic",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 134,
+      "english_equivalent": "coziness",
+      "ljpw_coordinates": [
+        0.78,
+        0.61,
+        0.26,
+        0.7
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.0,
+      "harmony": 0.5220628955351101,
+      "notes": "Warm belonging feeling"
+    },
+    {
+      "word": "Schadenfreude",
+      "language": "German",
+      "family": "Germanic",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 134,
+      "english_equivalent": "malicious_joy",
+      "ljpw_coordinates": [
+        0.12,
+        0.23,
+        0.67,
+        0.41
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.0,
+      "harmony": 0.4254112606318712,
+      "notes": ""
+    },
+    {
+      "word": "amor",
+      "language": "Portuguese",
+      "family": "Romance",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 265,
+      "english_equivalent": "love",
+      "ljpw_coordinates": [
+        0.91,
+        0.47,
+        0.16,
+        0.72
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.0,
+      "harmony": 0.4911936028258192,
+      "notes": ""
+    },
+    {
+      "word": "alegria",
+      "language": "Portuguese",
+      "family": "Romance",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 265,
+      "english_equivalent": "joy",
+      "ljpw_coordinates": [
+        0.87,
+        0.44,
+        0.38,
+        0.66
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.523199249262878,
+      "notes": ""
+    },
+    {
+      "word": "paz",
+      "language": "Portuguese",
+      "family": "Romance",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 265,
+      "english_equivalent": "peace",
+      "ljpw_coordinates": [
+        0.74,
+        0.66,
+        0.27,
+        0.73
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.5295890064071178,
+      "notes": ""
+    },
+    {
+      "word": "esperança",
+      "language": "Portuguese",
+      "family": "Romance",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 265,
+      "english_equivalent": "hope",
+      "ljpw_coordinates": [
+        0.77,
+        0.49,
+        0.37,
+        0.69
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.5269328479456823,
+      "notes": ""
+    },
+    {
+      "word": "compaixão",
+      "language": "Portuguese",
+      "family": "Romance",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 265,
+      "english_equivalent": "compassion",
+      "ljpw_coordinates": [
+        0.88,
+        0.72,
+        0.32,
+        0.75
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.5599295607503469,
+      "notes": ""
+    },
+    {
+      "word": "justiça",
+      "language": "Portuguese",
+      "family": "Romance",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 265,
+      "english_equivalent": "justice",
+      "ljpw_coordinates": [
+        0.58,
+        0.91,
+        0.53,
+        0.84
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.6036803119739999,
+      "notes": ""
+    },
+    {
+      "word": "verdade",
+      "language": "Portuguese",
+      "family": "Romance",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 265,
+      "english_equivalent": "truth",
+      "ljpw_coordinates": [
+        0.63,
+        0.88,
+        0.42,
+        0.91
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.5868094611436775,
+      "notes": ""
+    },
+    {
+      "word": "sabedoria",
+      "language": "Portuguese",
+      "family": "Romance",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 265,
+      "english_equivalent": "wisdom",
+      "ljpw_coordinates": [
+        0.66,
+        0.74,
+        0.42,
+        0.92
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.5796232603823843,
+      "notes": ""
+    },
+    {
+      "word": "coragem",
+      "language": "Portuguese",
+      "family": "Romance",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 265,
+      "english_equivalent": "courage",
+      "ljpw_coordinates": [
+        0.68,
+        0.73,
+        0.81,
+        0.79
+      ],
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.6642443542726603,
+      "notes": ""
+    },
+    {
+      "word": "poder",
+      "language": "Portuguese",
+      "family": "Romance",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 265,
+      "english_equivalent": "power",
+      "ljpw_coordinates": [
+        0.43,
+        0.52,
+        0.89,
+        0.6
+      ],
+      "territory_id": 0,
+      "territory_name": "Raw Power",
+      "distance_to_english": 0.03162277660168382,
+      "harmony": 0.5397010916771245,
+      "notes": ""
+    },
+    {
+      "word": "honra",
+      "language": "Portuguese",
+      "family": "Romance",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 265,
+      "english_equivalent": "honor",
+      "ljpw_coordinates": [
+        0.65,
+        0.84,
+        0.72,
+        0.81
+      ],
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.6611810157136448,
+      "notes": ""
+    },
+    {
+      "word": "bom",
+      "language": "Portuguese",
+      "family": "Romance",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 265,
+      "english_equivalent": "good",
+      "ljpw_coordinates": [
+        0.73,
+        0.68,
+        0.39,
+        0.78
+      ],
+      "territory_id": 2,
+      "territory_name": "Harmonious Balance",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.5643720439977328,
+      "notes": ""
+    },
+    {
+      "word": "mal",
+      "language": "Portuguese",
+      "family": "Romance",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 265,
+      "english_equivalent": "bad",
+      "ljpw_coordinates": [
+        0.24,
+        0.31,
+        0.69,
+        0.36
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.019999999999999962,
+      "harmony": 0.44468963952292223,
+      "notes": ""
+    },
+    {
+      "word": "ódio",
+      "language": "Portuguese",
+      "family": "Romance",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 265,
+      "english_equivalent": "hate",
+      "ljpw_coordinates": [
+        0.14,
+        0.21,
+        0.82,
+        0.29
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.0,
+      "harmony": 0.42043703724170806,
+      "notes": ""
+    },
+    {
+      "word": "raiva",
+      "language": "Portuguese",
+      "family": "Romance",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 265,
+      "english_equivalent": "anger",
+      "ljpw_coordinates": [
+        0.29,
+        0.34,
+        0.79,
+        0.42
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.46533280711713937,
+      "notes": ""
+    },
+    {
+      "word": "medo",
+      "language": "Portuguese",
+      "family": "Romance",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 265,
+      "english_equivalent": "fear",
+      "ljpw_coordinates": [
+        0.31,
+        0.38,
+        0.62,
+        0.48
+      ],
+      "territory_id": 4,
+      "territory_name": "Uncertain Transition",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.469639714795215,
+      "notes": ""
+    },
+    {
+      "word": "tristeza",
+      "language": "Portuguese",
+      "family": "Romance",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 265,
+      "english_equivalent": "sadness",
+      "ljpw_coordinates": [
+        0.42,
+        0.41,
+        0.24,
+        0.52
+      ],
+      "territory_id": 4,
+      "territory_name": "Uncertain Transition",
+      "distance_to_english": 0.014142135623730944,
+      "harmony": 0.45010999449149564,
+      "notes": ""
+    },
+    {
+      "word": "dor",
+      "language": "Portuguese",
+      "family": "Romance",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 265,
+      "english_equivalent": "pain",
+      "ljpw_coordinates": [
+        0.22,
+        0.3,
+        0.55,
+        0.39
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.020000000000000018,
+      "harmony": 0.4360252783958422,
+      "notes": ""
+    },
+    {
+      "word": "felicidade",
+      "language": "Portuguese",
+      "family": "Romance",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 265,
+      "english_equivalent": "happiness",
+      "ljpw_coordinates": [
+        0.86,
+        0.45,
+        0.38,
+        0.67
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.5254874507175261,
+      "notes": ""
+    },
+    {
+      "word": "beleza",
+      "language": "Portuguese",
+      "family": "Romance",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 265,
+      "english_equivalent": "beauty",
+      "ljpw_coordinates": [
+        0.79,
+        0.58,
+        0.32,
+        0.74
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.5358155077252832,
+      "notes": ""
+    },
+    {
+      "word": "saudade",
+      "language": "Portuguese",
+      "family": "Romance",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 265,
+      "english_equivalent": "longing_nostalgia",
+      "ljpw_coordinates": [
+        0.64,
+        0.53,
+        0.28,
+        0.67
+      ],
+      "territory_id": 2,
+      "territory_name": "Harmonious Balance",
+      "distance_to_english": 0.0,
+      "harmony": 0.5028062366387918,
+      "notes": "Deep melancholic longing"
+    },
+    {
+      "word": "fé",
+      "language": "Portuguese",
+      "family": "Romance",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 265,
+      "english_equivalent": "faith",
+      "ljpw_coordinates": [
+        0.81,
+        0.54,
+        0.3,
+        0.78
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.5300476580985762,
+      "notes": ""
+    },
+    {
+      "word": "caridade",
+      "language": "Portuguese",
+      "family": "Romance",
+      "morphology": "fusional",
+      "script": "Latin",
+      "speakers_millions": 265,
+      "english_equivalent": "charity",
+      "ljpw_coordinates": [
+        0.87,
+        0.75,
+        0.31,
+        0.76
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.0,
+      "harmony": 0.5608502862906746,
+      "notes": ""
+    },
+    {
+      "word": "ভালোবাসা (bhalobasha)",
+      "language": "Bengali",
+      "family": "Indo-Aryan",
+      "morphology": "fusional",
+      "script": "Bengali",
+      "speakers_millions": 265,
+      "english_equivalent": "love",
+      "ljpw_coordinates": [
+        0.91,
+        0.48,
+        0.17,
+        0.71
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.49372311525077706,
+      "notes": ""
+    },
+    {
+      "word": "আনন্দ (anando)",
+      "language": "Bengali",
+      "family": "Indo-Aryan",
+      "morphology": "fusional",
+      "script": "Bengali",
+      "speakers_millions": 265,
+      "english_equivalent": "joy",
+      "ljpw_coordinates": [
+        0.87,
+        0.45,
+        0.39,
+        0.66
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.5267628602500484,
+      "notes": ""
+    },
+    {
+      "word": "শান্তি (shanti)",
+      "language": "Bengali",
+      "family": "Indo-Aryan",
+      "morphology": "fusional",
+      "script": "Bengali",
+      "speakers_millions": 265,
+      "english_equivalent": "peace",
+      "ljpw_coordinates": [
+        0.75,
+        0.67,
+        0.26,
+        0.74
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.5299684632349159,
+      "notes": ""
+    },
+    {
+      "word": "আশা (asha)",
+      "language": "Bengali",
+      "family": "Indo-Aryan",
+      "morphology": "fusional",
+      "script": "Bengali",
+      "speakers_millions": 265,
+      "english_equivalent": "hope",
+      "ljpw_coordinates": [
+        0.77,
+        0.5,
+        0.37,
+        0.68
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.017320508075688724,
+      "harmony": 0.5275218198436649,
+      "notes": ""
+    },
+    {
+      "word": "করুণা (koruna)",
+      "language": "Bengali",
+      "family": "Indo-Aryan",
+      "morphology": "fusional",
+      "script": "Bengali",
+      "speakers_millions": 265,
+      "english_equivalent": "compassion",
+      "ljpw_coordinates": [
+        0.89,
+        0.73,
+        0.31,
+        0.76
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.5597302559684837,
+      "notes": ""
+    },
+    {
+      "word": "দয়া (doya)",
+      "language": "Bengali",
+      "family": "Indo-Aryan",
+      "morphology": "fusional",
+      "script": "Bengali",
+      "speakers_millions": 265,
+      "english_equivalent": "mercy",
+      "ljpw_coordinates": [
+        0.86,
+        0.74,
+        0.33,
+        0.72
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.5605693803096228,
+      "notes": ""
+    },
+    {
+      "word": "ন্যায় (nyay)",
+      "language": "Bengali",
+      "family": "Indo-Aryan",
+      "morphology": "fusional",
+      "script": "Bengali",
+      "speakers_millions": 265,
+      "english_equivalent": "justice",
+      "ljpw_coordinates": [
+        0.58,
+        0.91,
+        0.52,
+        0.85
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.6019156940073621,
+      "notes": ""
+    },
+    {
+      "word": "সত্য (satya)",
+      "language": "Bengali",
+      "family": "Indo-Aryan",
+      "morphology": "fusional",
+      "script": "Bengali",
+      "speakers_millions": 265,
+      "english_equivalent": "truth",
+      "ljpw_coordinates": [
+        0.63,
+        0.89,
+        0.41,
+        0.91
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.5845306674279013,
+      "notes": ""
+    },
+    {
+      "word": "প্রজ্ঞা (progya)",
+      "language": "Bengali",
+      "family": "Indo-Aryan",
+      "morphology": "fusional",
+      "script": "Bengali",
+      "speakers_millions": 265,
+      "english_equivalent": "wisdom",
+      "ljpw_coordinates": [
+        0.66,
+        0.75,
+        0.42,
+        0.92
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.5808098037348252,
+      "notes": ""
+    },
+    {
+      "word": "সাহস (shahos)",
+      "language": "Bengali",
+      "family": "Indo-Aryan",
+      "morphology": "fusional",
+      "script": "Bengali",
+      "speakers_millions": 265,
+      "english_equivalent": "courage",
+      "ljpw_coordinates": [
+        0.68,
+        0.74,
+        0.81,
+        0.79
+      ],
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.6665778073939824,
+      "notes": ""
+    },
+    {
+      "word": "শক্তি (shakti)",
+      "language": "Bengali",
+      "family": "Indo-Aryan",
+      "morphology": "fusional",
+      "script": "Bengali",
+      "speakers_millions": 265,
+      "english_equivalent": "power",
+      "ljpw_coordinates": [
+        0.44,
+        0.53,
+        0.89,
+        0.61
+      ],
+      "territory_id": 0,
+      "territory_name": "Raw Power",
+      "distance_to_english": 0.04582575694955844,
+      "harmony": 0.5446970896124763,
+      "notes": "Also divine feminine energy"
+    },
+    {
+      "word": "সম্মান (shomman)",
+      "language": "Bengali",
+      "family": "Indo-Aryan",
+      "morphology": "fusional",
+      "script": "Bengali",
+      "speakers_millions": 265,
+      "english_equivalent": "honor",
+      "ljpw_coordinates": [
+        0.65,
+        0.84,
+        0.72,
+        0.81
+      ],
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.6611810157136448,
+      "notes": ""
+    },
+    {
+      "word": "ভালো (bhalo)",
+      "language": "Bengali",
+      "family": "Indo-Aryan",
+      "morphology": "fusional",
+      "script": "Bengali",
+      "speakers_millions": 265,
+      "english_equivalent": "good",
+      "ljpw_coordinates": [
+        0.73,
+        0.69,
+        0.38,
+        0.78
+      ],
+      "territory_id": 2,
+      "territory_name": "Harmonious Balance",
+      "distance_to_english": 0.014142135623730885,
+      "harmony": 0.5631398942019616,
+      "notes": ""
+    },
+    {
+      "word": "মন্দ (mondo)",
+      "language": "Bengali",
+      "family": "Indo-Aryan",
+      "morphology": "fusional",
+      "script": "Bengali",
+      "speakers_millions": 265,
+      "english_equivalent": "bad",
+      "ljpw_coordinates": [
+        0.24,
+        0.31,
+        0.69,
+        0.36
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.019999999999999962,
+      "harmony": 0.44468963952292223,
+      "notes": ""
+    },
+    {
+      "word": "ঘৃণা (ghrina)",
+      "language": "Bengali",
+      "family": "Indo-Aryan",
+      "morphology": "fusional",
+      "script": "Bengali",
+      "speakers_millions": 265,
+      "english_equivalent": "hate",
+      "ljpw_coordinates": [
+        0.14,
+        0.21,
+        0.82,
+        0.3
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.4213447237575934,
+      "notes": ""
+    },
+    {
+      "word": "রাগ (rag)",
+      "language": "Bengali",
+      "family": "Indo-Aryan",
+      "morphology": "fusional",
+      "script": "Bengali",
+      "speakers_millions": 265,
+      "english_equivalent": "anger",
+      "ljpw_coordinates": [
+        0.29,
+        0.34,
+        0.79,
+        0.42
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.46533280711713937,
+      "notes": ""
+    },
+    {
+      "word": "ভয় (bhoy)",
+      "language": "Bengali",
+      "family": "Indo-Aryan",
+      "morphology": "fusional",
+      "script": "Bengali",
+      "speakers_millions": 265,
+      "english_equivalent": "fear",
+      "ljpw_coordinates": [
+        0.31,
+        0.38,
+        0.62,
+        0.48
+      ],
+      "territory_id": 4,
+      "territory_name": "Uncertain Transition",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.469639714795215,
+      "notes": ""
+    },
+    {
+      "word": "দুঃখ (dukkho)",
+      "language": "Bengali",
+      "family": "Indo-Aryan",
+      "morphology": "fusional",
+      "script": "Bengali",
+      "speakers_millions": 265,
+      "english_equivalent": "sadness",
+      "ljpw_coordinates": [
+        0.42,
+        0.41,
+        0.24,
+        0.52
+      ],
+      "territory_id": 4,
+      "territory_name": "Uncertain Transition",
+      "distance_to_english": 0.014142135623730944,
+      "harmony": 0.45010999449149564,
+      "notes": ""
+    },
+    {
+      "word": "কষ্ট (koshto)",
+      "language": "Bengali",
+      "family": "Indo-Aryan",
+      "morphology": "fusional",
+      "script": "Bengali",
+      "speakers_millions": 265,
+      "english_equivalent": "suffering",
+      "ljpw_coordinates": [
+        0.23,
+        0.31,
+        0.51,
+        0.41
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.05477225575051664,
+      "harmony": 0.43719233618430875,
+      "notes": ""
+    },
+    {
+      "word": "সুখ (shukh)",
+      "language": "Bengali",
+      "family": "Indo-Aryan",
+      "morphology": "fusional",
+      "script": "Bengali",
+      "speakers_millions": 265,
+      "english_equivalent": "happiness",
+      "ljpw_coordinates": [
+        0.86,
+        0.46,
+        0.37,
+        0.67
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.5252430432888887,
+      "notes": ""
+    },
+    {
+      "word": "সৌন্দর্য (shoundorjo)",
+      "language": "Bengali",
+      "family": "Indo-Aryan",
+      "morphology": "fusional",
+      "script": "Bengali",
+      "speakers_millions": 265,
+      "english_equivalent": "beauty",
+      "ljpw_coordinates": [
+        0.79,
+        0.58,
+        0.32,
+        0.74
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.5358155077252832,
+      "notes": ""
+    },
+    {
+      "word": "ধর্ম (dharma)",
+      "language": "Bengali",
+      "family": "Indo-Aryan",
+      "morphology": "fusional",
+      "script": "Bengali",
+      "speakers_millions": 265,
+      "english_equivalent": "duty_righteousness",
+      "ljpw_coordinates": [
+        0.7,
+        0.86,
+        0.48,
+        0.88
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.0,
+      "harmony": 0.614245807918918,
+      "notes": "Cosmic law/duty"
+    },
+    {
+      "word": "কর্ম (karma)",
+      "language": "Bengali",
+      "family": "Indo-Aryan",
+      "morphology": "fusional",
+      "script": "Bengali",
+      "speakers_millions": 265,
+      "english_equivalent": "action_fate",
+      "ljpw_coordinates": [
+        0.54,
+        0.78,
+        0.61,
+        0.75
+      ],
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_english": 0.0,
+      "harmony": 0.5920970955729093,
+      "notes": ""
+    },
+    {
+      "word": "عشق (eshq)",
+      "language": "Persian",
+      "family": "Indo-Iranian",
+      "morphology": "fusional",
+      "script": "Persian",
+      "speakers_millions": 110,
+      "english_equivalent": "love",
+      "ljpw_coordinates": [
+        0.92,
+        0.48,
+        0.16,
+        0.73
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.4932722702243757,
+      "notes": "Passionate love"
+    },
+    {
+      "word": "شادی (shadi)",
+      "language": "Persian",
+      "family": "Indo-Iranian",
+      "morphology": "fusional",
+      "script": "Persian",
+      "speakers_millions": 110,
+      "english_equivalent": "joy",
+      "ljpw_coordinates": [
+        0.87,
+        0.45,
+        0.38,
+        0.67
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.5259009499252367,
+      "notes": ""
+    },
+    {
+      "word": "صلح (solh)",
+      "language": "Persian",
+      "family": "Indo-Iranian",
+      "morphology": "fusional",
+      "script": "Persian",
+      "speakers_millions": 110,
+      "english_equivalent": "peace",
+      "ljpw_coordinates": [
+        0.75,
+        0.67,
+        0.26,
+        0.74
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.5299684632349159,
+      "notes": ""
+    },
+    {
+      "word": "امید (omid)",
+      "language": "Persian",
+      "family": "Indo-Iranian",
+      "morphology": "fusional",
+      "script": "Persian",
+      "speakers_millions": 110,
+      "english_equivalent": "hope",
+      "ljpw_coordinates": [
+        0.78,
+        0.5,
+        0.36,
+        0.7
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.5281759536381595,
+      "notes": ""
+    },
+    {
+      "word": "شفقت (shafaghat)",
+      "language": "Persian",
+      "family": "Indo-Iranian",
+      "morphology": "fusional",
+      "script": "Persian",
+      "speakers_millions": 110,
+      "english_equivalent": "compassion",
+      "ljpw_coordinates": [
+        0.88,
+        0.73,
+        0.32,
+        0.75
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.5610311870016965,
+      "notes": ""
+    },
+    {
+      "word": "رحم (rahm)",
+      "language": "Persian",
+      "family": "Indo-Iranian",
+      "morphology": "fusional",
+      "script": "Persian",
+      "speakers_millions": 110,
+      "english_equivalent": "mercy",
+      "ljpw_coordinates": [
+        0.87,
+        0.74,
+        0.33,
+        0.73
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.02645751311064593,
+      "harmony": 0.5622233108386321,
+      "notes": ""
+    },
+    {
+      "word": "عدالت (edalat)",
+      "language": "Persian",
+      "family": "Indo-Iranian",
+      "morphology": "fusional",
+      "script": "Persian",
+      "speakers_millions": 110,
+      "english_equivalent": "justice",
+      "ljpw_coordinates": [
+        0.58,
+        0.91,
+        0.53,
+        0.84
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.6036803119739999,
+      "notes": ""
+    },
+    {
+      "word": "حقیقت (haghighat)",
+      "language": "Persian",
+      "family": "Indo-Iranian",
+      "morphology": "fusional",
+      "script": "Persian",
+      "speakers_millions": 110,
+      "english_equivalent": "truth",
+      "ljpw_coordinates": [
+        0.63,
+        0.89,
+        0.41,
+        0.91
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.5845306674279013,
+      "notes": ""
+    },
+    {
+      "word": "خرد (kherad)",
+      "language": "Persian",
+      "family": "Indo-Iranian",
+      "morphology": "fusional",
+      "script": "Persian",
+      "speakers_millions": 110,
+      "english_equivalent": "wisdom",
+      "ljpw_coordinates": [
+        0.66,
+        0.75,
+        0.42,
+        0.92
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.5808098037348252,
+      "notes": ""
+    },
+    {
+      "word": "شجاعت (shoja'at)",
+      "language": "Persian",
+      "family": "Indo-Iranian",
+      "morphology": "fusional",
+      "script": "Persian",
+      "speakers_millions": 110,
+      "english_equivalent": "courage",
+      "ljpw_coordinates": [
+        0.68,
+        0.74,
+        0.81,
+        0.8
+      ],
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.6684113673000418,
+      "notes": ""
+    },
+    {
+      "word": "قدرت (ghodrat)",
+      "language": "Persian",
+      "family": "Indo-Iranian",
+      "morphology": "fusional",
+      "script": "Persian",
+      "speakers_millions": 110,
+      "english_equivalent": "power",
+      "ljpw_coordinates": [
+        0.44,
+        0.53,
+        0.89,
+        0.61
+      ],
+      "territory_id": 0,
+      "territory_name": "Raw Power",
+      "distance_to_english": 0.04582575694955844,
+      "harmony": 0.5446970896124763,
+      "notes": ""
+    },
+    {
+      "word": "افتخار (eftekhار)",
+      "language": "Persian",
+      "family": "Indo-Iranian",
+      "morphology": "fusional",
+      "script": "Persian",
+      "speakers_millions": 110,
+      "english_equivalent": "honor",
+      "ljpw_coordinates": [
+        0.65,
+        0.84,
+        0.73,
+        0.81
+      ],
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.6635478619417301,
+      "notes": ""
+    },
+    {
+      "word": "خوب (khoob)",
+      "language": "Persian",
+      "family": "Indo-Iranian",
+      "morphology": "fusional",
+      "script": "Persian",
+      "speakers_millions": 110,
+      "english_equivalent": "good",
+      "ljpw_coordinates": [
+        0.73,
+        0.68,
+        0.39,
+        0.78
+      ],
+      "territory_id": 2,
+      "territory_name": "Harmonious Balance",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.5643720439977328,
+      "notes": ""
+    },
+    {
+      "word": "بد (bad)",
+      "language": "Persian",
+      "family": "Indo-Iranian",
+      "morphology": "fusional",
+      "script": "Persian",
+      "speakers_millions": 110,
+      "english_equivalent": "bad",
+      "ljpw_coordinates": [
+        0.24,
+        0.31,
+        0.69,
+        0.36
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.019999999999999962,
+      "harmony": 0.44468963952292223,
+      "notes": ""
+    },
+    {
+      "word": "نفرت (nefrat)",
+      "language": "Persian",
+      "family": "Indo-Iranian",
+      "morphology": "fusional",
+      "script": "Persian",
+      "speakers_millions": 110,
+      "english_equivalent": "hate",
+      "ljpw_coordinates": [
+        0.14,
+        0.21,
+        0.82,
+        0.29
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.0,
+      "harmony": 0.42043703724170806,
+      "notes": ""
+    },
+    {
+      "word": "خشم (khashm)",
+      "language": "Persian",
+      "family": "Indo-Iranian",
+      "morphology": "fusional",
+      "script": "Persian",
+      "speakers_millions": 110,
+      "english_equivalent": "anger",
+      "ljpw_coordinates": [
+        0.29,
+        0.34,
+        0.79,
+        0.42
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.46533280711713937,
+      "notes": ""
+    },
+    {
+      "word": "ترس (tars)",
+      "language": "Persian",
+      "family": "Indo-Iranian",
+      "morphology": "fusional",
+      "script": "Persian",
+      "speakers_millions": 110,
+      "english_equivalent": "fear",
+      "ljpw_coordinates": [
+        0.31,
+        0.38,
+        0.62,
+        0.48
+      ],
+      "territory_id": 4,
+      "territory_name": "Uncertain Transition",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.469639714795215,
+      "notes": ""
+    },
+    {
+      "word": "غم (gham)",
+      "language": "Persian",
+      "family": "Indo-Iranian",
+      "morphology": "fusional",
+      "script": "Persian",
+      "speakers_millions": 110,
+      "english_equivalent": "sadness",
+      "ljpw_coordinates": [
+        0.42,
+        0.41,
+        0.24,
+        0.52
+      ],
+      "territory_id": 4,
+      "territory_name": "Uncertain Transition",
+      "distance_to_english": 0.014142135623730944,
+      "harmony": 0.45010999449149564,
+      "notes": ""
+    },
+    {
+      "word": "درد (dard)",
+      "language": "Persian",
+      "family": "Indo-Iranian",
+      "morphology": "fusional",
+      "script": "Persian",
+      "speakers_millions": 110,
+      "english_equivalent": "pain",
+      "ljpw_coordinates": [
+        0.22,
+        0.3,
+        0.55,
+        0.39
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.020000000000000018,
+      "harmony": 0.4360252783958422,
+      "notes": ""
+    },
+    {
+      "word": "خوشبختی (khoshbakhti)",
+      "language": "Persian",
+      "family": "Indo-Iranian",
+      "morphology": "fusional",
+      "script": "Persian",
+      "speakers_millions": 110,
+      "english_equivalent": "happiness",
+      "ljpw_coordinates": [
+        0.86,
+        0.46,
+        0.37,
+        0.68
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.5262388658360835,
+      "notes": ""
+    },
+    {
+      "word": "زیبایی (zibai)",
+      "language": "Persian",
+      "family": "Indo-Iranian",
+      "morphology": "fusional",
+      "script": "Persian",
+      "speakers_millions": 110,
+      "english_equivalent": "beauty",
+      "ljpw_coordinates": [
+        0.79,
+        0.58,
+        0.32,
+        0.74
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.5358155077252832,
+      "notes": ""
+    },
+    {
+      "word": "مهر (mehr)",
+      "language": "Persian",
+      "family": "Indo-Iranian",
+      "morphology": "fusional",
+      "script": "Persian",
+      "speakers_millions": 110,
+      "english_equivalent": "affection_kindness",
+      "ljpw_coordinates": [
+        0.84,
+        0.71,
+        0.3,
+        0.77
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.0,
+      "harmony": 0.5531473311893254,
+      "notes": "Also \"sun\""
+    },
+    {
+      "word": "آزادی (azadi)",
+      "language": "Persian",
+      "family": "Indo-Iranian",
+      "morphology": "fusional",
+      "script": "Persian",
+      "speakers_millions": 110,
+      "english_equivalent": "freedom",
+      "ljpw_coordinates": [
+        0.61,
+        0.79,
+        0.68,
+        0.76
+      ],
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_english": 0.0,
+      "harmony": 0.62624272684829,
+      "notes": ""
+    },
+    {
+      "word": "upendo",
+      "language": "Swahili",
+      "family": "Niger-Congo",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 200,
+      "english_equivalent": "love",
+      "ljpw_coordinates": [
+        0.91,
+        0.48,
+        0.17,
+        0.72
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.4944024660165654,
+      "notes": ""
+    },
+    {
+      "word": "furaha",
+      "language": "Swahili",
+      "family": "Niger-Congo",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 200,
+      "english_equivalent": "happiness",
+      "ljpw_coordinates": [
+        0.86,
+        0.46,
+        0.37,
+        0.67
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.5252430432888887,
+      "notes": ""
+    },
+    {
+      "word": "amani",
+      "language": "Swahili",
+      "family": "Niger-Congo",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 200,
+      "english_equivalent": "peace",
+      "ljpw_coordinates": [
+        0.75,
+        0.67,
+        0.27,
+        0.74
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.020000000000000018,
+      "harmony": 0.5323174169885713,
+      "notes": ""
+    },
+    {
+      "word": "matumaini",
+      "language": "Swahili",
+      "family": "Niger-Congo",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 200,
+      "english_equivalent": "hope",
+      "ljpw_coordinates": [
+        0.77,
+        0.5,
+        0.37,
+        0.69
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.5285042763956996,
+      "notes": ""
+    },
+    {
+      "word": "huruma",
+      "language": "Swahili",
+      "family": "Niger-Congo",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 200,
+      "english_equivalent": "compassion",
+      "ljpw_coordinates": [
+        0.88,
+        0.73,
+        0.32,
+        0.75
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.5610311870016965,
+      "notes": ""
+    },
+    {
+      "word": "rehema",
+      "language": "Swahili",
+      "family": "Niger-Congo",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 200,
+      "english_equivalent": "mercy",
+      "ljpw_coordinates": [
+        0.87,
+        0.74,
+        0.33,
+        0.73
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.02645751311064593,
+      "harmony": 0.5622233108386321,
+      "notes": "From Arabic rahman"
+    },
+    {
+      "word": "haki",
+      "language": "Swahili",
+      "family": "Niger-Congo",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 200,
+      "english_equivalent": "justice",
+      "ljpw_coordinates": [
+        0.58,
+        0.91,
+        0.53,
+        0.84
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.6036803119739999,
+      "notes": ""
+    },
+    {
+      "word": "kweli",
+      "language": "Swahili",
+      "family": "Niger-Congo",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 200,
+      "english_equivalent": "truth",
+      "ljpw_coordinates": [
+        0.63,
+        0.88,
+        0.42,
+        0.9
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.5863456878791742,
+      "notes": ""
+    },
+    {
+      "word": "busara",
+      "language": "Swahili",
+      "family": "Niger-Congo",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 200,
+      "english_equivalent": "wisdom",
+      "ljpw_coordinates": [
+        0.66,
+        0.75,
+        0.42,
+        0.92
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.5808098037348252,
+      "notes": ""
+    },
+    {
+      "word": "ujasiri",
+      "language": "Swahili",
+      "family": "Niger-Congo",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 200,
+      "english_equivalent": "courage",
+      "ljpw_coordinates": [
+        0.68,
+        0.74,
+        0.81,
+        0.79
+      ],
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.6665778073939824,
+      "notes": ""
+    },
+    {
+      "word": "nguvu",
+      "language": "Swahili",
+      "family": "Niger-Congo",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 200,
+      "english_equivalent": "power",
+      "ljpw_coordinates": [
+        0.44,
+        0.53,
+        0.89,
+        0.61
+      ],
+      "territory_id": 0,
+      "territory_name": "Raw Power",
+      "distance_to_english": 0.04582575694955844,
+      "harmony": 0.5446970896124763,
+      "notes": ""
+    },
+    {
+      "word": "heshima",
+      "language": "Swahili",
+      "family": "Niger-Congo",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 200,
+      "english_equivalent": "honor",
+      "ljpw_coordinates": [
+        0.65,
+        0.84,
+        0.72,
+        0.81
+      ],
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.6611810157136448,
+      "notes": ""
+    },
+    {
+      "word": "nzuri",
+      "language": "Swahili",
+      "family": "Niger-Congo",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 200,
+      "english_equivalent": "good",
+      "ljpw_coordinates": [
+        0.73,
+        0.69,
+        0.38,
+        0.78
+      ],
+      "territory_id": 2,
+      "territory_name": "Harmonious Balance",
+      "distance_to_english": 0.014142135623730885,
+      "harmony": 0.5631398942019616,
+      "notes": ""
+    },
+    {
+      "word": "mbaya",
+      "language": "Swahili",
+      "family": "Niger-Congo",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 200,
+      "english_equivalent": "bad",
+      "ljpw_coordinates": [
+        0.24,
+        0.31,
+        0.69,
+        0.36
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.019999999999999962,
+      "harmony": 0.44468963952292223,
+      "notes": ""
+    },
+    {
+      "word": "chuki",
+      "language": "Swahili",
+      "family": "Niger-Congo",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 200,
+      "english_equivalent": "hate",
+      "ljpw_coordinates": [
+        0.14,
+        0.21,
+        0.82,
+        0.29
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.0,
+      "harmony": 0.42043703724170806,
+      "notes": ""
+    },
+    {
+      "word": "hasira",
+      "language": "Swahili",
+      "family": "Niger-Congo",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 200,
+      "english_equivalent": "anger",
+      "ljpw_coordinates": [
+        0.29,
+        0.34,
+        0.79,
+        0.42
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.46533280711713937,
+      "notes": ""
+    },
+    {
+      "word": "hofu",
+      "language": "Swahili",
+      "family": "Niger-Congo",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 200,
+      "english_equivalent": "fear",
+      "ljpw_coordinates": [
+        0.31,
+        0.38,
+        0.62,
+        0.48
+      ],
+      "territory_id": 4,
+      "territory_name": "Uncertain Transition",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.469639714795215,
+      "notes": ""
+    },
+    {
+      "word": "huzuni",
+      "language": "Swahili",
+      "family": "Niger-Congo",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 200,
+      "english_equivalent": "sadness",
+      "ljpw_coordinates": [
+        0.42,
+        0.41,
+        0.24,
+        0.52
+      ],
+      "territory_id": 4,
+      "territory_name": "Uncertain Transition",
+      "distance_to_english": 0.014142135623730944,
+      "harmony": 0.45010999449149564,
+      "notes": ""
+    },
+    {
+      "word": "maumivu",
+      "language": "Swahili",
+      "family": "Niger-Congo",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 200,
+      "english_equivalent": "pain",
+      "ljpw_coordinates": [
+        0.22,
+        0.3,
+        0.55,
+        0.39
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.020000000000000018,
+      "harmony": 0.4360252783958422,
+      "notes": ""
+    },
+    {
+      "word": "uzuri",
+      "language": "Swahili",
+      "family": "Niger-Congo",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 200,
+      "english_equivalent": "beauty",
+      "ljpw_coordinates": [
+        0.79,
+        0.58,
+        0.32,
+        0.74
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.5358155077252832,
+      "notes": ""
+    },
+    {
+      "word": "ubuntu",
+      "language": "Swahili",
+      "family": "Niger-Congo",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 200,
+      "english_equivalent": "humanity_to_others",
+      "ljpw_coordinates": [
+        0.84,
+        0.77,
+        0.34,
+        0.81
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.0,
+      "harmony": 0.5741336673496935,
+      "notes": "I am because we are"
+    },
+    {
+      "word": "ujamaa",
+      "language": "Swahili",
+      "family": "Niger-Congo",
+      "morphology": "agglutinative",
+      "script": "Latin",
+      "speakers_millions": 200,
+      "english_equivalent": "communalism",
+      "ljpw_coordinates": [
+        0.78,
+        0.81,
+        0.42,
+        0.79
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.0,
+      "harmony": 0.5945624582256209,
+      "notes": "Familyhood/socialism"
+    },
+    {
+      "word": "அன்பு (anbu)",
+      "language": "Tamil",
+      "family": "Dravidian",
+      "morphology": "agglutinative",
+      "script": "Tamil",
+      "speakers_millions": 80,
+      "english_equivalent": "love",
+      "ljpw_coordinates": [
+        0.91,
+        0.48,
+        0.17,
+        0.72
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.4944024660165654,
+      "notes": ""
+    },
+    {
+      "word": "மகிழ்ச்சி (magizhchi)",
+      "language": "Tamil",
+      "family": "Dravidian",
+      "morphology": "agglutinative",
+      "script": "Tamil",
+      "speakers_millions": 80,
+      "english_equivalent": "joy",
+      "ljpw_coordinates": [
+        0.87,
+        0.45,
+        0.38,
+        0.67
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.5259009499252367,
+      "notes": ""
+    },
+    {
+      "word": "அமைதி (amaiti)",
+      "language": "Tamil",
+      "family": "Dravidian",
+      "morphology": "agglutinative",
+      "script": "Tamil",
+      "speakers_millions": 80,
+      "english_equivalent": "peace",
+      "ljpw_coordinates": [
+        0.75,
+        0.67,
+        0.26,
+        0.74
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.5299684632349159,
+      "notes": ""
+    },
+    {
+      "word": "நம்பிக்கை (nambikkai)",
+      "language": "Tamil",
+      "family": "Dravidian",
+      "morphology": "agglutinative",
+      "script": "Tamil",
+      "speakers_millions": 80,
+      "english_equivalent": "hope",
+      "ljpw_coordinates": [
+        0.77,
+        0.5,
+        0.37,
+        0.69
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.5285042763956996,
+      "notes": ""
+    },
+    {
+      "word": "இரக்கம் (irakkam)",
+      "language": "Tamil",
+      "family": "Dravidian",
+      "morphology": "agglutinative",
+      "script": "Tamil",
+      "speakers_millions": 80,
+      "english_equivalent": "compassion",
+      "ljpw_coordinates": [
+        0.88,
+        0.73,
+        0.32,
+        0.75
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.5610311870016965,
+      "notes": ""
+    },
+    {
+      "word": "கருணை (karunai)",
+      "language": "Tamil",
+      "family": "Dravidian",
+      "morphology": "agglutinative",
+      "script": "Tamil",
+      "speakers_millions": 80,
+      "english_equivalent": "mercy",
+      "ljpw_coordinates": [
+        0.87,
+        0.74,
+        0.33,
+        0.73
+      ],
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_english": 0.02645751311064593,
+      "harmony": 0.5622233108386321,
+      "notes": ""
+    },
+    {
+      "word": "நீதி (neethi)",
+      "language": "Tamil",
+      "family": "Dravidian",
+      "morphology": "agglutinative",
+      "script": "Tamil",
+      "speakers_millions": 80,
+      "english_equivalent": "justice",
+      "ljpw_coordinates": [
+        0.58,
+        0.91,
+        0.52,
+        0.85
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.6019156940073621,
+      "notes": ""
+    },
+    {
+      "word": "உண்மை (unmai)",
+      "language": "Tamil",
+      "family": "Dravidian",
+      "morphology": "agglutinative",
+      "script": "Tamil",
+      "speakers_millions": 80,
+      "english_equivalent": "truth",
+      "ljpw_coordinates": [
+        0.63,
+        0.89,
+        0.41,
+        0.91
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.5845306674279013,
+      "notes": ""
+    },
+    {
+      "word": "ஞானம் (gnanam)",
+      "language": "Tamil",
+      "family": "Dravidian",
+      "morphology": "agglutinative",
+      "script": "Tamil",
+      "speakers_millions": 80,
+      "english_equivalent": "wisdom",
+      "ljpw_coordinates": [
+        0.66,
+        0.75,
+        0.42,
+        0.92
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.017320508075688787,
+      "harmony": 0.5808098037348252,
+      "notes": ""
+    },
+    {
+      "word": "தைரியம் (thairiyam)",
+      "language": "Tamil",
+      "family": "Dravidian",
+      "morphology": "agglutinative",
+      "script": "Tamil",
+      "speakers_millions": 80,
+      "english_equivalent": "courage",
+      "ljpw_coordinates": [
+        0.68,
+        0.74,
+        0.81,
+        0.79
+      ],
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_english": 0.014142135623730963,
+      "harmony": 0.6665778073939824,
+      "notes": ""
+    },
+    {
+      "word": "சக்தி (sakthi)",
+      "language": "Tamil",
+      "family": "Dravidian",
+      "morphology": "agglutinative",
+      "script": "Tamil",
+      "speakers_millions": 80,
+      "english_equivalent": "power",
+      "ljpw_coordinates": [
+        0.44,
+        0.53,
+        0.89,
+        0.61
+      ],
+      "territory_id": 0,
+      "territory_name": "Raw Power",
+      "distance_to_english": 0.04582575694955844,
+      "harmony": 0.5446970896124763,
+      "notes": "Also divine power"
+    },
+    {
+      "word": "மரியாதை (mariyathai)",
+      "language": "Tamil",
+      "family": "Dravidian",
+      "morphology": "agglutinative",
+      "script": "Tamil",
+      "speakers_millions": 80,
+      "english_equivalent": "honor",
+      "ljpw_coordinates": [
+        0.65,
+        0.84,
+        0.72,
+        0.81
+      ],
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.6611810157136448,
+      "notes": ""
+    },
+    {
+      "word": "நல்ல (nalla)",
+      "language": "Tamil",
+      "family": "Dravidian",
+      "morphology": "agglutinative",
+      "script": "Tamil",
+      "speakers_millions": 80,
+      "english_equivalent": "good",
+      "ljpw_coordinates": [
+        0.73,
+        0.69,
+        0.38,
+        0.78
+      ],
+      "territory_id": 2,
+      "territory_name": "Harmonious Balance",
+      "distance_to_english": 0.014142135623730885,
+      "harmony": 0.5631398942019616,
+      "notes": ""
+    },
+    {
+      "word": "தீய (theeya)",
+      "language": "Tamil",
+      "family": "Dravidian",
+      "morphology": "agglutinative",
+      "script": "Tamil",
+      "speakers_millions": 80,
+      "english_equivalent": "evil",
+      "ljpw_coordinates": [
+        0.19,
+        0.28,
+        0.71,
+        0.33
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.0,
+      "harmony": 0.43351722196070386,
+      "notes": ""
+    },
+    {
+      "word": "வெறுப்பு (veruppu)",
+      "language": "Tamil",
+      "family": "Dravidian",
+      "morphology": "agglutinative",
+      "script": "Tamil",
+      "speakers_millions": 80,
+      "english_equivalent": "hate",
+      "ljpw_coordinates": [
+        0.14,
+        0.21,
+        0.82,
+        0.29
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.0,
+      "harmony": 0.42043703724170806,
+      "notes": ""
+    },
+    {
+      "word": "கோபம் (kobam)",
+      "language": "Tamil",
+      "family": "Dravidian",
+      "morphology": "agglutinative",
+      "script": "Tamil",
+      "speakers_millions": 80,
+      "english_equivalent": "anger",
+      "ljpw_coordinates": [
+        0.29,
+        0.34,
+        0.79,
+        0.42
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.46533280711713937,
+      "notes": ""
+    },
+    {
+      "word": "பயம் (bayam)",
+      "language": "Tamil",
+      "family": "Dravidian",
+      "morphology": "agglutinative",
+      "script": "Tamil",
+      "speakers_millions": 80,
+      "english_equivalent": "fear",
+      "ljpw_coordinates": [
+        0.31,
+        0.38,
+        0.62,
+        0.48
+      ],
+      "territory_id": 4,
+      "territory_name": "Uncertain Transition",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.469639714795215,
+      "notes": ""
+    },
+    {
+      "word": "துக்கம் (thukkam)",
+      "language": "Tamil",
+      "family": "Dravidian",
+      "morphology": "agglutinative",
+      "script": "Tamil",
+      "speakers_millions": 80,
+      "english_equivalent": "sadness",
+      "ljpw_coordinates": [
+        0.42,
+        0.41,
+        0.24,
+        0.52
+      ],
+      "territory_id": 4,
+      "territory_name": "Uncertain Transition",
+      "distance_to_english": 0.014142135623730944,
+      "harmony": 0.45010999449149564,
+      "notes": ""
+    },
+    {
+      "word": "வலி (vali)",
+      "language": "Tamil",
+      "family": "Dravidian",
+      "morphology": "agglutinative",
+      "script": "Tamil",
+      "speakers_millions": 80,
+      "english_equivalent": "pain",
+      "ljpw_coordinates": [
+        0.22,
+        0.3,
+        0.55,
+        0.39
+      ],
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_english": 0.020000000000000018,
+      "harmony": 0.4360252783958422,
+      "notes": ""
+    },
+    {
+      "word": "மகிழ்வு (magizhvu)",
+      "language": "Tamil",
+      "family": "Dravidian",
+      "morphology": "agglutinative",
+      "script": "Tamil",
+      "speakers_millions": 80,
+      "english_equivalent": "happiness",
+      "ljpw_coordinates": [
+        0.86,
+        0.46,
+        0.37,
+        0.67
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.5252430432888887,
+      "notes": ""
+    },
+    {
+      "word": "அழகு (azhagu)",
+      "language": "Tamil",
+      "family": "Dravidian",
+      "morphology": "agglutinative",
+      "script": "Tamil",
+      "speakers_millions": 80,
+      "english_equivalent": "beauty",
+      "ljpw_coordinates": [
+        0.79,
+        0.58,
+        0.32,
+        0.74
+      ],
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_english": 0.010000000000000009,
+      "harmony": 0.5358155077252832,
+      "notes": ""
+    },
+    {
+      "word": "தர்மம் (tharmam)",
+      "language": "Tamil",
+      "family": "Dravidian",
+      "morphology": "agglutinative",
+      "script": "Tamil",
+      "speakers_millions": 80,
+      "english_equivalent": "duty_righteousness",
+      "ljpw_coordinates": [
+        0.7,
+        0.86,
+        0.48,
+        0.88
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.0,
+      "harmony": 0.614245807918918,
+      "notes": ""
+    },
+    {
+      "word": "அறம் (aram)",
+      "language": "Tamil",
+      "family": "Dravidian",
+      "morphology": "agglutinative",
+      "script": "Tamil",
+      "speakers_millions": 80,
+      "english_equivalent": "virtue",
+      "ljpw_coordinates": [
+        0.69,
+        0.88,
+        0.46,
+        0.9
+      ],
+      "territory_id": 7,
+      "territory_name": "Practical Wisdom",
+      "distance_to_english": 0.0,
+      "harmony": 0.6090318866675262,
+      "notes": "Thirukkural virtue"
+    }
+  ],
+  "analysis": {
+    "overview": {
+      "total_words": 234,
+      "total_languages": 10,
+      "total_families": 10,
+      "languages": [
+        "Bengali",
+        "German",
+        "Japanese",
+        "Korean",
+        "Persian",
+        "Portuguese",
+        "Swahili",
+        "Tamil",
+        "Turkish",
+        "Vietnamese"
+      ],
+      "families": [
+        "Austroasiatic",
+        "Dravidian",
+        "Germanic",
+        "Indo-Aryan",
+        "Indo-Iranian",
+        "Japonic",
+        "Koreanic",
+        "Niger-Congo",
+        "Romance",
+        "Turkic"
+      ]
+    },
+    "cross_linguistic_distance": {
+      "mean": 0.017972386626869494,
+      "std": 0.01613201939928135,
+      "min": 0.010000000000000009,
+      "max": 0.21142374511865966,
+      "quality_distribution": {
+        "excellent_<0.05": 194,
+        "good_0.05-0.10": 2,
+        "fair_0.10-0.20": 0,
+        "poor_>0.20": 1,
+        "percent_excellent": 98.5,
+        "percent_good_or_better": 99.5
+      }
+    },
+    "by_language_family": {
+      "Japonic": {
+        "word_count": 21,
+        "mean_distance": 0.020057109403273987,
+        "std_distance": 0.0026900133659347814
+      },
+      "Turkic": {
+        "word_count": 20,
+        "mean_distance": 0.017304818513610362,
+        "std_distance": 0.005961816519401478
+      },
+      "Austroasiatic": {
+        "word_count": 21,
+        "mean_distance": 0.01824742807605898,
+        "std_distance": 0.010018218501429702
+      },
+      "Koreanic": {
+        "word_count": 19,
+        "mean_distance": 0.02885041697622659,
+        "std_distance": 0.04400084650241895
+      },
+      "Germanic": {
+        "word_count": 18,
+        "mean_distance": 0.01421350049323965,
+        "std_distance": 0.009320155182053865
+      },
+      "Romance": {
+        "word_count": 19,
+        "mean_distance": 0.01328070814317572,
+        "std_distance": 0.005374565015936002
+      },
+      "Indo-Aryan": {
+        "word_count": 21,
+        "mean_distance": 0.017391987584422022,
+        "std_distance": 0.011228989110099764
+      },
+      "Indo-Iranian": {
+        "word_count": 20,
+        "mean_distance": 0.01726006339402269,
+        "std_distance": 0.007555806484705546
+      },
+      "Niger-Congo": {
+        "word_count": 19,
+        "mean_distance": 0.01662732818829993,
+        "std_distance": 0.008101680102081402
+      },
+      "Dravidian": {
+        "word_count": 19,
+        "mean_distance": 0.016177993646164127,
+        "std_distance": 0.008036685327817546
+      }
+    },
+    "by_morphology": {
+      "agglutinative": {
+        "word_count": 98,
+        "mean_distance": 0.019783211276980437,
+        "std_distance": 0.020762310352226955
+      },
+      "isolating": {
+        "word_count": 21,
+        "mean_distance": 0.01824742807605898,
+        "std_distance": 0.010018218501429702
+      },
+      "fusional": {
+        "word_count": 78,
+        "mean_distance": 0.01562319834297396,
+        "std_distance": 0.00888777793450192
+      }
+    },
+    "by_language": {
+      "Japanese": {
+        "word_count": 25,
+        "mean_distance": 0.020057109403273987,
+        "std_distance": 0.0026900133659347814,
+        "mean_harmony": 0.5364036093482817
+      },
+      "Turkish": {
+        "word_count": 24,
+        "mean_distance": 0.017304818513610362,
+        "std_distance": 0.005961816519401478,
+        "mean_harmony": 0.5384417836227471
+      },
+      "Vietnamese": {
+        "word_count": 23,
+        "mean_distance": 0.01824742807605898,
+        "std_distance": 0.010018218501429702,
+        "mean_harmony": 0.5374198731294455
+      },
+      "Korean": {
+        "word_count": 24,
+        "mean_distance": 0.02885041697622659,
+        "std_distance": 0.04400084650241895,
+        "mean_harmony": 0.5335188991383867
+      },
+      "German": {
+        "word_count": 24,
+        "mean_distance": 0.01421350049323965,
+        "std_distance": 0.009320155182053865,
+        "mean_harmony": 0.5326497775929101
+      },
+      "Portuguese": {
+        "word_count": 23,
+        "mean_distance": 0.01328070814317572,
+        "std_distance": 0.005374565015936002,
+        "mean_harmony": 0.5292042355386193
+      },
+      "Bengali": {
+        "word_count": 23,
+        "mean_distance": 0.017391987584422022,
+        "std_distance": 0.011228989110099764,
+        "mean_harmony": 0.5372538494488843
+      },
+      "Persian": {
+        "word_count": 23,
+        "mean_distance": 0.01726006339402269,
+        "std_distance": 0.007555806484705546,
+        "mean_harmony": 0.5364478340876099
+      },
+      "Swahili": {
+        "word_count": 22,
+        "mean_distance": 0.01662732818829993,
+        "std_distance": 0.008101680102081402,
+        "mean_harmony": 0.5364045189047745
+      },
+      "Tamil": {
+        "word_count": 23,
+        "mean_distance": 0.016177993646164127,
+        "std_distance": 0.008036685327817546,
+        "mean_harmony": 0.5375774315264182
+      }
+    },
+    "territory_distribution": {
+      "Emotional Affection": 50,
+      "Compassionate Virtue": 37,
+      "Practical Wisdom": 36,
+      "Noble Action": 27,
+      "Raw Power": 10,
+      "Harmonious Balance": 12,
+      "Malevolent Evil": 43,
+      "Uncertain Transition": 19
+    }
+  }
+}
