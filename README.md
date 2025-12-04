@@ -529,21 +529,6 @@ Start with:
 
 ---
 
-## Citation
-
-If you use this framework in your research, please cite:
-
-```bibtex
-@software{ljpw_framework,
-  title = {LJPW Language Translator: Geometric Semantic Mapping Framework},
-  author = {Wellington Taureka},
-  year = {2025},
-  url = {https://github.com/BruinGrowly/LJPW-Language-Translator}
-}
-```
-
----
-
 ## License
 
 See [LICENSE](LICENSE) file for details.
