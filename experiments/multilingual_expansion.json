@@ -1,0 +1,4574 @@
+{
+  "word_mappings": {
+    "amour": {
+      "coordinates": [
+        0.91,
+        0.46,
+        0.16,
+        0.71
+      ],
+      "english": "love",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_center": 0.23099350640223637,
+      "harmony": 0.4892982488961348,
+      "L": 0.91,
+      "J": 0.46,
+      "P": 0.16,
+      "W": 0.71
+    },
+    "joie": {
+      "coordinates": [
+        0.87,
+        0.43,
+        0.39,
+        0.66
+      ],
+      "english": "joy",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_center": 0.10769401097554128,
+      "harmony": 0.5233495253659941,
+      "L": 0.87,
+      "J": 0.43,
+      "P": 0.39,
+      "W": 0.66
+    },
+    "espoir": {
+      "coordinates": [
+        0.77,
+        0.49,
+        0.36,
+        0.69
+      ],
+      "english": "hope",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_center": 0.048352869614946274,
+      "harmony": 0.5249838710829331,
+      "L": 0.77,
+      "J": 0.49,
+      "P": 0.36,
+      "W": 0.69
+    },
+    "paix": {
+      "coordinates": [
+        0.74,
+        0.66,
+        0.26,
+        0.73
+      ],
+      "english": "peace",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.14331433982682956,
+      "harmony": 0.5272890073915635,
+      "L": 0.74,
+      "J": 0.66,
+      "P": 0.26,
+      "W": 0.73
+    },
+    "bonheur": {
+      "coordinates": [
+        0.86,
+        0.45,
+        0.37,
+        0.67
+      ],
+      "english": "happiness",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_center": 0.08048602363143555,
+      "harmony": 0.5235903355361204,
+      "L": 0.86,
+      "J": 0.45,
+      "P": 0.37,
+      "W": 0.67
+    },
+    "colère": {
+      "coordinates": [
+        0.29,
+        0.54,
+        0.71,
+        0.36
+      ],
+      "english": "anger",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 4,
+      "territory_name": "Selfish Vice",
+      "distance_to_center": 0.13714590770416746,
+      "harmony": 0.47625233481242424,
+      "L": 0.29,
+      "J": 0.54,
+      "P": 0.71,
+      "W": 0.36
+    },
+    "haine": {
+      "coordinates": [
+        0.13,
+        0.36,
+        0.74,
+        0.26
+      ],
+      "english": "hate",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_center": 0.07374279625834645,
+      "harmony": 0.4283015943505712,
+      "L": 0.13,
+      "J": 0.36,
+      "P": 0.74,
+      "W": 0.26
+    },
+    "tristesse": {
+      "coordinates": [
+        0.36,
+        0.47,
+        0.23,
+        0.54
+      ],
+      "english": "sadness",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 2,
+      "territory_name": "Suffering",
+      "distance_to_center": 0.10319883720275147,
+      "harmony": 0.4499028809368654,
+      "L": 0.36,
+      "J": 0.47,
+      "P": 0.23,
+      "W": 0.54
+    },
+    "peur": {
+      "coordinates": [
+        0.26,
+        0.51,
+        0.29,
+        0.46
+      ],
+      "english": "fear",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 2,
+      "territory_name": "Suffering",
+      "distance_to_center": 0.10319883720275148,
+      "harmony": 0.4428046444636439,
+      "L": 0.26,
+      "J": 0.51,
+      "P": 0.29,
+      "W": 0.46
+    },
+    "envie": {
+      "coordinates": [
+        0.29,
+        0.39,
+        0.68,
+        0.33
+      ],
+      "english": "envy",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 4,
+      "territory_name": "Selfish Vice",
+      "distance_to_center": 0.08178630692236931,
+      "harmony": 0.4556264667481919,
+      "L": 0.29,
+      "J": 0.39,
+      "P": 0.68,
+      "W": 0.33
+    },
+    "compassion": {
+      "coordinates": [
+        0.87,
+        0.73,
+        0.33,
+        0.76
+      ],
+      "english": "compassion",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.06355312738174262,
+      "harmony": 0.5642689222424594,
+      "L": 0.87,
+      "J": 0.73,
+      "P": 0.33,
+      "W": 0.76
+    },
+    "courage": {
+      "coordinates": [
+        0.66,
+        0.61,
+        0.69,
+        0.71
+      ],
+      "english": "courage",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_center": 0.15140673697032112,
+      "harmony": 0.5990702494655223,
+      "L": 0.66,
+      "J": 0.61,
+      "P": 0.69,
+      "W": 0.71
+    },
+    "sagesse": {
+      "coordinates": [
+        0.69,
+        0.69,
+        0.43,
+        0.89
+      ],
+      "english": "wisdom",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 7,
+      "territory_name": "Intellectual Virtue",
+      "distance_to_center": 0.11081516141756056,
+      "harmony": 0.5788841563744086,
+      "L": 0.69,
+      "J": 0.69,
+      "P": 0.43,
+      "W": 0.89
+    },
+    "justice": {
+      "coordinates": [
+        0.61,
+        0.87,
+        0.57,
+        0.79
+      ],
+      "english": "justice",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 7,
+      "territory_name": "Intellectual Virtue",
+      "distance_to_center": 0.15887101686588398,
+      "harmony": 0.6131687511237538,
+      "L": 0.61,
+      "J": 0.87,
+      "P": 0.57,
+      "W": 0.79
+    },
+    "vérité": {
+      "coordinates": [
+        0.63,
+        0.77,
+        0.49,
+        0.86
+      ],
+      "english": "truth",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 7,
+      "territory_name": "Intellectual Virtue",
+      "distance_to_center": 0.03435112807463537,
+      "harmony": 0.5934011300187824,
+      "L": 0.63,
+      "J": 0.77,
+      "P": 0.49,
+      "W": 0.86
+    },
+    "humilité": {
+      "coordinates": [
+        0.71,
+        0.71,
+        0.29,
+        0.76
+      ],
+      "english": "humility",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.14170038814343452,
+      "harmony": 0.5392748909519121,
+      "L": 0.71,
+      "J": 0.71,
+      "P": 0.29,
+      "W": 0.76
+    },
+    "miséricorde": {
+      "coordinates": [
+        0.84,
+        0.73,
+        0.36,
+        0.71
+      ],
+      "english": "mercy",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.04403407771260803,
+      "harmony": 0.5651169193162344,
+      "L": 0.84,
+      "J": 0.73,
+      "P": 0.36,
+      "W": 0.71
+    },
+    "orgueil": {
+      "coordinates": [
+        0.37,
+        0.36,
+        0.77,
+        0.43
+      ],
+      "english": "pride",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 4,
+      "territory_name": "Selfish Vice",
+      "distance_to_center": 0.09374966666607407,
+      "harmony": 0.47886860938338643,
+      "L": 0.37,
+      "J": 0.36,
+      "P": 0.77,
+      "W": 0.43
+    },
+    "avidité": {
+      "coordinates": [
+        0.23,
+        0.29,
+        0.81,
+        0.36
+      ],
+      "english": "greed",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_center": 0.1062920505023777,
+      "harmony": 0.4460194383561152,
+      "L": 0.23,
+      "J": 0.29,
+      "P": 0.81,
+      "W": 0.36
+    },
+    "cruauté": {
+      "coordinates": [
+        0.16,
+        0.26,
+        0.78,
+        0.23
+      ],
+      "english": "cruelty",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_center": 0.10284940447080868,
+      "harmony": 0.42080309629349966,
+      "L": 0.16,
+      "J": 0.26,
+      "P": 0.78,
+      "W": 0.23
+    },
+    "donner": {
+      "coordinates": [
+        0.81,
+        0.68,
+        0.43,
+        0.69
+      ],
+      "english": "give",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.08808518604169488,
+      "harmony": 0.5720832549411358,
+      "L": 0.81,
+      "J": 0.68,
+      "P": 0.43,
+      "W": 0.69
+    },
+    "prendre": {
+      "coordinates": [
+        0.33,
+        0.39,
+        0.71,
+        0.43
+      ],
+      "english": "take",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 4,
+      "territory_name": "Selfish Vice",
+      "distance_to_center": 0.04988987873306566,
+      "harmony": 0.47414630713452927,
+      "L": 0.33,
+      "J": 0.39,
+      "P": 0.71,
+      "W": 0.43
+    },
+    "créer": {
+      "coordinates": [
+        0.74,
+        0.59,
+        0.69,
+        0.83
+      ],
+      "english": "create",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_center": 0.10603772913449248,
+      "harmony": 0.6247723290413391,
+      "L": 0.74,
+      "J": 0.59,
+      "P": 0.69,
+      "W": 0.83
+    },
+    "liberté": {
+      "coordinates": [
+        0.76,
+        0.73,
+        0.64,
+        0.79
+      ],
+      "english": "freedom",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_center": 0.07578918128598562,
+      "harmony": 0.6445195611878312,
+      "L": 0.76,
+      "J": 0.73,
+      "P": 0.64,
+      "W": 0.79
+    },
+    "beauté": {
+      "coordinates": [
+        0.81,
+        0.56,
+        0.43,
+        0.69
+      ],
+      "english": "beauty",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_center": 0.08329465769183522,
+      "harmony": 0.5535076450474516,
+      "L": 0.81,
+      "J": 0.56,
+      "P": 0.43,
+      "W": 0.69
+    },
+    "pouvoir": {
+      "coordinates": [
+        0.46,
+        0.49,
+        0.87,
+        0.63
+      ],
+      "english": "power",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 0,
+      "territory_name": "Raw Power",
+      "distance_to_center": 0.07000000000000002,
+      "harmony": 0.5434958435268311,
+      "L": 0.46,
+      "J": 0.49,
+      "P": 0.87,
+      "W": 0.63
+    },
+    "amitié": {
+      "coordinates": [
+        0.81,
+        0.69,
+        0.43,
+        0.73
+      ],
+      "english": "friendship",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.070420167565833,
+      "harmony": 0.5787000235573366,
+      "L": 0.81,
+      "J": 0.69,
+      "P": 0.43,
+      "W": 0.73
+    },
+    "pardon": {
+      "coordinates": [
+        0.87,
+        0.78,
+        0.37,
+        0.79
+      ],
+      "english": "forgiveness",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.10177917272212433,
+      "harmony": 0.5842665402292716,
+      "L": 0.87,
+      "J": 0.78,
+      "P": 0.37,
+      "W": 0.79
+    },
+    "loyauté": {
+      "coordinates": [
+        0.77,
+        0.76,
+        0.59,
+        0.76
+      ],
+      "english": "loyalty",
+      "language": "French",
+      "family": "Romance",
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_center": 0.11271202242884297,
+      "harmony": 0.6329804751838372,
+      "L": 0.77,
+      "J": 0.76,
+      "P": 0.59,
+      "W": 0.76
+    },
+    "amor": {
+      "coordinates": [
+        0.9,
+        0.46,
+        0.17,
+        0.72
+      ],
+      "english": "love",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_center": 0.21931256233968907,
+      "harmony": 0.491672009962635,
+      "L": 0.9,
+      "J": 0.46,
+      "P": 0.17,
+      "W": 0.72
+    },
+    "alegría": {
+      "coordinates": [
+        0.86,
+        0.44,
+        0.4,
+        0.67
+      ],
+      "english": "joy",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_center": 0.09590620417887472,
+      "harmony": 0.5275373557236187,
+      "L": 0.86,
+      "J": 0.44,
+      "P": 0.4,
+      "W": 0.67
+    },
+    "esperanza": {
+      "coordinates": [
+        0.76,
+        0.5,
+        0.37,
+        0.7
+      ],
+      "english": "hope",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_center": 0.05601785429664362,
+      "harmony": 0.5287236261334586,
+      "L": 0.76,
+      "J": 0.5,
+      "P": 0.37,
+      "W": 0.7
+    },
+    "paz": {
+      "coordinates": [
+        0.73,
+        0.67,
+        0.27,
+        0.74
+      ],
+      "english": "peace",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.1399964285258734,
+      "harmony": 0.5306511403786668,
+      "L": 0.73,
+      "J": 0.67,
+      "P": 0.27,
+      "W": 0.74
+    },
+    "felicidad": {
+      "coordinates": [
+        0.85,
+        0.46,
+        0.38,
+        0.68
+      ],
+      "english": "happiness",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_center": 0.06691786009728642,
+      "harmony": 0.5277239333339271,
+      "L": 0.85,
+      "J": 0.46,
+      "P": 0.38,
+      "W": 0.68
+    },
+    "ira": {
+      "coordinates": [
+        0.3,
+        0.53,
+        0.7,
+        0.37
+      ],
+      "english": "anger",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 4,
+      "territory_name": "Selfish Vice",
+      "distance_to_center": 0.12549501982150532,
+      "harmony": 0.477454480924045,
+      "L": 0.3,
+      "J": 0.53,
+      "P": 0.7,
+      "W": 0.37
+    },
+    "odio": {
+      "coordinates": [
+        0.14,
+        0.37,
+        0.73,
+        0.27
+      ],
+      "english": "hate",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_center": 0.06955573304911677,
+      "harmony": 0.43104152050198014,
+      "L": 0.14,
+      "J": 0.37,
+      "P": 0.73,
+      "W": 0.27
+    },
+    "tristeza": {
+      "coordinates": [
+        0.37,
+        0.46,
+        0.24,
+        0.53
+      ],
+      "english": "sadness",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 2,
+      "territory_name": "Suffering",
+      "distance_to_center": 0.09082951062292477,
+      "harmony": 0.45056692920229385,
+      "L": 0.37,
+      "J": 0.46,
+      "P": 0.24,
+      "W": 0.53
+    },
+    "miedo": {
+      "coordinates": [
+        0.27,
+        0.5,
+        0.3,
+        0.47
+      ],
+      "english": "fear",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 2,
+      "territory_name": "Suffering",
+      "distance_to_center": 0.08860022573334676,
+      "harmony": 0.4451338792104426,
+      "L": 0.27,
+      "J": 0.5,
+      "P": 0.3,
+      "W": 0.47
+    },
+    "envidia": {
+      "coordinates": [
+        0.3,
+        0.4,
+        0.67,
+        0.34
+      ],
+      "english": "envy",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 4,
+      "territory_name": "Selfish Vice",
+      "distance_to_center": 0.0763478879865055,
+      "harmony": 0.4585285050785096,
+      "L": 0.3,
+      "J": 0.4,
+      "P": 0.67,
+      "W": 0.34
+    },
+    "compasión": {
+      "coordinates": [
+        0.86,
+        0.74,
+        0.34,
+        0.77
+      ],
+      "english": "compassion",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.06244197306299669,
+      "harmony": 0.5685859760894059,
+      "L": 0.86,
+      "J": 0.74,
+      "P": 0.34,
+      "W": 0.77
+    },
+    "valor": {
+      "coordinates": [
+        0.67,
+        0.6,
+        0.7,
+        0.72
+      ],
+      "english": "courage",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_center": 0.14806755215103679,
+      "harmony": 0.6019430874451438,
+      "L": 0.67,
+      "J": 0.6,
+      "P": 0.7,
+      "W": 0.72
+    },
+    "sabiduría": {
+      "coordinates": [
+        0.68,
+        0.7,
+        0.44,
+        0.9
+      ],
+      "english": "wisdom",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 7,
+      "territory_name": "Intellectual Virtue",
+      "distance_to_center": 0.10099504938362085,
+      "harmony": 0.581959917680333,
+      "L": 0.68,
+      "J": 0.7,
+      "P": 0.44,
+      "W": 0.9
+    },
+    "justicia": {
+      "coordinates": [
+        0.62,
+        0.86,
+        0.56,
+        0.8
+      ],
+      "english": "justice",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 7,
+      "territory_name": "Intellectual Virtue",
+      "distance_to_center": 0.1415627069534911,
+      "harmony": 0.6132879966510992,
+      "L": 0.62,
+      "J": 0.86,
+      "P": 0.56,
+      "W": 0.8
+    },
+    "verdad": {
+      "coordinates": [
+        0.64,
+        0.76,
+        0.5,
+        0.87
+      ],
+      "english": "truth",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 7,
+      "territory_name": "Intellectual Virtue",
+      "distance_to_center": 0.0337638860322683,
+      "harmony": 0.5974181653173515,
+      "L": 0.64,
+      "J": 0.76,
+      "P": 0.5,
+      "W": 0.87
+    },
+    "humildad": {
+      "coordinates": [
+        0.7,
+        0.72,
+        0.3,
+        0.77
+      ],
+      "english": "humility",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.1481181960462657,
+      "harmony": 0.5424799701800135,
+      "L": 0.7,
+      "J": 0.72,
+      "P": 0.3,
+      "W": 0.77
+    },
+    "misericordia": {
+      "coordinates": [
+        0.83,
+        0.74,
+        0.37,
+        0.72
+      ],
+      "english": "mercy",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.04471017781221635,
+      "harmony": 0.5694194698356316,
+      "L": 0.83,
+      "J": 0.74,
+      "P": 0.37,
+      "W": 0.72
+    },
+    "orgullo": {
+      "coordinates": [
+        0.38,
+        0.37,
+        0.76,
+        0.44
+      ],
+      "english": "pride",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 4,
+      "territory_name": "Selfish Vice",
+      "distance_to_center": 0.09554580053565934,
+      "harmony": 0.482265755273406,
+      "L": 0.38,
+      "J": 0.37,
+      "P": 0.76,
+      "W": 0.44
+    },
+    "codicia": {
+      "coordinates": [
+        0.24,
+        0.3,
+        0.8,
+        0.37
+      ],
+      "english": "greed",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_center": 0.10907795377618709,
+      "harmony": 0.4491191534659783,
+      "L": 0.24,
+      "J": 0.3,
+      "P": 0.8,
+      "W": 0.37
+    },
+    "crueldad": {
+      "coordinates": [
+        0.17,
+        0.27,
+        0.77,
+        0.24
+      ],
+      "english": "cruelty",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_center": 0.08472307831990053,
+      "harmony": 0.42355072751687234,
+      "L": 0.17,
+      "J": 0.27,
+      "P": 0.77,
+      "W": 0.24
+    },
+    "dar": {
+      "coordinates": [
+        0.8,
+        0.69,
+        0.44,
+        0.7
+      ],
+      "english": "give",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.09175510884958941,
+      "harmony": 0.5764875726020684,
+      "L": 0.8,
+      "J": 0.69,
+      "P": 0.44,
+      "W": 0.7
+    },
+    "tomar": {
+      "coordinates": [
+        0.34,
+        0.4,
+        0.7,
+        0.44
+      ],
+      "english": "take",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 4,
+      "territory_name": "Selfish Vice",
+      "distance_to_center": 0.061878914017619926,
+      "harmony": 0.4773087638569562,
+      "L": 0.34,
+      "J": 0.4,
+      "P": 0.7,
+      "W": 0.44
+    },
+    "crear": {
+      "coordinates": [
+        0.73,
+        0.6,
+        0.7,
+        0.84
+      ],
+      "english": "create",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_center": 0.11421033228215385,
+      "harmony": 0.6287967985789445,
+      "L": 0.73,
+      "J": 0.6,
+      "P": 0.7,
+      "W": 0.84
+    },
+    "libertad": {
+      "coordinates": [
+        0.75,
+        0.74,
+        0.63,
+        0.8
+      ],
+      "english": "freedom",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_center": 0.08708616422830893,
+      "harmony": 0.6434692538415545,
+      "L": 0.75,
+      "J": 0.74,
+      "P": 0.63,
+      "W": 0.8
+    },
+    "belleza": {
+      "coordinates": [
+        0.8,
+        0.57,
+        0.44,
+        0.7
+      ],
+      "english": "beauty",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_center": 0.09868130522039112,
+      "harmony": 0.5577929501503535,
+      "L": 0.8,
+      "J": 0.57,
+      "P": 0.44,
+      "W": 0.7
+    },
+    "poder": {
+      "coordinates": [
+        0.47,
+        0.5,
+        0.86,
+        0.64
+      ],
+      "english": "power",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 0,
+      "territory_name": "Raw Power",
+      "distance_to_center": 0.06557438524302006,
+      "harmony": 0.5480407727390829,
+      "L": 0.47,
+      "J": 0.5,
+      "P": 0.86,
+      "W": 0.64
+    },
+    "amistad": {
+      "coordinates": [
+        0.8,
+        0.7,
+        0.44,
+        0.74
+      ],
+      "english": "friendship",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.0813572369245662,
+      "harmony": 0.5830963230998791,
+      "L": 0.8,
+      "J": 0.7,
+      "P": 0.44,
+      "W": 0.74
+    },
+    "perdón": {
+      "coordinates": [
+        0.86,
+        0.79,
+        0.38,
+        0.8
+      ],
+      "english": "forgiveness",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.11233432244866225,
+      "harmony": 0.5887057257504538,
+      "L": 0.86,
+      "J": 0.79,
+      "P": 0.38,
+      "W": 0.8
+    },
+    "lealtad": {
+      "coordinates": [
+        0.76,
+        0.77,
+        0.6,
+        0.77
+      ],
+      "english": "loyalty",
+      "language": "Spanish",
+      "family": "Romance",
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_center": 0.1179152237838694,
+      "harmony": 0.6374775519885941,
+      "L": 0.76,
+      "J": 0.77,
+      "P": 0.6,
+      "W": 0.77
+    },
+    "प्रेम": {
+      "coordinates": [
+        0.89,
+        0.47,
+        0.18,
+        0.73
+      ],
+      "english": "love",
+      "language": "Hindi",
+      "family": "Indo-Aryan",
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_center": 0.2061504305113138,
+      "harmony": 0.4953020432166212,
+      "L": 0.89,
+      "J": 0.47,
+      "P": 0.18,
+      "W": 0.73
+    },
+    "आनंद": {
+      "coordinates": [
+        0.85,
+        0.45,
+        0.41,
+        0.68
+      ],
+      "english": "joy",
+      "language": "Hindi",
+      "family": "Indo-Aryan",
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_center": 0.08716650732936361,
+      "harmony": 0.5317381816861043,
+      "L": 0.85,
+      "J": 0.45,
+      "P": 0.41,
+      "W": 0.68
+    },
+    "आशा": {
+      "coordinates": [
+        0.75,
+        0.51,
+        0.38,
+        0.71
+      ],
+      "english": "hope",
+      "language": "Hindi",
+      "family": "Indo-Aryan",
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_center": 0.06883313155741204,
+      "harmony": 0.532446490963919,
+      "L": 0.75,
+      "J": 0.51,
+      "P": 0.38,
+      "W": 0.71
+    },
+    "शांति": {
+      "coordinates": [
+        0.72,
+        0.68,
+        0.28,
+        0.75
+      ],
+      "english": "peace",
+      "language": "Hindi",
+      "family": "Indo-Aryan",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.13949551964131318,
+      "harmony": 0.5339728873422387,
+      "L": 0.72,
+      "J": 0.68,
+      "P": 0.28,
+      "W": 0.75
+    },
+    "क्रोध": {
+      "coordinates": [
+        0.31,
+        0.52,
+        0.69,
+        0.38
+      ],
+      "english": "anger",
+      "language": "Hindi",
+      "family": "Indo-Aryan",
+      "territory_id": 4,
+      "territory_name": "Selfish Vice",
+      "distance_to_center": 0.11614215427655891,
+      "harmony": 0.47858447057319714,
+      "L": 0.31,
+      "J": 0.52,
+      "P": 0.69,
+      "W": 0.38
+    },
+    "घृणा": {
+      "coordinates": [
+        0.15,
+        0.38,
+        0.72,
+        0.28
+      ],
+      "english": "hate",
+      "language": "Hindi",
+      "family": "Indo-Aryan",
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_center": 0.07097887009526145,
+      "harmony": 0.43379081294362015,
+      "L": 0.15,
+      "J": 0.38,
+      "P": 0.72,
+      "W": 0.28
+    },
+    "दुख": {
+      "coordinates": [
+        0.38,
+        0.45,
+        0.25,
+        0.52
+      ],
+      "english": "sadness",
+      "language": "Hindi",
+      "family": "Indo-Aryan",
+      "territory_id": 2,
+      "territory_name": "Suffering",
+      "distance_to_center": 0.08154753215150047,
+      "harmony": 0.4511677861375442,
+      "L": 0.38,
+      "J": 0.45,
+      "P": 0.25,
+      "W": 0.52
+    },
+    "डर": {
+      "coordinates": [
+        0.28,
+        0.49,
+        0.31,
+        0.48
+      ],
+      "english": "fear",
+      "language": "Hindi",
+      "family": "Indo-Aryan",
+      "territory_id": 2,
+      "territory_name": "Suffering",
+      "distance_to_center": 0.07648529270389177,
+      "harmony": 0.4474455305197084,
+      "L": 0.28,
+      "J": 0.49,
+      "P": 0.31,
+      "W": 0.48
+    },
+    "करुणा": {
+      "coordinates": [
+        0.85,
+        0.75,
+        0.35,
+        0.78
+      ],
+      "english": "compassion",
+      "language": "Hindi",
+      "family": "Indo-Aryan",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.06752036729757924,
+      "harmony": 0.5728731883486882,
+      "L": 0.85,
+      "J": 0.75,
+      "P": 0.35,
+      "W": 0.78
+    },
+    "साहस": {
+      "coordinates": [
+        0.68,
+        0.59,
+        0.71,
+        0.73
+      ],
+      "english": "courage",
+      "language": "Hindi",
+      "family": "Indo-Aryan",
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_center": 0.14739063742314165,
+      "harmony": 0.6046552986356314,
+      "L": 0.68,
+      "J": 0.59,
+      "P": 0.71,
+      "W": 0.73
+    },
+    "ज्ञान": {
+      "coordinates": [
+        0.67,
+        0.71,
+        0.45,
+        0.91
+      ],
+      "english": "wisdom",
+      "language": "Hindi",
+      "family": "Indo-Aryan",
+      "territory_id": 7,
+      "territory_name": "Intellectual Virtue",
+      "distance_to_center": 0.09444575162494082,
+      "harmony": 0.5849157937783906,
+      "L": 0.67,
+      "J": 0.71,
+      "P": 0.45,
+      "W": 0.91
+    },
+    "न्याय": {
+      "coordinates": [
+        0.63,
+        0.85,
+        0.55,
+        0.81
+      ],
+      "english": "justice",
+      "language": "Hindi",
+      "family": "Indo-Aryan",
+      "territory_id": 7,
+      "territory_name": "Intellectual Virtue",
+      "distance_to_center": 0.12505998560690784,
+      "harmony": 0.6131687511237538,
+      "L": 0.63,
+      "J": 0.85,
+      "P": 0.55,
+      "W": 0.81
+    },
+    "सत्य": {
+      "coordinates": [
+        0.65,
+        0.75,
+        0.51,
+        0.88
+      ],
+      "english": "truth",
+      "language": "Hindi",
+      "family": "Indo-Aryan",
+      "territory_id": 7,
+      "territory_name": "Intellectual Virtue",
+      "distance_to_center": 0.043588989435406775,
+      "harmony": 0.6013417274599664,
+      "L": 0.65,
+      "J": 0.75,
+      "P": 0.51,
+      "W": 0.88
+    },
+    "विनम्रता": {
+      "coordinates": [
+        0.69,
+        0.73,
+        0.31,
+        0.78
+      ],
+      "english": "humility",
+      "language": "Hindi",
+      "family": "Indo-Aryan",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.15684068349761807,
+      "harmony": 0.545623250019983,
+      "L": 0.69,
+      "J": 0.73,
+      "P": 0.31,
+      "W": 0.78
+    },
+    "दया": {
+      "coordinates": [
+        0.82,
+        0.75,
+        0.38,
+        0.73
+      ],
+      "english": "mercy",
+      "language": "Hindi",
+      "family": "Indo-Aryan",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.05346961754117945,
+      "harmony": 0.5736900220491918,
+      "L": 0.82,
+      "J": 0.75,
+      "P": 0.38,
+      "W": 0.73
+    },
+    "अहंकार": {
+      "coordinates": [
+        0.39,
+        0.38,
+        0.75,
+        0.45
+      ],
+      "english": "pride",
+      "language": "Hindi",
+      "family": "Indo-Aryan",
+      "territory_id": 4,
+      "territory_name": "Selfish Vice",
+      "distance_to_center": 0.10133607452432722,
+      "harmony": 0.485670540651079,
+      "L": 0.39,
+      "J": 0.38,
+      "P": 0.75,
+      "W": 0.45
+    },
+    "लालच": {
+      "coordinates": [
+        0.25,
+        0.31,
+        0.79,
+        0.38
+      ],
+      "english": "greed",
+      "language": "Hindi",
+      "family": "Indo-Aryan",
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_center": 0.11531695452100704,
+      "harmony": 0.452235142449344,
+      "L": 0.25,
+      "J": 0.31,
+      "P": 0.79,
+      "W": 0.38
+    },
+    "देना": {
+      "coordinates": [
+        0.79,
+        0.7,
+        0.45,
+        0.71
+      ],
+      "english": "give",
+      "language": "Hindi",
+      "family": "Indo-Aryan",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.09939315871829409,
+      "harmony": 0.5808565521987519,
+      "L": 0.79,
+      "J": 0.7,
+      "P": 0.45,
+      "W": 0.71
+    },
+    "लेना": {
+      "coordinates": [
+        0.35,
+        0.41,
+        0.69,
+        0.45
+      ],
+      "english": "take",
+      "language": "Hindi",
+      "family": "Indo-Aryan",
+      "territory_id": 4,
+      "territory_name": "Selfish Vice",
+      "distance_to_center": 0.07725930364687479,
+      "harmony": 0.48046997206301195,
+      "L": 0.35,
+      "J": 0.41,
+      "P": 0.69,
+      "W": 0.45
+    },
+    "स्वतंत्रता": {
+      "coordinates": [
+        0.74,
+        0.75,
+        0.62,
+        0.81
+      ],
+      "english": "freedom",
+      "language": "Hindi",
+      "family": "Indo-Aryan",
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_center": 0.10111379727811629,
+      "harmony": 0.6421308504152727,
+      "L": 0.74,
+      "J": 0.75,
+      "P": 0.62,
+      "W": 0.81
+    },
+    "सुंदरता": {
+      "coordinates": [
+        0.79,
+        0.58,
+        0.45,
+        0.71
+      ],
+      "english": "beauty",
+      "language": "Hindi",
+      "family": "Indo-Aryan",
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_center": 0.11549025932952092,
+      "harmony": 0.5620610307107644,
+      "L": 0.79,
+      "J": 0.58,
+      "P": 0.45,
+      "W": 0.71
+    },
+    "शक्ति": {
+      "coordinates": [
+        0.48,
+        0.51,
+        0.85,
+        0.65
+      ],
+      "english": "power",
+      "language": "Hindi",
+      "family": "Indo-Aryan",
+      "territory_id": 0,
+      "territory_name": "Raw Power",
+      "distance_to_center": 0.06708203932499375,
+      "harmony": 0.5525992890698089,
+      "L": 0.48,
+      "J": 0.51,
+      "P": 0.85,
+      "W": 0.65
+    },
+    "मित्रता": {
+      "coordinates": [
+        0.79,
+        0.71,
+        0.45,
+        0.75
+      ],
+      "english": "friendship",
+      "language": "Hindi",
+      "family": "Indo-Aryan",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.0952837866585916,
+      "harmony": 0.5874467351160665,
+      "L": 0.79,
+      "J": 0.71,
+      "P": 0.45,
+      "W": 0.75
+    },
+    "क्षमा": {
+      "coordinates": [
+        0.85,
+        0.8,
+        0.39,
+        0.81
+      ],
+      "english": "forgiveness",
+      "language": "Hindi",
+      "family": "Indo-Aryan",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.1252158136977915,
+      "harmony": 0.593093146492053,
+      "L": 0.85,
+      "J": 0.8,
+      "P": 0.39,
+      "W": 0.81
+    },
+    "محبت": {
+      "coordinates": [
+        0.88,
+        0.48,
+        0.19,
+        0.74
+      ],
+      "english": "love",
+      "language": "Urdu",
+      "family": "Indo-Aryan",
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_center": 0.19415972805914208,
+      "harmony": 0.49894199177757437,
+      "L": 0.88,
+      "J": 0.48,
+      "P": 0.19,
+      "W": 0.74
+    },
+    "خوشی": {
+      "coordinates": [
+        0.84,
+        0.46,
+        0.42,
+        0.69
+      ],
+      "english": "joy",
+      "language": "Urdu",
+      "family": "Indo-Aryan",
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_center": 0.08244998483929515,
+      "harmony": 0.5359481367171046,
+      "L": 0.84,
+      "J": 0.46,
+      "P": 0.42,
+      "W": 0.69
+    },
+    "امید": {
+      "coordinates": [
+        0.74,
+        0.52,
+        0.39,
+        0.72
+      ],
+      "english": "hope",
+      "language": "Urdu",
+      "family": "Indo-Aryan",
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_center": 0.08448668534153768,
+      "harmony": 0.53614733624494,
+      "L": 0.74,
+      "J": 0.52,
+      "P": 0.39,
+      "W": 0.72
+    },
+    "امن": {
+      "coordinates": [
+        0.71,
+        0.69,
+        0.29,
+        0.76
+      ],
+      "english": "peace",
+      "language": "Urdu",
+      "family": "Indo-Aryan",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.14184146079338014,
+      "harmony": 0.5372484645255554,
+      "L": 0.71,
+      "J": 0.69,
+      "P": 0.29,
+      "W": 0.76
+    },
+    "غصہ": {
+      "coordinates": [
+        0.32,
+        0.51,
+        0.68,
+        0.39
+      ],
+      "english": "anger",
+      "language": "Urdu",
+      "family": "Indo-Aryan",
+      "territory_id": 4,
+      "territory_name": "Selfish Vice",
+      "distance_to_center": 0.10967679791095289,
+      "harmony": 0.4796401605041892,
+      "L": 0.32,
+      "J": 0.51,
+      "P": 0.68,
+      "W": 0.39
+    },
+    "نفرت": {
+      "coordinates": [
+        0.16,
+        0.39,
+        0.71,
+        0.29
+      ],
+      "english": "hate",
+      "language": "Urdu",
+      "family": "Indo-Aryan",
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_center": 0.07770456872024967,
+      "harmony": 0.4365482592850837,
+      "L": 0.16,
+      "J": 0.39,
+      "P": 0.71,
+      "W": 0.29
+    },
+    "غم": {
+      "coordinates": [
+        0.39,
+        0.44,
+        0.26,
+        0.51
+      ],
+      "english": "sadness",
+      "language": "Urdu",
+      "family": "Indo-Aryan",
+      "territory_id": 2,
+      "territory_name": "Suffering",
+      "distance_to_center": 0.07648529270389177,
+      "harmony": 0.4517044610126343,
+      "L": 0.39,
+      "J": 0.44,
+      "P": 0.26,
+      "W": 0.51
+    },
+    "خوف": {
+      "coordinates": [
+        0.29,
+        0.48,
+        0.32,
+        0.49
+      ],
+      "english": "fear",
+      "language": "Urdu",
+      "family": "Indo-Aryan",
+      "territory_id": 2,
+      "territory_name": "Suffering",
+      "distance_to_center": 0.06819090848492931,
+      "harmony": 0.44973745177992513,
+      "L": 0.29,
+      "J": 0.48,
+      "P": 0.32,
+      "W": 0.49
+    },
+    "رحم": {
+      "coordinates": [
+        0.84,
+        0.76,
+        0.36,
+        0.79
+      ],
+      "english": "compassion",
+      "language": "Urdu",
+      "family": "Indo-Aryan",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.07758221445666533,
+      "harmony": 0.5771224269728034,
+      "L": 0.84,
+      "J": 0.76,
+      "P": 0.36,
+      "W": 0.79
+    },
+    "ہمت": {
+      "coordinates": [
+        0.69,
+        0.58,
+        0.72,
+        0.74
+      ],
+      "english": "courage",
+      "language": "Urdu",
+      "family": "Indo-Aryan",
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_center": 0.14941218156495814,
+      "harmony": 0.6071955983053572,
+      "L": 0.69,
+      "J": 0.58,
+      "P": 0.72,
+      "W": 0.74
+    },
+    "حکمت": {
+      "coordinates": [
+        0.66,
+        0.72,
+        0.46,
+        0.92
+      ],
+      "english": "wisdom",
+      "language": "Urdu",
+      "family": "Indo-Aryan",
+      "territory_id": 7,
+      "territory_name": "Intellectual Virtue",
+      "distance_to_center": 0.09186947262284686,
+      "harmony": 0.5877418963188833,
+      "L": 0.66,
+      "J": 0.72,
+      "P": 0.46,
+      "W": 0.92
+    },
+    "انصاف": {
+      "coordinates": [
+        0.64,
+        0.84,
+        0.54,
+        0.82
+      ],
+      "english": "justice",
+      "language": "Urdu",
+      "family": "Indo-Aryan",
+      "territory_id": 7,
+      "territory_name": "Intellectual Virtue",
+      "distance_to_center": 0.10972693379476162,
+      "harmony": 0.6128116512029751,
+      "L": 0.64,
+      "J": 0.84,
+      "P": 0.54,
+      "W": 0.82
+    },
+    "سچائی": {
+      "coordinates": [
+        0.66,
+        0.74,
+        0.52,
+        0.89
+      ],
+      "english": "truth",
+      "language": "Urdu",
+      "family": "Indo-Aryan",
+      "territory_id": 7,
+      "territory_name": "Intellectual Virtue",
+      "distance_to_center": 0.05882176467941102,
+      "harmony": 0.6051595070034018,
+      "L": 0.66,
+      "J": 0.74,
+      "P": 0.52,
+      "W": 0.89
+    },
+    "عاجزی": {
+      "coordinates": [
+        0.68,
+        0.74,
+        0.32,
+        0.79
+      ],
+      "english": "humility",
+      "language": "Urdu",
+      "family": "Indo-Aryan",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.16750820875407862,
+      "harmony": 0.5486979888744131,
+      "L": 0.68,
+      "J": 0.74,
+      "P": 0.32,
+      "W": 0.79
+    },
+    "غرور": {
+      "coordinates": [
+        0.4,
+        0.39,
+        0.74,
+        0.46
+      ],
+      "english": "pride",
+      "language": "Urdu",
+      "family": "Indo-Aryan",
+      "territory_id": 4,
+      "territory_name": "Selfish Vice",
+      "distance_to_center": 0.11049434374663711,
+      "harmony": 0.4890805307042865,
+      "L": 0.4,
+      "J": 0.39,
+      "P": 0.74,
+      "W": 0.46
+    },
+    "لالچ": {
+      "coordinates": [
+        0.26,
+        0.32,
+        0.78,
+        0.39
+      ],
+      "english": "greed",
+      "language": "Urdu",
+      "family": "Indo-Aryan",
+      "territory_id": 4,
+      "territory_name": "Selfish Vice",
+      "distance_to_center": 0.1213630915888352,
+      "harmony": 0.4553661243700726,
+      "L": 0.26,
+      "J": 0.32,
+      "P": 0.78,
+      "W": 0.39
+    },
+    "دینا": {
+      "coordinates": [
+        0.78,
+        0.71,
+        0.46,
+        0.72
+      ],
+      "english": "give",
+      "language": "Urdu",
+      "family": "Indo-Aryan",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.11017713011328621,
+      "harmony": 0.5851812182152939,
+      "L": 0.78,
+      "J": 0.71,
+      "P": 0.46,
+      "W": 0.72
+    },
+    "لینا": {
+      "coordinates": [
+        0.36,
+        0.42,
+        0.68,
+        0.46
+      ],
+      "english": "take",
+      "language": "Urdu",
+      "family": "Indo-Aryan",
+      "territory_id": 4,
+      "territory_name": "Selfish Vice",
+      "distance_to_center": 0.09438749917229503,
+      "harmony": 0.483627322879508,
+      "L": 0.36,
+      "J": 0.42,
+      "P": 0.68,
+      "W": 0.46
+    },
+    "آزادی": {
+      "coordinates": [
+        0.73,
+        0.76,
+        0.61,
+        0.82
+      ],
+      "english": "freedom",
+      "language": "Urdu",
+      "family": "Indo-Aryan",
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_center": 0.11689311356961964,
+      "harmony": 0.640512980998407,
+      "L": 0.73,
+      "J": 0.76,
+      "P": 0.61,
+      "W": 0.82
+    },
+    "خوبصورتی": {
+      "coordinates": [
+        0.78,
+        0.59,
+        0.46,
+        0.72
+      ],
+      "english": "beauty",
+      "language": "Urdu",
+      "family": "Indo-Aryan",
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_center": 0.1331840831330831,
+      "harmony": 0.5663050061866222,
+      "L": 0.78,
+      "J": 0.59,
+      "P": 0.46,
+      "W": 0.72
+    },
+    "طاقت": {
+      "coordinates": [
+        0.49,
+        0.52,
+        0.84,
+        0.66
+      ],
+      "english": "power",
+      "language": "Urdu",
+      "family": "Indo-Aryan",
+      "territory_id": 0,
+      "territory_name": "Raw Power",
+      "distance_to_center": 0.0741619848709567,
+      "harmony": 0.5571665185974894,
+      "L": 0.49,
+      "J": 0.52,
+      "P": 0.84,
+      "W": 0.66
+    },
+    "دوستی": {
+      "coordinates": [
+        0.78,
+        0.72,
+        0.46,
+        0.76
+      ],
+      "english": "friendship",
+      "language": "Urdu",
+      "family": "Indo-Aryan",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.11108105148944171,
+      "harmony": 0.5917413503312717,
+      "L": 0.78,
+      "J": 0.72,
+      "P": 0.46,
+      "W": 0.76
+    },
+    "معافی": {
+      "coordinates": [
+        0.84,
+        0.81,
+        0.4,
+        0.82
+      ],
+      "english": "forgiveness",
+      "language": "Urdu",
+      "family": "Indo-Aryan",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.139781973086661,
+      "harmony": 0.5974181653173515,
+      "L": 0.84,
+      "J": 0.81,
+      "P": 0.4,
+      "W": 0.82
+    },
+    "любовь": {
+      "coordinates": [
+        0.89,
+        0.47,
+        0.18,
+        0.73
+      ],
+      "english": "love",
+      "language": "Russian",
+      "family": "Slavic",
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_center": 0.2061504305113138,
+      "harmony": 0.4953020432166212,
+      "L": 0.89,
+      "J": 0.47,
+      "P": 0.18,
+      "W": 0.73
+    },
+    "радость": {
+      "coordinates": [
+        0.84,
+        0.44,
+        0.41,
+        0.68
+      ],
+      "english": "joy",
+      "language": "Russian",
+      "family": "Slavic",
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_center": 0.09109335870413386,
+      "harmony": 0.52947854245575,
+      "L": 0.84,
+      "J": 0.44,
+      "P": 0.41,
+      "W": 0.68
+    },
+    "надежда": {
+      "coordinates": [
+        0.75,
+        0.5,
+        0.38,
+        0.71
+      ],
+      "english": "hope",
+      "language": "Russian",
+      "family": "Slavic",
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_center": 0.06984268036093685,
+      "harmony": 0.5308582474364016,
+      "L": 0.75,
+      "J": 0.5,
+      "P": 0.38,
+      "W": 0.71
+    },
+    "мир": {
+      "coordinates": [
+        0.72,
+        0.68,
+        0.28,
+        0.75
+      ],
+      "english": "peace",
+      "language": "Russian",
+      "family": "Slavic",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.13949551964131318,
+      "harmony": 0.5339728873422387,
+      "L": 0.72,
+      "J": 0.68,
+      "P": 0.28,
+      "W": 0.75
+    },
+    "гнев": {
+      "coordinates": [
+        0.31,
+        0.51,
+        0.69,
+        0.38
+      ],
+      "english": "anger",
+      "language": "Russian",
+      "family": "Slavic",
+      "territory_id": 4,
+      "territory_name": "Selfish Vice",
+      "distance_to_center": 0.10671925786848412,
+      "harmony": 0.47756909513429613,
+      "L": 0.31,
+      "J": 0.51,
+      "P": 0.69,
+      "W": 0.38
+    },
+    "ненависть": {
+      "coordinates": [
+        0.15,
+        0.38,
+        0.72,
+        0.28
+      ],
+      "english": "hate",
+      "language": "Russian",
+      "family": "Slavic",
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_center": 0.07097887009526145,
+      "harmony": 0.43379081294362015,
+      "L": 0.15,
+      "J": 0.38,
+      "P": 0.72,
+      "W": 0.28
+    },
+    "грусть": {
+      "coordinates": [
+        0.38,
+        0.45,
+        0.25,
+        0.52
+      ],
+      "english": "sadness",
+      "language": "Russian",
+      "family": "Slavic",
+      "territory_id": 2,
+      "territory_name": "Suffering",
+      "distance_to_center": 0.08154753215150047,
+      "harmony": 0.4511677861375442,
+      "L": 0.38,
+      "J": 0.45,
+      "P": 0.25,
+      "W": 0.52
+    },
+    "страх": {
+      "coordinates": [
+        0.28,
+        0.49,
+        0.31,
+        0.48
+      ],
+      "english": "fear",
+      "language": "Russian",
+      "family": "Slavic",
+      "territory_id": 2,
+      "territory_name": "Suffering",
+      "distance_to_center": 0.07648529270389177,
+      "harmony": 0.4474455305197084,
+      "L": 0.28,
+      "J": 0.49,
+      "P": 0.31,
+      "W": 0.48
+    },
+    "сострадание": {
+      "coordinates": [
+        0.84,
+        0.75,
+        0.36,
+        0.78
+      ],
+      "english": "compassion",
+      "language": "Russian",
+      "family": "Slavic",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.06371028174478596,
+      "harmony": 0.5750478266717499,
+      "L": 0.84,
+      "J": 0.75,
+      "P": 0.36,
+      "W": 0.78
+    },
+    "мужество": {
+      "coordinates": [
+        0.68,
+        0.59,
+        0.71,
+        0.73
+      ],
+      "english": "courage",
+      "language": "Russian",
+      "family": "Slavic",
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_center": 0.14739063742314165,
+      "harmony": 0.6046552986356314,
+      "L": 0.68,
+      "J": 0.59,
+      "P": 0.71,
+      "W": 0.73
+    },
+    "мудрость": {
+      "coordinates": [
+        0.67,
+        0.71,
+        0.45,
+        0.91
+      ],
+      "english": "wisdom",
+      "language": "Russian",
+      "family": "Slavic",
+      "territory_id": 7,
+      "territory_name": "Intellectual Virtue",
+      "distance_to_center": 0.09444575162494082,
+      "harmony": 0.5849157937783906,
+      "L": 0.67,
+      "J": 0.71,
+      "P": 0.45,
+      "W": 0.91
+    },
+    "справедливость": {
+      "coordinates": [
+        0.63,
+        0.84,
+        0.54,
+        0.81
+      ],
+      "english": "justice",
+      "language": "Russian",
+      "family": "Slavic",
+      "territory_id": 7,
+      "territory_name": "Intellectual Virtue",
+      "distance_to_center": 0.11224972160321822,
+      "harmony": 0.6095819286805076,
+      "L": 0.63,
+      "J": 0.84,
+      "P": 0.54,
+      "W": 0.81
+    },
+    "правда": {
+      "coordinates": [
+        0.65,
+        0.74,
+        0.51,
+        0.88
+      ],
+      "english": "truth",
+      "language": "Russian",
+      "family": "Slavic",
+      "territory_id": 7,
+      "territory_name": "Intellectual Virtue",
+      "distance_to_center": 0.04289522117905447,
+      "harmony": 0.599958006613637,
+      "L": 0.65,
+      "J": 0.74,
+      "P": 0.51,
+      "W": 0.88
+    },
+    "смирение": {
+      "coordinates": [
+        0.68,
+        0.73,
+        0.32,
+        0.79
+      ],
+      "english": "humility",
+      "language": "Russian",
+      "family": "Slavic",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.16546600859391025,
+      "harmony": 0.5477315709185399,
+      "L": 0.68,
+      "J": 0.73,
+      "P": 0.32,
+      "W": 0.79
+    },
+    "милосердие": {
+      "coordinates": [
+        0.82,
+        0.75,
+        0.38,
+        0.74
+      ],
+      "english": "mercy",
+      "language": "Russian",
+      "family": "Slavic",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.05233545643251815,
+      "harmony": 0.5748689565672636,
+      "L": 0.82,
+      "J": 0.75,
+      "P": 0.38,
+      "W": 0.74
+    },
+    "гордыня": {
+      "coordinates": [
+        0.39,
+        0.38,
+        0.74,
+        0.45
+      ],
+      "english": "pride",
+      "language": "Russian",
+      "family": "Slavic",
+      "territory_id": 4,
+      "territory_name": "Selfish Vice",
+      "distance_to_center": 0.09934284070832683,
+      "harmony": 0.48510387856893394,
+      "L": 0.39,
+      "J": 0.38,
+      "P": 0.74,
+      "W": 0.45
+    },
+    "жадность": {
+      "coordinates": [
+        0.25,
+        0.31,
+        0.78,
+        0.38
+      ],
+      "english": "greed",
+      "language": "Russian",
+      "family": "Slavic",
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_center": 0.1124188596277333,
+      "harmony": 0.45187267324665714,
+      "L": 0.25,
+      "J": 0.31,
+      "P": 0.78,
+      "W": 0.38
+    },
+    "жестокость": {
+      "coordinates": [
+        0.17,
+        0.28,
+        0.76,
+        0.25
+      ],
+      "english": "cruelty",
+      "language": "Russian",
+      "family": "Slavic",
+      "territory_id": 3,
+      "territory_name": "Malevolent Evil",
+      "distance_to_center": 0.06955573304911679,
+      "harmony": 0.42520376676036,
+      "L": 0.17,
+      "J": 0.28,
+      "P": 0.76,
+      "W": 0.25
+    },
+    "давать": {
+      "coordinates": [
+        0.78,
+        0.7,
+        0.46,
+        0.72
+      ],
+      "english": "give",
+      "language": "Russian",
+      "family": "Slavic",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.10981347822558031,
+      "harmony": 0.5837637534600579,
+      "L": 0.78,
+      "J": 0.7,
+      "P": 0.46,
+      "W": 0.72
+    },
+    "брать": {
+      "coordinates": [
+        0.35,
+        0.41,
+        0.68,
+        0.45
+      ],
+      "english": "take",
+      "language": "Russian",
+      "family": "Slavic",
+      "territory_id": 4,
+      "territory_name": "Selfish Vice",
+      "distance_to_center": 0.08227393268830652,
+      "harmony": 0.4797993031667329,
+      "L": 0.35,
+      "J": 0.41,
+      "P": 0.68,
+      "W": 0.45
+    },
+    "создавать": {
+      "coordinates": [
+        0.72,
+        0.6,
+        0.71,
+        0.84
+      ],
+      "english": "create",
+      "language": "Russian",
+      "family": "Slavic",
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_center": 0.12427389106324786,
+      "harmony": 0.6289308176100629,
+      "L": 0.72,
+      "J": 0.6,
+      "P": 0.71,
+      "W": 0.84
+    },
+    "свобода": {
+      "coordinates": [
+        0.73,
+        0.75,
+        0.61,
+        0.81
+      ],
+      "english": "freedom",
+      "language": "Russian",
+      "family": "Slavic",
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_center": 0.10518555033843764,
+      "harmony": 0.6374061115713844,
+      "L": 0.73,
+      "J": 0.75,
+      "P": 0.61,
+      "W": 0.81
+    },
+    "красота": {
+      "coordinates": [
+        0.78,
+        0.58,
+        0.46,
+        0.72
+      ],
+      "english": "beauty",
+      "language": "Russian",
+      "family": "Slavic",
+      "territory_id": 6,
+      "territory_name": "Emotional Affection",
+      "distance_to_center": 0.12758526560696573,
+      "harmony": 0.56457853063585,
+      "L": 0.78,
+      "J": 0.58,
+      "P": 0.46,
+      "W": 0.72
+    },
+    "власть": {
+      "coordinates": [
+        0.48,
+        0.52,
+        0.84,
+        0.65
+      ],
+      "english": "power",
+      "language": "Russian",
+      "family": "Slavic",
+      "territory_id": 0,
+      "territory_name": "Raw Power",
+      "distance_to_center": 0.07141428428542856,
+      "harmony": 0.5538499147654425,
+      "L": 0.48,
+      "J": 0.52,
+      "P": 0.84,
+      "W": 0.65
+    },
+    "дружба": {
+      "coordinates": [
+        0.78,
+        0.71,
+        0.46,
+        0.76
+      ],
+      "english": "friendship",
+      "language": "Russian",
+      "family": "Slavic",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.10981347822558031,
+      "harmony": 0.5903027050387317,
+      "L": 0.78,
+      "J": 0.71,
+      "P": 0.46,
+      "W": 0.76
+    },
+    "прощение": {
+      "coordinates": [
+        0.84,
+        0.8,
+        0.4,
+        0.82
+      ],
+      "english": "forgiveness",
+      "language": "Russian",
+      "family": "Slavic",
+      "territory_id": 1,
+      "territory_name": "Compassionate Virtue",
+      "distance_to_center": 0.13213250924734612,
+      "harmony": 0.596389349395673,
+      "L": 0.84,
+      "J": 0.8,
+      "P": 0.4,
+      "W": 0.82
+    },
+    "верность": {
+      "coordinates": [
+        0.75,
+        0.77,
+        0.61,
+        0.78
+      ],
+      "english": "loyalty",
+      "language": "Russian",
+      "family": "Slavic",
+      "territory_id": 5,
+      "territory_name": "Noble Action",
+      "distance_to_center": 0.11629273408085304,
+      "harmony": 0.6401844469290223,
+      "L": 0.75,
+      "J": 0.77,
+      "P": 0.61,
+      "W": 0.78
+    }
+  },
+  "by_language": {
+    "French": {
+      "6": [
+        "amour",
+        "joie",
+        "espoir",
+        "bonheur",
+        "beauté"
+      ],
+      "1": [
+        "paix",
+        "compassion",
+        "humilité",
+        "miséricorde",
+        "donner",
+        "amitié",
+        "pardon"
+      ],
+      "4": [
+        "colère",
+        "envie",
+        "orgueil",
+        "prendre"
+      ],
+      "3": [
+        "haine",
+        "avidité",
+        "cruauté"
+      ],
+      "2": [
+        "tristesse",
+        "peur"
+      ],
+      "5": [
+        "courage",
+        "créer",
+        "liberté",
+        "loyauté"
+      ],
+      "7": [
+        "sagesse",
+        "justice",
+        "vérité"
+      ],
+      "0": [
+        "pouvoir"
+      ]
+    },
+    "Spanish": {
+      "6": [
+        "amor",
+        "alegría",
+        "esperanza",
+        "felicidad",
+        "belleza"
+      ],
+      "1": [
+        "paz",
+        "compasión",
+        "humildad",
+        "misericordia",
+        "dar",
+        "amistad",
+        "perdón"
+      ],
+      "4": [
+        "ira",
+        "envidia",
+        "orgullo",
+        "tomar"
+      ],
+      "3": [
+        "odio",
+        "codicia",
+        "crueldad"
+      ],
+      "2": [
+        "tristeza",
+        "miedo"
+      ],
+      "5": [
+        "valor",
+        "crear",
+        "libertad",
+        "lealtad"
+      ],
+      "7": [
+        "sabiduría",
+        "justicia",
+        "verdad"
+      ],
+      "0": [
+        "poder"
+      ]
+    },
+    "Hindi": {
+      "6": [
+        "प्रेम",
+        "आनंद",
+        "आशा",
+        "सुंदरता"
+      ],
+      "1": [
+        "शांति",
+        "करुणा",
+        "विनम्रता",
+        "दया",
+        "देना",
+        "मित्रता",
+        "क्षमा"
+      ],
+      "4": [
+        "क्रोध",
+        "अहंकार",
+        "लेना"
+      ],
+      "3": [
+        "घृणा",
+        "लालच"
+      ],
+      "2": [
+        "दुख",
+        "डर"
+      ],
+      "5": [
+        "साहस",
+        "स्वतंत्रता"
+      ],
+      "7": [
+        "ज्ञान",
+        "न्याय",
+        "सत्य"
+      ],
+      "0": [
+        "शक्ति"
+      ]
+    },
+    "Urdu": {
+      "6": [
+        "محبت",
+        "خوشی",
+        "امید",
+        "خوبصورتی"
+      ],
+      "1": [
+        "امن",
+        "رحم",
+        "عاجزی",
+        "دینا",
+        "دوستی",
+        "معافی"
+      ],
+      "4": [
+        "غصہ",
+        "غرور",
+        "لالچ",
+        "لینا"
+      ],
+      "3": [
+        "نفرت"
+      ],
+      "2": [
+        "غم",
+        "خوف"
+      ],
+      "5": [
+        "ہمت",
+        "آزادی"
+      ],
+      "7": [
+        "حکمت",
+        "انصاف",
+        "سچائی"
+      ],
+      "0": [
+        "طاقت"
+      ]
+    },
+    "Russian": {
+      "6": [
+        "любовь",
+        "радость",
+        "надежда",
+        "красота"
+      ],
+      "1": [
+        "мир",
+        "сострадание",
+        "смирение",
+        "милосердие",
+        "давать",
+        "дружба",
+        "прощение"
+      ],
+      "4": [
+        "гнев",
+        "гордыня",
+        "брать"
+      ],
+      "3": [
+        "ненависть",
+        "жадность",
+        "жестокость"
+      ],
+      "2": [
+        "грусть",
+        "страх"
+      ],
+      "5": [
+        "мужество",
+        "создавать",
+        "свобода",
+        "верность"
+      ],
+      "7": [
+        "мудрость",
+        "справедливость",
+        "правда"
+      ],
+      "0": [
+        "власть"
+      ]
+    }
+  },
+  "by_family": {
+    "Romance": {
+      "6": [
+        "amour",
+        "joie",
+        "espoir",
+        "bonheur",
+        "beauté",
+        "amor",
+        "alegría",
+        "esperanza",
+        "felicidad",
+        "belleza"
+      ],
+      "1": [
+        "paix",
+        "compassion",
+        "humilité",
+        "miséricorde",
+        "donner",
+        "amitié",
+        "pardon",
+        "paz",
+        "compasión",
+        "humildad",
+        "misericordia",
+        "dar",
+        "amistad",
+        "perdón"
+      ],
+      "4": [
+        "colère",
+        "envie",
+        "orgueil",
+        "prendre",
+        "ira",
+        "envidia",
+        "orgullo",
+        "tomar"
+      ],
+      "3": [
+        "haine",
+        "avidité",
+        "cruauté",
+        "odio",
+        "codicia",
+        "crueldad"
+      ],
+      "2": [
+        "tristesse",
+        "peur",
+        "tristeza",
+        "miedo"
+      ],
+      "5": [
+        "courage",
+        "créer",
+        "liberté",
+        "loyauté",
+        "valor",
+        "crear",
+        "libertad",
+        "lealtad"
+      ],
+      "7": [
+        "sagesse",
+        "justice",
+        "vérité",
+        "sabiduría",
+        "justicia",
+        "verdad"
+      ],
+      "0": [
+        "pouvoir",
+        "poder"
+      ]
+    },
+    "Indo-Aryan": {
+      "6": [
+        "प्रेम",
+        "आनंद",
+        "आशा",
+        "सुंदरता",
+        "محبت",
+        "خوشی",
+        "امید",
+        "خوبصورتی"
+      ],
+      "1": [
+        "शांति",
+        "करुणा",
+        "विनम्रता",
+        "दया",
+        "देना",
+        "मित्रता",
+        "क्षमा",
+        "امن",
+        "رحم",
+        "عاجزی",
+        "دینا",
+        "دوستی",
+        "معافی"
+      ],
+      "4": [
+        "क्रोध",
+        "अहंकार",
+        "लेना",
+        "غصہ",
+        "غرور",
+        "لالچ",
+        "لینا"
+      ],
+      "3": [
+        "घृणा",
+        "लालच",
+        "نفرت"
+      ],
+      "2": [
+        "दुख",
+        "डर",
+        "غم",
+        "خوف"
+      ],
+      "5": [
+        "साहस",
+        "स्वतंत्रता",
+        "ہمت",
+        "آزادی"
+      ],
+      "7": [
+        "ज्ञान",
+        "न्याय",
+        "सत्य",
+        "حکمت",
+        "انصاف",
+        "سچائی"
+      ],
+      "0": [
+        "शक्ति",
+        "طاقت"
+      ]
+    },
+    "Slavic": {
+      "6": [
+        "любовь",
+        "радость",
+        "надежда",
+        "красота"
+      ],
+      "1": [
+        "мир",
+        "сострадание",
+        "смирение",
+        "милосердие",
+        "давать",
+        "дружба",
+        "прощение"
+      ],
+      "4": [
+        "гнев",
+        "гордыня",
+        "брать"
+      ],
+      "3": [
+        "ненависть",
+        "жадность",
+        "жестокость"
+      ],
+      "2": [
+        "грусть",
+        "страх"
+      ],
+      "5": [
+        "мужество",
+        "создавать",
+        "свобода",
+        "верность"
+      ],
+      "7": [
+        "мудрость",
+        "справедливость",
+        "правда"
+      ],
+      "0": [
+        "власть"
+      ]
+    }
+  },
+  "by_territory": {
+    "6": [
+      {
+        "word": "amour",
+        "english": "love",
+        "language": "French",
+        "distance": 0.23099350640223637
+      },
+      {
+        "word": "joie",
+        "english": "joy",
+        "language": "French",
+        "distance": 0.10769401097554128
+      },
+      {
+        "word": "espoir",
+        "english": "hope",
+        "language": "French",
+        "distance": 0.048352869614946274
+      },
+      {
+        "word": "bonheur",
+        "english": "happiness",
+        "language": "French",
+        "distance": 0.08048602363143555
+      },
+      {
+        "word": "beauté",
+        "english": "beauty",
+        "language": "French",
+        "distance": 0.08329465769183522
+      },
+      {
+        "word": "amor",
+        "english": "love",
+        "language": "Spanish",
+        "distance": 0.21931256233968907
+      },
+      {
+        "word": "alegría",
+        "english": "joy",
+        "language": "Spanish",
+        "distance": 0.09590620417887472
+      },
+      {
+        "word": "esperanza",
+        "english": "hope",
+        "language": "Spanish",
+        "distance": 0.05601785429664362
+      },
+      {
+        "word": "felicidad",
+        "english": "happiness",
+        "language": "Spanish",
+        "distance": 0.06691786009728642
+      },
+      {
+        "word": "belleza",
+        "english": "beauty",
+        "language": "Spanish",
+        "distance": 0.09868130522039112
+      },
+      {
+        "word": "प्रेम",
+        "english": "love",
+        "language": "Hindi",
+        "distance": 0.2061504305113138
+      },
+      {
+        "word": "आनंद",
+        "english": "joy",
+        "language": "Hindi",
+        "distance": 0.08716650732936361
+      },
+      {
+        "word": "आशा",
+        "english": "hope",
+        "language": "Hindi",
+        "distance": 0.06883313155741204
+      },
+      {
+        "word": "सुंदरता",
+        "english": "beauty",
+        "language": "Hindi",
+        "distance": 0.11549025932952092
+      },
+      {
+        "word": "محبت",
+        "english": "love",
+        "language": "Urdu",
+        "distance": 0.19415972805914208
+      },
+      {
+        "word": "خوشی",
+        "english": "joy",
+        "language": "Urdu",
+        "distance": 0.08244998483929515
+      },
+      {
+        "word": "امید",
+        "english": "hope",
+        "language": "Urdu",
+        "distance": 0.08448668534153768
+      },
+      {
+        "word": "خوبصورتی",
+        "english": "beauty",
+        "language": "Urdu",
+        "distance": 0.1331840831330831
+      },
+      {
+        "word": "любовь",
+        "english": "love",
+        "language": "Russian",
+        "distance": 0.2061504305113138
+      },
+      {
+        "word": "радость",
+        "english": "joy",
+        "language": "Russian",
+        "distance": 0.09109335870413386
+      },
+      {
+        "word": "надежда",
+        "english": "hope",
+        "language": "Russian",
+        "distance": 0.06984268036093685
+      },
+      {
+        "word": "красота",
+        "english": "beauty",
+        "language": "Russian",
+        "distance": 0.12758526560696573
+      }
+    ],
+    "1": [
+      {
+        "word": "paix",
+        "english": "peace",
+        "language": "French",
+        "distance": 0.14331433982682956
+      },
+      {
+        "word": "compassion",
+        "english": "compassion",
+        "language": "French",
+        "distance": 0.06355312738174262
+      },
+      {
+        "word": "humilité",
+        "english": "humility",
+        "language": "French",
+        "distance": 0.14170038814343452
+      },
+      {
+        "word": "miséricorde",
+        "english": "mercy",
+        "language": "French",
+        "distance": 0.04403407771260803
+      },
+      {
+        "word": "donner",
+        "english": "give",
+        "language": "French",
+        "distance": 0.08808518604169488
+      },
+      {
+        "word": "amitié",
+        "english": "friendship",
+        "language": "French",
+        "distance": 0.070420167565833
+      },
+      {
+        "word": "pardon",
+        "english": "forgiveness",
+        "language": "French",
+        "distance": 0.10177917272212433
+      },
+      {
+        "word": "paz",
+        "english": "peace",
+        "language": "Spanish",
+        "distance": 0.1399964285258734
+      },
+      {
+        "word": "compasión",
+        "english": "compassion",
+        "language": "Spanish",
+        "distance": 0.06244197306299669
+      },
+      {
+        "word": "humildad",
+        "english": "humility",
+        "language": "Spanish",
+        "distance": 0.1481181960462657
+      },
+      {
+        "word": "misericordia",
+        "english": "mercy",
+        "language": "Spanish",
+        "distance": 0.04471017781221635
+      },
+      {
+        "word": "dar",
+        "english": "give",
+        "language": "Spanish",
+        "distance": 0.09175510884958941
+      },
+      {
+        "word": "amistad",
+        "english": "friendship",
+        "language": "Spanish",
+        "distance": 0.0813572369245662
+      },
+      {
+        "word": "perdón",
+        "english": "forgiveness",
+        "language": "Spanish",
+        "distance": 0.11233432244866225
+      },
+      {
+        "word": "शांति",
+        "english": "peace",
+        "language": "Hindi",
+        "distance": 0.13949551964131318
+      },
+      {
+        "word": "करुणा",
+        "english": "compassion",
+        "language": "Hindi",
+        "distance": 0.06752036729757924
+      },
+      {
+        "word": "विनम्रता",
+        "english": "humility",
+        "language": "Hindi",
+        "distance": 0.15684068349761807
+      },
+      {
+        "word": "दया",
+        "english": "mercy",
+        "language": "Hindi",
+        "distance": 0.05346961754117945
+      },
+      {
+        "word": "देना",
+        "english": "give",
+        "language": "Hindi",
+        "distance": 0.09939315871829409
+      },
+      {
+        "word": "मित्रता",
+        "english": "friendship",
+        "language": "Hindi",
+        "distance": 0.0952837866585916
+      },
+      {
+        "word": "क्षमा",
+        "english": "forgiveness",
+        "language": "Hindi",
+        "distance": 0.1252158136977915
+      },
+      {
+        "word": "امن",
+        "english": "peace",
+        "language": "Urdu",
+        "distance": 0.14184146079338014
+      },
+      {
+        "word": "رحم",
+        "english": "compassion",
+        "language": "Urdu",
+        "distance": 0.07758221445666533
+      },
+      {
+        "word": "عاجزی",
+        "english": "humility",
+        "language": "Urdu",
+        "distance": 0.16750820875407862
+      },
+      {
+        "word": "دینا",
+        "english": "give",
+        "language": "Urdu",
+        "distance": 0.11017713011328621
+      },
+      {
+        "word": "دوستی",
+        "english": "friendship",
+        "language": "Urdu",
+        "distance": 0.11108105148944171
+      },
+      {
+        "word": "معافی",
+        "english": "forgiveness",
+        "language": "Urdu",
+        "distance": 0.139781973086661
+      },
+      {
+        "word": "мир",
+        "english": "peace",
+        "language": "Russian",
+        "distance": 0.13949551964131318
+      },
+      {
+        "word": "сострадание",
+        "english": "compassion",
+        "language": "Russian",
+        "distance": 0.06371028174478596
+      },
+      {
+        "word": "смирение",
+        "english": "humility",
+        "language": "Russian",
+        "distance": 0.16546600859391025
+      },
+      {
+        "word": "милосердие",
+        "english": "mercy",
+        "language": "Russian",
+        "distance": 0.05233545643251815
+      },
+      {
+        "word": "давать",
+        "english": "give",
+        "language": "Russian",
+        "distance": 0.10981347822558031
+      },
+      {
+        "word": "дружба",
+        "english": "friendship",
+        "language": "Russian",
+        "distance": 0.10981347822558031
+      },
+      {
+        "word": "прощение",
+        "english": "forgiveness",
+        "language": "Russian",
+        "distance": 0.13213250924734612
+      }
+    ],
+    "4": [
+      {
+        "word": "colère",
+        "english": "anger",
+        "language": "French",
+        "distance": 0.13714590770416746
+      },
+      {
+        "word": "envie",
+        "english": "envy",
+        "language": "French",
+        "distance": 0.08178630692236931
+      },
+      {
+        "word": "orgueil",
+        "english": "pride",
+        "language": "French",
+        "distance": 0.09374966666607407
+      },
+      {
+        "word": "prendre",
+        "english": "take",
+        "language": "French",
+        "distance": 0.04988987873306566
+      },
+      {
+        "word": "ira",
+        "english": "anger",
+        "language": "Spanish",
+        "distance": 0.12549501982150532
+      },
+      {
+        "word": "envidia",
+        "english": "envy",
+        "language": "Spanish",
+        "distance": 0.0763478879865055
+      },
+      {
+        "word": "orgullo",
+        "english": "pride",
+        "language": "Spanish",
+        "distance": 0.09554580053565934
+      },
+      {
+        "word": "tomar",
+        "english": "take",
+        "language": "Spanish",
+        "distance": 0.061878914017619926
+      },
+      {
+        "word": "क्रोध",
+        "english": "anger",
+        "language": "Hindi",
+        "distance": 0.11614215427655891
+      },
+      {
+        "word": "अहंकार",
+        "english": "pride",
+        "language": "Hindi",
+        "distance": 0.10133607452432722
+      },
+      {
+        "word": "लेना",
+        "english": "take",
+        "language": "Hindi",
+        "distance": 0.07725930364687479
+      },
+      {
+        "word": "غصہ",
+        "english": "anger",
+        "language": "Urdu",
+        "distance": 0.10967679791095289
+      },
+      {
+        "word": "غرور",
+        "english": "pride",
+        "language": "Urdu",
+        "distance": 0.11049434374663711
+      },
+      {
+        "word": "لالچ",
+        "english": "greed",
+        "language": "Urdu",
+        "distance": 0.1213630915888352
+      },
+      {
+        "word": "لینا",
+        "english": "take",
+        "language": "Urdu",
+        "distance": 0.09438749917229503
+      },
+      {
+        "word": "гнев",
+        "english": "anger",
+        "language": "Russian",
+        "distance": 0.10671925786848412
+      },
+      {
+        "word": "гордыня",
+        "english": "pride",
+        "language": "Russian",
+        "distance": 0.09934284070832683
+      },
+      {
+        "word": "брать",
+        "english": "take",
+        "language": "Russian",
+        "distance": 0.08227393268830652
+      }
+    ],
+    "3": [
+      {
+        "word": "haine",
+        "english": "hate",
+        "language": "French",
+        "distance": 0.07374279625834645
+      },
+      {
+        "word": "avidité",
+        "english": "greed",
+        "language": "French",
+        "distance": 0.1062920505023777
+      },
+      {
+        "word": "cruauté",
+        "english": "cruelty",
+        "language": "French",
+        "distance": 0.10284940447080868
+      },
+      {
+        "word": "odio",
+        "english": "hate",
+        "language": "Spanish",
+        "distance": 0.06955573304911677
+      },
+      {
+        "word": "codicia",
+        "english": "greed",
+        "language": "Spanish",
+        "distance": 0.10907795377618709
+      },
+      {
+        "word": "crueldad",
+        "english": "cruelty",
+        "language": "Spanish",
+        "distance": 0.08472307831990053
+      },
+      {
+        "word": "घृणा",
+        "english": "hate",
+        "language": "Hindi",
+        "distance": 0.07097887009526145
+      },
+      {
+        "word": "लालच",
+        "english": "greed",
+        "language": "Hindi",
+        "distance": 0.11531695452100704
+      },
+      {
+        "word": "نفرت",
+        "english": "hate",
+        "language": "Urdu",
+        "distance": 0.07770456872024967
+      },
+      {
+        "word": "ненависть",
+        "english": "hate",
+        "language": "Russian",
+        "distance": 0.07097887009526145
+      },
+      {
+        "word": "жадность",
+        "english": "greed",
+        "language": "Russian",
+        "distance": 0.1124188596277333
+      },
+      {
+        "word": "жестокость",
+        "english": "cruelty",
+        "language": "Russian",
+        "distance": 0.06955573304911679
+      }
+    ],
+    "2": [
+      {
+        "word": "tristesse",
+        "english": "sadness",
+        "language": "French",
+        "distance": 0.10319883720275147
+      },
+      {
+        "word": "peur",
+        "english": "fear",
+        "language": "French",
+        "distance": 0.10319883720275148
+      },
+      {
+        "word": "tristeza",
+        "english": "sadness",
+        "language": "Spanish",
+        "distance": 0.09082951062292477
+      },
+      {
+        "word": "miedo",
+        "english": "fear",
+        "language": "Spanish",
+        "distance": 0.08860022573334676
+      },
+      {
+        "word": "दुख",
+        "english": "sadness",
+        "language": "Hindi",
+        "distance": 0.08154753215150047
+      },
+      {
+        "word": "डर",
+        "english": "fear",
+        "language": "Hindi",
+        "distance": 0.07648529270389177
+      },
+      {
+        "word": "غم",
+        "english": "sadness",
+        "language": "Urdu",
+        "distance": 0.07648529270389177
+      },
+      {
+        "word": "خوف",
+        "english": "fear",
+        "language": "Urdu",
+        "distance": 0.06819090848492931
+      },
+      {
+        "word": "грусть",
+        "english": "sadness",
+        "language": "Russian",
+        "distance": 0.08154753215150047
+      },
+      {
+        "word": "страх",
+        "english": "fear",
+        "language": "Russian",
+        "distance": 0.07648529270389177
+      }
+    ],
+    "5": [
+      {
+        "word": "courage",
+        "english": "courage",
+        "language": "French",
+        "distance": 0.15140673697032112
+      },
+      {
+        "word": "créer",
+        "english": "create",
+        "language": "French",
+        "distance": 0.10603772913449248
+      },
+      {
+        "word": "liberté",
+        "english": "freedom",
+        "language": "French",
+        "distance": 0.07578918128598562
+      },
+      {
+        "word": "loyauté",
+        "english": "loyalty",
+        "language": "French",
+        "distance": 0.11271202242884297
+      },
+      {
+        "word": "valor",
+        "english": "courage",
+        "language": "Spanish",
+        "distance": 0.14806755215103679
+      },
+      {
+        "word": "crear",
+        "english": "create",
+        "language": "Spanish",
+        "distance": 0.11421033228215385
+      },
+      {
+        "word": "libertad",
+        "english": "freedom",
+        "language": "Spanish",
+        "distance": 0.08708616422830893
+      },
+      {
+        "word": "lealtad",
+        "english": "loyalty",
+        "language": "Spanish",
+        "distance": 0.1179152237838694
+      },
+      {
+        "word": "साहस",
+        "english": "courage",
+        "language": "Hindi",
+        "distance": 0.14739063742314165
+      },
+      {
+        "word": "स्वतंत्रता",
+        "english": "freedom",
+        "language": "Hindi",
+        "distance": 0.10111379727811629
+      },
+      {
+        "word": "ہمت",
+        "english": "courage",
+        "language": "Urdu",
+        "distance": 0.14941218156495814
+      },
+      {
+        "word": "آزادی",
+        "english": "freedom",
+        "language": "Urdu",
+        "distance": 0.11689311356961964
+      },
+      {
+        "word": "мужество",
+        "english": "courage",
+        "language": "Russian",
+        "distance": 0.14739063742314165
+      },
+      {
+        "word": "создавать",
+        "english": "create",
+        "language": "Russian",
+        "distance": 0.12427389106324786
+      },
+      {
+        "word": "свобода",
+        "english": "freedom",
+        "language": "Russian",
+        "distance": 0.10518555033843764
+      },
+      {
+        "word": "верность",
+        "english": "loyalty",
+        "language": "Russian",
+        "distance": 0.11629273408085304
+      }
+    ],
+    "7": [
+      {
+        "word": "sagesse",
+        "english": "wisdom",
+        "language": "French",
+        "distance": 0.11081516141756056
+      },
+      {
+        "word": "justice",
+        "english": "justice",
+        "language": "French",
+        "distance": 0.15887101686588398
+      },
+      {
+        "word": "vérité",
+        "english": "truth",
+        "language": "French",
+        "distance": 0.03435112807463537
+      },
+      {
+        "word": "sabiduría",
+        "english": "wisdom",
+        "language": "Spanish",
+        "distance": 0.10099504938362085
+      },
+      {
+        "word": "justicia",
+        "english": "justice",
+        "language": "Spanish",
+        "distance": 0.1415627069534911
+      },
+      {
+        "word": "verdad",
+        "english": "truth",
+        "language": "Spanish",
+        "distance": 0.0337638860322683
+      },
+      {
+        "word": "ज्ञान",
+        "english": "wisdom",
+        "language": "Hindi",
+        "distance": 0.09444575162494082
+      },
+      {
+        "word": "न्याय",
+        "english": "justice",
+        "language": "Hindi",
+        "distance": 0.12505998560690784
+      },
+      {
+        "word": "सत्य",
+        "english": "truth",
+        "language": "Hindi",
+        "distance": 0.043588989435406775
+      },
+      {
+        "word": "حکمت",
+        "english": "wisdom",
+        "language": "Urdu",
+        "distance": 0.09186947262284686
+      },
+      {
+        "word": "انصاف",
+        "english": "justice",
+        "language": "Urdu",
+        "distance": 0.10972693379476162
+      },
+      {
+        "word": "سچائی",
+        "english": "truth",
+        "language": "Urdu",
+        "distance": 0.05882176467941102
+      },
+      {
+        "word": "мудрость",
+        "english": "wisdom",
+        "language": "Russian",
+        "distance": 0.09444575162494082
+      },
+      {
+        "word": "справедливость",
+        "english": "justice",
+        "language": "Russian",
+        "distance": 0.11224972160321822
+      },
+      {
+        "word": "правда",
+        "english": "truth",
+        "language": "Russian",
+        "distance": 0.04289522117905447
+      }
+    ],
+    "0": [
+      {
+        "word": "pouvoir",
+        "english": "power",
+        "language": "French",
+        "distance": 0.07000000000000002
+      },
+      {
+        "word": "poder",
+        "english": "power",
+        "language": "Spanish",
+        "distance": 0.06557438524302006
+      },
+      {
+        "word": "शक्ति",
+        "english": "power",
+        "language": "Hindi",
+        "distance": 0.06708203932499375
+      },
+      {
+        "word": "طاقت",
+        "english": "power",
+        "language": "Urdu",
+        "distance": 0.0741619848709567
+      },
+      {
+        "word": "власть",
+        "english": "power",
+        "language": "Russian",
+        "distance": 0.07141428428542856
+      }
+    ]
+  },
+  "statistics": {
+    "total_words": 132,
+    "mean_distance": 0.10166120115870785,
+    "median_distance": 0.09901207296435897,
+    "by_language": {
+      "Spanish": {
+        "count": 29,
+        "mean_distance": 0.09754409150771001,
+        "median_distance": 0.09175510884958941
+      },
+      "Urdu": {
+        "count": 23,
+        "mean_distance": 0.10875828145638765,
+        "median_distance": 0.10972693379476162
+      },
+      "Russian": {
+        "count": 27,
+        "mean_distance": 0.1029966139920492,
+        "median_distance": 0.10518555033843764
+      },
+      "French": {
+        "count": 29,
+        "mean_distance": 0.09915669619140331,
+        "median_distance": 0.10177917272212433
+      },
+      "Hindi": {
+        "count": 24,
+        "mean_distance": 0.1013586107663711,
+        "median_distance": 0.09733847268844284
+      }
+    },
+    "by_family": {
+      "Indo-Aryan": {
+        "count": 47,
+        "mean_distance": 0.10497972621042177,
+        "median_distance": 0.10111379727811629
+      },
+      "Romance": {
+        "count": 58,
+        "mean_distance": 0.09835039384955666,
+        "median_distance": 0.0946477336008667
+      },
+      "Slavic": {
+        "count": 27,
+        "mean_distance": 0.1029966139920492,
+        "median_distance": 0.10518555033843764
+      }
+    }
+  },
+  "baseline_comparison": {
+    "comparisons": {
+      "amour": {
+        "language": "French",
+        "english": "love",
+        "distance": 0.020000000000000018,
+        "match_quality": "exact"
+      },
+      "joie": {
+        "language": "French",
+        "english": "joy",
+        "distance": 0.020000000000000018,
+        "match_quality": "exact"
+      },
+      "espoir": {
+        "language": "French",
+        "english": "hope",
+        "distance": 0.019999999999999962,
+        "match_quality": "exact"
+      },
+      "paix": {
+        "language": "French",
+        "english": "peace",
+        "distance": 0.020000000000000018,
+        "match_quality": "exact"
+      },
+      "colère": {
+        "language": "French",
+        "english": "anger",
+        "distance": 0.01999999999999999,
+        "match_quality": "exact"
+      },
+      "haine": {
+        "language": "French",
+        "english": "hate",
+        "distance": 0.020000000000000018,
+        "match_quality": "exact"
+      },
+      "tristesse": {
+        "language": "French",
+        "english": "sadness",
+        "distance": 0.020000000000000018,
+        "match_quality": "exact"
+      },
+      "peur": {
+        "language": "French",
+        "english": "fear",
+        "distance": 0.01999999999999999,
+        "match_quality": "exact"
+      },
+      "envie": {
+        "language": "French",
+        "english": "envy",
+        "distance": 0.017320508075688756,
+        "match_quality": "exact"
+      },
+      "compassion": {
+        "language": "French",
+        "english": "compassion",
+        "distance": 0.020000000000000018,
+        "match_quality": "exact"
+      },
+      "courage": {
+        "language": "French",
+        "english": "courage",
+        "distance": 0.019999999999999962,
+        "match_quality": "exact"
+      },
+      "sagesse": {
+        "language": "French",
+        "english": "wisdom",
+        "distance": 0.019999999999999962,
+        "match_quality": "exact"
+      },
+      "justice": {
+        "language": "French",
+        "english": "justice",
+        "distance": 0.020000000000000018,
+        "match_quality": "exact"
+      },
+      "vérité": {
+        "language": "French",
+        "english": "truth",
+        "distance": 0.020000000000000018,
+        "match_quality": "exact"
+      },
+      "humilité": {
+        "language": "French",
+        "english": "humility",
+        "distance": 0.01999999999999999,
+        "match_quality": "exact"
+      },
+      "miséricorde": {
+        "language": "French",
+        "english": "mercy",
+        "distance": 0.020000000000000018,
+        "match_quality": "exact"
+      },
+      "orgueil": {
+        "language": "French",
+        "english": "pride",
+        "distance": 0.020000000000000018,
+        "match_quality": "exact"
+      },
+      "avidité": {
+        "language": "French",
+        "english": "greed",
+        "distance": 0.019999999999999934,
+        "match_quality": "exact"
+      },
+      "cruauté": {
+        "language": "French",
+        "english": "cruelty",
+        "distance": 0.017320508075688787,
+        "match_quality": "exact"
+      },
+      "donner": {
+        "language": "French",
+        "english": "give",
+        "distance": 0.01732050807568866,
+        "match_quality": "exact"
+      },
+      "prendre": {
+        "language": "French",
+        "english": "take",
+        "distance": 0.020000000000000018,
+        "match_quality": "exact"
+      },
+      "créer": {
+        "language": "French",
+        "english": "create",
+        "distance": 0.019999999999999962,
+        "match_quality": "exact"
+      },
+      "liberté": {
+        "language": "French",
+        "english": "freedom",
+        "distance": 0.020000000000000018,
+        "match_quality": "exact"
+      },
+      "beauté": {
+        "language": "French",
+        "english": "beauty",
+        "distance": 0.019999999999999907,
+        "match_quality": "exact"
+      },
+      "pouvoir": {
+        "language": "French",
+        "english": "power",
+        "distance": 0.020000000000000018,
+        "match_quality": "exact"
+      },
+      "amitié": {
+        "language": "French",
+        "english": "friendship",
+        "distance": 0.019999999999999907,
+        "match_quality": "exact"
+      },
+      "pardon": {
+        "language": "French",
+        "english": "forgiveness",
+        "distance": 0.024494897427831803,
+        "match_quality": "exact"
+      },
+      "loyauté": {
+        "language": "French",
+        "english": "loyalty",
+        "distance": 0.020000000000000018,
+        "match_quality": "exact"
+      },
+      "amor": {
+        "language": "Spanish",
+        "english": "love",
+        "distance": 0.036055512754639925,
+        "match_quality": "exact"
+      },
+      "alegría": {
+        "language": "Spanish",
+        "english": "joy",
+        "distance": 0.040000000000000036,
+        "match_quality": "exact"
+      },
+      "esperanza": {
+        "language": "Spanish",
+        "english": "hope",
+        "distance": 0.03999999999999998,
+        "match_quality": "exact"
+      },
+      "paz": {
+        "language": "Spanish",
+        "english": "peace",
+        "distance": 0.040000000000000036,
+        "match_quality": "exact"
+      },
+      "ira": {
+        "language": "Spanish",
+        "english": "anger",
+        "distance": 0.04000000000000001,
+        "match_quality": "exact"
+      },
+      "odio": {
+        "language": "Spanish",
+        "english": "hate",
+        "distance": 0.040000000000000036,
+        "match_quality": "exact"
+      },
+      "tristeza": {
+        "language": "Spanish",
+        "english": "sadness",
+        "distance": 0.039999999999999994,
+        "match_quality": "exact"
+      },
+      "miedo": {
+        "language": "Spanish",
+        "english": "fear",
+        "distance": 0.03999999999999998,
+        "match_quality": "exact"
+      },
+      "envidia": {
+        "language": "Spanish",
+        "english": "envy",
+        "distance": 0.03605551275463989,
+        "match_quality": "exact"
+      },
+      "compasión": {
+        "language": "Spanish",
+        "english": "compassion",
+        "distance": 0.040000000000000036,
+        "match_quality": "exact"
+      },
+      "valor": {
+        "language": "Spanish",
+        "english": "courage",
+        "distance": 0.03999999999999998,
+        "match_quality": "exact"
+      },
+      "sabiduría": {
+        "language": "Spanish",
+        "english": "wisdom",
+        "distance": 0.039999999999999925,
+        "match_quality": "exact"
+      },
+      "justicia": {
+        "language": "Spanish",
+        "english": "justice",
+        "distance": 0.03999999999999998,
+        "match_quality": "exact"
+      },
+      "verdad": {
+        "language": "Spanish",
+        "english": "truth",
+        "distance": 0.040000000000000036,
+        "match_quality": "exact"
+      },
+      "humildad": {
+        "language": "Spanish",
+        "english": "humility",
+        "distance": 0.04000000000000001,
+        "match_quality": "exact"
+      },
+      "misericordia": {
+        "language": "Spanish",
+        "english": "mercy",
+        "distance": 0.040000000000000036,
+        "match_quality": "exact"
+      },
+      "orgullo": {
+        "language": "Spanish",
+        "english": "pride",
+        "distance": 0.034641016151377574,
+        "match_quality": "exact"
+      },
+      "codicia": {
+        "language": "Spanish",
+        "english": "greed",
+        "distance": 0.03999999999999994,
+        "match_quality": "exact"
+      },
+      "crueldad": {
+        "language": "Spanish",
+        "english": "cruelty",
+        "distance": 0.03605551275463991,
+        "match_quality": "exact"
+      },
+      "dar": {
+        "language": "Spanish",
+        "english": "give",
+        "distance": 0.03605551275463977,
+        "match_quality": "exact"
+      },
+      "tomar": {
+        "language": "Spanish",
+        "english": "take",
+        "distance": 0.040000000000000036,
+        "match_quality": "exact"
+      },
+      "crear": {
+        "language": "Spanish",
+        "english": "create",
+        "distance": 0.03999999999999998,
+        "match_quality": "exact"
+      },
+      "libertad": {
+        "language": "Spanish",
+        "english": "freedom",
+        "distance": 0.034641016151377574,
+        "match_quality": "exact"
+      },
+      "belleza": {
+        "language": "Spanish",
+        "english": "beauty",
+        "distance": 0.03999999999999987,
+        "match_quality": "exact"
+      },
+      "poder": {
+        "language": "Spanish",
+        "english": "power",
+        "distance": 0.04000000000000001,
+        "match_quality": "exact"
+      },
+      "amistad": {
+        "language": "Spanish",
+        "english": "friendship",
+        "distance": 0.039999999999999925,
+        "match_quality": "exact"
+      },
+      "perdón": {
+        "language": "Spanish",
+        "english": "forgiveness",
+        "distance": 0.04242640687119289,
+        "match_quality": "exact"
+      },
+      "lealtad": {
+        "language": "Spanish",
+        "english": "loyalty",
+        "distance": 0.040000000000000036,
+        "match_quality": "exact"
+      },
+      "प्रेम": {
+        "language": "Hindi",
+        "english": "love",
+        "distance": 0.05567764362830024,
+        "match_quality": "close"
+      },
+      "आनंद": {
+        "language": "Hindi",
+        "english": "joy",
+        "distance": 0.060000000000000026,
+        "match_quality": "close"
+      },
+      "आशा": {
+        "language": "Hindi",
+        "english": "hope",
+        "distance": 0.06,
+        "match_quality": "close"
+      },
+      "शांति": {
+        "language": "Hindi",
+        "english": "peace",
+        "distance": 0.06000000000000005,
+        "match_quality": "close"
+      },
+      "क्रोध": {
+        "language": "Hindi",
+        "english": "anger",
+        "distance": 0.060000000000000026,
+        "match_quality": "close"
+      },
+      "घृणा": {
+        "language": "Hindi",
+        "english": "hate",
+        "distance": 0.06000000000000004,
+        "match_quality": "close"
+      },
+      "दुख": {
+        "language": "Hindi",
+        "english": "sadness",
+        "distance": 0.06000000000000001,
+        "match_quality": "close"
+      },
+      "डर": {
+        "language": "Hindi",
+        "english": "fear",
+        "distance": 0.06,
+        "match_quality": "close"
+      },
+      "करुणा": {
+        "language": "Hindi",
+        "english": "compassion",
+        "distance": 0.060000000000000026,
+        "match_quality": "close"
+      },
+      "साहस": {
+        "language": "Hindi",
+        "english": "courage",
+        "distance": 0.06,
+        "match_quality": "close"
+      },
+      "ज्ञान": {
+        "language": "Hindi",
+        "english": "wisdom",
+        "distance": 0.05999999999999994,
+        "match_quality": "close"
+      },
+      "न्याय": {
+        "language": "Hindi",
+        "english": "justice",
+        "distance": 0.06,
+        "match_quality": "close"
+      },
+      "सत्य": {
+        "language": "Hindi",
+        "english": "truth",
+        "distance": 0.06000000000000005,
+        "match_quality": "close"
+      },
+      "विनम्रता": {
+        "language": "Hindi",
+        "english": "humility",
+        "distance": 0.060000000000000026,
+        "match_quality": "close"
+      },
+      "दया": {
+        "language": "Hindi",
+        "english": "mercy",
+        "distance": 0.06000000000000005,
+        "match_quality": "close"
+      },
+      "अहंकार": {
+        "language": "Hindi",
+        "english": "pride",
+        "distance": 0.05291502622129186,
+        "match_quality": "close"
+      },
+      "लालच": {
+        "language": "Hindi",
+        "english": "greed",
+        "distance": 0.059999999999999956,
+        "match_quality": "close"
+      },
+      "देना": {
+        "language": "Hindi",
+        "english": "give",
+        "distance": 0.05567764362830011,
+        "match_quality": "close"
+      },
+      "लेना": {
+        "language": "Hindi",
+        "english": "take",
+        "distance": 0.06,
+        "match_quality": "close"
+      },
+      "स्वतंत्रता": {
+        "language": "Hindi",
+        "english": "freedom",
+        "distance": 0.05291502622129186,
+        "match_quality": "close"
+      },
+      "सुंदरता": {
+        "language": "Hindi",
+        "english": "beauty",
+        "distance": 0.05999999999999989,
+        "match_quality": "close"
+      },
+      "शक्ति": {
+        "language": "Hindi",
+        "english": "power",
+        "distance": 0.060000000000000026,
+        "match_quality": "close"
+      },
+      "मित्रता": {
+        "language": "Hindi",
+        "english": "friendship",
+        "distance": 0.05999999999999994,
+        "match_quality": "close"
+      },
+      "क्षमा": {
+        "language": "Hindi",
+        "english": "forgiveness",
+        "distance": 0.06164414002968982,
+        "match_quality": "close"
+      },
+      "محبت": {
+        "language": "Urdu",
+        "english": "love",
+        "distance": 0.07549834435270752,
+        "match_quality": "close"
+      },
+      "خوشی": {
+        "language": "Urdu",
+        "english": "joy",
+        "distance": 0.07999999999999999,
+        "match_quality": "close"
+      },
+      "امید": {
+        "language": "Urdu",
+        "english": "hope",
+        "distance": 0.08000000000000002,
+        "match_quality": "close"
+      },
+      "امن": {
+        "language": "Urdu",
+        "english": "peace",
+        "distance": 0.07999999999999999,
+        "match_quality": "close"
+      },
+      "غصہ": {
+        "language": "Urdu",
+        "english": "anger",
+        "distance": 0.07999999999999999,
+        "match_quality": "close"
+      },
+      "نفرت": {
+        "language": "Urdu",
+        "english": "hate",
+        "distance": 0.08000000000000003,
+        "match_quality": "close"
+      },
+      "غم": {
+        "language": "Urdu",
+        "english": "sadness",
+        "distance": 0.08000000000000003,
+        "match_quality": "close"
+      },
+      "خوف": {
+        "language": "Urdu",
+        "english": "fear",
+        "distance": 0.07999999999999999,
+        "match_quality": "close"
+      },
+      "رحم": {
+        "language": "Urdu",
+        "english": "compassion",
+        "distance": 0.08000000000000004,
+        "match_quality": "close"
+      },
+      "ہمت": {
+        "language": "Urdu",
+        "english": "courage",
+        "distance": 0.07999999999999996,
+        "match_quality": "close"
+      },
+      "حکمت": {
+        "language": "Urdu",
+        "english": "wisdom",
+        "distance": 0.07999999999999996,
+        "match_quality": "close"
+      },
+      "انصاف": {
+        "language": "Urdu",
+        "english": "justice",
+        "distance": 0.07999999999999996,
+        "match_quality": "close"
+      },
+      "سچائی": {
+        "language": "Urdu",
+        "english": "truth",
+        "distance": 0.08000000000000007,
+        "match_quality": "close"
+      },
+      "عاجزی": {
+        "language": "Urdu",
+        "english": "humility",
+        "distance": 0.07999999999999999,
+        "match_quality": "close"
+      },
+      "غرور": {
+        "language": "Urdu",
+        "english": "pride",
+        "distance": 0.07211102550927985,
+        "match_quality": "close"
+      },
+      "لالچ": {
+        "language": "Urdu",
+        "english": "greed",
+        "distance": 0.07999999999999997,
+        "match_quality": "close"
+      },
+      "دینا": {
+        "language": "Urdu",
+        "english": "give",
+        "distance": 0.0754983443527074,
+        "match_quality": "close"
+      },
+      "لینا": {
+        "language": "Urdu",
+        "english": "take",
+        "distance": 0.07999999999999996,
+        "match_quality": "close"
+      },
+      "آزادی": {
+        "language": "Urdu",
+        "english": "freedom",
+        "distance": 0.0721110255092798,
+        "match_quality": "close"
+      },
+      "خوبصورتی": {
+        "language": "Urdu",
+        "english": "beauty",
+        "distance": 0.0799999999999999,
+        "match_quality": "close"
+      },
+      "طاقت": {
+        "language": "Urdu",
+        "english": "power",
+        "distance": 0.08000000000000004,
+        "match_quality": "close"
+      },
+      "دوستی": {
+        "language": "Urdu",
+        "english": "friendship",
+        "distance": 0.07999999999999996,
+        "match_quality": "close"
+      },
+      "معافی": {
+        "language": "Urdu",
+        "english": "forgiveness",
+        "distance": 0.08124038404635962,
+        "match_quality": "close"
+      },
+      "любовь": {
+        "language": "Russian",
+        "english": "love",
+        "distance": 0.05567764362830024,
+        "match_quality": "close"
+      },
+      "радость": {
+        "language": "Russian",
+        "english": "joy",
+        "distance": 0.06164414002968979,
+        "match_quality": "close"
+      },
+      "надежда": {
+        "language": "Russian",
+        "english": "hope",
+        "distance": 0.05567764362830021,
+        "match_quality": "close"
+      },
+      "мир": {
+        "language": "Russian",
+        "english": "peace",
+        "distance": 0.06000000000000005,
+        "match_quality": "close"
+      },
+      "гнев": {
+        "language": "Russian",
+        "english": "anger",
+        "distance": 0.06557438524302003,
+        "match_quality": "close"
+      },
+      "ненависть": {
+        "language": "Russian",
+        "english": "hate",
+        "distance": 0.06000000000000004,
+        "match_quality": "close"
+      },
+      "грусть": {
+        "language": "Russian",
+        "english": "sadness",
+        "distance": 0.06000000000000001,
+        "match_quality": "close"
+      },
+      "страх": {
+        "language": "Russian",
+        "english": "fear",
+        "distance": 0.06,
+        "match_quality": "close"
+      },
+      "сострадание": {
+        "language": "Russian",
+        "english": "compassion",
+        "distance": 0.07071067811865478,
+        "match_quality": "close"
+      },
+      "мужество": {
+        "language": "Russian",
+        "english": "courage",
+        "distance": 0.06,
+        "match_quality": "close"
+      },
+      "мудрость": {
+        "language": "Russian",
+        "english": "wisdom",
+        "distance": 0.05999999999999994,
+        "match_quality": "close"
+      },
+      "справедливость": {
+        "language": "Russian",
+        "english": "justice",
+        "distance": 0.07071067811865475,
+        "match_quality": "close"
+      },
+      "правда": {
+        "language": "Russian",
+        "english": "truth",
+        "distance": 0.06557438524302006,
+        "match_quality": "close"
+      },
+      "смирение": {
+        "language": "Russian",
+        "english": "humility",
+        "distance": 0.07549834435270747,
+        "match_quality": "close"
+      },
+      "милосердие": {
+        "language": "Russian",
+        "english": "mercy",
+        "distance": 0.06557438524302006,
+        "match_quality": "close"
+      },
+      "гордыня": {
+        "language": "Russian",
+        "english": "pride",
+        "distance": 0.05916079783099621,
+        "match_quality": "close"
+      },
+      "жадность": {
+        "language": "Russian",
+        "english": "greed",
+        "distance": 0.06557438524301996,
+        "match_quality": "close"
+      },
+      "жестокость": {
+        "language": "Russian",
+        "english": "cruelty",
+        "distance": 0.050990195135927875,
+        "match_quality": "close"
+      },
+      "давать": {
+        "language": "Russian",
+        "english": "give",
+        "distance": 0.0721110255092797,
+        "match_quality": "close"
+      },
+      "брать": {
+        "language": "Russian",
+        "english": "take",
+        "distance": 0.06557438524301995,
+        "match_quality": "close"
+      },
+      "создавать": {
+        "language": "Russian",
+        "english": "create",
+        "distance": 0.05099019513592783,
+        "match_quality": "close"
+      },
+      "свобода": {
+        "language": "Russian",
+        "english": "freedom",
+        "distance": 0.06164414002968982,
+        "match_quality": "close"
+      },
+      "красота": {
+        "language": "Russian",
+        "english": "beauty",
+        "distance": 0.0754983443527074,
+        "match_quality": "close"
+      },
+      "власть": {
+        "language": "Russian",
+        "english": "power",
+        "distance": 0.0707106781186548,
+        "match_quality": "close"
+      },
+      "дружба": {
+        "language": "Russian",
+        "english": "friendship",
+        "distance": 0.07549834435270746,
+        "match_quality": "close"
+      },
+      "прощение": {
+        "language": "Russian",
+        "english": "forgiveness",
+        "distance": 0.07810249675906655,
+        "match_quality": "close"
+      },
+      "верность": {
+        "language": "Russian",
+        "english": "loyalty",
+        "distance": 0.05567764362830027,
+        "match_quality": "close"
+      }
+    },
+    "statistics": {
+      "total_compared": 130,
+      "mean_distance": 0.050891157156086754,
+      "median_distance": 0.05741922072964824,
+      "exact_matches": 56,
+      "close_matches": 74
+    }
+  }
+}
