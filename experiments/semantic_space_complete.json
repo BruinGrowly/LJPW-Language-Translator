@@ -1,0 +1,5514 @@
+{
+  "metadata": {
+    "created": "2025-12-04T14:12:46.624907",
+    "total_concepts": 267,
+    "total_domains": 8,
+    "description": "Complete LJPW semantic space mapping"
+  },
+  "anchor_concepts": {
+    "love": [
+      0.91,
+      0.48,
+      0.17,
+      0.72
+    ],
+    "compassion": [
+      0.86,
+      0.54,
+      0.23,
+      0.69
+    ],
+    "kindness": [
+      0.83,
+      0.61,
+      0.27,
+      0.72
+    ],
+    "anger": [
+      0.29,
+      0.34,
+      0.79,
+      0.42
+    ],
+    "fear": [
+      0.31,
+      0.38,
+      0.62,
+      0.48
+    ],
+    "sadness": [
+      0.42,
+      0.41,
+      0.24,
+      0.52
+    ],
+    "bond": [
+      0.88,
+      0.52,
+      0.19,
+      0.67
+    ],
+    "beauty": [
+      0.79,
+      0.58,
+      0.32,
+      0.74
+    ],
+    "sleep": [
+      0.58,
+      0.51,
+      0.36,
+      0.61
+    ],
+    "life": [
+      0.76,
+      0.63,
+      0.34,
+      0.71
+    ],
+    "knowledge": [
+      0.59,
+      0.72,
+      0.41,
+      0.89
+    ],
+    "truth": [
+      0.67,
+      0.81,
+      0.38,
+      0.84
+    ],
+    "power": [
+      0.51,
+      0.68,
+      0.79,
+      0.64
+    ],
+    "strength": [
+      0.48,
+      0.61,
+      0.81,
+      0.58
+    ],
+    "freedom": [
+      0.61,
+      0.79,
+      0.68,
+      0.76
+    ],
+    "justice": [
+      0.56,
+      0.91,
+      0.48,
+      0.82
+    ],
+    "honor": [
+      0.65,
+      0.84,
+      0.72,
+      0.81
+    ],
+    "good": [
+      0.73,
+      0.69,
+      0.38,
+      0.78
+    ],
+    "evil": [
+      0.19,
+      0.28,
+      0.71,
+      0.33
+    ],
+    "sacred": [
+      0.71,
+      0.78,
+      0.43,
+      0.87
+    ]
+  },
+  "domains": {
+    "emotions": {
+      "description": "All human emotional states and feelings",
+      "concepts": {
+        "joy": {
+          "coordinates": [
+            0.93,
+            0.48,
+            0.12000000000000001,
+            0.72
+          ],
+          "definition": "Intense happiness and delight",
+          "related": []
+        },
+        "happiness": {
+          "coordinates": [
+            0.91,
+            0.48,
+            0.09000000000000001,
+            0.72
+          ],
+          "definition": "State of well-being and contentment",
+          "related": []
+        },
+        "contentment": {
+          "coordinates": [
+            0.86,
+            0.48,
+            0.07,
+            0.77
+          ],
+          "definition": "Peaceful satisfaction with one's situation",
+          "related": []
+        },
+        "delight": {
+          "coordinates": [
+            0.9400000000000001,
+            0.48,
+            0.11000000000000001,
+            0.72
+          ],
+          "definition": "Great pleasure and enjoyment",
+          "related": []
+        },
+        "elation": {
+          "coordinates": [
+            0.9500000000000001,
+            0.48,
+            0.27,
+            0.6699999999999999
+          ],
+          "definition": "Extreme happiness and excitement",
+          "related": []
+        },
+        "euphoria": {
+          "coordinates": [
+            0.9600000000000001,
+            0.48,
+            0.32,
+            0.62
+          ],
+          "definition": "Intense state of pleasure and well-being",
+          "related": []
+        },
+        "bliss": {
+          "coordinates": [
+            0.97,
+            0.58,
+            0.05000000000000002,
+            0.87
+          ],
+          "definition": "Perfect happiness and spiritual joy",
+          "related": []
+        },
+        "ecstasy": {
+          "coordinates": [
+            0.98,
+            0.48,
+            0.37,
+            0.57
+          ],
+          "definition": "Overwhelming feeling of rapture",
+          "related": []
+        },
+        "affection": {
+          "coordinates": [
+            0.86,
+            0.48,
+            0.09000000000000001,
+            0.72
+          ],
+          "definition": "Gentle caring feeling",
+          "related": []
+        },
+        "tenderness": {
+          "coordinates": [
+            0.89,
+            0.53,
+            0.05000000000000002,
+            0.72
+          ],
+          "definition": "Gentle warmth and care",
+          "related": []
+        },
+        "adoration": {
+          "coordinates": [
+            0.9500000000000001,
+            0.5599999999999999,
+            0.17,
+            0.77
+          ],
+          "definition": "Deep love and respect",
+          "related": []
+        },
+        "infatuation": {
+          "coordinates": [
+            0.9600000000000001,
+            0.48,
+            0.32,
+            0.52
+          ],
+          "definition": "Intense but often short-lived passion",
+          "related": []
+        },
+        "devotion": {
+          "coordinates": [
+            0.93,
+            0.63,
+            0.17,
+            0.82
+          ],
+          "definition": "Loyal commitment and dedication",
+          "related": []
+        },
+        "serenity": {
+          "coordinates": [
+            0.81,
+            0.53,
+            0.020000000000000018,
+            0.9199999999999999
+          ],
+          "definition": "State of calm and peaceful tranquility",
+          "related": []
+        },
+        "tranquility": {
+          "coordinates": [
+            0.79,
+            0.48,
+            0.010000000000000009,
+            0.8999999999999999
+          ],
+          "definition": "Quality of being calm and peaceful",
+          "related": []
+        },
+        "calm": {
+          "coordinates": [
+            0.76,
+            0.48,
+            0.03,
+            0.87
+          ],
+          "definition": "State of quietness and composure",
+          "related": []
+        },
+        "rage": {
+          "coordinates": [
+            0.29,
+            0.34,
+            0.91,
+            0.31999999999999995
+          ],
+          "definition": "Violent uncontrollable anger",
+          "related": []
+        },
+        "fury": {
+          "coordinates": [
+            0.29,
+            0.34,
+            0.89,
+            0.33999999999999997
+          ],
+          "definition": "Wild intense anger",
+          "related": []
+        },
+        "wrath": {
+          "coordinates": [
+            0.29,
+            0.49,
+            0.87,
+            0.42
+          ],
+          "definition": "Divine or righteous anger",
+          "related": []
+        },
+        "irritation": {
+          "coordinates": [
+            0.29,
+            0.34,
+            0.54,
+            0.47
+          ],
+          "definition": "Mild annoyance",
+          "related": []
+        },
+        "annoyance": {
+          "coordinates": [
+            0.29,
+            0.34,
+            0.5900000000000001,
+            0.44999999999999996
+          ],
+          "definition": "Feeling of being bothered",
+          "related": []
+        },
+        "frustration": {
+          "coordinates": [
+            0.33999999999999997,
+            0.34,
+            0.6900000000000001,
+            0.52
+          ],
+          "definition": "Feeling of being blocked or helpless",
+          "related": []
+        },
+        "resentment": {
+          "coordinates": [
+            0.29,
+            0.24000000000000002,
+            0.74,
+            0.5
+          ],
+          "definition": "Bitter indignation at perceived unfairness",
+          "related": []
+        },
+        "hostility": {
+          "coordinates": [
+            0.24,
+            0.26,
+            0.89,
+            0.42
+          ],
+          "definition": "Deep-seated anger and opposition",
+          "related": []
+        },
+        "terror": {
+          "coordinates": [
+            0.31,
+            0.38,
+            0.8200000000000001,
+            0.32999999999999996
+          ],
+          "definition": "Extreme fear and dread",
+          "related": []
+        },
+        "panic": {
+          "coordinates": [
+            0.31,
+            0.38,
+            0.8,
+            0.27999999999999997
+          ],
+          "definition": "Sudden overwhelming fear",
+          "related": []
+        },
+        "anxiety": {
+          "coordinates": [
+            0.31,
+            0.38,
+            0.52,
+            0.58
+          ],
+          "definition": "Persistent worry and unease",
+          "related": []
+        },
+        "worry": {
+          "coordinates": [
+            0.36,
+            0.38,
+            0.47,
+            0.6
+          ],
+          "definition": "Anxious concern about potential problems",
+          "related": []
+        },
+        "dread": {
+          "coordinates": [
+            0.31,
+            0.33,
+            0.72,
+            0.53
+          ],
+          "definition": "Great fear of something in the future",
+          "related": []
+        },
+        "horror": {
+          "coordinates": [
+            0.22999999999999998,
+            0.38,
+            0.77,
+            0.38
+          ],
+          "definition": "Intense shock and fear",
+          "related": []
+        },
+        "nervousness": {
+          "coordinates": [
+            0.31,
+            0.38,
+            0.42,
+            0.5599999999999999
+          ],
+          "definition": "Slight anxiety or apprehension",
+          "related": []
+        },
+        "grief": {
+          "coordinates": [
+            0.31999999999999995,
+            0.41,
+            0.19,
+            0.52
+          ],
+          "definition": "Deep sorrow over loss",
+          "related": []
+        },
+        "sorrow": {
+          "coordinates": [
+            0.33999999999999997,
+            0.36,
+            0.24,
+            0.52
+          ],
+          "definition": "Deep distress and regret",
+          "related": []
+        },
+        "melancholy": {
+          "coordinates": [
+            0.37,
+            0.41,
+            0.24,
+            0.62
+          ],
+          "definition": "Pensive sadness with no obvious cause",
+          "related": []
+        },
+        "despair": {
+          "coordinates": [
+            0.27,
+            0.20999999999999996,
+            0.24,
+            0.42000000000000004
+          ],
+          "definition": "Complete loss of hope",
+          "related": []
+        },
+        "depression": {
+          "coordinates": [
+            0.3,
+            0.41,
+            0.15999999999999998,
+            0.47000000000000003
+          ],
+          "definition": "Persistent feeling of sadness and hopelessness",
+          "related": []
+        },
+        "misery": {
+          "coordinates": [
+            0.24,
+            0.26,
+            0.13999999999999999,
+            0.52
+          ],
+          "definition": "Great unhappiness and suffering",
+          "related": []
+        },
+        "loneliness": {
+          "coordinates": [
+            0.31999999999999995,
+            0.41,
+            0.12,
+            0.52
+          ],
+          "definition": "Sadness from lack of companionship",
+          "related": []
+        },
+        "heartbreak": {
+          "coordinates": [
+            0.3,
+            0.41,
+            0.15999999999999998,
+            0.52
+          ],
+          "definition": "Overwhelming grief from emotional loss",
+          "related": []
+        },
+        "nostalgia": {
+          "coordinates": [
+            0.7140000000000001,
+            0.45199999999999996,
+            0.198,
+            0.64
+          ],
+          "definition": "Sentimental longing for the past",
+          "related": []
+        },
+        "bittersweet": {
+          "coordinates": [
+            0.763,
+            0.45899999999999996,
+            0.191,
+            0.66
+          ],
+          "definition": "Mixed feeling of happiness and sadness",
+          "related": []
+        },
+        "guilt": {
+          "coordinates": [
+            0.42,
+            0.61,
+            0.24,
+            0.67
+          ],
+          "definition": "Remorse for wrongdoing",
+          "related": []
+        },
+        "shame": {
+          "coordinates": [
+            0.33999999999999997,
+            0.51,
+            0.13999999999999999,
+            0.52
+          ],
+          "definition": "Painful feeling of humiliation",
+          "related": []
+        },
+        "embarrassment": {
+          "coordinates": [
+            0.37,
+            0.53,
+            0.15999999999999998,
+            0.52
+          ],
+          "definition": "Self-conscious awkwardness",
+          "related": []
+        },
+        "pride": {
+          "coordinates": [
+            0.78,
+            0.6599999999999999,
+            0.445,
+            0.765
+          ],
+          "definition": "Satisfaction in achievements",
+          "related": []
+        },
+        "envy": {
+          "coordinates": [
+            0.31999999999999995,
+            0.41,
+            0.44,
+            0.47000000000000003
+          ],
+          "definition": "Resentful desire for others' advantages",
+          "related": []
+        },
+        "jealousy": {
+          "coordinates": [
+            0.21,
+            0.38,
+            0.77,
+            0.48
+          ],
+          "definition": "Fear of losing something to a rival",
+          "related": []
+        },
+        "surprise": {
+          "coordinates": [
+            0.62,
+            0.58,
+            0.45,
+            0.75
+          ],
+          "definition": "Sudden unexpected feeling",
+          "related": []
+        },
+        "astonishment": {
+          "coordinates": [
+            0.64,
+            0.6,
+            0.55,
+            0.8
+          ],
+          "definition": "Great surprise or amazement",
+          "related": []
+        },
+        "curiosity": {
+          "coordinates": [
+            0.68,
+            0.62,
+            0.38,
+            0.85
+          ],
+          "definition": "Strong desire to learn",
+          "related": []
+        },
+        "interest": {
+          "coordinates": [
+            0.65,
+            0.6,
+            0.4,
+            0.82
+          ],
+          "definition": "Feeling of wanting to know more",
+          "related": []
+        },
+        "disgust": {
+          "coordinates": [
+            0.22,
+            0.35,
+            0.65,
+            0.4
+          ],
+          "definition": "Revulsion or strong disapproval",
+          "related": []
+        },
+        "contempt": {
+          "coordinates": [
+            0.24,
+            0.5,
+            0.75,
+            0.48
+          ],
+          "definition": "Feeling that something is worthless",
+          "related": []
+        },
+        "revulsion": {
+          "coordinates": [
+            0.2,
+            0.33,
+            0.77,
+            0.35
+          ],
+          "definition": "Strong feeling of disgust",
+          "related": []
+        },
+        "hope": {
+          "coordinates": [
+            0.78,
+            0.7,
+            0.42,
+            0.8
+          ],
+          "definition": "Expectation and desire for positive outcome",
+          "related": []
+        },
+        "optimism": {
+          "coordinates": [
+            0.8,
+            0.73,
+            0.45,
+            0.83
+          ],
+          "definition": "Hopefulness about the future",
+          "related": []
+        },
+        "gratitude": {
+          "coordinates": [
+            0.806,
+            0.624,
+            0.39,
+            0.756
+          ],
+          "definition": "Thankful appreciation",
+          "related": []
+        },
+        "appreciation": {
+          "coordinates": [
+            0.793,
+            0.6419999999999999,
+            0.4175,
+            0.7605
+          ],
+          "definition": "Recognition of value or quality",
+          "related": []
+        }
+      }
+    },
+    "actions": {
+      "description": "All human actions and activities",
+      "concepts": {
+        "walk": {
+          "coordinates": [
+            0.55,
+            0.5,
+            0.45,
+            0.6
+          ],
+          "definition": "Move at regular pace on foot",
+          "related": []
+        },
+        "run": {
+          "coordinates": [
+            0.57,
+            0.52,
+            0.65,
+            0.55
+          ],
+          "definition": "Move swiftly on foot",
+          "related": []
+        },
+        "jump": {
+          "coordinates": [
+            0.6,
+            0.52,
+            0.65,
+            0.62
+          ],
+          "definition": "Push off ground into the air",
+          "related": []
+        },
+        "dance": {
+          "coordinates": [
+            0.75,
+            0.58,
+            0.55,
+            0.68
+          ],
+          "definition": "Move rhythmically to music",
+          "related": []
+        },
+        "create": {
+          "coordinates": [
+            0.72,
+            0.68,
+            0.6,
+            0.85
+          ],
+          "definition": "Bring something into existence",
+          "related": []
+        },
+        "build": {
+          "coordinates": [
+            0.74,
+            0.7,
+            0.7,
+            0.9
+          ],
+          "definition": "Construct by putting parts together",
+          "related": []
+        },
+        "make": {
+          "coordinates": [
+            0.67,
+            0.63,
+            0.6,
+            0.85
+          ],
+          "definition": "Form by combining materials",
+          "related": []
+        },
+        "destroy": {
+          "coordinates": [
+            0.18,
+            0.32,
+            0.82,
+            0.35
+          ],
+          "definition": "Cause to cease to exist",
+          "related": []
+        },
+        "break": {
+          "coordinates": [
+            0.2,
+            0.34,
+            0.72,
+            0.37
+          ],
+          "definition": "Separate into pieces",
+          "related": []
+        },
+        "think": {
+          "coordinates": [
+            0.58,
+            0.65,
+            0.38,
+            0.88
+          ],
+          "definition": "Use mind to consider",
+          "related": []
+        },
+        "know": {
+          "coordinates": [
+            0.59,
+            0.72,
+            0.41,
+            0.89
+          ],
+          "definition": "Have information in mind",
+          "related": []
+        },
+        "learn": {
+          "coordinates": [
+            0.64,
+            0.72,
+            0.49,
+            0.9400000000000001
+          ],
+          "definition": "Acquire knowledge or skill",
+          "related": []
+        },
+        "understand": {
+          "coordinates": [
+            0.59,
+            0.77,
+            0.41,
+            0.97
+          ],
+          "definition": "Comprehend meaning",
+          "related": []
+        },
+        "remember": {
+          "coordinates": [
+            0.62,
+            0.68,
+            0.35,
+            0.85
+          ],
+          "definition": "Recall from memory",
+          "related": []
+        },
+        "forget": {
+          "coordinates": [
+            0.45,
+            0.42,
+            0.3,
+            0.4
+          ],
+          "definition": "Fail to remember",
+          "related": []
+        },
+        "speak": {
+          "coordinates": [
+            0.62,
+            0.62,
+            0.52,
+            0.75
+          ],
+          "definition": "Express thoughts in words",
+          "related": []
+        },
+        "listen": {
+          "coordinates": [
+            0.68,
+            0.65,
+            0.35,
+            0.8
+          ],
+          "definition": "Pay attention to sounds",
+          "related": []
+        },
+        "teach": {
+          "coordinates": [
+            0.75,
+            0.72,
+            0.48,
+            0.9
+          ],
+          "definition": "Impart knowledge or skill",
+          "related": []
+        },
+        "help": {
+          "coordinates": [
+            0.82,
+            0.7,
+            0.4,
+            0.75
+          ],
+          "definition": "Assist or aid someone",
+          "related": []
+        },
+        "love (verb)": {
+          "coordinates": [
+            0.91,
+            0.48,
+            0.17,
+            0.72
+          ],
+          "definition": "Feel deep affection for",
+          "related": []
+        },
+        "hate": {
+          "coordinates": [
+            0.12,
+            0.25,
+            0.75,
+            0.3
+          ],
+          "definition": "Feel intense dislike for",
+          "related": []
+        },
+        "care": {
+          "coordinates": [
+            0.85,
+            0.62,
+            0.28,
+            0.72
+          ],
+          "definition": "Feel concern or interest",
+          "related": []
+        },
+        "trust": {
+          "coordinates": [
+            0.78,
+            0.75,
+            0.38,
+            0.82
+          ],
+          "definition": "Have confidence in",
+          "related": []
+        }
+      }
+    },
+    "colors": {
+      "description": "All color concepts and variations",
+      "concepts": {
+        "white": {
+          "coordinates": [
+            0.82,
+            0.75,
+            0.28,
+            0.85
+          ],
+          "definition": "Achromatic color of maximum lightness",
+          "related": []
+        },
+        "black": {
+          "coordinates": [
+            0.35,
+            0.42,
+            0.72,
+            0.48
+          ],
+          "definition": "Achromatic color of minimum lightness",
+          "related": []
+        },
+        "red": {
+          "coordinates": [
+            0.68,
+            0.55,
+            0.82,
+            0.58
+          ],
+          "definition": "Color of blood and fire",
+          "related": []
+        },
+        "green": {
+          "coordinates": [
+            0.72,
+            0.68,
+            0.35,
+            0.75
+          ],
+          "definition": "Color of grass and leaves",
+          "related": []
+        },
+        "yellow": {
+          "coordinates": [
+            0.78,
+            0.7,
+            0.45,
+            0.78
+          ],
+          "definition": "Color of sun and gold",
+          "related": []
+        },
+        "blue": {
+          "coordinates": [
+            0.62,
+            0.72,
+            0.48,
+            0.88
+          ],
+          "definition": "Color of sky and ocean",
+          "related": []
+        },
+        "brown": {
+          "coordinates": [
+            0.58,
+            0.6,
+            0.55,
+            0.65
+          ],
+          "definition": "Color of earth and wood",
+          "related": []
+        },
+        "purple": {
+          "coordinates": [
+            0.65,
+            0.75,
+            0.62,
+            0.82
+          ],
+          "definition": "Color between red and blue",
+          "related": []
+        },
+        "pink": {
+          "coordinates": [
+            0.85,
+            0.62,
+            0.38,
+            0.7
+          ],
+          "definition": "Light red color",
+          "related": []
+        },
+        "orange": {
+          "coordinates": [
+            0.75,
+            0.65,
+            0.68,
+            0.72
+          ],
+          "definition": "Color between red and yellow",
+          "related": []
+        },
+        "gray": {
+          "coordinates": [
+            0.52,
+            0.55,
+            0.52,
+            0.62
+          ],
+          "definition": "Achromatic color between white and black",
+          "related": []
+        },
+        "crimson": {
+          "coordinates": [
+            0.65,
+            0.58,
+            0.85,
+            0.6
+          ],
+          "definition": "Deep rich red",
+          "related": []
+        },
+        "scarlet": {
+          "coordinates": [
+            0.7,
+            0.52,
+            0.88,
+            0.55
+          ],
+          "definition": "Bright vivid red",
+          "related": []
+        },
+        "maroon": {
+          "coordinates": [
+            0.55,
+            0.58,
+            0.75,
+            0.62
+          ],
+          "definition": "Dark brownish red",
+          "related": []
+        },
+        "emerald": {
+          "coordinates": [
+            0.75,
+            0.7,
+            0.32,
+            0.78
+          ],
+          "definition": "Bright vivid green",
+          "related": []
+        },
+        "olive": {
+          "coordinates": [
+            0.6,
+            0.65,
+            0.48,
+            0.7
+          ],
+          "definition": "Yellowish-brown green",
+          "related": []
+        },
+        "lime": {
+          "coordinates": [
+            0.78,
+            0.68,
+            0.38,
+            0.75
+          ],
+          "definition": "Bright yellow-green",
+          "related": []
+        },
+        "navy": {
+          "coordinates": [
+            0.55,
+            0.7,
+            0.52,
+            0.85
+          ],
+          "definition": "Dark blue",
+          "related": []
+        },
+        "azure": {
+          "coordinates": [
+            0.68,
+            0.75,
+            0.42,
+            0.88
+          ],
+          "definition": "Bright sky blue",
+          "related": []
+        },
+        "turquoise": {
+          "coordinates": [
+            0.7,
+            0.72,
+            0.4,
+            0.82
+          ],
+          "definition": "Blue-green color",
+          "related": []
+        },
+        "silver": {
+          "coordinates": [
+            0.68,
+            0.7,
+            0.38,
+            0.78
+          ],
+          "definition": "Shiny grayish-white metallic color",
+          "related": []
+        },
+        "gold": {
+          "coordinates": [
+            0.75,
+            0.72,
+            0.68,
+            0.8
+          ],
+          "definition": "Metallic yellow color",
+          "related": []
+        }
+      }
+    },
+    "objects": {
+      "description": "Physical objects and entities",
+      "concepts": {
+        "sun": {
+          "coordinates": [
+            0.82,
+            0.7,
+            0.72,
+            0.85
+          ],
+          "definition": "Star at center of solar system",
+          "related": []
+        },
+        "moon": {
+          "coordinates": [
+            0.72,
+            0.68,
+            0.42,
+            0.82
+          ],
+          "definition": "Natural satellite of Earth",
+          "related": []
+        },
+        "star": {
+          "coordinates": [
+            0.78,
+            0.72,
+            0.58,
+            0.88
+          ],
+          "definition": "Luminous celestial body",
+          "related": []
+        },
+        "sky": {
+          "coordinates": [
+            0.75,
+            0.7,
+            0.38,
+            0.85
+          ],
+          "definition": "Atmosphere visible from Earth",
+          "related": []
+        },
+        "earth": {
+          "coordinates": [
+            0.68,
+            0.72,
+            0.55,
+            0.78
+          ],
+          "definition": "Soil, ground, or planet",
+          "related": []
+        },
+        "mountain": {
+          "coordinates": [
+            0.62,
+            0.68,
+            0.75,
+            0.8
+          ],
+          "definition": "Large natural elevation",
+          "related": []
+        },
+        "river": {
+          "coordinates": [
+            0.7,
+            0.65,
+            0.48,
+            0.75
+          ],
+          "definition": "Flowing body of water",
+          "related": []
+        },
+        "ocean": {
+          "coordinates": [
+            0.68,
+            0.7,
+            0.62,
+            0.82
+          ],
+          "definition": "Large body of salt water",
+          "related": []
+        },
+        "tree": {
+          "coordinates": [
+            0.72,
+            0.68,
+            0.42,
+            0.75
+          ],
+          "definition": "Large woody plant",
+          "related": []
+        },
+        "flower": {
+          "coordinates": [
+            0.82,
+            0.65,
+            0.32,
+            0.72
+          ],
+          "definition": "Reproductive structure of plant",
+          "related": []
+        },
+        "stone": {
+          "coordinates": [
+            0.48,
+            0.58,
+            0.68,
+            0.65
+          ],
+          "definition": "Small piece of rock",
+          "related": []
+        },
+        "fire": {
+          "coordinates": [
+            0.58,
+            0.55,
+            0.88,
+            0.62
+          ],
+          "definition": "Combustion phenomenon",
+          "related": []
+        },
+        "water": {
+          "coordinates": [
+            0.7,
+            0.68,
+            0.42,
+            0.78
+          ],
+          "definition": "Clear liquid H2O",
+          "related": []
+        },
+        "air": {
+          "coordinates": [
+            0.65,
+            0.62,
+            0.38,
+            0.75
+          ],
+          "definition": "Mixture of gases we breathe",
+          "related": []
+        },
+        "hand": {
+          "coordinates": [
+            0.68,
+            0.62,
+            0.65,
+            0.75
+          ],
+          "definition": "Terminal part of arm",
+          "related": []
+        },
+        "eye": {
+          "coordinates": [
+            0.65,
+            0.68,
+            0.45,
+            0.88
+          ],
+          "definition": "Organ of vision",
+          "related": []
+        },
+        "heart": {
+          "coordinates": [
+            0.88,
+            0.65,
+            0.72,
+            0.75
+          ],
+          "definition": "Organ that pumps blood",
+          "related": []
+        },
+        "head": {
+          "coordinates": [
+            0.62,
+            0.68,
+            0.58,
+            0.85
+          ],
+          "definition": "Upper part of body",
+          "related": []
+        },
+        "foot": {
+          "coordinates": [
+            0.58,
+            0.55,
+            0.62,
+            0.68
+          ],
+          "definition": "Terminal part of leg",
+          "related": []
+        },
+        "tool": {
+          "coordinates": [
+            0.62,
+            0.65,
+            0.72,
+            0.82
+          ],
+          "definition": "Device used to perform task",
+          "related": []
+        },
+        "knife": {
+          "coordinates": [
+            0.42,
+            0.58,
+            0.78,
+            0.7
+          ],
+          "definition": "Cutting instrument with blade",
+          "related": []
+        },
+        "hammer": {
+          "coordinates": [
+            0.48,
+            0.6,
+            0.82,
+            0.68
+          ],
+          "definition": "Tool for driving nails",
+          "related": []
+        },
+        "house": {
+          "coordinates": [
+            0.75,
+            0.68,
+            0.52,
+            0.72
+          ],
+          "definition": "Building for habitation",
+          "related": []
+        },
+        "temple": {
+          "coordinates": [
+            0.72,
+            0.82,
+            0.48,
+            0.9
+          ],
+          "definition": "Building for worship",
+          "related": []
+        },
+        "bridge": {
+          "coordinates": [
+            0.68,
+            0.72,
+            0.65,
+            0.82
+          ],
+          "definition": "Structure spanning physical obstacle",
+          "related": []
+        },
+        "cup": {
+          "coordinates": [
+            0.65,
+            0.6,
+            0.42,
+            0.68
+          ],
+          "definition": "Small container for drinking",
+          "related": []
+        },
+        "bowl": {
+          "coordinates": [
+            0.68,
+            0.62,
+            0.38,
+            0.65
+          ],
+          "definition": "Round container for food",
+          "related": []
+        },
+        "box": {
+          "coordinates": [
+            0.58,
+            0.6,
+            0.55,
+            0.7
+          ],
+          "definition": "Container with sides and lid",
+          "related": []
+        },
+        "animal": {
+          "coordinates": [
+            0.68,
+            0.62,
+            0.58,
+            0.72
+          ],
+          "definition": "Living organism that moves",
+          "related": []
+        },
+        "bird": {
+          "coordinates": [
+            0.72,
+            0.65,
+            0.52,
+            0.75
+          ],
+          "definition": "Feathered flying animal",
+          "related": []
+        },
+        "fish": {
+          "coordinates": [
+            0.65,
+            0.62,
+            0.55,
+            0.7
+          ],
+          "definition": "Aquatic vertebrate animal",
+          "related": []
+        },
+        "dog": {
+          "coordinates": [
+            0.82,
+            0.62,
+            0.55,
+            0.72
+          ],
+          "definition": "Domesticated carnivorous mammal",
+          "related": []
+        },
+        "cat": {
+          "coordinates": [
+            0.75,
+            0.58,
+            0.62,
+            0.68
+          ],
+          "definition": "Small domesticated carnivore",
+          "related": []
+        }
+      }
+    },
+    "properties": {
+      "description": "Qualities and characteristics",
+      "concepts": {
+        "big": {
+          "coordinates": [
+            0.62,
+            0.58,
+            0.72,
+            0.65
+          ],
+          "definition": "Large in size",
+          "related": []
+        },
+        "small": {
+          "coordinates": [
+            0.55,
+            0.52,
+            0.38,
+            0.6
+          ],
+          "definition": "Little in size",
+          "related": []
+        },
+        "huge": {
+          "coordinates": [
+            0.58,
+            0.62,
+            0.82,
+            0.68
+          ],
+          "definition": "Extremely large",
+          "related": []
+        },
+        "tiny": {
+          "coordinates": [
+            0.58,
+            0.48,
+            0.28,
+            0.58
+          ],
+          "definition": "Extremely small",
+          "related": []
+        },
+        "large": {
+          "coordinates": [
+            0.6,
+            0.6,
+            0.7,
+            0.68
+          ],
+          "definition": "Of considerable size",
+          "related": []
+        },
+        "little": {
+          "coordinates": [
+            0.62,
+            0.5,
+            0.35,
+            0.58
+          ],
+          "definition": "Small in size or amount",
+          "related": []
+        },
+        "bad": {
+          "coordinates": [
+            0.25,
+            0.35,
+            0.72,
+            0.38
+          ],
+          "definition": "Poor quality or character",
+          "related": []
+        },
+        "better": {
+          "coordinates": [
+            0.75,
+            0.72,
+            0.42,
+            0.82
+          ],
+          "definition": "Higher quality than good",
+          "related": []
+        },
+        "worse": {
+          "coordinates": [
+            0.22,
+            0.32,
+            0.75,
+            0.35
+          ],
+          "definition": "Lower quality than bad",
+          "related": []
+        },
+        "best": {
+          "coordinates": [
+            0.82,
+            0.78,
+            0.45,
+            0.88
+          ],
+          "definition": "Highest quality",
+          "related": []
+        },
+        "worst": {
+          "coordinates": [
+            0.18,
+            0.25,
+            0.82,
+            0.3
+          ],
+          "definition": "Lowest quality",
+          "related": []
+        },
+        "old": {
+          "coordinates": [
+            0.58,
+            0.65,
+            0.48,
+            0.82
+          ],
+          "definition": "Advanced in years",
+          "related": []
+        },
+        "new": {
+          "coordinates": [
+            0.72,
+            0.65,
+            0.52,
+            0.78
+          ],
+          "definition": "Recently made or discovered",
+          "related": []
+        },
+        "young": {
+          "coordinates": [
+            0.75,
+            0.58,
+            0.48,
+            0.68
+          ],
+          "definition": "In early stage of life",
+          "related": []
+        },
+        "ancient": {
+          "coordinates": [
+            0.52,
+            0.72,
+            0.55,
+            0.88
+          ],
+          "definition": "Very old, from distant past",
+          "related": []
+        },
+        "modern": {
+          "coordinates": [
+            0.68,
+            0.68,
+            0.58,
+            0.82
+          ],
+          "definition": "Contemporary, current",
+          "related": []
+        },
+        "hot": {
+          "coordinates": [
+            0.62,
+            0.55,
+            0.78,
+            0.58
+          ],
+          "definition": "High temperature",
+          "related": []
+        },
+        "cold": {
+          "coordinates": [
+            0.45,
+            0.52,
+            0.48,
+            0.65
+          ],
+          "definition": "Low temperature",
+          "related": []
+        },
+        "warm": {
+          "coordinates": [
+            0.78,
+            0.62,
+            0.55,
+            0.68
+          ],
+          "definition": "Moderately hot",
+          "related": []
+        },
+        "cool": {
+          "coordinates": [
+            0.65,
+            0.62,
+            0.42,
+            0.72
+          ],
+          "definition": "Moderately cold",
+          "related": []
+        },
+        "smooth": {
+          "coordinates": [
+            0.72,
+            0.65,
+            0.38,
+            0.75
+          ],
+          "definition": "Even and regular surface",
+          "related": []
+        },
+        "rough": {
+          "coordinates": [
+            0.48,
+            0.52,
+            0.68,
+            0.58
+          ],
+          "definition": "Uneven irregular surface",
+          "related": []
+        },
+        "soft": {
+          "coordinates": [
+            0.78,
+            0.58,
+            0.32,
+            0.68
+          ],
+          "definition": "Yielding to pressure",
+          "related": []
+        },
+        "hard": {
+          "coordinates": [
+            0.48,
+            0.62,
+            0.78,
+            0.72
+          ],
+          "definition": "Resistant to pressure",
+          "related": []
+        },
+        "round": {
+          "coordinates": [
+            0.68,
+            0.62,
+            0.48,
+            0.72
+          ],
+          "definition": "Circular or spherical",
+          "related": []
+        },
+        "square": {
+          "coordinates": [
+            0.58,
+            0.68,
+            0.58,
+            0.78
+          ],
+          "definition": "Four equal sides and angles",
+          "related": []
+        },
+        "flat": {
+          "coordinates": [
+            0.55,
+            0.6,
+            0.42,
+            0.68
+          ],
+          "definition": "Level and smooth surface",
+          "related": []
+        },
+        "curved": {
+          "coordinates": [
+            0.65,
+            0.62,
+            0.48,
+            0.72
+          ],
+          "definition": "Having rounded shape",
+          "related": []
+        },
+        "fast": {
+          "coordinates": [
+            0.62,
+            0.58,
+            0.78,
+            0.68
+          ],
+          "definition": "Moving or acting quickly",
+          "related": []
+        },
+        "slow": {
+          "coordinates": [
+            0.58,
+            0.55,
+            0.38,
+            0.65
+          ],
+          "definition": "Moving or acting gradually",
+          "related": []
+        },
+        "quick": {
+          "coordinates": [
+            0.65,
+            0.6,
+            0.75,
+            0.72
+          ],
+          "definition": "Done with speed",
+          "related": []
+        },
+        "rapid": {
+          "coordinates": [
+            0.6,
+            0.62,
+            0.82,
+            0.7
+          ],
+          "definition": "Very fast",
+          "related": []
+        },
+        "bright": {
+          "coordinates": [
+            0.78,
+            0.68,
+            0.52,
+            0.82
+          ],
+          "definition": "Giving off much light",
+          "related": []
+        },
+        "dark": {
+          "coordinates": [
+            0.42,
+            0.48,
+            0.65,
+            0.55
+          ],
+          "definition": "Little or no light",
+          "related": []
+        },
+        "light (brightness)": {
+          "coordinates": [
+            0.75,
+            0.68,
+            0.42,
+            0.8
+          ],
+          "definition": "Well illuminated",
+          "related": []
+        },
+        "dim": {
+          "coordinates": [
+            0.48,
+            0.52,
+            0.52,
+            0.62
+          ],
+          "definition": "Not bright or clear",
+          "related": []
+        },
+        "heavy": {
+          "coordinates": [
+            0.52,
+            0.58,
+            0.78,
+            0.65
+          ],
+          "definition": "Great weight",
+          "related": []
+        },
+        "light (weight)": {
+          "coordinates": [
+            0.68,
+            0.58,
+            0.38,
+            0.68
+          ],
+          "definition": "Little weight",
+          "related": []
+        },
+        "near": {
+          "coordinates": [
+            0.68,
+            0.62,
+            0.45,
+            0.72
+          ],
+          "definition": "Short distance away",
+          "related": []
+        },
+        "far": {
+          "coordinates": [
+            0.52,
+            0.58,
+            0.58,
+            0.75
+          ],
+          "definition": "Great distance away",
+          "related": []
+        },
+        "close": {
+          "coordinates": [
+            0.72,
+            0.65,
+            0.42,
+            0.7
+          ],
+          "definition": "Near in space or time",
+          "related": []
+        },
+        "distant": {
+          "coordinates": [
+            0.48,
+            0.62,
+            0.62,
+            0.78
+          ],
+          "definition": "Far away",
+          "related": []
+        },
+        "happy": {
+          "coordinates": [
+            0.93,
+            0.43,
+            0.09000000000000001,
+            0.72
+          ],
+          "definition": "Feeling pleasure and contentment",
+          "related": []
+        },
+        "sad": {
+          "coordinates": [
+            0.42,
+            0.41,
+            0.24,
+            0.52
+          ],
+          "definition": "Feeling sorrow",
+          "related": []
+        },
+        "angry": {
+          "coordinates": [
+            0.29,
+            0.34,
+            0.79,
+            0.42
+          ],
+          "definition": "Feeling strong displeasure",
+          "related": []
+        },
+        "afraid": {
+          "coordinates": [
+            0.31,
+            0.38,
+            0.62,
+            0.48
+          ],
+          "definition": "Feeling fear",
+          "related": []
+        }
+      }
+    },
+    "spatial": {
+      "description": "Space, location, and direction concepts",
+      "concepts": {
+        "here": {
+          "coordinates": [
+            0.68,
+            0.65,
+            0.48,
+            0.75
+          ],
+          "definition": "In this place",
+          "related": []
+        },
+        "there": {
+          "coordinates": [
+            0.55,
+            0.6,
+            0.52,
+            0.72
+          ],
+          "definition": "In that place",
+          "related": []
+        },
+        "everywhere": {
+          "coordinates": [
+            0.72,
+            0.72,
+            0.62,
+            0.82
+          ],
+          "definition": "In all places",
+          "related": []
+        },
+        "nowhere": {
+          "coordinates": [
+            0.38,
+            0.42,
+            0.45,
+            0.55
+          ],
+          "definition": "Not in any place",
+          "related": []
+        },
+        "somewhere": {
+          "coordinates": [
+            0.58,
+            0.58,
+            0.52,
+            0.68
+          ],
+          "definition": "In an unspecified place",
+          "related": []
+        },
+        "up": {
+          "coordinates": [
+            0.68,
+            0.68,
+            0.58,
+            0.78
+          ],
+          "definition": "Toward higher position",
+          "related": []
+        },
+        "down": {
+          "coordinates": [
+            0.48,
+            0.52,
+            0.62,
+            0.62
+          ],
+          "definition": "Toward lower position",
+          "related": []
+        },
+        "left": {
+          "coordinates": [
+            0.55,
+            0.58,
+            0.48,
+            0.68
+          ],
+          "definition": "Toward left side",
+          "related": []
+        },
+        "right": {
+          "coordinates": [
+            0.62,
+            0.72,
+            0.52,
+            0.78
+          ],
+          "definition": "Toward right side",
+          "related": []
+        },
+        "forward": {
+          "coordinates": [
+            0.68,
+            0.65,
+            0.62,
+            0.75
+          ],
+          "definition": "Toward front",
+          "related": []
+        },
+        "backward": {
+          "coordinates": [
+            0.48,
+            0.52,
+            0.58,
+            0.65
+          ],
+          "definition": "Toward rear",
+          "related": []
+        },
+        "north": {
+          "coordinates": [
+            0.58,
+            0.68,
+            0.55,
+            0.78
+          ],
+          "definition": "Cardinal direction toward pole",
+          "related": []
+        },
+        "south": {
+          "coordinates": [
+            0.58,
+            0.58,
+            0.52,
+            0.68
+          ],
+          "definition": "Opposite of north",
+          "related": []
+        },
+        "east": {
+          "coordinates": [
+            0.65,
+            0.62,
+            0.55,
+            0.72
+          ],
+          "definition": "Direction of sunrise",
+          "related": []
+        },
+        "west": {
+          "coordinates": [
+            0.62,
+            0.6,
+            0.52,
+            0.7
+          ],
+          "definition": "Direction of sunset",
+          "related": []
+        },
+        "above": {
+          "coordinates": [
+            0.65,
+            0.68,
+            0.55,
+            0.78
+          ],
+          "definition": "In higher position than",
+          "related": []
+        },
+        "below": {
+          "coordinates": [
+            0.52,
+            0.55,
+            0.58,
+            0.65
+          ],
+          "definition": "In lower position than",
+          "related": []
+        },
+        "inside": {
+          "coordinates": [
+            0.62,
+            0.62,
+            0.48,
+            0.72
+          ],
+          "definition": "Within something",
+          "related": []
+        },
+        "outside": {
+          "coordinates": [
+            0.65,
+            0.6,
+            0.58,
+            0.7
+          ],
+          "definition": "Beyond boundary of",
+          "related": []
+        },
+        "between": {
+          "coordinates": [
+            0.6,
+            0.65,
+            0.52,
+            0.75
+          ],
+          "definition": "In middle of two things",
+          "related": []
+        },
+        "among": {
+          "coordinates": [
+            0.68,
+            0.65,
+            0.48,
+            0.72
+          ],
+          "definition": "Surrounded by multiple things",
+          "related": []
+        },
+        "beside": {
+          "coordinates": [
+            0.68,
+            0.62,
+            0.48,
+            0.7
+          ],
+          "definition": "Next to",
+          "related": []
+        },
+        "behind": {
+          "coordinates": [
+            0.52,
+            0.55,
+            0.55,
+            0.65
+          ],
+          "definition": "At the back of",
+          "related": []
+        },
+        "in front": {
+          "coordinates": [
+            0.65,
+            0.65,
+            0.58,
+            0.72
+          ],
+          "definition": "At the front of",
+          "related": []
+        }
+      }
+    },
+    "temporal": {
+      "description": "Time and temporal relationships",
+      "concepts": {
+        "day": {
+          "coordinates": [
+            0.72,
+            0.68,
+            0.52,
+            0.78
+          ],
+          "definition": "24-hour period",
+          "related": []
+        },
+        "night": {
+          "coordinates": [
+            0.58,
+            0.58,
+            0.55,
+            0.72
+          ],
+          "definition": "Period of darkness",
+          "related": []
+        },
+        "morning": {
+          "coordinates": [
+            0.75,
+            0.68,
+            0.48,
+            0.75
+          ],
+          "definition": "Early part of day",
+          "related": []
+        },
+        "afternoon": {
+          "coordinates": [
+            0.68,
+            0.65,
+            0.52,
+            0.72
+          ],
+          "definition": "Middle part of day",
+          "related": []
+        },
+        "evening": {
+          "coordinates": [
+            0.65,
+            0.62,
+            0.52,
+            0.75
+          ],
+          "definition": "Later part of day",
+          "related": []
+        },
+        "week": {
+          "coordinates": [
+            0.62,
+            0.62,
+            0.52,
+            0.72
+          ],
+          "definition": "Seven-day period",
+          "related": []
+        },
+        "month": {
+          "coordinates": [
+            0.6,
+            0.65,
+            0.52,
+            0.75
+          ],
+          "definition": "~30-day period",
+          "related": []
+        },
+        "year": {
+          "coordinates": [
+            0.62,
+            0.68,
+            0.55,
+            0.8
+          ],
+          "definition": "365-day period",
+          "related": []
+        },
+        "century": {
+          "coordinates": [
+            0.58,
+            0.72,
+            0.62,
+            0.85
+          ],
+          "definition": "100-year period",
+          "related": []
+        },
+        "moment": {
+          "coordinates": [
+            0.65,
+            0.6,
+            0.52,
+            0.7
+          ],
+          "definition": "Brief period of time",
+          "related": []
+        },
+        "before": {
+          "coordinates": [
+            0.58,
+            0.65,
+            0.52,
+            0.78
+          ],
+          "definition": "Earlier than",
+          "related": []
+        },
+        "after": {
+          "coordinates": [
+            0.62,
+            0.62,
+            0.55,
+            0.72
+          ],
+          "definition": "Later than",
+          "related": []
+        },
+        "during": {
+          "coordinates": [
+            0.62,
+            0.62,
+            0.48,
+            0.72
+          ],
+          "definition": "Throughout time period",
+          "related": []
+        },
+        "while": {
+          "coordinates": [
+            0.62,
+            0.6,
+            0.48,
+            0.7
+          ],
+          "definition": "At same time as",
+          "related": []
+        },
+        "until": {
+          "coordinates": [
+            0.58,
+            0.65,
+            0.52,
+            0.75
+          ],
+          "definition": "Up to the time when",
+          "related": []
+        },
+        "since": {
+          "coordinates": [
+            0.6,
+            0.65,
+            0.52,
+            0.78
+          ],
+          "definition": "From time in past to now",
+          "related": []
+        },
+        "past": {
+          "coordinates": [
+            0.55,
+            0.65,
+            0.48,
+            0.8
+          ],
+          "definition": "Time before present",
+          "related": []
+        },
+        "present": {
+          "coordinates": [
+            0.68,
+            0.65,
+            0.58,
+            0.78
+          ],
+          "definition": "Current time",
+          "related": []
+        },
+        "future": {
+          "coordinates": [
+            0.68,
+            0.68,
+            0.62,
+            0.82
+          ],
+          "definition": "Time after present",
+          "related": []
+        },
+        "always": {
+          "coordinates": [
+            0.72,
+            0.75,
+            0.58,
+            0.85
+          ],
+          "definition": "At all times",
+          "related": []
+        },
+        "never": {
+          "coordinates": [
+            0.35,
+            0.45,
+            0.55,
+            0.52
+          ],
+          "definition": "At no time",
+          "related": []
+        },
+        "sometimes": {
+          "coordinates": [
+            0.6,
+            0.58,
+            0.52,
+            0.68
+          ],
+          "definition": "Occasionally",
+          "related": []
+        },
+        "often": {
+          "coordinates": [
+            0.65,
+            0.62,
+            0.55,
+            0.72
+          ],
+          "definition": "Frequently",
+          "related": []
+        },
+        "rarely": {
+          "coordinates": [
+            0.52,
+            0.55,
+            0.48,
+            0.65
+          ],
+          "definition": "Not often",
+          "related": []
+        },
+        "forever": {
+          "coordinates": [
+            0.75,
+            0.75,
+            0.62,
+            0.88
+          ],
+          "definition": "For all time",
+          "related": []
+        },
+        "temporary": {
+          "coordinates": [
+            0.58,
+            0.58,
+            0.52,
+            0.68
+          ],
+          "definition": "Lasting limited time",
+          "related": []
+        },
+        "permanent": {
+          "coordinates": [
+            0.65,
+            0.72,
+            0.68,
+            0.82
+          ],
+          "definition": "Lasting indefinitely",
+          "related": []
+        },
+        "dawn": {
+          "coordinates": [
+            0.78,
+            0.7,
+            0.42,
+            0.78
+          ],
+          "definition": "First light of day",
+          "related": []
+        },
+        "dusk": {
+          "coordinates": [
+            0.62,
+            0.62,
+            0.52,
+            0.72
+          ],
+          "definition": "Time of day after sunset",
+          "related": []
+        },
+        "midnight": {
+          "coordinates": [
+            0.55,
+            0.6,
+            0.62,
+            0.75
+          ],
+          "definition": "Middle of night",
+          "related": []
+        },
+        "noon": {
+          "coordinates": [
+            0.72,
+            0.68,
+            0.58,
+            0.78
+          ],
+          "definition": "Middle of day",
+          "related": []
+        }
+      }
+    },
+    "abstract": {
+      "description": "Abstract philosophical and logical concepts",
+      "concepts": {
+        "being": {
+          "coordinates": [
+            0.72,
+            0.75,
+            0.58,
+            0.88
+          ],
+          "definition": "State of existing",
+          "related": []
+        },
+        "nothing": {
+          "coordinates": [
+            0.35,
+            0.42,
+            0.38,
+            0.52
+          ],
+          "definition": "Not anything, non-existence",
+          "related": []
+        },
+        "something": {
+          "coordinates": [
+            0.62,
+            0.62,
+            0.52,
+            0.72
+          ],
+          "definition": "Unspecified thing",
+          "related": []
+        },
+        "everything": {
+          "coordinates": [
+            0.78,
+            0.78,
+            0.68,
+            0.88
+          ],
+          "definition": "All things",
+          "related": []
+        },
+        "existence": {
+          "coordinates": [
+            0.7,
+            0.72,
+            0.58,
+            0.85
+          ],
+          "definition": "State of being",
+          "related": []
+        },
+        "maybe": {
+          "coordinates": [
+            0.58,
+            0.58,
+            0.48,
+            0.68
+          ],
+          "definition": "Perhaps, possibly",
+          "related": []
+        },
+        "certain": {
+          "coordinates": [
+            0.68,
+            0.78,
+            0.62,
+            0.88
+          ],
+          "definition": "Known for sure",
+          "related": []
+        },
+        "possible": {
+          "coordinates": [
+            0.65,
+            0.65,
+            0.52,
+            0.75
+          ],
+          "definition": "Able to happen",
+          "related": []
+        },
+        "impossible": {
+          "coordinates": [
+            0.38,
+            0.48,
+            0.65,
+            0.58
+          ],
+          "definition": "Unable to happen",
+          "related": []
+        },
+        "probable": {
+          "coordinates": [
+            0.65,
+            0.68,
+            0.55,
+            0.78
+          ],
+          "definition": "Likely to happen",
+          "related": []
+        },
+        "cause": {
+          "coordinates": [
+            0.58,
+            0.72,
+            0.72,
+            0.82
+          ],
+          "definition": "Thing that makes something happen",
+          "related": []
+        },
+        "effect": {
+          "coordinates": [
+            0.62,
+            0.65,
+            0.58,
+            0.75
+          ],
+          "definition": "Result of a cause",
+          "related": []
+        },
+        "reason": {
+          "coordinates": [
+            0.62,
+            0.75,
+            0.52,
+            0.88
+          ],
+          "definition": "Explanation or justification",
+          "related": []
+        },
+        "result": {
+          "coordinates": [
+            0.62,
+            0.68,
+            0.58,
+            0.78
+          ],
+          "definition": "Outcome or consequence",
+          "related": []
+        },
+        "purpose": {
+          "coordinates": [
+            0.68,
+            0.72,
+            0.58,
+            0.85
+          ],
+          "definition": "Reason for which something exists",
+          "related": []
+        },
+        "all": {
+          "coordinates": [
+            0.72,
+            0.75,
+            0.62,
+            0.85
+          ],
+          "definition": "Entire amount or number",
+          "related": []
+        },
+        "none": {
+          "coordinates": [
+            0.35,
+            0.42,
+            0.45,
+            0.52
+          ],
+          "definition": "Not any",
+          "related": []
+        },
+        "some": {
+          "coordinates": [
+            0.6,
+            0.6,
+            0.5,
+            0.68
+          ],
+          "definition": "Unspecified amount",
+          "related": []
+        },
+        "many": {
+          "coordinates": [
+            0.65,
+            0.62,
+            0.58,
+            0.72
+          ],
+          "definition": "Large number",
+          "related": []
+        },
+        "few": {
+          "coordinates": [
+            0.52,
+            0.55,
+            0.45,
+            0.65
+          ],
+          "definition": "Small number",
+          "related": []
+        },
+        "most": {
+          "coordinates": [
+            0.68,
+            0.68,
+            0.6,
+            0.78
+          ],
+          "definition": "Majority",
+          "related": []
+        },
+        "least": {
+          "coordinates": [
+            0.48,
+            0.52,
+            0.45,
+            0.62
+          ],
+          "definition": "Smallest amount",
+          "related": []
+        },
+        "if": {
+          "coordinates": [
+            0.58,
+            0.68,
+            0.52,
+            0.82
+          ],
+          "definition": "Conditional relation",
+          "related": []
+        },
+        "then": {
+          "coordinates": [
+            0.6,
+            0.68,
+            0.55,
+            0.78
+          ],
+          "definition": "Consequent of conditional",
+          "related": []
+        },
+        "because": {
+          "coordinates": [
+            0.62,
+            0.72,
+            0.55,
+            0.85
+          ],
+          "definition": "For the reason that",
+          "related": []
+        },
+        "therefore": {
+          "coordinates": [
+            0.62,
+            0.75,
+            0.58,
+            0.88
+          ],
+          "definition": "As a result, consequently",
+          "related": []
+        },
+        "real": {
+          "coordinates": [
+            0.68,
+            0.78,
+            0.58,
+            0.88
+          ],
+          "definition": "Actually existing",
+          "related": []
+        },
+        "illusion": {
+          "coordinates": [
+            0.42,
+            0.45,
+            0.58,
+            0.62
+          ],
+          "definition": "False perception",
+          "related": []
+        },
+        "appearance": {
+          "coordinates": [
+            0.62,
+            0.62,
+            0.52,
+            0.72
+          ],
+          "definition": "How something seems",
+          "related": []
+        },
+        "reality": {
+          "coordinates": [
+            0.68,
+            0.78,
+            0.62,
+            0.88
+          ],
+          "definition": "State of things as they are",
+          "related": []
+        }
+      }
+    }
+  },
+  "concept_index": {
+    "joy": {
+      "coordinates": [
+        0.93,
+        0.48,
+        0.12000000000000001,
+        0.72
+      ],
+      "definition": "Intense happiness and delight",
+      "domain": "emotions"
+    },
+    "happiness": {
+      "coordinates": [
+        0.91,
+        0.48,
+        0.09000000000000001,
+        0.72
+      ],
+      "definition": "State of well-being and contentment",
+      "domain": "emotions"
+    },
+    "contentment": {
+      "coordinates": [
+        0.86,
+        0.48,
+        0.07,
+        0.77
+      ],
+      "definition": "Peaceful satisfaction with one's situation",
+      "domain": "emotions"
+    },
+    "delight": {
+      "coordinates": [
+        0.9400000000000001,
+        0.48,
+        0.11000000000000001,
+        0.72
+      ],
+      "definition": "Great pleasure and enjoyment",
+      "domain": "emotions"
+    },
+    "elation": {
+      "coordinates": [
+        0.9500000000000001,
+        0.48,
+        0.27,
+        0.6699999999999999
+      ],
+      "definition": "Extreme happiness and excitement",
+      "domain": "emotions"
+    },
+    "euphoria": {
+      "coordinates": [
+        0.9600000000000001,
+        0.48,
+        0.32,
+        0.62
+      ],
+      "definition": "Intense state of pleasure and well-being",
+      "domain": "emotions"
+    },
+    "bliss": {
+      "coordinates": [
+        0.97,
+        0.58,
+        0.05000000000000002,
+        0.87
+      ],
+      "definition": "Perfect happiness and spiritual joy",
+      "domain": "emotions"
+    },
+    "ecstasy": {
+      "coordinates": [
+        0.98,
+        0.48,
+        0.37,
+        0.57
+      ],
+      "definition": "Overwhelming feeling of rapture",
+      "domain": "emotions"
+    },
+    "affection": {
+      "coordinates": [
+        0.86,
+        0.48,
+        0.09000000000000001,
+        0.72
+      ],
+      "definition": "Gentle caring feeling",
+      "domain": "emotions"
+    },
+    "tenderness": {
+      "coordinates": [
+        0.89,
+        0.53,
+        0.05000000000000002,
+        0.72
+      ],
+      "definition": "Gentle warmth and care",
+      "domain": "emotions"
+    },
+    "adoration": {
+      "coordinates": [
+        0.9500000000000001,
+        0.5599999999999999,
+        0.17,
+        0.77
+      ],
+      "definition": "Deep love and respect",
+      "domain": "emotions"
+    },
+    "infatuation": {
+      "coordinates": [
+        0.9600000000000001,
+        0.48,
+        0.32,
+        0.52
+      ],
+      "definition": "Intense but often short-lived passion",
+      "domain": "emotions"
+    },
+    "devotion": {
+      "coordinates": [
+        0.93,
+        0.63,
+        0.17,
+        0.82
+      ],
+      "definition": "Loyal commitment and dedication",
+      "domain": "emotions"
+    },
+    "serenity": {
+      "coordinates": [
+        0.81,
+        0.53,
+        0.020000000000000018,
+        0.9199999999999999
+      ],
+      "definition": "State of calm and peaceful tranquility",
+      "domain": "emotions"
+    },
+    "tranquility": {
+      "coordinates": [
+        0.79,
+        0.48,
+        0.010000000000000009,
+        0.8999999999999999
+      ],
+      "definition": "Quality of being calm and peaceful",
+      "domain": "emotions"
+    },
+    "calm": {
+      "coordinates": [
+        0.76,
+        0.48,
+        0.03,
+        0.87
+      ],
+      "definition": "State of quietness and composure",
+      "domain": "emotions"
+    },
+    "rage": {
+      "coordinates": [
+        0.29,
+        0.34,
+        0.91,
+        0.31999999999999995
+      ],
+      "definition": "Violent uncontrollable anger",
+      "domain": "emotions"
+    },
+    "fury": {
+      "coordinates": [
+        0.29,
+        0.34,
+        0.89,
+        0.33999999999999997
+      ],
+      "definition": "Wild intense anger",
+      "domain": "emotions"
+    },
+    "wrath": {
+      "coordinates": [
+        0.29,
+        0.49,
+        0.87,
+        0.42
+      ],
+      "definition": "Divine or righteous anger",
+      "domain": "emotions"
+    },
+    "irritation": {
+      "coordinates": [
+        0.29,
+        0.34,
+        0.54,
+        0.47
+      ],
+      "definition": "Mild annoyance",
+      "domain": "emotions"
+    },
+    "annoyance": {
+      "coordinates": [
+        0.29,
+        0.34,
+        0.5900000000000001,
+        0.44999999999999996
+      ],
+      "definition": "Feeling of being bothered",
+      "domain": "emotions"
+    },
+    "frustration": {
+      "coordinates": [
+        0.33999999999999997,
+        0.34,
+        0.6900000000000001,
+        0.52
+      ],
+      "definition": "Feeling of being blocked or helpless",
+      "domain": "emotions"
+    },
+    "resentment": {
+      "coordinates": [
+        0.29,
+        0.24000000000000002,
+        0.74,
+        0.5
+      ],
+      "definition": "Bitter indignation at perceived unfairness",
+      "domain": "emotions"
+    },
+    "hostility": {
+      "coordinates": [
+        0.24,
+        0.26,
+        0.89,
+        0.42
+      ],
+      "definition": "Deep-seated anger and opposition",
+      "domain": "emotions"
+    },
+    "terror": {
+      "coordinates": [
+        0.31,
+        0.38,
+        0.8200000000000001,
+        0.32999999999999996
+      ],
+      "definition": "Extreme fear and dread",
+      "domain": "emotions"
+    },
+    "panic": {
+      "coordinates": [
+        0.31,
+        0.38,
+        0.8,
+        0.27999999999999997
+      ],
+      "definition": "Sudden overwhelming fear",
+      "domain": "emotions"
+    },
+    "anxiety": {
+      "coordinates": [
+        0.31,
+        0.38,
+        0.52,
+        0.58
+      ],
+      "definition": "Persistent worry and unease",
+      "domain": "emotions"
+    },
+    "worry": {
+      "coordinates": [
+        0.36,
+        0.38,
+        0.47,
+        0.6
+      ],
+      "definition": "Anxious concern about potential problems",
+      "domain": "emotions"
+    },
+    "dread": {
+      "coordinates": [
+        0.31,
+        0.33,
+        0.72,
+        0.53
+      ],
+      "definition": "Great fear of something in the future",
+      "domain": "emotions"
+    },
+    "horror": {
+      "coordinates": [
+        0.22999999999999998,
+        0.38,
+        0.77,
+        0.38
+      ],
+      "definition": "Intense shock and fear",
+      "domain": "emotions"
+    },
+    "nervousness": {
+      "coordinates": [
+        0.31,
+        0.38,
+        0.42,
+        0.5599999999999999
+      ],
+      "definition": "Slight anxiety or apprehension",
+      "domain": "emotions"
+    },
+    "grief": {
+      "coordinates": [
+        0.31999999999999995,
+        0.41,
+        0.19,
+        0.52
+      ],
+      "definition": "Deep sorrow over loss",
+      "domain": "emotions"
+    },
+    "sorrow": {
+      "coordinates": [
+        0.33999999999999997,
+        0.36,
+        0.24,
+        0.52
+      ],
+      "definition": "Deep distress and regret",
+      "domain": "emotions"
+    },
+    "melancholy": {
+      "coordinates": [
+        0.37,
+        0.41,
+        0.24,
+        0.62
+      ],
+      "definition": "Pensive sadness with no obvious cause",
+      "domain": "emotions"
+    },
+    "despair": {
+      "coordinates": [
+        0.27,
+        0.20999999999999996,
+        0.24,
+        0.42000000000000004
+      ],
+      "definition": "Complete loss of hope",
+      "domain": "emotions"
+    },
+    "depression": {
+      "coordinates": [
+        0.3,
+        0.41,
+        0.15999999999999998,
+        0.47000000000000003
+      ],
+      "definition": "Persistent feeling of sadness and hopelessness",
+      "domain": "emotions"
+    },
+    "misery": {
+      "coordinates": [
+        0.24,
+        0.26,
+        0.13999999999999999,
+        0.52
+      ],
+      "definition": "Great unhappiness and suffering",
+      "domain": "emotions"
+    },
+    "loneliness": {
+      "coordinates": [
+        0.31999999999999995,
+        0.41,
+        0.12,
+        0.52
+      ],
+      "definition": "Sadness from lack of companionship",
+      "domain": "emotions"
+    },
+    "heartbreak": {
+      "coordinates": [
+        0.3,
+        0.41,
+        0.15999999999999998,
+        0.52
+      ],
+      "definition": "Overwhelming grief from emotional loss",
+      "domain": "emotions"
+    },
+    "nostalgia": {
+      "coordinates": [
+        0.7140000000000001,
+        0.45199999999999996,
+        0.198,
+        0.64
+      ],
+      "definition": "Sentimental longing for the past",
+      "domain": "emotions"
+    },
+    "bittersweet": {
+      "coordinates": [
+        0.763,
+        0.45899999999999996,
+        0.191,
+        0.66
+      ],
+      "definition": "Mixed feeling of happiness and sadness",
+      "domain": "emotions"
+    },
+    "guilt": {
+      "coordinates": [
+        0.42,
+        0.61,
+        0.24,
+        0.67
+      ],
+      "definition": "Remorse for wrongdoing",
+      "domain": "emotions"
+    },
+    "shame": {
+      "coordinates": [
+        0.33999999999999997,
+        0.51,
+        0.13999999999999999,
+        0.52
+      ],
+      "definition": "Painful feeling of humiliation",
+      "domain": "emotions"
+    },
+    "embarrassment": {
+      "coordinates": [
+        0.37,
+        0.53,
+        0.15999999999999998,
+        0.52
+      ],
+      "definition": "Self-conscious awkwardness",
+      "domain": "emotions"
+    },
+    "pride": {
+      "coordinates": [
+        0.78,
+        0.6599999999999999,
+        0.445,
+        0.765
+      ],
+      "definition": "Satisfaction in achievements",
+      "domain": "emotions"
+    },
+    "envy": {
+      "coordinates": [
+        0.31999999999999995,
+        0.41,
+        0.44,
+        0.47000000000000003
+      ],
+      "definition": "Resentful desire for others' advantages",
+      "domain": "emotions"
+    },
+    "jealousy": {
+      "coordinates": [
+        0.21,
+        0.38,
+        0.77,
+        0.48
+      ],
+      "definition": "Fear of losing something to a rival",
+      "domain": "emotions"
+    },
+    "surprise": {
+      "coordinates": [
+        0.62,
+        0.58,
+        0.45,
+        0.75
+      ],
+      "definition": "Sudden unexpected feeling",
+      "domain": "emotions"
+    },
+    "astonishment": {
+      "coordinates": [
+        0.64,
+        0.6,
+        0.55,
+        0.8
+      ],
+      "definition": "Great surprise or amazement",
+      "domain": "emotions"
+    },
+    "curiosity": {
+      "coordinates": [
+        0.68,
+        0.62,
+        0.38,
+        0.85
+      ],
+      "definition": "Strong desire to learn",
+      "domain": "emotions"
+    },
+    "interest": {
+      "coordinates": [
+        0.65,
+        0.6,
+        0.4,
+        0.82
+      ],
+      "definition": "Feeling of wanting to know more",
+      "domain": "emotions"
+    },
+    "disgust": {
+      "coordinates": [
+        0.22,
+        0.35,
+        0.65,
+        0.4
+      ],
+      "definition": "Revulsion or strong disapproval",
+      "domain": "emotions"
+    },
+    "contempt": {
+      "coordinates": [
+        0.24,
+        0.5,
+        0.75,
+        0.48
+      ],
+      "definition": "Feeling that something is worthless",
+      "domain": "emotions"
+    },
+    "revulsion": {
+      "coordinates": [
+        0.2,
+        0.33,
+        0.77,
+        0.35
+      ],
+      "definition": "Strong feeling of disgust",
+      "domain": "emotions"
+    },
+    "hope": {
+      "coordinates": [
+        0.78,
+        0.7,
+        0.42,
+        0.8
+      ],
+      "definition": "Expectation and desire for positive outcome",
+      "domain": "emotions"
+    },
+    "optimism": {
+      "coordinates": [
+        0.8,
+        0.73,
+        0.45,
+        0.83
+      ],
+      "definition": "Hopefulness about the future",
+      "domain": "emotions"
+    },
+    "gratitude": {
+      "coordinates": [
+        0.806,
+        0.624,
+        0.39,
+        0.756
+      ],
+      "definition": "Thankful appreciation",
+      "domain": "emotions"
+    },
+    "appreciation": {
+      "coordinates": [
+        0.793,
+        0.6419999999999999,
+        0.4175,
+        0.7605
+      ],
+      "definition": "Recognition of value or quality",
+      "domain": "emotions"
+    },
+    "walk": {
+      "coordinates": [
+        0.55,
+        0.5,
+        0.45,
+        0.6
+      ],
+      "definition": "Move at regular pace on foot",
+      "domain": "actions"
+    },
+    "run": {
+      "coordinates": [
+        0.57,
+        0.52,
+        0.65,
+        0.55
+      ],
+      "definition": "Move swiftly on foot",
+      "domain": "actions"
+    },
+    "jump": {
+      "coordinates": [
+        0.6,
+        0.52,
+        0.65,
+        0.62
+      ],
+      "definition": "Push off ground into the air",
+      "domain": "actions"
+    },
+    "dance": {
+      "coordinates": [
+        0.75,
+        0.58,
+        0.55,
+        0.68
+      ],
+      "definition": "Move rhythmically to music",
+      "domain": "actions"
+    },
+    "create": {
+      "coordinates": [
+        0.72,
+        0.68,
+        0.6,
+        0.85
+      ],
+      "definition": "Bring something into existence",
+      "domain": "actions"
+    },
+    "build": {
+      "coordinates": [
+        0.74,
+        0.7,
+        0.7,
+        0.9
+      ],
+      "definition": "Construct by putting parts together",
+      "domain": "actions"
+    },
+    "make": {
+      "coordinates": [
+        0.67,
+        0.63,
+        0.6,
+        0.85
+      ],
+      "definition": "Form by combining materials",
+      "domain": "actions"
+    },
+    "destroy": {
+      "coordinates": [
+        0.18,
+        0.32,
+        0.82,
+        0.35
+      ],
+      "definition": "Cause to cease to exist",
+      "domain": "actions"
+    },
+    "break": {
+      "coordinates": [
+        0.2,
+        0.34,
+        0.72,
+        0.37
+      ],
+      "definition": "Separate into pieces",
+      "domain": "actions"
+    },
+    "think": {
+      "coordinates": [
+        0.58,
+        0.65,
+        0.38,
+        0.88
+      ],
+      "definition": "Use mind to consider",
+      "domain": "actions"
+    },
+    "know": {
+      "coordinates": [
+        0.59,
+        0.72,
+        0.41,
+        0.89
+      ],
+      "definition": "Have information in mind",
+      "domain": "actions"
+    },
+    "learn": {
+      "coordinates": [
+        0.64,
+        0.72,
+        0.49,
+        0.9400000000000001
+      ],
+      "definition": "Acquire knowledge or skill",
+      "domain": "actions"
+    },
+    "understand": {
+      "coordinates": [
+        0.59,
+        0.77,
+        0.41,
+        0.97
+      ],
+      "definition": "Comprehend meaning",
+      "domain": "actions"
+    },
+    "remember": {
+      "coordinates": [
+        0.62,
+        0.68,
+        0.35,
+        0.85
+      ],
+      "definition": "Recall from memory",
+      "domain": "actions"
+    },
+    "forget": {
+      "coordinates": [
+        0.45,
+        0.42,
+        0.3,
+        0.4
+      ],
+      "definition": "Fail to remember",
+      "domain": "actions"
+    },
+    "speak": {
+      "coordinates": [
+        0.62,
+        0.62,
+        0.52,
+        0.75
+      ],
+      "definition": "Express thoughts in words",
+      "domain": "actions"
+    },
+    "listen": {
+      "coordinates": [
+        0.68,
+        0.65,
+        0.35,
+        0.8
+      ],
+      "definition": "Pay attention to sounds",
+      "domain": "actions"
+    },
+    "teach": {
+      "coordinates": [
+        0.75,
+        0.72,
+        0.48,
+        0.9
+      ],
+      "definition": "Impart knowledge or skill",
+      "domain": "actions"
+    },
+    "help": {
+      "coordinates": [
+        0.82,
+        0.7,
+        0.4,
+        0.75
+      ],
+      "definition": "Assist or aid someone",
+      "domain": "actions"
+    },
+    "love (verb)": {
+      "coordinates": [
+        0.91,
+        0.48,
+        0.17,
+        0.72
+      ],
+      "definition": "Feel deep affection for",
+      "domain": "actions"
+    },
+    "hate": {
+      "coordinates": [
+        0.12,
+        0.25,
+        0.75,
+        0.3
+      ],
+      "definition": "Feel intense dislike for",
+      "domain": "actions"
+    },
+    "care": {
+      "coordinates": [
+        0.85,
+        0.62,
+        0.28,
+        0.72
+      ],
+      "definition": "Feel concern or interest",
+      "domain": "actions"
+    },
+    "trust": {
+      "coordinates": [
+        0.78,
+        0.75,
+        0.38,
+        0.82
+      ],
+      "definition": "Have confidence in",
+      "domain": "actions"
+    },
+    "white": {
+      "coordinates": [
+        0.82,
+        0.75,
+        0.28,
+        0.85
+      ],
+      "definition": "Achromatic color of maximum lightness",
+      "domain": "Colors"
+    },
+    "black": {
+      "coordinates": [
+        0.35,
+        0.42,
+        0.72,
+        0.48
+      ],
+      "definition": "Achromatic color of minimum lightness",
+      "domain": "Colors"
+    },
+    "red": {
+      "coordinates": [
+        0.68,
+        0.55,
+        0.82,
+        0.58
+      ],
+      "definition": "Color of blood and fire",
+      "domain": "Colors"
+    },
+    "green": {
+      "coordinates": [
+        0.72,
+        0.68,
+        0.35,
+        0.75
+      ],
+      "definition": "Color of grass and leaves",
+      "domain": "Colors"
+    },
+    "yellow": {
+      "coordinates": [
+        0.78,
+        0.7,
+        0.45,
+        0.78
+      ],
+      "definition": "Color of sun and gold",
+      "domain": "Colors"
+    },
+    "blue": {
+      "coordinates": [
+        0.62,
+        0.72,
+        0.48,
+        0.88
+      ],
+      "definition": "Color of sky and ocean",
+      "domain": "Colors"
+    },
+    "brown": {
+      "coordinates": [
+        0.58,
+        0.6,
+        0.55,
+        0.65
+      ],
+      "definition": "Color of earth and wood",
+      "domain": "Colors"
+    },
+    "purple": {
+      "coordinates": [
+        0.65,
+        0.75,
+        0.62,
+        0.82
+      ],
+      "definition": "Color between red and blue",
+      "domain": "Colors"
+    },
+    "pink": {
+      "coordinates": [
+        0.85,
+        0.62,
+        0.38,
+        0.7
+      ],
+      "definition": "Light red color",
+      "domain": "Colors"
+    },
+    "orange": {
+      "coordinates": [
+        0.75,
+        0.65,
+        0.68,
+        0.72
+      ],
+      "definition": "Color between red and yellow",
+      "domain": "Colors"
+    },
+    "gray": {
+      "coordinates": [
+        0.52,
+        0.55,
+        0.52,
+        0.62
+      ],
+      "definition": "Achromatic color between white and black",
+      "domain": "Colors"
+    },
+    "crimson": {
+      "coordinates": [
+        0.65,
+        0.58,
+        0.85,
+        0.6
+      ],
+      "definition": "Deep rich red",
+      "domain": "Colors"
+    },
+    "scarlet": {
+      "coordinates": [
+        0.7,
+        0.52,
+        0.88,
+        0.55
+      ],
+      "definition": "Bright vivid red",
+      "domain": "Colors"
+    },
+    "maroon": {
+      "coordinates": [
+        0.55,
+        0.58,
+        0.75,
+        0.62
+      ],
+      "definition": "Dark brownish red",
+      "domain": "Colors"
+    },
+    "emerald": {
+      "coordinates": [
+        0.75,
+        0.7,
+        0.32,
+        0.78
+      ],
+      "definition": "Bright vivid green",
+      "domain": "Colors"
+    },
+    "olive": {
+      "coordinates": [
+        0.6,
+        0.65,
+        0.48,
+        0.7
+      ],
+      "definition": "Yellowish-brown green",
+      "domain": "Colors"
+    },
+    "lime": {
+      "coordinates": [
+        0.78,
+        0.68,
+        0.38,
+        0.75
+      ],
+      "definition": "Bright yellow-green",
+      "domain": "Colors"
+    },
+    "navy": {
+      "coordinates": [
+        0.55,
+        0.7,
+        0.52,
+        0.85
+      ],
+      "definition": "Dark blue",
+      "domain": "Colors"
+    },
+    "azure": {
+      "coordinates": [
+        0.68,
+        0.75,
+        0.42,
+        0.88
+      ],
+      "definition": "Bright sky blue",
+      "domain": "Colors"
+    },
+    "turquoise": {
+      "coordinates": [
+        0.7,
+        0.72,
+        0.4,
+        0.82
+      ],
+      "definition": "Blue-green color",
+      "domain": "Colors"
+    },
+    "silver": {
+      "coordinates": [
+        0.68,
+        0.7,
+        0.38,
+        0.78
+      ],
+      "definition": "Shiny grayish-white metallic color",
+      "domain": "Colors"
+    },
+    "gold": {
+      "coordinates": [
+        0.75,
+        0.72,
+        0.68,
+        0.8
+      ],
+      "definition": "Metallic yellow color",
+      "domain": "Colors"
+    },
+    "sun": {
+      "coordinates": [
+        0.82,
+        0.7,
+        0.72,
+        0.85
+      ],
+      "definition": "Star at center of solar system",
+      "domain": "Objects"
+    },
+    "moon": {
+      "coordinates": [
+        0.72,
+        0.68,
+        0.42,
+        0.82
+      ],
+      "definition": "Natural satellite of Earth",
+      "domain": "Objects"
+    },
+    "star": {
+      "coordinates": [
+        0.78,
+        0.72,
+        0.58,
+        0.88
+      ],
+      "definition": "Luminous celestial body",
+      "domain": "Objects"
+    },
+    "sky": {
+      "coordinates": [
+        0.75,
+        0.7,
+        0.38,
+        0.85
+      ],
+      "definition": "Atmosphere visible from Earth",
+      "domain": "Objects"
+    },
+    "earth": {
+      "coordinates": [
+        0.68,
+        0.72,
+        0.55,
+        0.78
+      ],
+      "definition": "Soil, ground, or planet",
+      "domain": "Objects"
+    },
+    "mountain": {
+      "coordinates": [
+        0.62,
+        0.68,
+        0.75,
+        0.8
+      ],
+      "definition": "Large natural elevation",
+      "domain": "Objects"
+    },
+    "river": {
+      "coordinates": [
+        0.7,
+        0.65,
+        0.48,
+        0.75
+      ],
+      "definition": "Flowing body of water",
+      "domain": "Objects"
+    },
+    "ocean": {
+      "coordinates": [
+        0.68,
+        0.7,
+        0.62,
+        0.82
+      ],
+      "definition": "Large body of salt water",
+      "domain": "Objects"
+    },
+    "tree": {
+      "coordinates": [
+        0.72,
+        0.68,
+        0.42,
+        0.75
+      ],
+      "definition": "Large woody plant",
+      "domain": "Objects"
+    },
+    "flower": {
+      "coordinates": [
+        0.82,
+        0.65,
+        0.32,
+        0.72
+      ],
+      "definition": "Reproductive structure of plant",
+      "domain": "Objects"
+    },
+    "stone": {
+      "coordinates": [
+        0.48,
+        0.58,
+        0.68,
+        0.65
+      ],
+      "definition": "Small piece of rock",
+      "domain": "Objects"
+    },
+    "fire": {
+      "coordinates": [
+        0.58,
+        0.55,
+        0.88,
+        0.62
+      ],
+      "definition": "Combustion phenomenon",
+      "domain": "Objects"
+    },
+    "water": {
+      "coordinates": [
+        0.7,
+        0.68,
+        0.42,
+        0.78
+      ],
+      "definition": "Clear liquid H2O",
+      "domain": "Objects"
+    },
+    "air": {
+      "coordinates": [
+        0.65,
+        0.62,
+        0.38,
+        0.75
+      ],
+      "definition": "Mixture of gases we breathe",
+      "domain": "Objects"
+    },
+    "hand": {
+      "coordinates": [
+        0.68,
+        0.62,
+        0.65,
+        0.75
+      ],
+      "definition": "Terminal part of arm",
+      "domain": "Objects"
+    },
+    "eye": {
+      "coordinates": [
+        0.65,
+        0.68,
+        0.45,
+        0.88
+      ],
+      "definition": "Organ of vision",
+      "domain": "Objects"
+    },
+    "heart": {
+      "coordinates": [
+        0.88,
+        0.65,
+        0.72,
+        0.75
+      ],
+      "definition": "Organ that pumps blood",
+      "domain": "Objects"
+    },
+    "head": {
+      "coordinates": [
+        0.62,
+        0.68,
+        0.58,
+        0.85
+      ],
+      "definition": "Upper part of body",
+      "domain": "Objects"
+    },
+    "foot": {
+      "coordinates": [
+        0.58,
+        0.55,
+        0.62,
+        0.68
+      ],
+      "definition": "Terminal part of leg",
+      "domain": "Objects"
+    },
+    "tool": {
+      "coordinates": [
+        0.62,
+        0.65,
+        0.72,
+        0.82
+      ],
+      "definition": "Device used to perform task",
+      "domain": "Objects"
+    },
+    "knife": {
+      "coordinates": [
+        0.42,
+        0.58,
+        0.78,
+        0.7
+      ],
+      "definition": "Cutting instrument with blade",
+      "domain": "Objects"
+    },
+    "hammer": {
+      "coordinates": [
+        0.48,
+        0.6,
+        0.82,
+        0.68
+      ],
+      "definition": "Tool for driving nails",
+      "domain": "Objects"
+    },
+    "house": {
+      "coordinates": [
+        0.75,
+        0.68,
+        0.52,
+        0.72
+      ],
+      "definition": "Building for habitation",
+      "domain": "Objects"
+    },
+    "temple": {
+      "coordinates": [
+        0.72,
+        0.82,
+        0.48,
+        0.9
+      ],
+      "definition": "Building for worship",
+      "domain": "Objects"
+    },
+    "bridge": {
+      "coordinates": [
+        0.68,
+        0.72,
+        0.65,
+        0.82
+      ],
+      "definition": "Structure spanning physical obstacle",
+      "domain": "Objects"
+    },
+    "cup": {
+      "coordinates": [
+        0.65,
+        0.6,
+        0.42,
+        0.68
+      ],
+      "definition": "Small container for drinking",
+      "domain": "Objects"
+    },
+    "bowl": {
+      "coordinates": [
+        0.68,
+        0.62,
+        0.38,
+        0.65
+      ],
+      "definition": "Round container for food",
+      "domain": "Objects"
+    },
+    "box": {
+      "coordinates": [
+        0.58,
+        0.6,
+        0.55,
+        0.7
+      ],
+      "definition": "Container with sides and lid",
+      "domain": "Objects"
+    },
+    "animal": {
+      "coordinates": [
+        0.68,
+        0.62,
+        0.58,
+        0.72
+      ],
+      "definition": "Living organism that moves",
+      "domain": "Objects"
+    },
+    "bird": {
+      "coordinates": [
+        0.72,
+        0.65,
+        0.52,
+        0.75
+      ],
+      "definition": "Feathered flying animal",
+      "domain": "Objects"
+    },
+    "fish": {
+      "coordinates": [
+        0.65,
+        0.62,
+        0.55,
+        0.7
+      ],
+      "definition": "Aquatic vertebrate animal",
+      "domain": "Objects"
+    },
+    "dog": {
+      "coordinates": [
+        0.82,
+        0.62,
+        0.55,
+        0.72
+      ],
+      "definition": "Domesticated carnivorous mammal",
+      "domain": "Objects"
+    },
+    "cat": {
+      "coordinates": [
+        0.75,
+        0.58,
+        0.62,
+        0.68
+      ],
+      "definition": "Small domesticated carnivore",
+      "domain": "Objects"
+    },
+    "big": {
+      "coordinates": [
+        0.62,
+        0.58,
+        0.72,
+        0.65
+      ],
+      "definition": "Large in size",
+      "domain": "Properties"
+    },
+    "small": {
+      "coordinates": [
+        0.55,
+        0.52,
+        0.38,
+        0.6
+      ],
+      "definition": "Little in size",
+      "domain": "Properties"
+    },
+    "huge": {
+      "coordinates": [
+        0.58,
+        0.62,
+        0.82,
+        0.68
+      ],
+      "definition": "Extremely large",
+      "domain": "Properties"
+    },
+    "tiny": {
+      "coordinates": [
+        0.58,
+        0.48,
+        0.28,
+        0.58
+      ],
+      "definition": "Extremely small",
+      "domain": "Properties"
+    },
+    "large": {
+      "coordinates": [
+        0.6,
+        0.6,
+        0.7,
+        0.68
+      ],
+      "definition": "Of considerable size",
+      "domain": "Properties"
+    },
+    "little": {
+      "coordinates": [
+        0.62,
+        0.5,
+        0.35,
+        0.58
+      ],
+      "definition": "Small in size or amount",
+      "domain": "Properties"
+    },
+    "bad": {
+      "coordinates": [
+        0.25,
+        0.35,
+        0.72,
+        0.38
+      ],
+      "definition": "Poor quality or character",
+      "domain": "Properties"
+    },
+    "better": {
+      "coordinates": [
+        0.75,
+        0.72,
+        0.42,
+        0.82
+      ],
+      "definition": "Higher quality than good",
+      "domain": "Properties"
+    },
+    "worse": {
+      "coordinates": [
+        0.22,
+        0.32,
+        0.75,
+        0.35
+      ],
+      "definition": "Lower quality than bad",
+      "domain": "Properties"
+    },
+    "best": {
+      "coordinates": [
+        0.82,
+        0.78,
+        0.45,
+        0.88
+      ],
+      "definition": "Highest quality",
+      "domain": "Properties"
+    },
+    "worst": {
+      "coordinates": [
+        0.18,
+        0.25,
+        0.82,
+        0.3
+      ],
+      "definition": "Lowest quality",
+      "domain": "Properties"
+    },
+    "old": {
+      "coordinates": [
+        0.58,
+        0.65,
+        0.48,
+        0.82
+      ],
+      "definition": "Advanced in years",
+      "domain": "Properties"
+    },
+    "new": {
+      "coordinates": [
+        0.72,
+        0.65,
+        0.52,
+        0.78
+      ],
+      "definition": "Recently made or discovered",
+      "domain": "Properties"
+    },
+    "young": {
+      "coordinates": [
+        0.75,
+        0.58,
+        0.48,
+        0.68
+      ],
+      "definition": "In early stage of life",
+      "domain": "Properties"
+    },
+    "ancient": {
+      "coordinates": [
+        0.52,
+        0.72,
+        0.55,
+        0.88
+      ],
+      "definition": "Very old, from distant past",
+      "domain": "Properties"
+    },
+    "modern": {
+      "coordinates": [
+        0.68,
+        0.68,
+        0.58,
+        0.82
+      ],
+      "definition": "Contemporary, current",
+      "domain": "Properties"
+    },
+    "hot": {
+      "coordinates": [
+        0.62,
+        0.55,
+        0.78,
+        0.58
+      ],
+      "definition": "High temperature",
+      "domain": "Properties"
+    },
+    "cold": {
+      "coordinates": [
+        0.45,
+        0.52,
+        0.48,
+        0.65
+      ],
+      "definition": "Low temperature",
+      "domain": "Properties"
+    },
+    "warm": {
+      "coordinates": [
+        0.78,
+        0.62,
+        0.55,
+        0.68
+      ],
+      "definition": "Moderately hot",
+      "domain": "Properties"
+    },
+    "cool": {
+      "coordinates": [
+        0.65,
+        0.62,
+        0.42,
+        0.72
+      ],
+      "definition": "Moderately cold",
+      "domain": "Properties"
+    },
+    "smooth": {
+      "coordinates": [
+        0.72,
+        0.65,
+        0.38,
+        0.75
+      ],
+      "definition": "Even and regular surface",
+      "domain": "Properties"
+    },
+    "rough": {
+      "coordinates": [
+        0.48,
+        0.52,
+        0.68,
+        0.58
+      ],
+      "definition": "Uneven irregular surface",
+      "domain": "Properties"
+    },
+    "soft": {
+      "coordinates": [
+        0.78,
+        0.58,
+        0.32,
+        0.68
+      ],
+      "definition": "Yielding to pressure",
+      "domain": "Properties"
+    },
+    "hard": {
+      "coordinates": [
+        0.48,
+        0.62,
+        0.78,
+        0.72
+      ],
+      "definition": "Resistant to pressure",
+      "domain": "Properties"
+    },
+    "round": {
+      "coordinates": [
+        0.68,
+        0.62,
+        0.48,
+        0.72
+      ],
+      "definition": "Circular or spherical",
+      "domain": "Properties"
+    },
+    "square": {
+      "coordinates": [
+        0.58,
+        0.68,
+        0.58,
+        0.78
+      ],
+      "definition": "Four equal sides and angles",
+      "domain": "Properties"
+    },
+    "flat": {
+      "coordinates": [
+        0.55,
+        0.6,
+        0.42,
+        0.68
+      ],
+      "definition": "Level and smooth surface",
+      "domain": "Properties"
+    },
+    "curved": {
+      "coordinates": [
+        0.65,
+        0.62,
+        0.48,
+        0.72
+      ],
+      "definition": "Having rounded shape",
+      "domain": "Properties"
+    },
+    "fast": {
+      "coordinates": [
+        0.62,
+        0.58,
+        0.78,
+        0.68
+      ],
+      "definition": "Moving or acting quickly",
+      "domain": "Properties"
+    },
+    "slow": {
+      "coordinates": [
+        0.58,
+        0.55,
+        0.38,
+        0.65
+      ],
+      "definition": "Moving or acting gradually",
+      "domain": "Properties"
+    },
+    "quick": {
+      "coordinates": [
+        0.65,
+        0.6,
+        0.75,
+        0.72
+      ],
+      "definition": "Done with speed",
+      "domain": "Properties"
+    },
+    "rapid": {
+      "coordinates": [
+        0.6,
+        0.62,
+        0.82,
+        0.7
+      ],
+      "definition": "Very fast",
+      "domain": "Properties"
+    },
+    "bright": {
+      "coordinates": [
+        0.78,
+        0.68,
+        0.52,
+        0.82
+      ],
+      "definition": "Giving off much light",
+      "domain": "Properties"
+    },
+    "dark": {
+      "coordinates": [
+        0.42,
+        0.48,
+        0.65,
+        0.55
+      ],
+      "definition": "Little or no light",
+      "domain": "Properties"
+    },
+    "light (brightness)": {
+      "coordinates": [
+        0.75,
+        0.68,
+        0.42,
+        0.8
+      ],
+      "definition": "Well illuminated",
+      "domain": "Properties"
+    },
+    "dim": {
+      "coordinates": [
+        0.48,
+        0.52,
+        0.52,
+        0.62
+      ],
+      "definition": "Not bright or clear",
+      "domain": "Properties"
+    },
+    "heavy": {
+      "coordinates": [
+        0.52,
+        0.58,
+        0.78,
+        0.65
+      ],
+      "definition": "Great weight",
+      "domain": "Properties"
+    },
+    "light (weight)": {
+      "coordinates": [
+        0.68,
+        0.58,
+        0.38,
+        0.68
+      ],
+      "definition": "Little weight",
+      "domain": "Properties"
+    },
+    "near": {
+      "coordinates": [
+        0.68,
+        0.62,
+        0.45,
+        0.72
+      ],
+      "definition": "Short distance away",
+      "domain": "Properties"
+    },
+    "far": {
+      "coordinates": [
+        0.52,
+        0.58,
+        0.58,
+        0.75
+      ],
+      "definition": "Great distance away",
+      "domain": "Properties"
+    },
+    "close": {
+      "coordinates": [
+        0.72,
+        0.65,
+        0.42,
+        0.7
+      ],
+      "definition": "Near in space or time",
+      "domain": "Properties"
+    },
+    "distant": {
+      "coordinates": [
+        0.48,
+        0.62,
+        0.62,
+        0.78
+      ],
+      "definition": "Far away",
+      "domain": "Properties"
+    },
+    "happy": {
+      "coordinates": [
+        0.93,
+        0.43,
+        0.09000000000000001,
+        0.72
+      ],
+      "definition": "Feeling pleasure and contentment",
+      "domain": "Properties"
+    },
+    "sad": {
+      "coordinates": [
+        0.42,
+        0.41,
+        0.24,
+        0.52
+      ],
+      "definition": "Feeling sorrow",
+      "domain": "Properties"
+    },
+    "angry": {
+      "coordinates": [
+        0.29,
+        0.34,
+        0.79,
+        0.42
+      ],
+      "definition": "Feeling strong displeasure",
+      "domain": "Properties"
+    },
+    "afraid": {
+      "coordinates": [
+        0.31,
+        0.38,
+        0.62,
+        0.48
+      ],
+      "definition": "Feeling fear",
+      "domain": "Properties"
+    },
+    "here": {
+      "coordinates": [
+        0.68,
+        0.65,
+        0.48,
+        0.75
+      ],
+      "definition": "In this place",
+      "domain": "Spatial"
+    },
+    "there": {
+      "coordinates": [
+        0.55,
+        0.6,
+        0.52,
+        0.72
+      ],
+      "definition": "In that place",
+      "domain": "Spatial"
+    },
+    "everywhere": {
+      "coordinates": [
+        0.72,
+        0.72,
+        0.62,
+        0.82
+      ],
+      "definition": "In all places",
+      "domain": "Spatial"
+    },
+    "nowhere": {
+      "coordinates": [
+        0.38,
+        0.42,
+        0.45,
+        0.55
+      ],
+      "definition": "Not in any place",
+      "domain": "Spatial"
+    },
+    "somewhere": {
+      "coordinates": [
+        0.58,
+        0.58,
+        0.52,
+        0.68
+      ],
+      "definition": "In an unspecified place",
+      "domain": "Spatial"
+    },
+    "up": {
+      "coordinates": [
+        0.68,
+        0.68,
+        0.58,
+        0.78
+      ],
+      "definition": "Toward higher position",
+      "domain": "Spatial"
+    },
+    "down": {
+      "coordinates": [
+        0.48,
+        0.52,
+        0.62,
+        0.62
+      ],
+      "definition": "Toward lower position",
+      "domain": "Spatial"
+    },
+    "left": {
+      "coordinates": [
+        0.55,
+        0.58,
+        0.48,
+        0.68
+      ],
+      "definition": "Toward left side",
+      "domain": "Spatial"
+    },
+    "right": {
+      "coordinates": [
+        0.62,
+        0.72,
+        0.52,
+        0.78
+      ],
+      "definition": "Toward right side",
+      "domain": "Spatial"
+    },
+    "forward": {
+      "coordinates": [
+        0.68,
+        0.65,
+        0.62,
+        0.75
+      ],
+      "definition": "Toward front",
+      "domain": "Spatial"
+    },
+    "backward": {
+      "coordinates": [
+        0.48,
+        0.52,
+        0.58,
+        0.65
+      ],
+      "definition": "Toward rear",
+      "domain": "Spatial"
+    },
+    "north": {
+      "coordinates": [
+        0.58,
+        0.68,
+        0.55,
+        0.78
+      ],
+      "definition": "Cardinal direction toward pole",
+      "domain": "Spatial"
+    },
+    "south": {
+      "coordinates": [
+        0.58,
+        0.58,
+        0.52,
+        0.68
+      ],
+      "definition": "Opposite of north",
+      "domain": "Spatial"
+    },
+    "east": {
+      "coordinates": [
+        0.65,
+        0.62,
+        0.55,
+        0.72
+      ],
+      "definition": "Direction of sunrise",
+      "domain": "Spatial"
+    },
+    "west": {
+      "coordinates": [
+        0.62,
+        0.6,
+        0.52,
+        0.7
+      ],
+      "definition": "Direction of sunset",
+      "domain": "Spatial"
+    },
+    "above": {
+      "coordinates": [
+        0.65,
+        0.68,
+        0.55,
+        0.78
+      ],
+      "definition": "In higher position than",
+      "domain": "Spatial"
+    },
+    "below": {
+      "coordinates": [
+        0.52,
+        0.55,
+        0.58,
+        0.65
+      ],
+      "definition": "In lower position than",
+      "domain": "Spatial"
+    },
+    "inside": {
+      "coordinates": [
+        0.62,
+        0.62,
+        0.48,
+        0.72
+      ],
+      "definition": "Within something",
+      "domain": "Spatial"
+    },
+    "outside": {
+      "coordinates": [
+        0.65,
+        0.6,
+        0.58,
+        0.7
+      ],
+      "definition": "Beyond boundary of",
+      "domain": "Spatial"
+    },
+    "between": {
+      "coordinates": [
+        0.6,
+        0.65,
+        0.52,
+        0.75
+      ],
+      "definition": "In middle of two things",
+      "domain": "Spatial"
+    },
+    "among": {
+      "coordinates": [
+        0.68,
+        0.65,
+        0.48,
+        0.72
+      ],
+      "definition": "Surrounded by multiple things",
+      "domain": "Spatial"
+    },
+    "beside": {
+      "coordinates": [
+        0.68,
+        0.62,
+        0.48,
+        0.7
+      ],
+      "definition": "Next to",
+      "domain": "Spatial"
+    },
+    "behind": {
+      "coordinates": [
+        0.52,
+        0.55,
+        0.55,
+        0.65
+      ],
+      "definition": "At the back of",
+      "domain": "Spatial"
+    },
+    "in front": {
+      "coordinates": [
+        0.65,
+        0.65,
+        0.58,
+        0.72
+      ],
+      "definition": "At the front of",
+      "domain": "Spatial"
+    },
+    "day": {
+      "coordinates": [
+        0.72,
+        0.68,
+        0.52,
+        0.78
+      ],
+      "definition": "24-hour period",
+      "domain": "Temporal"
+    },
+    "night": {
+      "coordinates": [
+        0.58,
+        0.58,
+        0.55,
+        0.72
+      ],
+      "definition": "Period of darkness",
+      "domain": "Temporal"
+    },
+    "morning": {
+      "coordinates": [
+        0.75,
+        0.68,
+        0.48,
+        0.75
+      ],
+      "definition": "Early part of day",
+      "domain": "Temporal"
+    },
+    "afternoon": {
+      "coordinates": [
+        0.68,
+        0.65,
+        0.52,
+        0.72
+      ],
+      "definition": "Middle part of day",
+      "domain": "Temporal"
+    },
+    "evening": {
+      "coordinates": [
+        0.65,
+        0.62,
+        0.52,
+        0.75
+      ],
+      "definition": "Later part of day",
+      "domain": "Temporal"
+    },
+    "week": {
+      "coordinates": [
+        0.62,
+        0.62,
+        0.52,
+        0.72
+      ],
+      "definition": "Seven-day period",
+      "domain": "Temporal"
+    },
+    "month": {
+      "coordinates": [
+        0.6,
+        0.65,
+        0.52,
+        0.75
+      ],
+      "definition": "~30-day period",
+      "domain": "Temporal"
+    },
+    "year": {
+      "coordinates": [
+        0.62,
+        0.68,
+        0.55,
+        0.8
+      ],
+      "definition": "365-day period",
+      "domain": "Temporal"
+    },
+    "century": {
+      "coordinates": [
+        0.58,
+        0.72,
+        0.62,
+        0.85
+      ],
+      "definition": "100-year period",
+      "domain": "Temporal"
+    },
+    "moment": {
+      "coordinates": [
+        0.65,
+        0.6,
+        0.52,
+        0.7
+      ],
+      "definition": "Brief period of time",
+      "domain": "Temporal"
+    },
+    "before": {
+      "coordinates": [
+        0.58,
+        0.65,
+        0.52,
+        0.78
+      ],
+      "definition": "Earlier than",
+      "domain": "Temporal"
+    },
+    "after": {
+      "coordinates": [
+        0.62,
+        0.62,
+        0.55,
+        0.72
+      ],
+      "definition": "Later than",
+      "domain": "Temporal"
+    },
+    "during": {
+      "coordinates": [
+        0.62,
+        0.62,
+        0.48,
+        0.72
+      ],
+      "definition": "Throughout time period",
+      "domain": "Temporal"
+    },
+    "while": {
+      "coordinates": [
+        0.62,
+        0.6,
+        0.48,
+        0.7
+      ],
+      "definition": "At same time as",
+      "domain": "Temporal"
+    },
+    "until": {
+      "coordinates": [
+        0.58,
+        0.65,
+        0.52,
+        0.75
+      ],
+      "definition": "Up to the time when",
+      "domain": "Temporal"
+    },
+    "since": {
+      "coordinates": [
+        0.6,
+        0.65,
+        0.52,
+        0.78
+      ],
+      "definition": "From time in past to now",
+      "domain": "Temporal"
+    },
+    "past": {
+      "coordinates": [
+        0.55,
+        0.65,
+        0.48,
+        0.8
+      ],
+      "definition": "Time before present",
+      "domain": "Temporal"
+    },
+    "present": {
+      "coordinates": [
+        0.68,
+        0.65,
+        0.58,
+        0.78
+      ],
+      "definition": "Current time",
+      "domain": "Temporal"
+    },
+    "future": {
+      "coordinates": [
+        0.68,
+        0.68,
+        0.62,
+        0.82
+      ],
+      "definition": "Time after present",
+      "domain": "Temporal"
+    },
+    "always": {
+      "coordinates": [
+        0.72,
+        0.75,
+        0.58,
+        0.85
+      ],
+      "definition": "At all times",
+      "domain": "Temporal"
+    },
+    "never": {
+      "coordinates": [
+        0.35,
+        0.45,
+        0.55,
+        0.52
+      ],
+      "definition": "At no time",
+      "domain": "Temporal"
+    },
+    "sometimes": {
+      "coordinates": [
+        0.6,
+        0.58,
+        0.52,
+        0.68
+      ],
+      "definition": "Occasionally",
+      "domain": "Temporal"
+    },
+    "often": {
+      "coordinates": [
+        0.65,
+        0.62,
+        0.55,
+        0.72
+      ],
+      "definition": "Frequently",
+      "domain": "Temporal"
+    },
+    "rarely": {
+      "coordinates": [
+        0.52,
+        0.55,
+        0.48,
+        0.65
+      ],
+      "definition": "Not often",
+      "domain": "Temporal"
+    },
+    "forever": {
+      "coordinates": [
+        0.75,
+        0.75,
+        0.62,
+        0.88
+      ],
+      "definition": "For all time",
+      "domain": "Temporal"
+    },
+    "temporary": {
+      "coordinates": [
+        0.58,
+        0.58,
+        0.52,
+        0.68
+      ],
+      "definition": "Lasting limited time",
+      "domain": "Temporal"
+    },
+    "permanent": {
+      "coordinates": [
+        0.65,
+        0.72,
+        0.68,
+        0.82
+      ],
+      "definition": "Lasting indefinitely",
+      "domain": "Temporal"
+    },
+    "dawn": {
+      "coordinates": [
+        0.78,
+        0.7,
+        0.42,
+        0.78
+      ],
+      "definition": "First light of day",
+      "domain": "Temporal"
+    },
+    "dusk": {
+      "coordinates": [
+        0.62,
+        0.62,
+        0.52,
+        0.72
+      ],
+      "definition": "Time of day after sunset",
+      "domain": "Temporal"
+    },
+    "midnight": {
+      "coordinates": [
+        0.55,
+        0.6,
+        0.62,
+        0.75
+      ],
+      "definition": "Middle of night",
+      "domain": "Temporal"
+    },
+    "noon": {
+      "coordinates": [
+        0.72,
+        0.68,
+        0.58,
+        0.78
+      ],
+      "definition": "Middle of day",
+      "domain": "Temporal"
+    },
+    "being": {
+      "coordinates": [
+        0.72,
+        0.75,
+        0.58,
+        0.88
+      ],
+      "definition": "State of existing",
+      "domain": "Abstract"
+    },
+    "nothing": {
+      "coordinates": [
+        0.35,
+        0.42,
+        0.38,
+        0.52
+      ],
+      "definition": "Not anything, non-existence",
+      "domain": "Abstract"
+    },
+    "something": {
+      "coordinates": [
+        0.62,
+        0.62,
+        0.52,
+        0.72
+      ],
+      "definition": "Unspecified thing",
+      "domain": "Abstract"
+    },
+    "everything": {
+      "coordinates": [
+        0.78,
+        0.78,
+        0.68,
+        0.88
+      ],
+      "definition": "All things",
+      "domain": "Abstract"
+    },
+    "existence": {
+      "coordinates": [
+        0.7,
+        0.72,
+        0.58,
+        0.85
+      ],
+      "definition": "State of being",
+      "domain": "Abstract"
+    },
+    "maybe": {
+      "coordinates": [
+        0.58,
+        0.58,
+        0.48,
+        0.68
+      ],
+      "definition": "Perhaps, possibly",
+      "domain": "Abstract"
+    },
+    "certain": {
+      "coordinates": [
+        0.68,
+        0.78,
+        0.62,
+        0.88
+      ],
+      "definition": "Known for sure",
+      "domain": "Abstract"
+    },
+    "possible": {
+      "coordinates": [
+        0.65,
+        0.65,
+        0.52,
+        0.75
+      ],
+      "definition": "Able to happen",
+      "domain": "Abstract"
+    },
+    "impossible": {
+      "coordinates": [
+        0.38,
+        0.48,
+        0.65,
+        0.58
+      ],
+      "definition": "Unable to happen",
+      "domain": "Abstract"
+    },
+    "probable": {
+      "coordinates": [
+        0.65,
+        0.68,
+        0.55,
+        0.78
+      ],
+      "definition": "Likely to happen",
+      "domain": "Abstract"
+    },
+    "cause": {
+      "coordinates": [
+        0.58,
+        0.72,
+        0.72,
+        0.82
+      ],
+      "definition": "Thing that makes something happen",
+      "domain": "Abstract"
+    },
+    "effect": {
+      "coordinates": [
+        0.62,
+        0.65,
+        0.58,
+        0.75
+      ],
+      "definition": "Result of a cause",
+      "domain": "Abstract"
+    },
+    "reason": {
+      "coordinates": [
+        0.62,
+        0.75,
+        0.52,
+        0.88
+      ],
+      "definition": "Explanation or justification",
+      "domain": "Abstract"
+    },
+    "result": {
+      "coordinates": [
+        0.62,
+        0.68,
+        0.58,
+        0.78
+      ],
+      "definition": "Outcome or consequence",
+      "domain": "Abstract"
+    },
+    "purpose": {
+      "coordinates": [
+        0.68,
+        0.72,
+        0.58,
+        0.85
+      ],
+      "definition": "Reason for which something exists",
+      "domain": "Abstract"
+    },
+    "all": {
+      "coordinates": [
+        0.72,
+        0.75,
+        0.62,
+        0.85
+      ],
+      "definition": "Entire amount or number",
+      "domain": "Abstract"
+    },
+    "none": {
+      "coordinates": [
+        0.35,
+        0.42,
+        0.45,
+        0.52
+      ],
+      "definition": "Not any",
+      "domain": "Abstract"
+    },
+    "some": {
+      "coordinates": [
+        0.6,
+        0.6,
+        0.5,
+        0.68
+      ],
+      "definition": "Unspecified amount",
+      "domain": "Abstract"
+    },
+    "many": {
+      "coordinates": [
+        0.65,
+        0.62,
+        0.58,
+        0.72
+      ],
+      "definition": "Large number",
+      "domain": "Abstract"
+    },
+    "few": {
+      "coordinates": [
+        0.52,
+        0.55,
+        0.45,
+        0.65
+      ],
+      "definition": "Small number",
+      "domain": "Abstract"
+    },
+    "most": {
+      "coordinates": [
+        0.68,
+        0.68,
+        0.6,
+        0.78
+      ],
+      "definition": "Majority",
+      "domain": "Abstract"
+    },
+    "least": {
+      "coordinates": [
+        0.48,
+        0.52,
+        0.45,
+        0.62
+      ],
+      "definition": "Smallest amount",
+      "domain": "Abstract"
+    },
+    "if": {
+      "coordinates": [
+        0.58,
+        0.68,
+        0.52,
+        0.82
+      ],
+      "definition": "Conditional relation",
+      "domain": "Abstract"
+    },
+    "then": {
+      "coordinates": [
+        0.6,
+        0.68,
+        0.55,
+        0.78
+      ],
+      "definition": "Consequent of conditional",
+      "domain": "Abstract"
+    },
+    "because": {
+      "coordinates": [
+        0.62,
+        0.72,
+        0.55,
+        0.85
+      ],
+      "definition": "For the reason that",
+      "domain": "Abstract"
+    },
+    "therefore": {
+      "coordinates": [
+        0.62,
+        0.75,
+        0.58,
+        0.88
+      ],
+      "definition": "As a result, consequently",
+      "domain": "Abstract"
+    },
+    "real": {
+      "coordinates": [
+        0.68,
+        0.78,
+        0.58,
+        0.88
+      ],
+      "definition": "Actually existing",
+      "domain": "Abstract"
+    },
+    "illusion": {
+      "coordinates": [
+        0.42,
+        0.45,
+        0.58,
+        0.62
+      ],
+      "definition": "False perception",
+      "domain": "Abstract"
+    },
+    "appearance": {
+      "coordinates": [
+        0.62,
+        0.62,
+        0.52,
+        0.72
+      ],
+      "definition": "How something seems",
+      "domain": "Abstract"
+    },
+    "reality": {
+      "coordinates": [
+        0.68,
+        0.78,
+        0.62,
+        0.88
+      ],
+      "definition": "State of things as they are",
+      "domain": "Abstract"
+    }
+  }
+}
