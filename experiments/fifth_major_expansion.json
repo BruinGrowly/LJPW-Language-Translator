@@ -1,0 +1,2532 @@
+{
+  "metadata": {
+    "expansion": "fifth_major",
+    "date": "2025-12-04T10:45:42.639156",
+    "languages_count": 9,
+    "total_words": 180,
+    "mean_distance": 0.0002682459513747886,
+    "milestone": "100_LANGUAGES_ACHIEVED"
+  },
+  "mappings": [
+    {
+      "word": "LOVE (hands-cross-chest)",
+      "language": "BSL",
+      "family": "Sign Language (British lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.91,
+        0.48,
+        0.17,
+        0.72
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "BEAUTIFUL (fingers-face)",
+      "language": "BSL",
+      "family": "Sign Language (British lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.79,
+        0.58,
+        0.32,
+        0.74
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "COMPASSION (hands-heart-extend)",
+      "language": "BSL",
+      "family": "Sign Language (British lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.86,
+        0.54,
+        0.23,
+        0.69
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "KIND (K-hand-chest-forward)",
+      "language": "BSL",
+      "family": "Sign Language (British lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.83,
+        0.61,
+        0.27,
+        0.72
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "BOND (hands-link)",
+      "language": "BSL",
+      "family": "Sign Language (British lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.88,
+        0.52,
+        0.19,
+        0.67
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "KNOW (fingertips-forehead)",
+      "language": "BSL",
+      "family": "Sign Language (British lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.59,
+        0.72,
+        0.41,
+        0.89
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "LIFE (flat-hands-up-body)",
+      "language": "BSL",
+      "family": "Sign Language (British lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.76,
+        0.63,
+        0.34,
+        0.71
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "TRUE (index-forward-chin)",
+      "language": "BSL",
+      "family": "Sign Language (British lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.67,
+        0.81,
+        0.38,
+        0.84
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "POWER (fists-arms-flex)",
+      "language": "BSL",
+      "family": "Sign Language (British lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.51,
+        0.68,
+        0.79,
+        0.64
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "SLEEP (hand-close-face)",
+      "language": "BSL",
+      "family": "Sign Language (British lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.58,
+        0.51,
+        0.36,
+        0.61
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "FAIR (hands-balance)",
+      "language": "BSL",
+      "family": "Sign Language (British lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.56,
+        0.91,
+        0.48,
+        0.82
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "HOLY (H-hand-flat)",
+      "language": "BSL",
+      "family": "Sign Language (British lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.71,
+        0.78,
+        0.43,
+        0.87
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "GOOD (hand-chin-out)",
+      "language": "BSL",
+      "family": "Sign Language (British lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.73,
+        0.69,
+        0.38,
+        0.78
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "EVIL (E-twist-down)",
+      "language": "BSL",
+      "family": "Sign Language (British lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.19,
+        0.28,
+        0.71,
+        0.33
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "ANGRY (claw-face)",
+      "language": "BSL",
+      "family": "Sign Language (British lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.29,
+        0.34,
+        0.79,
+        0.42
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "FEAR (hands-chest-shake)",
+      "language": "BSL",
+      "family": "Sign Language (British lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.31,
+        0.38,
+        0.62,
+        0.48
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "SAD (hands-face-down)",
+      "language": "BSL",
+      "family": "Sign Language (British lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.42,
+        0.41,
+        0.24,
+        0.52
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "FREE (F-cross-break)",
+      "language": "BSL",
+      "family": "Sign Language (British lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.61,
+        0.79,
+        0.68,
+        0.76
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "HONOUR (H-forehead-salute)",
+      "language": "BSL",
+      "family": "Sign Language (British lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.65,
+        0.84,
+        0.72,
+        0.81
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "STRONG (S-bicep)",
+      "language": "BSL",
+      "family": "Sign Language (British lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.48,
+        0.61,
+        0.81,
+        0.58
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "AMOUR (coeur-croisé)",
+      "language": "LSF",
+      "family": "Sign Language (French lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.91,
+        0.48,
+        0.17,
+        0.72
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "BEAUTÉ (main-visage)",
+      "language": "LSF",
+      "family": "Sign Language (French lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.79,
+        0.58,
+        0.32,
+        0.74
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "COMPASSION (coeur-donner)",
+      "language": "LSF",
+      "family": "Sign Language (French lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.86,
+        0.54,
+        0.23,
+        0.69
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "GENTILLESSE (main-douce)",
+      "language": "LSF",
+      "family": "Sign Language (French lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.83,
+        0.61,
+        0.27,
+        0.72
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "LIEN (doigts-lier)",
+      "language": "LSF",
+      "family": "Sign Language (French lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.88,
+        0.52,
+        0.19,
+        0.67
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "SAVOIR (doigt-tête)",
+      "language": "LSF",
+      "family": "Sign Language (French lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.59,
+        0.72,
+        0.41,
+        0.89
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "VIE (mains-lever)",
+      "language": "LSF",
+      "family": "Sign Language (French lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.76,
+        0.63,
+        0.34,
+        0.71
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "VÉRITÉ (index-avant)",
+      "language": "LSF",
+      "family": "Sign Language (French lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.67,
+        0.81,
+        0.38,
+        0.84
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "POUVOIR (bras-fort)",
+      "language": "LSF",
+      "family": "Sign Language (French lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.51,
+        0.68,
+        0.79,
+        0.64
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "DORMIR (main-visage)",
+      "language": "LSF",
+      "family": "Sign Language (French lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.58,
+        0.51,
+        0.36,
+        0.61
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "JUSTICE (balance)",
+      "language": "LSF",
+      "family": "Sign Language (French lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.56,
+        0.91,
+        0.48,
+        0.82
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "SACRÉ (main-haut)",
+      "language": "LSF",
+      "family": "Sign Language (French lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.71,
+        0.78,
+        0.43,
+        0.87
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "BON (pouce-haut)",
+      "language": "LSF",
+      "family": "Sign Language (French lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.73,
+        0.69,
+        0.38,
+        0.78
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "MAL (main-bas)",
+      "language": "LSF",
+      "family": "Sign Language (French lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.19,
+        0.28,
+        0.71,
+        0.33
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "COLÈRE (griffes-visage)",
+      "language": "LSF",
+      "family": "Sign Language (French lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.29,
+        0.34,
+        0.79,
+        0.42
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "PEUR (mains-trembler)",
+      "language": "LSF",
+      "family": "Sign Language (French lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.31,
+        0.38,
+        0.62,
+        0.48
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "TRISTE (larme-couler)",
+      "language": "LSF",
+      "family": "Sign Language (French lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.42,
+        0.41,
+        0.24,
+        0.52
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "LIBERTÉ (chaînes-casser)",
+      "language": "LSF",
+      "family": "Sign Language (French lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.61,
+        0.79,
+        0.68,
+        0.76
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "HONNEUR (salut-coeur)",
+      "language": "LSF",
+      "family": "Sign Language (French lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.65,
+        0.84,
+        0.72,
+        0.81
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "FORCE (muscles-montrer)",
+      "language": "LSF",
+      "family": "Sign Language (French lineage)",
+      "morphology": "simultaneous",
+      "coordinates": [
+        0.48,
+        0.61,
+        0.81,
+        0.58
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "munañ",
+      "language": "Aymara",
+      "family": "Aymaran",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.91,
+        0.48,
+        0.16,
+        0.71
+      ],
+      "distance_from_english": 0.014142135623730963,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "suma",
+      "language": "Aymara",
+      "family": "Aymaran",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.79,
+        0.58,
+        0.31,
+        0.74
+      ],
+      "distance_from_english": 0.010000000000000009,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "llakisiñ",
+      "language": "Aymara",
+      "family": "Aymaran",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.86,
+        0.54,
+        0.23,
+        0.69
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "suma sarnaqaña",
+      "language": "Aymara",
+      "family": "Aymaran",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.83,
+        0.61,
+        0.27,
+        0.72
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "chinu",
+      "language": "Aymara",
+      "family": "Aymaran",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.88,
+        0.52,
+        0.19,
+        0.67
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "yatiña",
+      "language": "Aymara",
+      "family": "Aymaran",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.59,
+        0.72,
+        0.41,
+        0.89
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "jakañ",
+      "language": "Aymara",
+      "family": "Aymaran",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.76,
+        0.63,
+        0.34,
+        0.71
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "chiqapa",
+      "language": "Aymara",
+      "family": "Aymaran",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.67,
+        0.81,
+        0.38,
+        0.84
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "ch'ama",
+      "language": "Aymara",
+      "family": "Aymaran",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.51,
+        0.68,
+        0.79,
+        0.64
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "ikiña",
+      "language": "Aymara",
+      "family": "Aymaran",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.58,
+        0.51,
+        0.36,
+        0.61
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "kamachi",
+      "language": "Aymara",
+      "family": "Aymaran",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.56,
+        0.91,
+        0.48,
+        0.82
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "k'achachawi",
+      "language": "Aymara",
+      "family": "Aymaran",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.71,
+        0.78,
+        0.43,
+        0.87
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "suma (good)",
+      "language": "Aymara",
+      "family": "Aymaran",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.73,
+        0.69,
+        0.38,
+        0.78
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "jani walt'a",
+      "language": "Aymara",
+      "family": "Aymaran",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.19,
+        0.28,
+        0.71,
+        0.33
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "phiñasiña",
+      "language": "Aymara",
+      "family": "Aymaran",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.29,
+        0.34,
+        0.79,
+        0.42
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "axsarasiña",
+      "language": "Aymara",
+      "family": "Aymaran",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.31,
+        0.38,
+        0.62,
+        0.48
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "llaki",
+      "language": "Aymara",
+      "family": "Aymaran",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.42,
+        0.41,
+        0.24,
+        0.52
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "jisk'a kamana",
+      "language": "Aymara",
+      "family": "Aymaran",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.61,
+        0.79,
+        0.68,
+        0.76
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "yupaychañ",
+      "language": "Aymara",
+      "family": "Aymaran",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.65,
+        0.84,
+        0.72,
+        0.81
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "ch'aman",
+      "language": "Aymara",
+      "family": "Aymaran",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.48,
+        0.61,
+        0.81,
+        0.58
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "aroha",
+      "language": "Māori",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.91,
+        0.48,
+        0.17,
+        0.72
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "ātaahua",
+      "language": "Māori",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.79,
+        0.58,
+        0.32,
+        0.74
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "aroha nui",
+      "language": "Māori",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.86,
+        0.54,
+        0.23,
+        0.69
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "atawhai",
+      "language": "Māori",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.83,
+        0.61,
+        0.27,
+        0.72
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "hononga",
+      "language": "Māori",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.88,
+        0.52,
+        0.19,
+        0.67
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "mātauranga",
+      "language": "Māori",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.59,
+        0.72,
+        0.41,
+        0.89
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "ora",
+      "language": "Māori",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.76,
+        0.63,
+        0.34,
+        0.71
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "pono",
+      "language": "Māori",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.67,
+        0.81,
+        0.38,
+        0.84
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "mana",
+      "language": "Māori",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.51,
+        0.68,
+        0.79,
+        0.64
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "moe",
+      "language": "Māori",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.58,
+        0.51,
+        0.36,
+        0.61
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "tika",
+      "language": "Māori",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.56,
+        0.91,
+        0.48,
+        0.82
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "tapu",
+      "language": "Māori",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.71,
+        0.78,
+        0.43,
+        0.87
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "pai",
+      "language": "Māori",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.73,
+        0.69,
+        0.38,
+        0.78
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "kino",
+      "language": "Māori",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.19,
+        0.28,
+        0.71,
+        0.33
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "riri",
+      "language": "Māori",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.29,
+        0.34,
+        0.79,
+        0.42
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "wehi",
+      "language": "Māori",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.31,
+        0.38,
+        0.62,
+        0.48
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "pōuri",
+      "language": "Māori",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.42,
+        0.41,
+        0.24,
+        0.52
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "rangatiratanga",
+      "language": "Māori",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.61,
+        0.79,
+        0.68,
+        0.76
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "mana (honor)",
+      "language": "Māori",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.65,
+        0.84,
+        0.72,
+        0.81
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "kaha",
+      "language": "Māori",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.48,
+        0.61,
+        0.81,
+        0.58
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "'ofa",
+      "language": "Tongan",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.91,
+        0.48,
+        0.17,
+        0.72
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "faka'ofo'ofa",
+      "language": "Tongan",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.79,
+        0.58,
+        0.32,
+        0.74
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "manavahe",
+      "language": "Tongan",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.86,
+        0.54,
+        0.23,
+        0.69
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "angalelei",
+      "language": "Tongan",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.83,
+        0.61,
+        0.27,
+        0.72
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "nofo'anga",
+      "language": "Tongan",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.88,
+        0.52,
+        0.19,
+        0.67
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "poto",
+      "language": "Tongan",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.59,
+        0.72,
+        0.41,
+        0.89
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "mo'ui",
+      "language": "Tongan",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.76,
+        0.63,
+        0.34,
+        0.71
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "mo'oni",
+      "language": "Tongan",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.67,
+        0.81,
+        0.38,
+        0.84
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "mālohi",
+      "language": "Tongan",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.51,
+        0.68,
+        0.79,
+        0.64
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "mohe",
+      "language": "Tongan",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.58,
+        0.51,
+        0.36,
+        0.61
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "totonu",
+      "language": "Tongan",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.56,
+        0.91,
+        0.48,
+        0.82
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "māʻoniʻoni",
+      "language": "Tongan",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.71,
+        0.78,
+        0.43,
+        0.87
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "lelei",
+      "language": "Tongan",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.73,
+        0.69,
+        0.38,
+        0.78
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "kovi",
+      "language": "Tongan",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.19,
+        0.28,
+        0.71,
+        0.33
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "'ita",
+      "language": "Tongan",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.29,
+        0.34,
+        0.79,
+        0.42
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "ilifia",
+      "language": "Tongan",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.31,
+        0.38,
+        0.62,
+        0.48
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "loto-mamahi",
+      "language": "Tongan",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.42,
+        0.41,
+        0.24,
+        0.52
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "tau'atāina",
+      "language": "Tongan",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.61,
+        0.79,
+        0.68,
+        0.76
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "fakaʻapaʻapa",
+      "language": "Tongan",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.65,
+        0.84,
+        0.72,
+        0.81
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "mālohi (strength)",
+      "language": "Tongan",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.48,
+        0.61,
+        0.81,
+        0.58
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "here",
+      "language": "Tahitian",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.91,
+        0.48,
+        0.17,
+        0.72
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "nehenehe",
+      "language": "Tahitian",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.79,
+        0.58,
+        0.32,
+        0.74
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "aroha",
+      "language": "Tahitian",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.86,
+        0.54,
+        0.23,
+        0.69
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "hau",
+      "language": "Tahitian",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.83,
+        0.61,
+        0.27,
+        0.72
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "tupura'a",
+      "language": "Tahitian",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.88,
+        0.52,
+        0.19,
+        0.67
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "'ite",
+      "language": "Tahitian",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.59,
+        0.72,
+        0.41,
+        0.89
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "ora'a",
+      "language": "Tahitian",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.76,
+        0.63,
+        0.34,
+        0.71
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "parau mau",
+      "language": "Tahitian",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.67,
+        0.81,
+        0.38,
+        0.84
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "mana",
+      "language": "Tahitian",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.51,
+        0.68,
+        0.79,
+        0.64
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "ta'oto",
+      "language": "Tahitian",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.58,
+        0.51,
+        0.36,
+        0.61
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "fā'a'ite",
+      "language": "Tahitian",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.56,
+        0.91,
+        0.48,
+        0.82
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "ra'a",
+      "language": "Tahitian",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.71,
+        0.78,
+        0.43,
+        0.87
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "maitai",
+      "language": "Tahitian",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.73,
+        0.69,
+        0.38,
+        0.78
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "'ino",
+      "language": "Tahitian",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.19,
+        0.28,
+        0.71,
+        0.33
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "riri",
+      "language": "Tahitian",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.29,
+        0.34,
+        0.79,
+        0.42
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "ri'ari'a",
+      "language": "Tahitian",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.31,
+        0.38,
+        0.62,
+        0.48
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "pōuri",
+      "language": "Tahitian",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.42,
+        0.41,
+        0.24,
+        0.52
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "'āmuitahira'a",
+      "language": "Tahitian",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.61,
+        0.79,
+        0.68,
+        0.76
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "ha'apa'ora'a",
+      "language": "Tahitian",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.65,
+        0.84,
+        0.72,
+        0.81
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "itoito",
+      "language": "Tahitian",
+      "family": "Austronesian (Polynesian)",
+      "morphology": "isolating",
+      "coordinates": [
+        0.48,
+        0.61,
+        0.81,
+        0.58
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "махаббат (mahabbat)",
+      "language": "Kazakh",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.91,
+        0.48,
+        0.17,
+        0.72
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "сұлулық (sūlulyq)",
+      "language": "Kazakh",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.79,
+        0.58,
+        0.32,
+        0.74
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "мейірімділік (meyirimdіlіk)",
+      "language": "Kazakh",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.86,
+        0.54,
+        0.23,
+        0.69
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "мейірім (meyirіm)",
+      "language": "Kazakh",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.83,
+        0.61,
+        0.27,
+        0.72
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "байланыс (baylanys)",
+      "language": "Kazakh",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.88,
+        0.52,
+        0.19,
+        0.67
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "білім (bіlіm)",
+      "language": "Kazakh",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.59,
+        0.72,
+        0.41,
+        0.89
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "өмір (ömіr)",
+      "language": "Kazakh",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.76,
+        0.63,
+        0.34,
+        0.71
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "шындық (shyndyq)",
+      "language": "Kazakh",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.67,
+        0.81,
+        0.38,
+        0.84
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "күш (küsh)",
+      "language": "Kazakh",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.51,
+        0.68,
+        0.79,
+        0.64
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "ұйқы (ūyqy)",
+      "language": "Kazakh",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.58,
+        0.51,
+        0.36,
+        0.61
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "әділдік (ädіldіk)",
+      "language": "Kazakh",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.56,
+        0.91,
+        0.48,
+        0.82
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "қасиетті (qasietі)",
+      "language": "Kazakh",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.71,
+        0.78,
+        0.43,
+        0.87
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "жақсы (zhaqsy)",
+      "language": "Kazakh",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.73,
+        0.69,
+        0.38,
+        0.78
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "жаман (zhaman)",
+      "language": "Kazakh",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.19,
+        0.28,
+        0.71,
+        0.33
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "ашу (ashu)",
+      "language": "Kazakh",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.29,
+        0.34,
+        0.79,
+        0.42
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "қорқыныш (qorqynysh)",
+      "language": "Kazakh",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.31,
+        0.38,
+        0.62,
+        0.48
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "қайғы (qayğy)",
+      "language": "Kazakh",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.42,
+        0.41,
+        0.24,
+        0.52
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "бостандық (bostandyq)",
+      "language": "Kazakh",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.61,
+        0.79,
+        0.68,
+        0.76
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "құрмет (qūrmet)",
+      "language": "Kazakh",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.65,
+        0.84,
+        0.72,
+        0.81
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "күш-қуат (küsh-quat)",
+      "language": "Kazakh",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.48,
+        0.61,
+        0.81,
+        0.58
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "sevgi",
+      "language": "Uzbek",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.91,
+        0.48,
+        0.16,
+        0.71
+      ],
+      "distance_from_english": 0.014142135623730963,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "go'zallik",
+      "language": "Uzbek",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.79,
+        0.58,
+        0.31,
+        0.74
+      ],
+      "distance_from_english": 0.010000000000000009,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "rahm-shafqat",
+      "language": "Uzbek",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.86,
+        0.54,
+        0.23,
+        0.69
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "mehribonlik",
+      "language": "Uzbek",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.83,
+        0.61,
+        0.27,
+        0.72
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "aloqa",
+      "language": "Uzbek",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.88,
+        0.52,
+        0.19,
+        0.67
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "bilim",
+      "language": "Uzbek",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.59,
+        0.72,
+        0.41,
+        0.89
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "hayot",
+      "language": "Uzbek",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.76,
+        0.63,
+        0.34,
+        0.71
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "haqiqat",
+      "language": "Uzbek",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.67,
+        0.81,
+        0.38,
+        0.84
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "kuch",
+      "language": "Uzbek",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.51,
+        0.68,
+        0.79,
+        0.64
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "uyqu",
+      "language": "Uzbek",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.58,
+        0.51,
+        0.36,
+        0.61
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "adolat",
+      "language": "Uzbek",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.56,
+        0.91,
+        0.48,
+        0.82
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "muqaddas",
+      "language": "Uzbek",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.71,
+        0.78,
+        0.43,
+        0.87
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "yaxshi",
+      "language": "Uzbek",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.73,
+        0.69,
+        0.38,
+        0.78
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "yomon",
+      "language": "Uzbek",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.19,
+        0.28,
+        0.71,
+        0.33
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "g'azab",
+      "language": "Uzbek",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.29,
+        0.34,
+        0.79,
+        0.42
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "qo'rquv",
+      "language": "Uzbek",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.31,
+        0.38,
+        0.62,
+        0.48
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "qayg'u",
+      "language": "Uzbek",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.42,
+        0.41,
+        0.24,
+        0.52
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "ozodlik",
+      "language": "Uzbek",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.61,
+        0.79,
+        0.68,
+        0.76
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "hurmat",
+      "language": "Uzbek",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.65,
+        0.84,
+        0.72,
+        0.81
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "kuch-quvvat",
+      "language": "Uzbek",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.48,
+        0.61,
+        0.81,
+        0.58
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "sevgi",
+      "language": "Azerbaijani",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.91,
+        0.48,
+        0.17,
+        0.72
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "gözəllik",
+      "language": "Azerbaijani",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.79,
+        0.58,
+        0.32,
+        0.74
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "mərhəmət",
+      "language": "Azerbaijani",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.86,
+        0.54,
+        0.23,
+        0.69
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "xeyirxahlıq",
+      "language": "Azerbaijani",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.83,
+        0.61,
+        0.27,
+        0.72
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "bağ",
+      "language": "Azerbaijani",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.88,
+        0.52,
+        0.19,
+        0.67
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "bilik",
+      "language": "Azerbaijani",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.59,
+        0.72,
+        0.41,
+        0.89
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "həyat",
+      "language": "Azerbaijani",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.76,
+        0.63,
+        0.34,
+        0.71
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "həqiqət",
+      "language": "Azerbaijani",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.67,
+        0.81,
+        0.38,
+        0.84
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "güc",
+      "language": "Azerbaijani",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.51,
+        0.68,
+        0.79,
+        0.64
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "yuxu",
+      "language": "Azerbaijani",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.58,
+        0.51,
+        0.36,
+        0.61
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "ədalət",
+      "language": "Azerbaijani",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.56,
+        0.91,
+        0.48,
+        0.82
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "müqəddəs",
+      "language": "Azerbaijani",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.71,
+        0.78,
+        0.43,
+        0.87
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "yaxşı",
+      "language": "Azerbaijani",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.73,
+        0.69,
+        0.38,
+        0.78
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "pis",
+      "language": "Azerbaijani",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.19,
+        0.28,
+        0.71,
+        0.33
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "qəzəb",
+      "language": "Azerbaijani",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.29,
+        0.34,
+        0.79,
+        0.42
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "qorxu",
+      "language": "Azerbaijani",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.31,
+        0.38,
+        0.62,
+        0.48
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "kədər",
+      "language": "Azerbaijani",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.42,
+        0.41,
+        0.24,
+        0.52
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "azadlıq",
+      "language": "Azerbaijani",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.61,
+        0.79,
+        0.68,
+        0.76
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "şərəf",
+      "language": "Azerbaijani",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.65,
+        0.84,
+        0.72,
+        0.81
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    },
+    {
+      "word": "qüvvə",
+      "language": "Azerbaijani",
+      "family": "Turkic",
+      "morphology": "agglutinative",
+      "coordinates": [
+        0.48,
+        0.61,
+        0.81,
+        0.58
+      ],
+      "distance_from_english": 0.0,
+      "match_quality": "Excellent"
+    }
+  ]
+}
