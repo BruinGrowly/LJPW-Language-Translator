@@ -1,0 +1,2034 @@
+{
+  "phase": "Phase 1: Advanced Sciences",
+  "domains": [
+    {
+      "domain_name": "Advanced Physics & Quantum Mechanics",
+      "description": "Quantum phenomena, particle physics, relativity, thermodynamics, and field theory",
+      "concepts": {
+        "superposition": {
+          "name": "Superposition",
+          "definition": "Quantum state existing in multiple states simultaneously",
+          "coordinates": [
+            0.75,
+            0.62,
+            0.45,
+            0.88
+          ]
+        },
+        "entanglement": {
+          "name": "Entanglement",
+          "definition": "Quantum correlation between particles regardless of distance",
+          "coordinates": [
+            0.82,
+            0.58,
+            0.52,
+            0.91
+          ]
+        },
+        "wave_particle_duality": {
+          "name": "Wave-Particle Duality",
+          "definition": "Matter exhibiting both wave and particle properties",
+          "coordinates": [
+            0.68,
+            0.71,
+            0.38,
+            0.85
+          ]
+        },
+        "uncertainty_principle": {
+          "name": "Uncertainty Principle",
+          "definition": "Fundamental limit to precision of simultaneous measurements",
+          "coordinates": [
+            0.55,
+            0.78,
+            0.42,
+            0.92
+          ]
+        },
+        "quantum_tunneling": {
+          "name": "Quantum Tunneling",
+          "definition": "Particle passing through potential barrier",
+          "coordinates": [
+            0.62,
+            0.65,
+            0.48,
+            0.81
+          ]
+        },
+        "decoherence": {
+          "name": "Decoherence",
+          "definition": "Loss of quantum coherence through environmental interaction",
+          "coordinates": [
+            0.48,
+            0.72,
+            0.35,
+            0.79
+          ]
+        },
+        "quantum_state": {
+          "name": "Quantum State",
+          "definition": "Complete description of quantum system",
+          "coordinates": [
+            0.71,
+            0.68,
+            0.44,
+            0.87
+          ]
+        },
+        "wavefunction": {
+          "name": "Wavefunction",
+          "definition": "Mathematical description of quantum state",
+          "coordinates": [
+            0.66,
+            0.74,
+            0.41,
+            0.89
+          ]
+        },
+        "wavefunction_collapse": {
+          "name": "Wavefunction Collapse",
+          "definition": "Reduction to definite state upon measurement",
+          "coordinates": [
+            0.52,
+            0.81,
+            0.38,
+            0.84
+          ]
+        },
+        "quantum_measurement": {
+          "name": "Quantum Measurement",
+          "definition": "Act of observing quantum system",
+          "coordinates": [
+            0.58,
+            0.76,
+            0.46,
+            0.86
+          ]
+        },
+        "quark": {
+          "name": "Quark",
+          "definition": "Elementary particle and fundamental constituent of matter",
+          "coordinates": [
+            0.64,
+            0.69,
+            0.51,
+            0.83
+          ]
+        },
+        "lepton": {
+          "name": "Lepton",
+          "definition": "Elementary particle not subject to strong force",
+          "coordinates": [
+            0.62,
+            0.67,
+            0.49,
+            0.81
+          ]
+        },
+        "boson": {
+          "name": "Boson",
+          "definition": "Particle with integer spin obeying Bose-Einstein statistics",
+          "coordinates": [
+            0.68,
+            0.71,
+            0.47,
+            0.85
+          ]
+        },
+        "fermion": {
+          "name": "Fermion",
+          "definition": "Particle with half-integer spin obeying Pauli exclusion",
+          "coordinates": [
+            0.66,
+            0.73,
+            0.45,
+            0.84
+          ]
+        },
+        "hadron": {
+          "name": "Hadron",
+          "definition": "Composite particle made of quarks",
+          "coordinates": [
+            0.61,
+            0.66,
+            0.52,
+            0.79
+          ]
+        },
+        "photon": {
+          "name": "Photon",
+          "definition": "Quantum of electromagnetic radiation",
+          "coordinates": [
+            0.72,
+            0.64,
+            0.56,
+            0.88
+          ]
+        },
+        "electron": {
+          "name": "Electron",
+          "definition": "Negatively charged elementary particle",
+          "coordinates": [
+            0.69,
+            0.68,
+            0.53,
+            0.86
+          ]
+        },
+        "proton": {
+          "name": "Proton",
+          "definition": "Positively charged subatomic particle",
+          "coordinates": [
+            0.67,
+            0.7,
+            0.54,
+            0.84
+          ]
+        },
+        "neutron": {
+          "name": "Neutron",
+          "definition": "Electrically neutral subatomic particle",
+          "coordinates": [
+            0.65,
+            0.69,
+            0.51,
+            0.82
+          ]
+        },
+        "neutrino": {
+          "name": "Neutrino",
+          "definition": "Extremely light neutral lepton",
+          "coordinates": [
+            0.58,
+            0.64,
+            0.43,
+            0.77
+          ]
+        },
+        "spacetime": {
+          "name": "Spacetime",
+          "definition": "Four-dimensional continuum of space and time",
+          "coordinates": [
+            0.76,
+            0.72,
+            0.48,
+            0.92
+          ]
+        },
+        "time_dilation": {
+          "name": "Time Dilation",
+          "definition": "Difference in elapsed time due to relative velocity or gravity",
+          "coordinates": [
+            0.64,
+            0.78,
+            0.42,
+            0.87
+          ]
+        },
+        "length_contraction": {
+          "name": "Length Contraction",
+          "definition": "Decrease in length of moving object",
+          "coordinates": [
+            0.61,
+            0.76,
+            0.44,
+            0.83
+          ]
+        },
+        "event_horizon": {
+          "name": "Event Horizon",
+          "definition": "Boundary beyond which events cannot affect observer",
+          "coordinates": [
+            0.54,
+            0.82,
+            0.38,
+            0.89
+          ]
+        },
+        "black_hole": {
+          "name": "Black Hole",
+          "definition": "Region of spacetime with extreme gravitational pull",
+          "coordinates": [
+            0.48,
+            0.85,
+            0.62,
+            0.91
+          ]
+        },
+        "gravitational_wave": {
+          "name": "Gravitational Wave",
+          "definition": "Ripple in spacetime curvature",
+          "coordinates": [
+            0.71,
+            0.67,
+            0.55,
+            0.86
+          ]
+        },
+        "general_relativity": {
+          "name": "General Relativity",
+          "definition": "Theory of gravitation as spacetime curvature",
+          "coordinates": [
+            0.73,
+            0.79,
+            0.46,
+            0.94
+          ]
+        },
+        "special_relativity": {
+          "name": "Special Relativity",
+          "definition": "Theory of space and time for inertial frames",
+          "coordinates": [
+            0.7,
+            0.77,
+            0.48,
+            0.92
+          ]
+        },
+        "lorentz_transformation": {
+          "name": "Lorentz Transformation",
+          "definition": "Coordinate transformation between inertial frames",
+          "coordinates": [
+            0.65,
+            0.81,
+            0.43,
+            0.88
+          ]
+        },
+        "relativistic_mass": {
+          "name": "Relativistic Mass",
+          "definition": "Mass increase with velocity",
+          "coordinates": [
+            0.62,
+            0.74,
+            0.51,
+            0.84
+          ]
+        },
+        "entropy": {
+          "name": "Entropy",
+          "definition": "Measure of disorder or randomness in system",
+          "coordinates": [
+            0.52,
+            0.68,
+            0.58,
+            0.82
+          ]
+        },
+        "enthalpy": {
+          "name": "Enthalpy",
+          "definition": "Total heat content of system",
+          "coordinates": [
+            0.64,
+            0.71,
+            0.47,
+            0.85
+          ]
+        },
+        "free_energy": {
+          "name": "Free Energy",
+          "definition": "Energy available to do work",
+          "coordinates": [
+            0.68,
+            0.73,
+            0.54,
+            0.87
+          ]
+        },
+        "phase_transition": {
+          "name": "Phase Transition",
+          "definition": "Change between states of matter",
+          "coordinates": [
+            0.59,
+            0.66,
+            0.52,
+            0.79
+          ]
+        },
+        "heat_capacity": {
+          "name": "Heat Capacity",
+          "definition": "Amount of heat needed to change temperature",
+          "coordinates": [
+            0.63,
+            0.69,
+            0.48,
+            0.81
+          ]
+        },
+        "thermal_equilibrium": {
+          "name": "Thermal Equilibrium",
+          "definition": "State of uniform temperature distribution",
+          "coordinates": [
+            0.71,
+            0.75,
+            0.45,
+            0.86
+          ]
+        },
+        "carnot_cycle": {
+          "name": "Carnot Cycle",
+          "definition": "Idealized thermodynamic cycle",
+          "coordinates": [
+            0.66,
+            0.78,
+            0.42,
+            0.88
+          ]
+        },
+        "boltzmann_distribution": {
+          "name": "Boltzmann Distribution",
+          "definition": "Probability distribution of particle energies",
+          "coordinates": [
+            0.62,
+            0.76,
+            0.46,
+            0.84
+          ]
+        },
+        "partition_function": {
+          "name": "Partition Function",
+          "definition": "Sum over all possible states in statistical mechanics",
+          "coordinates": [
+            0.64,
+            0.79,
+            0.44,
+            0.87
+          ]
+        },
+        "maxwell_demon": {
+          "name": "Maxwell's Demon",
+          "definition": "Thought experiment about entropy",
+          "coordinates": [
+            0.58,
+            0.72,
+            0.51,
+            0.83
+          ]
+        },
+        "electromagnetic_field": {
+          "name": "Electromagnetic Field",
+          "definition": "Physical field produced by electrically charged objects",
+          "coordinates": [
+            0.72,
+            0.68,
+            0.56,
+            0.89
+          ]
+        },
+        "gravitational_field": {
+          "name": "Gravitational Field",
+          "definition": "Field that represents gravitational force",
+          "coordinates": [
+            0.69,
+            0.71,
+            0.53,
+            0.87
+          ]
+        },
+        "quantum_field": {
+          "name": "Quantum Field",
+          "definition": "Field whose quanta are particles",
+          "coordinates": [
+            0.74,
+            0.76,
+            0.49,
+            0.92
+          ]
+        },
+        "gauge_theory": {
+          "name": "Gauge Theory",
+          "definition": "Field theory with gauge symmetry",
+          "coordinates": [
+            0.67,
+            0.81,
+            0.45,
+            0.9
+          ]
+        },
+        "yang_mills_theory": {
+          "name": "Yang-Mills Theory",
+          "definition": "Non-abelian gauge theory",
+          "coordinates": [
+            0.65,
+            0.83,
+            0.43,
+            0.91
+          ]
+        },
+        "higgs_field": {
+          "name": "Higgs Field",
+          "definition": "Field giving particles mass",
+          "coordinates": [
+            0.71,
+            0.74,
+            0.52,
+            0.88
+          ]
+        },
+        "vacuum_energy": {
+          "name": "Vacuum Energy",
+          "definition": "Energy of empty space",
+          "coordinates": [
+            0.63,
+            0.69,
+            0.48,
+            0.84
+          ]
+        },
+        "virtual_particle": {
+          "name": "Virtual Particle",
+          "definition": "Temporary particle in quantum field",
+          "coordinates": [
+            0.58,
+            0.66,
+            0.45,
+            0.79
+          ]
+        },
+        "feynman_diagram": {
+          "name": "Feynman Diagram",
+          "definition": "Pictorial representation of particle interactions",
+          "coordinates": [
+            0.66,
+            0.77,
+            0.47,
+            0.86
+          ]
+        },
+        "renormalization": {
+          "name": "Renormalization",
+          "definition": "Technique to remove infinities in quantum field theory",
+          "coordinates": [
+            0.61,
+            0.79,
+            0.42,
+            0.88
+          ]
+        }
+      }
+    },
+    {
+      "domain_name": "Advanced Chemistry & Materials Science",
+      "description": "Organic chemistry, inorganic chemistry, physical chemistry, materials, and analytical techniques",
+      "concepts": {
+        "functional_group": {
+          "name": "Functional Group",
+          "definition": "Specific group of atoms within molecule",
+          "coordinates": [
+            0.68,
+            0.72,
+            0.51,
+            0.85
+          ]
+        },
+        "isomer": {
+          "name": "Isomer",
+          "definition": "Molecules with same formula but different structure",
+          "coordinates": [
+            0.64,
+            0.76,
+            0.48,
+            0.83
+          ]
+        },
+        "polymer": {
+          "name": "Polymer",
+          "definition": "Large molecule composed of repeating units",
+          "coordinates": [
+            0.71,
+            0.69,
+            0.54,
+            0.87
+          ]
+        },
+        "biomolecule": {
+          "name": "Biomolecule",
+          "definition": "Molecule produced by living organism",
+          "coordinates": [
+            0.78,
+            0.65,
+            0.58,
+            0.89
+          ]
+        },
+        "hydrocarbon": {
+          "name": "Hydrocarbon",
+          "definition": "Compound consisting of hydrogen and carbon",
+          "coordinates": [
+            0.62,
+            0.68,
+            0.49,
+            0.81
+          ]
+        },
+        "alkane": {
+          "name": "Alkane",
+          "definition": "Saturated hydrocarbon",
+          "coordinates": [
+            0.59,
+            0.66,
+            0.47,
+            0.78
+          ]
+        },
+        "alkene": {
+          "name": "Alkene",
+          "definition": "Unsaturated hydrocarbon with double bond",
+          "coordinates": [
+            0.61,
+            0.67,
+            0.48,
+            0.79
+          ]
+        },
+        "alkyne": {
+          "name": "Alkyne",
+          "definition": "Unsaturated hydrocarbon with triple bond",
+          "coordinates": [
+            0.6,
+            0.68,
+            0.46,
+            0.77
+          ]
+        },
+        "aromatic_compound": {
+          "name": "Aromatic Compound",
+          "definition": "Compound with conjugated ring system",
+          "coordinates": [
+            0.66,
+            0.71,
+            0.52,
+            0.84
+          ]
+        },
+        "benzene": {
+          "name": "Benzene",
+          "definition": "Aromatic hydrocarbon with hexagonal ring",
+          "coordinates": [
+            0.64,
+            0.69,
+            0.51,
+            0.82
+          ]
+        },
+        "coordination_compound": {
+          "name": "Coordination Compound",
+          "definition": "Complex with central metal atom",
+          "coordinates": [
+            0.67,
+            0.73,
+            0.49,
+            0.85
+          ]
+        },
+        "crystal_structure": {
+          "name": "Crystal Structure",
+          "definition": "Ordered arrangement of atoms in crystal",
+          "coordinates": [
+            0.69,
+            0.75,
+            0.47,
+            0.87
+          ]
+        },
+        "semiconductor": {
+          "name": "Semiconductor",
+          "definition": "Material with conductivity between conductor and insulator",
+          "coordinates": [
+            0.65,
+            0.71,
+            0.56,
+            0.84
+          ]
+        },
+        "transition_metal": {
+          "name": "Transition Metal",
+          "definition": "Element with partially filled d orbitals",
+          "coordinates": [
+            0.63,
+            0.69,
+            0.52,
+            0.82
+          ]
+        },
+        "oxidation_state": {
+          "name": "Oxidation State",
+          "definition": "Degree of oxidation of atom",
+          "coordinates": [
+            0.58,
+            0.74,
+            0.48,
+            0.81
+          ]
+        },
+        "ligand": {
+          "name": "Ligand",
+          "definition": "Ion or molecule bonded to central metal atom",
+          "coordinates": [
+            0.66,
+            0.7,
+            0.51,
+            0.83
+          ]
+        },
+        "crystal_field_theory": {
+          "name": "Crystal Field Theory",
+          "definition": "Model of metal-ligand bonding",
+          "coordinates": [
+            0.64,
+            0.77,
+            0.46,
+            0.86
+          ]
+        },
+        "ionic_bond": {
+          "name": "Ionic Bond",
+          "definition": "Electrostatic attraction between ions",
+          "coordinates": [
+            0.61,
+            0.72,
+            0.49,
+            0.8
+          ]
+        },
+        "covalent_bond": {
+          "name": "Covalent Bond",
+          "definition": "Sharing of electron pairs",
+          "coordinates": [
+            0.68,
+            0.71,
+            0.52,
+            0.84
+          ]
+        },
+        "metallic_bond": {
+          "name": "Metallic Bond",
+          "definition": "Bonding in metals through delocalized electrons",
+          "coordinates": [
+            0.65,
+            0.69,
+            0.54,
+            0.82
+          ]
+        },
+        "chemical_kinetics": {
+          "name": "Chemical Kinetics",
+          "definition": "Study of reaction rates",
+          "coordinates": [
+            0.62,
+            0.75,
+            0.48,
+            0.85
+          ]
+        },
+        "reaction_mechanism": {
+          "name": "Reaction Mechanism",
+          "definition": "Step-by-step sequence of elementary reactions",
+          "coordinates": [
+            0.66,
+            0.78,
+            0.46,
+            0.87
+          ]
+        },
+        "activation_energy": {
+          "name": "Activation Energy",
+          "definition": "Minimum energy needed for reaction",
+          "coordinates": [
+            0.59,
+            0.73,
+            0.51,
+            0.83
+          ]
+        },
+        "catalyst": {
+          "name": "Catalyst",
+          "definition": "Substance that increases reaction rate",
+          "coordinates": [
+            0.72,
+            0.68,
+            0.57,
+            0.88
+          ]
+        },
+        "chemical_equilibrium": {
+          "name": "Chemical Equilibrium",
+          "definition": "State where forward and reverse rates equal",
+          "coordinates": [
+            0.7,
+            0.76,
+            0.45,
+            0.86
+          ]
+        },
+        "le_chatelier_principle": {
+          "name": "Le Chatelier's Principle",
+          "definition": "System response to disturbance",
+          "coordinates": [
+            0.67,
+            0.79,
+            0.43,
+            0.88
+          ]
+        },
+        "electrochemistry": {
+          "name": "Electrochemistry",
+          "definition": "Study of chemical processes involving electricity",
+          "coordinates": [
+            0.64,
+            0.72,
+            0.53,
+            0.84
+          ]
+        },
+        "redox_reaction": {
+          "name": "Redox Reaction",
+          "definition": "Reaction involving electron transfer",
+          "coordinates": [
+            0.61,
+            0.74,
+            0.5,
+            0.82
+          ]
+        },
+        "spectroscopy": {
+          "name": "Spectroscopy",
+          "definition": "Study of interaction between matter and radiation",
+          "coordinates": [
+            0.68,
+            0.77,
+            0.48,
+            0.89
+          ]
+        },
+        "molecular_orbital": {
+          "name": "Molecular Orbital",
+          "definition": "Region where electrons reside in molecule",
+          "coordinates": [
+            0.71,
+            0.73,
+            0.49,
+            0.87
+          ]
+        },
+        "composite_material": {
+          "name": "Composite Material",
+          "definition": "Material made from two or more constituents",
+          "coordinates": [
+            0.69,
+            0.71,
+            0.55,
+            0.86
+          ]
+        },
+        "alloy": {
+          "name": "Alloy",
+          "definition": "Mixture of metals or metal with other elements",
+          "coordinates": [
+            0.66,
+            0.68,
+            0.53,
+            0.83
+          ]
+        },
+        "ceramic": {
+          "name": "Ceramic",
+          "definition": "Inorganic non-metallic solid",
+          "coordinates": [
+            0.63,
+            0.69,
+            0.51,
+            0.81
+          ]
+        },
+        "nanomaterial": {
+          "name": "Nanomaterial",
+          "definition": "Material with nanoscale dimensions",
+          "coordinates": [
+            0.72,
+            0.74,
+            0.58,
+            0.89
+          ]
+        },
+        "superconductor": {
+          "name": "Superconductor",
+          "definition": "Material with zero electrical resistance",
+          "coordinates": [
+            0.75,
+            0.76,
+            0.61,
+            0.91
+          ]
+        },
+        "graphene": {
+          "name": "Graphene",
+          "definition": "Single layer of carbon atoms in hexagonal lattice",
+          "coordinates": [
+            0.73,
+            0.72,
+            0.59,
+            0.88
+          ]
+        },
+        "carbon_nanotube": {
+          "name": "Carbon Nanotube",
+          "definition": "Cylindrical carbon molecule",
+          "coordinates": [
+            0.71,
+            0.73,
+            0.57,
+            0.87
+          ]
+        },
+        "smart_material": {
+          "name": "Smart Material",
+          "definition": "Material that responds to environmental changes",
+          "coordinates": [
+            0.74,
+            0.69,
+            0.62,
+            0.89
+          ]
+        },
+        "biomaterial": {
+          "name": "Biomaterial",
+          "definition": "Material for medical applications",
+          "coordinates": [
+            0.79,
+            0.67,
+            0.56,
+            0.88
+          ]
+        },
+        "metamaterial": {
+          "name": "Metamaterial",
+          "definition": "Engineered material with properties not found in nature",
+          "coordinates": [
+            0.76,
+            0.75,
+            0.63,
+            0.92
+          ]
+        },
+        "chromatography": {
+          "name": "Chromatography",
+          "definition": "Separation technique for mixtures",
+          "coordinates": [
+            0.65,
+            0.76,
+            0.49,
+            0.86
+          ]
+        },
+        "mass_spectrometry": {
+          "name": "Mass Spectrometry",
+          "definition": "Technique to measure mass-to-charge ratio",
+          "coordinates": [
+            0.67,
+            0.79,
+            0.47,
+            0.88
+          ]
+        },
+        "nmr_spectroscopy": {
+          "name": "NMR Spectroscopy",
+          "definition": "Technique exploiting magnetic properties of nuclei",
+          "coordinates": [
+            0.69,
+            0.81,
+            0.48,
+            0.9
+          ]
+        },
+        "x_ray_diffraction": {
+          "name": "X-ray Diffraction",
+          "definition": "Technique to determine crystal structure",
+          "coordinates": [
+            0.68,
+            0.78,
+            0.51,
+            0.87
+          ]
+        },
+        "infrared_spectroscopy": {
+          "name": "Infrared Spectroscopy",
+          "definition": "Technique using infrared radiation",
+          "coordinates": [
+            0.66,
+            0.75,
+            0.49,
+            0.85
+          ]
+        },
+        "uv_vis_spectroscopy": {
+          "name": "UV-Vis Spectroscopy",
+          "definition": "Technique using ultraviolet and visible light",
+          "coordinates": [
+            0.64,
+            0.74,
+            0.5,
+            0.84
+          ]
+        },
+        "electron_microscopy": {
+          "name": "Electron Microscopy",
+          "definition": "Imaging using electron beam",
+          "coordinates": [
+            0.7,
+            0.77,
+            0.52,
+            0.88
+          ]
+        },
+        "atomic_force_microscopy": {
+          "name": "Atomic Force Microscopy",
+          "definition": "Scanning probe microscopy technique",
+          "coordinates": [
+            0.68,
+            0.79,
+            0.5,
+            0.87
+          ]
+        },
+        "gas_chromatography": {
+          "name": "Gas Chromatography",
+          "definition": "Separation of volatile compounds",
+          "coordinates": [
+            0.63,
+            0.73,
+            0.48,
+            0.83
+          ]
+        },
+        "liquid_chromatography": {
+          "name": "Liquid Chromatography",
+          "definition": "Separation using liquid mobile phase",
+          "coordinates": [
+            0.64,
+            0.74,
+            0.49,
+            0.84
+          ]
+        }
+      }
+    },
+    {
+      "domain_name": "Neuroscience & Brain Sciences",
+      "description": "Brain structures, neurotransmitters, neural processes, cognitive functions, and disorders",
+      "concepts": {
+        "cerebral_cortex": {
+          "name": "Cerebral Cortex",
+          "definition": "Outer layer of brain responsible for higher functions",
+          "coordinates": [
+            0.76,
+            0.72,
+            0.54,
+            0.91
+          ]
+        },
+        "hippocampus": {
+          "name": "Hippocampus",
+          "definition": "Brain region critical for memory formation",
+          "coordinates": [
+            0.78,
+            0.69,
+            0.52,
+            0.89
+          ]
+        },
+        "amygdala": {
+          "name": "Amygdala",
+          "definition": "Brain structure involved in emotion processing",
+          "coordinates": [
+            0.81,
+            0.66,
+            0.58,
+            0.87
+          ]
+        },
+        "cerebellum": {
+          "name": "Cerebellum",
+          "definition": "Brain region coordinating movement and balance",
+          "coordinates": [
+            0.68,
+            0.74,
+            0.51,
+            0.85
+          ]
+        },
+        "thalamus": {
+          "name": "Thalamus",
+          "definition": "Relay station for sensory information",
+          "coordinates": [
+            0.71,
+            0.73,
+            0.49,
+            0.86
+          ]
+        },
+        "hypothalamus": {
+          "name": "Hypothalamus",
+          "definition": "Brain region regulating homeostasis",
+          "coordinates": [
+            0.73,
+            0.71,
+            0.53,
+            0.88
+          ]
+        },
+        "basal_ganglia": {
+          "name": "Basal Ganglia",
+          "definition": "Structures involved in motor control",
+          "coordinates": [
+            0.66,
+            0.75,
+            0.5,
+            0.84
+          ]
+        },
+        "frontal_lobe": {
+          "name": "Frontal Lobe",
+          "definition": "Brain region for executive functions",
+          "coordinates": [
+            0.74,
+            0.76,
+            0.52,
+            0.9
+          ]
+        },
+        "parietal_lobe": {
+          "name": "Parietal Lobe",
+          "definition": "Brain region processing sensory information",
+          "coordinates": [
+            0.69,
+            0.72,
+            0.48,
+            0.86
+          ]
+        },
+        "temporal_lobe": {
+          "name": "Temporal Lobe",
+          "definition": "Brain region for auditory processing and memory",
+          "coordinates": [
+            0.72,
+            0.7,
+            0.51,
+            0.87
+          ]
+        },
+        "dopamine": {
+          "name": "Dopamine",
+          "definition": "Neurotransmitter involved in reward and motivation",
+          "coordinates": [
+            0.79,
+            0.64,
+            0.61,
+            0.86
+          ]
+        },
+        "serotonin": {
+          "name": "Serotonin",
+          "definition": "Neurotransmitter regulating mood and sleep",
+          "coordinates": [
+            0.82,
+            0.67,
+            0.56,
+            0.89
+          ]
+        },
+        "gaba": {
+          "name": "GABA",
+          "definition": "Inhibitory neurotransmitter reducing neuronal excitability",
+          "coordinates": [
+            0.71,
+            0.73,
+            0.48,
+            0.85
+          ]
+        },
+        "glutamate": {
+          "name": "Glutamate",
+          "definition": "Primary excitatory neurotransmitter",
+          "coordinates": [
+            0.68,
+            0.71,
+            0.52,
+            0.84
+          ]
+        },
+        "acetylcholine": {
+          "name": "Acetylcholine",
+          "definition": "Neurotransmitter for muscle activation and memory",
+          "coordinates": [
+            0.72,
+            0.69,
+            0.54,
+            0.86
+          ]
+        },
+        "norepinephrine": {
+          "name": "Norepinephrine",
+          "definition": "Neurotransmitter for alertness and arousal",
+          "coordinates": [
+            0.7,
+            0.72,
+            0.57,
+            0.85
+          ]
+        },
+        "endorphin": {
+          "name": "Endorphin",
+          "definition": "Neurotransmitter producing pain relief and pleasure",
+          "coordinates": [
+            0.84,
+            0.62,
+            0.59,
+            0.88
+          ]
+        },
+        "oxytocin": {
+          "name": "Oxytocin",
+          "definition": "Hormone and neurotransmitter for bonding",
+          "coordinates": [
+            0.88,
+            0.65,
+            0.54,
+            0.87
+          ]
+        },
+        "vasopressin": {
+          "name": "Vasopressin",
+          "definition": "Hormone regulating water retention",
+          "coordinates": [
+            0.69,
+            0.74,
+            0.51,
+            0.83
+          ]
+        },
+        "cortisol": {
+          "name": "Cortisol",
+          "definition": "Stress hormone",
+          "coordinates": [
+            0.58,
+            0.71,
+            0.62,
+            0.81
+          ]
+        },
+        "synaptic_plasticity": {
+          "name": "Synaptic Plasticity",
+          "definition": "Ability of synapses to strengthen or weaken",
+          "coordinates": [
+            0.75,
+            0.7,
+            0.56,
+            0.89
+          ]
+        },
+        "action_potential": {
+          "name": "Action Potential",
+          "definition": "Electrical signal propagating along neuron",
+          "coordinates": [
+            0.67,
+            0.76,
+            0.52,
+            0.87
+          ]
+        },
+        "neurogenesis": {
+          "name": "Neurogenesis",
+          "definition": "Formation of new neurons",
+          "coordinates": [
+            0.8,
+            0.68,
+            0.58,
+            0.9
+          ]
+        },
+        "long_term_potentiation": {
+          "name": "Long-Term Potentiation",
+          "definition": "Persistent strengthening of synapses",
+          "coordinates": [
+            0.73,
+            0.72,
+            0.54,
+            0.88
+          ]
+        },
+        "neurotransmission": {
+          "name": "Neurotransmission",
+          "definition": "Process of signal transmission between neurons",
+          "coordinates": [
+            0.7,
+            0.74,
+            0.51,
+            0.86
+          ]
+        },
+        "myelination": {
+          "name": "Myelination",
+          "definition": "Formation of myelin sheath around axons",
+          "coordinates": [
+            0.68,
+            0.71,
+            0.49,
+            0.84
+          ]
+        },
+        "synapse": {
+          "name": "Synapse",
+          "definition": "Junction between two neurons",
+          "coordinates": [
+            0.72,
+            0.69,
+            0.53,
+            0.85
+          ]
+        },
+        "axon": {
+          "name": "Axon",
+          "definition": "Long projection of neuron conducting impulses",
+          "coordinates": [
+            0.66,
+            0.73,
+            0.5,
+            0.83
+          ]
+        },
+        "dendrite": {
+          "name": "Dendrite",
+          "definition": "Branched projection receiving signals",
+          "coordinates": [
+            0.71,
+            0.7,
+            0.52,
+            0.84
+          ]
+        },
+        "neuron": {
+          "name": "Neuron",
+          "definition": "Nerve cell transmitting information",
+          "coordinates": [
+            0.74,
+            0.72,
+            0.54,
+            0.87
+          ]
+        },
+        "memory_consolidation": {
+          "name": "Memory Consolidation",
+          "definition": "Process of stabilizing memory trace",
+          "coordinates": [
+            0.76,
+            0.71,
+            0.53,
+            0.89
+          ]
+        },
+        "working_memory": {
+          "name": "Working Memory",
+          "definition": "Short-term memory for active processing",
+          "coordinates": [
+            0.72,
+            0.75,
+            0.51,
+            0.87
+          ]
+        },
+        "attention": {
+          "name": "Attention",
+          "definition": "Cognitive process of selective concentration",
+          "coordinates": [
+            0.7,
+            0.77,
+            0.49,
+            0.88
+          ]
+        },
+        "executive_function": {
+          "name": "Executive Function",
+          "definition": "Higher-order cognitive processes",
+          "coordinates": [
+            0.74,
+            0.79,
+            0.52,
+            0.91
+          ]
+        },
+        "cognitive_control": {
+          "name": "Cognitive Control",
+          "definition": "Ability to regulate thoughts and actions",
+          "coordinates": [
+            0.71,
+            0.81,
+            0.5,
+            0.89
+          ]
+        },
+        "decision_making": {
+          "name": "Decision Making",
+          "definition": "Cognitive process of selecting option",
+          "coordinates": [
+            0.68,
+            0.78,
+            0.54,
+            0.87
+          ]
+        },
+        "perception": {
+          "name": "Perception",
+          "definition": "Organization and interpretation of sensory information",
+          "coordinates": [
+            0.73,
+            0.72,
+            0.48,
+            0.86
+          ]
+        },
+        "learning": {
+          "name": "Learning",
+          "definition": "Acquisition of knowledge or skills",
+          "coordinates": [
+            0.79,
+            0.69,
+            0.56,
+            0.9
+          ]
+        },
+        "neuroplasticity": {
+          "name": "Neuroplasticity",
+          "definition": "Brain's ability to reorganize itself",
+          "coordinates": [
+            0.77,
+            0.71,
+            0.58,
+            0.91
+          ]
+        },
+        "consciousness": {
+          "name": "Consciousness",
+          "definition": "State of being aware of surroundings",
+          "coordinates": [
+            0.82,
+            0.74,
+            0.61,
+            0.93
+          ]
+        },
+        "alzheimers_disease": {
+          "name": "Alzheimer's Disease",
+          "definition": "Progressive neurodegenerative disorder",
+          "coordinates": [
+            0.52,
+            0.68,
+            0.42,
+            0.79
+          ]
+        },
+        "parkinsons_disease": {
+          "name": "Parkinson's Disease",
+          "definition": "Neurodegenerative disorder affecting movement",
+          "coordinates": [
+            0.54,
+            0.71,
+            0.44,
+            0.81
+          ]
+        },
+        "schizophrenia": {
+          "name": "Schizophrenia",
+          "definition": "Mental disorder with abnormal perception",
+          "coordinates": [
+            0.48,
+            0.64,
+            0.38,
+            0.76
+          ]
+        },
+        "depression": {
+          "name": "Depression",
+          "definition": "Mental disorder with persistent sadness",
+          "coordinates": [
+            0.45,
+            0.62,
+            0.35,
+            0.74
+          ]
+        },
+        "anxiety_disorder": {
+          "name": "Anxiety Disorder",
+          "definition": "Mental disorder with excessive worry",
+          "coordinates": [
+            0.51,
+            0.66,
+            0.41,
+            0.77
+          ]
+        },
+        "epilepsy": {
+          "name": "Epilepsy",
+          "definition": "Neurological disorder with seizures",
+          "coordinates": [
+            0.49,
+            0.72,
+            0.39,
+            0.78
+          ]
+        },
+        "autism_spectrum": {
+          "name": "Autism Spectrum",
+          "definition": "Developmental disorder affecting communication",
+          "coordinates": [
+            0.58,
+            0.69,
+            0.46,
+            0.82
+          ]
+        },
+        "adhd": {
+          "name": "ADHD",
+          "definition": "Attention deficit hyperactivity disorder",
+          "coordinates": [
+            0.55,
+            0.67,
+            0.48,
+            0.79
+          ]
+        },
+        "stroke": {
+          "name": "Stroke",
+          "definition": "Interruption of blood supply to brain",
+          "coordinates": [
+            0.46,
+            0.74,
+            0.41,
+            0.8
+          ]
+        },
+        "traumatic_brain_injury": {
+          "name": "Traumatic Brain Injury",
+          "definition": "Brain damage from external force",
+          "coordinates": [
+            0.47,
+            0.76,
+            0.43,
+            0.81
+          ]
+        }
+      }
+    },
+    {
+      "domain_name": "Genetics & Molecular Biology",
+      "description": "DNA/RNA, gene regulation, genetic engineering, evolution, and molecular techniques",
+      "concepts": {
+        "dna": {
+          "name": "DNA",
+          "definition": "Deoxyribonucleic acid carrying genetic information",
+          "coordinates": [
+            0.76,
+            0.71,
+            0.58,
+            0.91
+          ]
+        },
+        "rna": {
+          "name": "RNA",
+          "definition": "Ribonucleic acid involved in protein synthesis",
+          "coordinates": [
+            0.74,
+            0.69,
+            0.56,
+            0.89
+          ]
+        },
+        "nucleotide": {
+          "name": "Nucleotide",
+          "definition": "Building block of nucleic acids",
+          "coordinates": [
+            0.68,
+            0.72,
+            0.51,
+            0.85
+          ]
+        },
+        "codon": {
+          "name": "Codon",
+          "definition": "Three-nucleotide sequence coding for amino acid",
+          "coordinates": [
+            0.71,
+            0.74,
+            0.53,
+            0.87
+          ]
+        },
+        "transcription": {
+          "name": "Transcription",
+          "definition": "Process of copying DNA to RNA",
+          "coordinates": [
+            0.73,
+            0.73,
+            0.55,
+            0.88
+          ]
+        },
+        "translation": {
+          "name": "Translation",
+          "definition": "Process of synthesizing protein from RNA",
+          "coordinates": [
+            0.72,
+            0.75,
+            0.54,
+            0.89
+          ]
+        },
+        "dna_replication": {
+          "name": "DNA Replication",
+          "definition": "Process of copying DNA",
+          "coordinates": [
+            0.7,
+            0.76,
+            0.52,
+            0.87
+          ]
+        },
+        "double_helix": {
+          "name": "Double Helix",
+          "definition": "Structure of DNA molecule",
+          "coordinates": [
+            0.75,
+            0.7,
+            0.57,
+            0.88
+          ]
+        },
+        "base_pair": {
+          "name": "Base Pair",
+          "definition": "Pair of complementary nucleotide bases",
+          "coordinates": [
+            0.69,
+            0.73,
+            0.51,
+            0.86
+          ]
+        },
+        "messenger_rna": {
+          "name": "Messenger RNA",
+          "definition": "RNA carrying genetic information for protein synthesis",
+          "coordinates": [
+            0.72,
+            0.71,
+            0.54,
+            0.87
+          ]
+        },
+        "gene_expression": {
+          "name": "Gene Expression",
+          "definition": "Process of gene information being used",
+          "coordinates": [
+            0.74,
+            0.72,
+            0.56,
+            0.89
+          ]
+        },
+        "promoter": {
+          "name": "Promoter",
+          "definition": "DNA sequence initiating transcription",
+          "coordinates": [
+            0.68,
+            0.75,
+            0.52,
+            0.86
+          ]
+        },
+        "enhancer": {
+          "name": "Enhancer",
+          "definition": "DNA sequence increasing transcription",
+          "coordinates": [
+            0.71,
+            0.73,
+            0.54,
+            0.87
+          ]
+        },
+        "epigenetics": {
+          "name": "Epigenetics",
+          "definition": "Heritable changes not involving DNA sequence",
+          "coordinates": [
+            0.76,
+            0.74,
+            0.58,
+            0.91
+          ]
+        },
+        "chromatin": {
+          "name": "Chromatin",
+          "definition": "Complex of DNA and proteins",
+          "coordinates": [
+            0.69,
+            0.71,
+            0.53,
+            0.85
+          ]
+        },
+        "histone": {
+          "name": "Histone",
+          "definition": "Protein around which DNA wraps",
+          "coordinates": [
+            0.67,
+            0.7,
+            0.51,
+            0.84
+          ]
+        },
+        "transcription_factor": {
+          "name": "Transcription Factor",
+          "definition": "Protein controlling gene transcription",
+          "coordinates": [
+            0.72,
+            0.76,
+            0.55,
+            0.88
+          ]
+        },
+        "gene_silencing": {
+          "name": "Gene Silencing",
+          "definition": "Regulation preventing gene expression",
+          "coordinates": [
+            0.64,
+            0.78,
+            0.49,
+            0.86
+          ]
+        },
+        "rna_interference": {
+          "name": "RNA Interference",
+          "definition": "Gene silencing by RNA molecules",
+          "coordinates": [
+            0.7,
+            0.77,
+            0.52,
+            0.88
+          ]
+        },
+        "methylation": {
+          "name": "Methylation",
+          "definition": "Addition of methyl groups to DNA",
+          "coordinates": [
+            0.66,
+            0.74,
+            0.5,
+            0.85
+          ]
+        },
+        "crispr": {
+          "name": "CRISPR",
+          "definition": "Gene editing technology",
+          "coordinates": [
+            0.78,
+            0.76,
+            0.64,
+            0.92
+          ]
+        },
+        "gene_therapy": {
+          "name": "Gene Therapy",
+          "definition": "Treatment using genetic modification",
+          "coordinates": [
+            0.82,
+            0.72,
+            0.61,
+            0.91
+          ]
+        },
+        "cloning": {
+          "name": "Cloning",
+          "definition": "Creating genetically identical copy",
+          "coordinates": [
+            0.68,
+            0.74,
+            0.58,
+            0.87
+          ]
+        },
+        "gmo": {
+          "name": "GMO",
+          "definition": "Genetically modified organism",
+          "coordinates": [
+            0.65,
+            0.71,
+            0.62,
+            0.85
+          ]
+        },
+        "recombinant_dna": {
+          "name": "Recombinant DNA",
+          "definition": "DNA formed by combining sequences",
+          "coordinates": [
+            0.71,
+            0.75,
+            0.57,
+            0.88
+          ]
+        },
+        "plasmid": {
+          "name": "Plasmid",
+          "definition": "Small circular DNA molecule",
+          "coordinates": [
+            0.67,
+            0.72,
+            0.53,
+            0.84
+          ]
+        },
+        "vector": {
+          "name": "Vector",
+          "definition": "DNA molecule for transferring genetic material",
+          "coordinates": [
+            0.69,
+            0.74,
+            0.55,
+            0.86
+          ]
+        },
+        "transformation": {
+          "name": "Transformation",
+          "definition": "Genetic alteration of cell",
+          "coordinates": [
+            0.72,
+            0.73,
+            0.58,
+            0.87
+          ]
+        },
+        "transgenic_organism": {
+          "name": "Transgenic Organism",
+          "definition": "Organism with foreign gene",
+          "coordinates": [
+            0.7,
+            0.71,
+            0.6,
+            0.86
+          ]
+        },
+        "gene_knockout": {
+          "name": "Gene Knockout",
+          "definition": "Inactivation of specific gene",
+          "coordinates": [
+            0.64,
+            0.77,
+            0.54,
+            0.85
+          ]
+        },
+        "natural_selection": {
+          "name": "Natural Selection",
+          "definition": "Differential survival and reproduction",
+          "coordinates": [
+            0.73,
+            0.78,
+            0.59,
+            0.9
+          ]
+        },
+        "genetic_drift": {
+          "name": "Genetic Drift",
+          "definition": "Random change in allele frequencies",
+          "coordinates": [
+            0.62,
+            0.71,
+            0.48,
+            0.82
+          ]
+        },
+        "speciation": {
+          "name": "Speciation",
+          "definition": "Formation of new species",
+          "coordinates": [
+            0.71,
+            0.74,
+            0.56,
+            0.88
+          ]
+        },
+        "phylogeny": {
+          "name": "Phylogeny",
+          "definition": "Evolutionary history and relationships",
+          "coordinates": [
+            0.69,
+            0.76,
+            0.52,
+            0.87
+          ]
+        },
+        "mutation": {
+          "name": "Mutation",
+          "definition": "Change in DNA sequence",
+          "coordinates": [
+            0.58,
+            0.69,
+            0.54,
+            0.81
+          ]
+        },
+        "adaptation": {
+          "name": "Adaptation",
+          "definition": "Trait enhancing survival and reproduction",
+          "coordinates": [
+            0.75,
+            0.72,
+            0.61,
+            0.89
+          ]
+        },
+        "fitness": {
+          "name": "Fitness",
+          "definition": "Reproductive success of organism",
+          "coordinates": [
+            0.72,
+            0.74,
+            0.58,
+            0.87
+          ]
+        },
+        "allele": {
+          "name": "Allele",
+          "definition": "Variant form of gene",
+          "coordinates": [
+            0.66,
+            0.71,
+            0.51,
+            0.84
+          ]
+        },
+        "genotype": {
+          "name": "Genotype",
+          "definition": "Genetic makeup of organism",
+          "coordinates": [
+            0.7,
+            0.73,
+            0.53,
+            0.86
+          ]
+        },
+        "phenotype": {
+          "name": "Phenotype",
+          "definition": "Observable characteristics of organism",
+          "coordinates": [
+            0.73,
+            0.7,
+            0.56,
+            0.87
+          ]
+        },
+        "pcr": {
+          "name": "PCR",
+          "definition": "Polymerase chain reaction for DNA amplification",
+          "coordinates": [
+            0.68,
+            0.77,
+            0.55,
+            0.88
+          ]
+        },
+        "dna_sequencing": {
+          "name": "DNA Sequencing",
+          "definition": "Determining nucleotide order",
+          "coordinates": [
+            0.71,
+            0.79,
+            0.54,
+            0.9
+          ]
+        },
+        "gel_electrophoresis": {
+          "name": "Gel Electrophoresis",
+          "definition": "Separation of DNA fragments",
+          "coordinates": [
+            0.65,
+            0.75,
+            0.51,
+            0.86
+          ]
+        },
+        "western_blot": {
+          "name": "Western Blot",
+          "definition": "Technique for detecting proteins",
+          "coordinates": [
+            0.67,
+            0.76,
+            0.52,
+            0.87
+          ]
+        },
+        "southern_blot": {
+          "name": "Southern Blot",
+          "definition": "Technique for detecting DNA sequences",
+          "coordinates": [
+            0.66,
+            0.77,
+            0.51,
+            0.86
+          ]
+        },
+        "northern_blot": {
+          "name": "Northern Blot",
+          "definition": "Technique for detecting RNA",
+          "coordinates": [
+            0.66,
+            0.76,
+            0.52,
+            0.85
+          ]
+        },
+        "microarray": {
+          "name": "Microarray",
+          "definition": "Tool for analyzing gene expression",
+          "coordinates": [
+            0.7,
+            0.78,
+            0.56,
+            0.89
+          ]
+        },
+        "flow_cytometry": {
+          "name": "Flow Cytometry",
+          "definition": "Technique for analyzing cell properties",
+          "coordinates": [
+            0.68,
+            0.79,
+            0.54,
+            0.88
+          ]
+        },
+        "immunofluorescence": {
+          "name": "Immunofluorescence",
+          "definition": "Technique using fluorescent antibodies",
+          "coordinates": [
+            0.72,
+            0.75,
+            0.57,
+            0.88
+          ]
+        },
+        "cell_culture": {
+          "name": "Cell Culture",
+          "definition": "Growth of cells under controlled conditions",
+          "coordinates": [
+            0.74,
+            0.71,
+            0.59,
+            0.87
+          ]
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "total_concepts_added": 500,
+    "total_domains_added": 4,
+    "phase_description": "Advanced scientific domains including physics, chemistry, neuroscience, and genetics"
+  }
+}

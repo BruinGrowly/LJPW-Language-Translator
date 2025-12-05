@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "total_concepts": 5000,
+    "total_domains": 55,
+    "analysis_date": "2025-12-05"
+  },
+  "coverage": {
+    "Love": {
+      "min": 0.08,
+      "max": 1.0,
+      "mean": 0.6792478447610909,
+      "std": 0.1279249038383514,
+      "median": 0.68,
+      "range": 0.92,
+      "equilibrium": 0.6180339887498948,
+      "distance_from_eq": 0.06121385601119611
+    },
+    "Justice": {
+      "min": 0.12,
+      "max": 1.0,
+      "mean": 0.7109666890057347,
+      "std": 0.12067976006770285,
+      "median": 0.7379494061395352,
+      "range": 0.88,
+      "equilibrium": 0.41421356237309515,
+      "distance_from_eq": 0.29675312663263953
+    },
+    "Power": {
+      "min": 0.03,
+      "max": 1.0,
+      "mean": 0.6437647009834658,
+      "std": 0.13089833581475468,
+      "median": 0.66,
+      "range": 0.97,
+      "equilibrium": 0.7182818284590451,
+      "distance_from_eq": 0.07451712747557926
+    },
+    "Wisdom": {
+      "min": 0.27999999999999997,
+      "max": 1.0,
+      "mean": 0.8220973072381188,
+      "std": 0.10738369693999347,
+      "median": 0.85,
+      "range": 0.72,
+      "equilibrium": 0.6931471805599453,
+      "distance_from_eq": 0.12895012667817352
+    }
+  },
+  "missing_anchors": [
+    {
+      "type": "dimensional_extreme",
+      "dimension": "Love",
+      "region": "low",
+      "range": [
+        0.0,
+        0.1
+      ],
+      "current_count": 

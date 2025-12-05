@@ -1,0 +1,347 @@
+{
+  "method": "Pure meaning space translation",
+  "approach": "Zero-shot via semantic field resonance detection",
+  "test_results": [
+    {
+      "source": "Tuyeghana Ahiahina",
+      "context_hint": "Good news/Gospel",
+      "detected_signature": {
+        "L": 0.65,
+        "J": 0.5,
+        "P": 0.4,
+        "W": 0.5,
+        "confidence": 0.2,
+        "patterns": [
+          "Soft phonetics (0.67)"
+        ]
+      },
+      "field_properties": {
+        "equilibrium_distance": 0.3833931330128981,
+        "emergent_dimension": "Soft (compassion-wisdom)"
+      },
+      "resonant_concepts": [
+        {
+          "name": "Bridge Concept 12",
+          "resonance_strength": 0.7824641391446399,
+          "resonance_type": "strong",
+          "distance": 0.056660970213158454
+        },
+        {
+          "name": "Little",
+          "resonance_strength": 0.756945602346716,
+          "resonance_type": "strong",
+          "distance": 0.09899494936611665
+        },
+        {
+          "name": "Bridge Concept: High Love, Moderate Justice",
+          "resonance_strength": 0.75429734653663,
+          "resonance_type": "strong",
+          "distance": 0.10358336484003502
+        },
+        {
+          "name": "Bridge Concept 127",
+          "resonance_strength": 0.7462851053901878,
+          "resonance_type": "strong",
+          "distance": 0.11770181659339697
+        },
+        {
+          "name": "Sit",
+          "resonance_strength": 0.7454670044484774,
+          "resonance_type": "strong",
+          "distance": 0.11916375287812989
+        },
+        {
+          "name": "Food Cooking Concept 44",
+          "resonance_strength": 0.7425558172689048,
+          "resonance_type": "strong",
+          "distance": 0.12439717143891713
+        },
+        {
+          "name": "Bridge Concept 150",
+          "resonance_strength": 0.7417063817200702,
+          "resonance_type": "strong",
+          "distance": 0.12593343189322817
+        },
+        {
+          "name": "Mouse",
+          "resonance_strength": 0.7378062273546263,
+          "resonance_type": "strong",
+          "distance": 0.13304134695650072
+        },
+        {
+          "name": "Bridge Concept: High Love, Moderate Justice",
+          "resonance_strength": 0.7364165144912562,
+          "resonance_type": "strong",
+          "distance": 0.13559579203961972
+        },
+        {
+          "name": "Balanced Concept 943",
+          "resonance_strength": 0.7363790349274806,
+          "resonance_type": "strong",
+          "distance": 0.1356648431145256
+        }
+      ],
+      "translation_candidates": [
+        "Bridge Concept 12",
+        "Little",
+        "Bridge Concept: High Love, Moderate Justice",
+        "Bridge Concept 127",
+        "Sit"
+      ],
+      "suggested_translation": "Bridge Concept 12 / Little / Bridge Concept: High Love, Moderate Justice"
+    },
+    {
+      "source": "Aruwa Vivivireinei",
+      "context_hint": "Holy Spirit",
+      "detected_signature": {
+        "L": 0.95,
+        "J": 0.7,
+        "P": 0.35,
+        "W": 1.0,
+        "confidence": 0.6,
+        "patterns": [
+          "Divine/Sacred marker",
+          "Spirit context"
+        ]
+      },
+      "field_properties": {
+        "equilibrium_distance": 0.6493577431033144,
+        "emergent_dimension": "Soft (compassion-wisdom), Measured"
+      },
+      "resonant_concepts": [
+        {
+          "name": "Linguistics & Language Studies Concept 67",
+          "resonance_strength": 0.6690581438855117,
+          "resonance_type": "moderate",
+          "distance": 0.0462468866080838
+        },
+        {
+          "name": "Linguistics & Language Studies Concept 44",
+          "resonance_strength": 0.6644415136926843,
+          "resonance_type": "moderate",
+          "distance": 0.05351635256758206
+        },
+        {
+          "name": "Linguistics & Language Studies Concept 73",
+          "resonance_strength": 0.6116054249207218,
+          "resonance_type": "moderate",
+          "distance": 0.1445287622992163
+        },
+        {
+          "name": "Theater & Performing Arts Concept 28",
+          "resonance_strength": 0.610287877199368,
+          "resonance_type": "moderate",
+          "distance": 0.14699968023668444
+        },
+        {
+          "name": "Design & Visual Communication Concept 19",
+          "resonance_strength": 0.609544173863287,
+          "resonance_type": "moderate",
+          "distance": 0.14839913170427765
+        },
+        {
+          "name": "Literature & Literary Theory Concept 67",
+          "resonance_strength": 0.6079431096194393,
+          "resonance_type": "moderate",
+          "distance": 0.15142352783336327
+        },
+        {
+          "name": "Nun",
+          "resonance_strength": 0.6072997208382142,
+          "resonance_type": "moderate",
+          "distance": 0.15264337522473742
+        },
+        {
+          "name": "Literature & Literary Theory Concept 102",
+          "resonance_strength": 0.6064864459356505,
+          "resonance_type": "moderate",
+          "distance": 0.15418902547786106
+        },
+        {
+          "name": "Meditation",
+          "resonance_strength": 0.6064425933786206,
+          "resonance_type": "moderate",
+          "distance": 0.1542724862054151
+        },
+        {
+          "name": "Buddha",
+          "resonance_strength": 0.6064425933786205,
+          "resonance_type": "moderate",
+          "distance": 0.15427248620541514
+        }
+      ],
+      "translation_candidates": [],
+      "suggested_translation": ""
+    },
+    {
+      "source": "vibadana vouna",
+      "context_hint": "Kingdom",
+      "detected_signature": {
+        "L": 0.5,
+        "J": 0.75,
+        "P": 0.7,
+        "W": 0.65,
+        "confidence": 0.3,
+        "patterns": [
+          "Governance context"
+        ]
+      },
+      "field_properties": {
+        "equilibrium_distance": 0.35899924601098543,
+        "emergent_dimension": "Hard (justice-power)"
+      },
+      "resonant_concepts": [
+        {
+          "name": "Spatial Concept 24",
+          "resonance_strength": 0.6577806091661685,
+          "resonance_type": "moderate",
+          "distance": 0.0641846084325147
+        },
+        {
+          "name": "Marketing & Advertising Concept 30",
+          "resonance_strength": 0.6570156491102199,
+          "resonance_type": "moderate",
+          "distance": 0.06542363328482781
+        },
+        {
+          "name": "Information Technology & Software Concept 57",
+          "resonance_strength": 0.6551630531813659,
+          "resonance_type": "moderate",
+          "distance": 0.06843631764781784
+        },
+        {
+          "name": "Information Technology & Software Concept 121",
+          "resonance_strength": 0.6467867695402667,
+          "resonance_type": "moderate",
+          "distance": 0.08227322042712322
+        },
+        {
+          "name": "Food Cooking Concept 50",
+          "resonance_strength": 0.6343894579858634,
+          "resonance_type": "moderate",
+          "distance": 0.10342312784081387
+        },
+        {
+          "name": "Objects Concept 46",
+          "resonance_strength": 0.6327341483247079,
+          "resonance_type": "moderate",
+          "distance": 0.10630981724851134
+        },
+        {
+          "name": "Animals Concept 45",
+          "resonance_strength": 0.6320563828988884,
+          "resonance_type": "moderate",
+          "distance": 0.10749613316060869
+        },
+        {
+          "name": "Indignation",
+          "resonance_strength": 0.6316740091219833,
+          "resonance_type": "moderate",
+          "distance": 0.10816653826391967
+        },
+        {
+          "name": "Business & Management Concept 26",
+          "resonance_strength": 0.6315534890160774,
+          "resonance_type": "moderate",
+          "distance": 0.10837801100672895
+        },
+        {
+          "name": "Political Science & International Relations Concept 69",
+          "resonance_strength": 0.6262897873257864,
+          "resonance_type": "moderate",
+          "distance": 0.11769346102377133
+        }
+      ],
+      "translation_candidates": [],
+      "suggested_translation": ""
+    },
+    {
+      "source": "apoapoe",
+      "context_hint": "sin/wrong",
+      "detected_signature": {
+        "L": 0.3,
+        "J": 0.25,
+        "P": 0.5,
+        "W": 0.5,
+        "confidence": 0.3,
+        "patterns": [
+          "Moral failing context"
+        ]
+      },
+      "field_properties": {
+        "equilibrium_distance": 0.461589105223586,
+        "emergent_dimension": "Balanced"
+      },
+      "resonant_concepts": [
+        {
+          "name": "Irritation",
+          "resonance_strength": 0.7543792954315979,
+          "resonance_type": "strong",
+          "distance": 0.10344080432788605
+        },
+        {
+          "name": "Bridge Concept 110",
+          "resonance_strength": 0.7478485877956832,
+          "resonance_type": "strong",
+          "distance": 0.114918490869962
+        },
+        {
+          "name": "Annoyance",
+          "resonance_strength": 0.7355940028479263,
+          "resonance_type": "strong",
+          "distance": 0.13711309200802096
+        },
+        {
+          "name": "Low Love, Justice Concept",
+          "resonance_strength": 0.7355017727901765,
+          "resonance_type": "strong",
+          "distance": 0.1372834830788195
+        },
+        {
+          "name": "Ugly",
+          "resonance_strength": 0.7328917199174696,
+          "resonance_type": "strong",
+          "distance": 0.14212670403551897
+        },
+        {
+          "name": "Pain",
+          "resonance_strength": 0.7290495124665269,
+          "resonance_type": "strong",
+          "distance": 0.1493318452306808
+        },
+        {
+          "name": "Bridge Concept 155",
+          "resonance_strength": 0.7284169195030625,
+          "resonance_type": "strong",
+          "distance": 0.1505268469058023
+        },
+        {
+          "name": "Low Love Concept",
+          "resonance_strength": 0.7274725126477923,
+          "resonance_type": "strong",
+          "distance": 0.15231551292569245
+        },
+        {
+          "name": "Anxiety",
+          "resonance_strength": 0.7264425933786205,
+          "resonance_type": "strong",
+          "distance": 0.15427248620541512
+        },
+        {
+          "name": "Bridge Concept 99",
+          "resonance_strength": 0.725590210462614,
+          "resonance_type": "strong",
+          "distance": 0.15589715273842658
+        }
+      ],
+      "translation_candidates": [
+        "Irritation",
+        "Bridge Concept 110",
+        "Annoyance",
+        "Low Love, Justice Concept",
+        "Ugly"
+      ],
+      "suggested_translation": "Irritation / Bridge Concept 110 / Annoyance"
+    }
+  ]
+}
