@@ -1,0 +1,284 @@
+{
+  "book": "Luke",
+  "chapter": 5,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 39,
+  "verses": {
+    "1": "Now while the multitude pressed on him and heard the word of God, he was standing by the lake of Gennesaret.",
+    "2": "He saw two boats standing by the lake, but the fishermen had gone out of them, and were washing their nets.",
+    "3": "He entered into one of the boats, which was Simon’s, and asked him to put out a little from the land. He sat down and taught the multitudes from the boat.",
+    "4": "When he had finished speaking, he said to Simon, “Put out into the deep, and let down your nets for a catch.”",
+    "5": "Simon answered him, “Master, we worked all night, and took nothing; but at your word I will let down the net.”",
+    "6": "When they had done this, they caught a great multitude of fish, and their net was breaking.",
+    "7": "They beckoned to their partners in the other boat, that they should come and help them. They came, and filled both boats, so that they began to sink.",
+    "8": "But Simon Peter, when he saw it, fell down at Jesus’ knees, saying, “Depart from me, for I am a sinful man, Lord.”",
+    "9": "For he was amazed, and all who were with him, at the catch of fish which they had caught;",
+    "10": "and so also were James and John, sons of Zebedee, who were partners with Simon. Jesus said to Simon, “Don’t be afraid. From now on you will be catching people alive.”",
+    "11": "When they had brought their boats to land, they left everything, and followed him.",
+    "12": "While he was in one of the cities, behold, there was a man full of leprosy. When he saw Jesus, he fell on his face, and begged him, saying, “Lord, if you want to, you can make me clean.”",
+    "13": "He stretched out his hand, and touched him, saying, “I want to. Be made clean.” Immediately the leprosy left him.",
+    "14": "He commanded him to tell no one, “But go your way, and show yourself to the priest, and offer for your cleansing according to what Moses commanded, for a testimony to them.”",
+    "15": "But the report concerning him spread much more, and great multitudes came together to hear, and to be healed by him of their infirmities.",
+    "16": "But he withdrew himself into the desert, and prayed.",
+    "17": "On one of those days, he was teaching; and there were Pharisees and teachers of the law sitting by, who had come out of every village of Galilee, Judea, and Jerusalem. The power of the Lord was with him to heal them.",
+    "18": "Behold, men brought a paralyzed man on a cot, and they sought to bring him in to lay before Jesus.",
+    "19": "Not finding a way to bring him in because of the multitude, they went up to the housetop, and let him down through the tiles with his cot into the middle before Jesus.",
+    "20": "Seeing their faith, he said to him, “Man, your sins are forgiven you.”",
+    "21": "The scribes and the Pharisees began to reason, saying, “Who is this that speaks blasphemies? Who can forgive sins, but God alone?”",
+    "22": "But Jesus, perceiving their thoughts, answered them, “Why are you reasoning so in your hearts?",
+    "23": "Which is easier to say, ‘Your sins are forgiven you;’ or to say, ‘Arise and walk?’",
+    "24": "But that you may know that the Son of Man has authority on earth to forgive sins” (he said to the paralyzed man), “I tell you, arise, take up your cot, and go to your house.”",
+    "25": "Immediately he rose up before them, and took up that which he was laying on, and departed to his house, glorifying God.",
+    "26": "Amazement took hold on all, and they glorified God. They were filled with fear, saying, “We have seen strange things today.”",
+    "27": "After these things he went out, and saw a tax collector named Levi sitting at the tax office, and said to him, “Follow me!”",
+    "28": "He left everything, and rose up and followed him.",
+    "29": "Levi made a great feast for him in his house. There was a great crowd of tax collectors and others who were reclining with them.",
+    "30": "Their scribes and the Pharisees murmured against his disciples, saying, “Why do you eat and drink with the tax collectors and sinners?”",
+    "31": "Jesus answered them, “Those who are healthy have no need for a physician, but those who are sick do.",
+    "32": "I have not come to call the righteous, but sinners to repentance.”",
+    "33": "They said to him, “Why do John’s disciples often fast and pray, likewise also the disciples of the Pharisees, but yours eat and drink?”",
+    "34": "He said to them, “Can you make the friends of the bridegroom fast while the bridegroom is with them?",
+    "35": "But the days will come when the bridegroom will be taken away from them. Then they will fast in those days.”",
+    "36": "He also told a parable to them. “No one puts a piece from a new garment on an old garment, or else he will tear the new, and also the piece from the new will not match the old.",
+    "37": "No one puts new wine into old wine skins, or else the new wine will burst the skins, and it will be spilled, and the skins will be destroyed.",
+    "38": "But new wine must be put into fresh wine skins, and both are preserved.",
+    "39": "No man having drunk old wine immediately desires new, for he says, ‘The old is better.’ ”"
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.7668797953964195,
+      0.7835890878090367,
+      0.6001278772378517,
+      0.8725490196078431
+    ],
+    "2": [
+      0.5511904761904762,
+      0.5,
+      0.4616071428571428,
+      0.5
+    ],
+    "3": [
+      0.5,
+      0.5189075630252101,
+      0.5252100840336135,
+      0.5
+    ],
+    "4": [
+      0.516033934252386,
+      0.5702898550724638,
+      0.5863803464121597,
+      0.5953623188405797
+    ],
+    "5": [
+      0.5126506024096386,
+      0.5,
+      0.5,
+      0.5126506024096386
+    ],
+    "6": [
+      0.5165217391304348,
+      0.5702898550724638,
+      0.5860144927536232,
+      0.5953623188405797
+    ],
+    "7": [
+      0.4257142857142857,
+      0.4365934065934066,
+      0.5145054945054945,
+      0.5
+    ],
+    "8": [
+      0.7782229965156795,
+      0.7301587301587301,
+      0.5,
+      0.8242547425474254
+    ],
+    "9": [
+      0.5602941176470588,
+      0.5,
+      0.4547794117647059,
+      0.5
+    ],
+    "10": [
+      0.5850885826771653,
+      0.5677083333333334,
+      0.5,
+      0.598630249343832
+    ],
+    "11": [
+      0.5294372294372294,
+      0.5,
+      0.4779220779220779,
+      0.5714285714285714
+    ],
+    "12": [
+      0.6850802139037432,
+      0.6393939393939393,
+      0.48664438502673796,
+      0.6951515151515151
+    ],
+    "13": [
+      0.5511627906976745,
+      0.5,
+      0.46162790697674416,
+      0.5
+    ],
+    "14": [
+      0.4229166666666667,
+      0.41875,
+      0.5,
+      0.5041666666666667
+    ],
+    "15": [
+      0.5112612612612613,
+      0.5,
+      0.5,
+      0.5112612612612613
+    ],
+    "16": [
+      0.5,
+      0.5196428571428572,
+      0.5261904761904762,
+      0.5
+    ],
+    "17": [
+      0.7783260632497275,
+      0.7213740458015268,
+      0.49049209378407854,
+      0.8099236641221375
+    ],
+    "18": [
+      0.5851973684210526,
+      0.5677083333333334,
+      0.5,
+      0.5987390350877193
+    ],
+    "19": [
+      0.6007792207792207,
+      0.5619047619047619,
+      0.48012987012987013,
+      0.5866666666666667
+    ],
+    "20": [
+      0.4307071960297767,
+      0.4580645161290323,
+      0.5531792803970224,
+      0.5
+    ],
+    "21": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7661800486618005
+    ],
+    "22": [
+      0.6010434782608696,
+      0.5702898550724638,
+      0.4874782608695652,
+      0.637536231884058
+    ],
+    "23": [
+      0.43369196757553424,
+      0.41565217391304343,
+      0.4864701547531319,
+      0.5391304347826087
+    ],
+    "24": [
+      0.512604296112196,
+      0.7213740458015268,
+      0.8004704420379904,
+      0.6770992366412214
+    ],
+    "25": [
+      0.6016413373860182,
+      0.5619047619047619,
+      0.479483282674772,
+      0.5866666666666667
+    ],
+    "26": [
+      0.6002650957290132,
+      0.5619047619047619,
+      0.48051546391752575,
+      0.5866666666666667
+    ],
+    "27": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "28": [
+      0.5115384615384616,
+      0.5,
+      0.5,
+      0.5115384615384616
+    ],
+    "29": [
+      0.5509803921568628,
+      0.5,
+      0.4617647058823529,
+      0.5
+    ],
+    "30": [
+      0.4,
+      0.4,
+      0.5,
+      0.5463917525773196
+    ],
+    "31": [
+      0.603956043956044,
+      0.5619047619047619,
+      0.47774725274725277,
+      0.5866666666666667
+    ],
+    "32": [
+      0.5016788766788767,
+      0.8682539682539682,
+      0.638095238095238,
+      0.7318376068376068
+    ],
+    "33": [
+      0.5,
+      0.5666666666666667,
+      0.5,
+      0.679725085910653
+    ],
+    "34": [
+      0.5296564195298372,
+      0.5,
+      0.4777576853526221,
+      0.5714285714285714
+    ],
+    "35": [
+      0.5517647058823529,
+      0.5,
+      0.4611764705882353,
+      0.5
+    ],
+    "36": [
+      0.5131578947368421,
+      0.5,
+      0.5,
+      0.5131578947368421
+    ],
+    "37": [
+      0.5119266055045871,
+      0.5,
+      0.5,
+      0.5119266055045871
+    ],
+    "38": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "39": [
+      0.5119402985074627,
+      0.5,
+      0.5,
+      0.5119402985074627
+    ]
+  }
+}

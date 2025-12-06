@@ -1,0 +1,375 @@
+{
+  "book": "Luke",
+  "chapter": 2,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 52,
+  "verses": {
+    "1": "Now in those days, a decree went out from Caesar Augustus that all the world should be enrolled.",
+    "2": "This was the first enrollment made when Quirinius was governor of Syria.",
+    "3": "All went to enroll themselves, everyone to his own city.",
+    "4": "Joseph also went up from Galilee, out of the city of Nazareth, into Judea, to David’s city, which is called Bethlehem, because he was of the house and family of David;",
+    "5": "to enroll himself with Mary, who was pledged to be married to him as wife, being pregnant.",
+    "6": "While they were there, the day had come for her to give birth.",
+    "7": "She gave birth to her firstborn son. She wrapped him in bands of cloth, and laid him in a feeding trough, because there was no room for them in the inn.",
+    "8": "There were shepherds in the same country staying in the field, and keeping watch by night over their flock.",
+    "9": "Behold, an angel of the Lord stood by them, and the glory of the Lord shone around them, and they were terrified.",
+    "10": "The angel said to them, “Don’t be afraid, for behold, I bring you good news of great joy which will be to all the people.",
+    "11": "For there is born to you today, in David’s city, a Savior, who is Christ the Lord.",
+    "12": "This is the sign to you: you will find a baby wrapped in strips of cloth, lying in a feeding trough.”",
+    "13": "Suddenly, there was with the angel a multitude of the heavenly army praising God, and saying,",
+    "14": "“Glory to God in the highest, on earth peace, good will toward men.”",
+    "15": "When the angels went away from them into the sky, the shepherds said to one another, “Let’s go to Bethlehem, now, and see this thing that has happened, which the Lord has made known to us.”",
+    "16": "They came with haste, and found both Mary and Joseph, and the baby was lying in the feeding trough.",
+    "17": "When they saw it, they publicized widely the saying which was spoken to them about this child.",
+    "18": "All who heard it wondered at the things which were spoken to them by the shepherds.",
+    "19": "But Mary kept all these sayings, pondering them in her heart.",
+    "20": "The shepherds returned, glorifying and praising God for all the things that they had heard and seen, just as it was told them.",
+    "21": "When eight days were fulfilled for the circumcision of the child, his name was called Jesus, which was given by the angel before he was conceived in the womb.",
+    "22": "When the days of their purification according to the law of Moses were fulfilled, they brought him up to Jerusalem, to present him to the Lord",
+    "23": "(as it is written in the law of the Lord, “Every male who opens the womb shall be called holy to the Lord”),",
+    "24": "and to offer a sacrifice according to that which is said in the law of the Lord, “A pair of turtledoves, or two young pigeons.”",
+    "25": "Behold, there was a man in Jerusalem whose name was Simeon. This man was righteous and devout, looking for the consolation of Israel, and the Holy Spirit was on him.",
+    "26": "It had been revealed to him by the Holy Spirit that he should not see death before he had seen the Lord’s Christ.",
+    "27": "He came in the Spirit into the temple. When the parents brought in the child, Jesus, that they might do concerning him according to the custom of the law,",
+    "28": "then he received him into his arms, and blessed God, and said,",
+    "29": "“Now you are releasing your servant, Master, according to your word, in peace;",
+    "30": "for my eyes have seen your salvation,",
+    "31": "which you have prepared before the face of all peoples;",
+    "32": "a light for revelation to the nations, and the glory of your people Israel.”",
+    "33": "Joseph and his mother were marveling at the things which were spoken concerning him,",
+    "34": "and Simeon blessed them, and said to Mary, his mother, “Behold, this child is set for the falling and the rising of many in Israel, and for a sign which is spoken against.",
+    "35": "Yes, a sword will pierce through your own soul, that the thoughts of many hearts may be revealed.”",
+    "36": "There was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Asher (she was of a great age, having lived with a husband seven years from her virginity,",
+    "37": "and she had been a widow for about eighty-four years), who didn’t depart from the temple, worshiping with fastings and petitions night and day.",
+    "38": "Coming up at that very hour, she gave thanks to the Lord, and spoke of him to all those who were looking for redemption in Jerusalem.",
+    "39": "When they had accomplished all things that were according to the law of the Lord, they returned into Galilee, to their own city, Nazareth.",
+    "40": "The child was growing, and was becoming strong in spirit, being filled with wisdom, and the grace of God was upon him.",
+    "41": "His parents went every year to Jerusalem at the feast of the Passover.",
+    "42": "When he was twelve years old, they went up to Jerusalem according to the custom of the feast,",
+    "43": "and when they had fulfilled the days, as they were returning, the boy Jesus stayed behind in Jerusalem. Joseph and his mother didn’t know it,",
+    "44": "but supposing him to be in the company, they went a day’s journey, and they looked for him among their relatives and acquaintances.",
+    "45": "When they didn’t find him, they returned to Jerusalem, looking for him.",
+    "46": "After three days they found him in the temple, sitting in the middle of the teachers, both listening to them, and asking them questions.",
+    "47": "All who heard him were amazed at his understanding and his answers.",
+    "48": "When they saw him, they were astonished, and his mother said to him, “Son, why have you treated us this way? Behold, your father and I were anxiously looking for you.”",
+    "49": "He said to them, “Why were you looking for me? Didn’t you know that I must be in my Father’s house?”",
+    "50": "They didn’t understand the saying which he spoke to them.",
+    "51": "And he went down with them, and came to Nazareth. He was subject to them, and his mother kept all these sayings in her heart.",
+    "52": "And Jesus increased in wisdom and stature, and in favor with God and men."
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.5103896103896104,
+      0.5,
+      0.5,
+      0.5103896103896104
+    ],
+    "2": [
+      0.5125000000000001,
+      0.5,
+      0.5,
+      0.5125000000000001
+    ],
+    "3": [
+      0.5133333333333333,
+      0.5,
+      0.5,
+      0.5133333333333333
+    ],
+    "4": [
+      0.5530769230769231,
+      0.5,
+      0.4601923076923077,
+      0.5
+    ],
+    "5": [
+      0.5119718309859155,
+      0.5,
+      0.5,
+      0.5119718309859155
+    ],
+    "6": [
+      0.5604166666666667,
+      0.5,
+      0.45468749999999997,
+      0.5
+    ],
+    "7": [
+      0.5110169491525424,
+      0.5,
+      0.5,
+      0.5110169491525424
+    ],
+    "8": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "9": [
+      0.5855113636363636,
+      0.5677083333333334,
+      0.5,
+      0.5990530303030304
+    ],
+    "10": [
+      0.5505494505494506,
+      0.5,
+      0.46208791208791206,
+      0.5
+    ],
+    "11": [
+      0.6839046199701937,
+      0.6393939393939393,
+      0.4875260804769001,
+      0.6951515151515151
+    ],
+    "12": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "13": [
+      0.6838545454545454,
+      0.6393939393939393,
+      0.4875636363636363,
+      0.6951515151515151
+    ],
+    "14": [
+      0.6007396970764354,
+      0.56632030057532,
+      0.4903839380063403,
+      0.5726546906187625
+    ],
+    "15": [
+      0.6889477196885428,
+      0.6473118279569893,
+      0.49086985539488326,
+      0.7352688172043012
+    ],
+    "16": [
+      0.5512820512820513,
+      0.5,
+      0.4615384615384615,
+      0.5
+    ],
+    "17": [
+      0.5323308270676692,
+      0.5,
+      0.47575187969924815,
+      0.5714285714285714
+    ],
+    "18": [
+      0.5537313432835821,
+      0.5,
+      0.4597014925373134,
+      0.5
+    ],
+    "19": [
+      0.5122448979591837,
+      0.5,
+      0.5,
+      0.5122448979591837
+    ],
+    "20": [
+      0.7656488549618322,
+      0.72579548031139,
+      0.505895246013151,
+      0.8099236641221375
+    ],
+    "21": [
+      0.6006162273194111,
+      0.5702898550724638,
+      0.487798699075659,
+      0.637536231884058
+    ],
+    "22": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7661800486618005
+    ],
+    "23": [
+      0.7715703971119133,
+      0.7093862815884475,
+      0.4875112815884476,
+      0.7967960288808663
+    ],
+    "24": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7333333333333333
+    ],
+    "25": [
+      0.8597958734618574,
+      0.8022172949002218,
+      0.5693928674193056,
+      0.8751578341598822
+    ],
+    "26": [
+      0.8664416039583549,
+      0.8126146788990827,
+      0.574366044737656,
+      0.8857798165137615
+    ],
+    "27": [
+      0.8,
+      0.75,
+      0.5,
+      0.85
+    ],
+    "28": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "29": [
+      0.47731894583938583,
+      0.4341772151898734,
+      0.47394687694542437,
+      0.5084042332434116
+    ],
+    "30": [
+      0.5566666666666666,
+      0.5,
+      0.4575,
+      0.5
+    ],
+    "31": [
+      0.5555555555555556,
+      0.5,
+      0.4583333333333333,
+      0.5
+    ],
+    "32": [
+      0.5116666666666667,
+      0.5,
+      0.5,
+      0.5116666666666667
+    ],
+    "33": [
+      0.5114285714285715,
+      0.5,
+      0.5,
+      0.5114285714285715
+    ],
+    "34": [
+      0.42286931818181817,
+      0.41875,
+      0.5,
+      0.5041193181818182
+    ],
+    "35": [
+      0.5545454545454546,
+      0.5,
+      0.4590909090909091,
+      0.5
+    ],
+    "36": [
+      0.5527131782945737,
+      0.5,
+      0.4604651162790698,
+      0.5
+    ],
+    "37": [
+      0.5,
+      0.5197368421052632,
+      0.5263157894736842,
+      0.5
+    ],
+    "38": [
+      0.6793406593406592,
+      0.6474358974358974,
+      0.5,
+      0.7088278388278387
+    ],
+    "39": [
+      0.6887009590235397,
+      0.6473118279569893,
+      0.49105492589363564,
+      0.7352688172043012
+    ],
+    "40": [
+      0.8857142857142857,
+      0.8571428571428571,
+      0.5642857142857143,
+      0.9142857142857141
+    ],
+    "41": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "42": [
+      0.5293436293436293,
+      0.5,
+      0.477992277992278,
+      0.5714285714285714
+    ],
+    "43": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7333333333333333
+    ],
+    "44": [
+      0.4,
+      0.4,
+      0.5,
+      0.5
+    ],
+    "45": [
+      0.5027522935779817,
+      0.5741590214067279,
+      0.603822629969419,
+      0.6033639143730887
+    ],
+    "46": [
+      0.5,
+      0.6666666666666666,
+      0.7333333333333333,
+      0.6333333333333333
+    ],
+    "47": [
+      0.5428768699654776,
+      0.5438818565400844,
+      0.47390103567318764,
+      0.5958419639432297
+    ],
+    "48": [
+      0.5188315217391304,
+      0.5702898550724638,
+      0.5842821557971014,
+      0.5953623188405797
+    ],
+    "49": [
+      0.5130446310207689,
+      0.6473118279569893,
+      0.6964530858742083,
+      0.6468817204301075
+    ],
+    "50": [
+      0.5,
+      0.560424430641822,
+      0.5145341614906832,
+      0.599047619047619
+    ],
+    "51": [
+      0.5505154639175258,
+      0.5,
+      0.46211340206185564,
+      0.5
+    ],
+    "52": [
+      0.7779693486590039,
+      0.7301587301587301,
+      0.5,
+      0.8240010946907498
+    ]
+  }
+}

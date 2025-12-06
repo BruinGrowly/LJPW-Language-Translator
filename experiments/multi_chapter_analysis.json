@@ -1,0 +1,774 @@
+{
+  "chapter1": {
+    "chapter": 1,
+    "verse_count": 45,
+    "verses": [
+      {
+        "chapter": 1,
+        "verse": 1,
+        "text": "The beginning of the good news about Jesus Christ, the Son of God.",
+        "coordinates": [
+          0.8,
+          0.75,
+          0.5,
+          0.85
+        ],
+        "harmony": 0.6202041028867288,
+        "confidence": 0.4
+      },
+      {
+        "chapter": 1,
+        "verse": 2,
+        "text": "Just as it is written in Isaiah the prophet: 'Look! I am sending my messenger ahead of you, who will prepare your way;",
+        "coordinates": [
+          0.6098901098901099,
+          0.6333333333333333,
+          0.4675824175824176,
+          0.5833333333333334
+        ],
+        "harmony": 0.5369455918349788,
+        "confidence": 0.6000000000000001
+      },
+      {
+        "chapter": 1,
+        "verse": 3,
+        "text": "a voice of one calling out in the wilderness: Prepare the way of Jehovah! Make his roads straight.'",
+        "coordinates": [
+          0.6051282051282052,
+          0.5,
+          0.42115384615384616,
+          0.5
+        ],
+        "harmony": 0.5011317808411208,
+        "confidence": 0.2
+      },
+      {
+        "chapter": 1,
+        "verse": 4,
+        "text": "John the Baptist appeared in the wilderness, proclaiming baptism in symbol of repentance for forgiveness of sins.",
+        "coordinates": [
+          0.42210526315789476,
+          0.4,
+          0.5,
+          0.5221052631578947
+        ],
+        "harmony": 0.48013463523755673,
+        "confidence": 0.5
+      },
+      {
+        "chapter": 1,
+        "verse": 5,
+        "text": "And all the territory of Judea and all the inhabitants of Jerusalem went out to him, and they were baptized by him in the Jordan River, openly confessing their sins.",
+        "coordinates": [
+          0.4225563909774436,
+          0.4,
+          0.5,
+          0.5225563909774436
+        ],
+        "harmony": 0.48023604259774716,
+        "confidence": 0.5
+      },
+      {
+        "chapter": 1,
+        "verse": 6,
+        "text": "Now John was clothed with camel hair and wore a leather belt around his waist, and he ate locusts and wild honey.",
+        "coordinates": [
+          0.6088888888888889,
+          0.5,
+          0.41833333333333333,
+          0.5
+        ],
+        "harmony": 0.5010917505639608,
+        "confidence": 0.2
+      },
+      {
+        "chapter": 1,
+        "verse": 7,
+        "text": "And he was preaching: 'Someone stronger than I am is coming after me, and I am not worthy to stoop down and untie the laces of his sandals.",
+        "coordinates": [
+          0.5222222222222223,
+          0.5,
+          0.5,
+          0.5222222222222223
+        ],
+        "harmony": 0.5055534361376725,
+        "confidence": 0.1
+      },
+      {
+        "chapter": 1,
+        "verse": 8,
+        "text": "I baptized you with water, but he will baptize you with holy spirit.'",
+        "coordinates": [
+          0.8185185185185184,
+          0.7055555555555555,
+          0.46296296296296297,
+          0.7333333333333333
+        ],
+        "harmony": 0.590943642058766,
+        "confidence": 0.8
+      },
+      {
+        "chapter": 1,
+        "verse": 9,
+        "text": "In the course of those days, Jesus came from Nazareth of Galilee and was baptized by John in the Jordan.",
+        "coordinates": [
+          0.6,
+          0.5833333333333334,
+          0.5,
+          0.6166666666666667
+        ],
+        "harmony": 0.5391633637217109,
+        "confidence": 0.4
+      },
+      {
+        "chapter": 1,
+        "verse": 10,
+        "text": "And immediately on coming up out of the water, he saw the heavens being parted and the spirit descending on him like a dove.",
+        "coordinates": [
+          0.6,
+          0.5833333333333334,
+          0.5,
+          0.6166666666666667
+        ],
+        "harmony": 0.5391633637217109,
+        "confidence": 0.4
+      },
+      {
+        "chapter": 1,
+        "verse": 11,
+        "text": "And a voice came out of the heavens: 'You are my Son, the beloved; I have approved you.'",
+        "coordinates": [
+          0.7502564102564102,
+          0.5,
+          0.36230769230769233,
+          0.5666666666666667
+        ],
+        "harmony": 0.512226578110236,
+        "confidence": 0.6000000000000001
+      },
+      {
+        "chapter": 1,
+        "verse": 12,
+        "text": "And immediately the spirit impelled him to go into the wilderness.",
+        "coordinates": [
+          0.6236363636363637,
+          0.5833333333333334,
+          0.5,
+          0.6403030303030304
+        ],
+        "harmony": 0.5454191756385831,
+        "confidence": 0.5
+      },
+      {
+        "chapter": 1,
+        "verse": 13,
+        "text": "So he remained in the wilderness for 40 days, being tempted by Satan. He was with the wild animals, and the angels were ministering to him.",
+        "coordinates": [
+          0.5222222222222223,
+          0.5,
+          0.5,
+          0.5222222222222223
+        ],
+        "harmony": 0.5055534361376725,
+        "confidence": 0.1
+      },
+      {
+        "chapter": 1,
+        "verse": 14,
+        "text": "Now after John was arrested, Jesus went into Galilee, preaching the good news of God",
+        "coordinates": [
+          0.7,
+          0.6666666666666666,
+          0.5,
+          0.7333333333333333
+        ],
+        "harmony": 0.5805011589293861,
+        "confidence": 0.4
+      },
+      {
+        "chapter": 1,
+        "verse": 15,
+        "text": "and saying: 'The appointed time has been fulfilled, and the Kingdom of God has drawn near. Repent, and have faith in the good news.'",
+        "coordinates": [
+          0.6,
+          0.85,
+          0.7999999999999999,
+          0.8999999999999999
+        ],
+        "harmony": 0.6746807321828694,
+        "confidence": 0.6000000000000001
+      },
+      {
+        "chapter": 1,
+        "verse": 16,
+        "text": "As he was walking alongside the Sea of Galilee, he saw Simon and Andrew, Simon's brother, casting their nets into the sea, for they were fishermen.",
+        "coordinates": [
+          0.6224137931034484,
+          0.5833333333333334,
+          0.5403735632183908,
+          0.5873563218390805
+        ],
+        "harmony": 0.5448722465677799,
+        "confidence": 0.7000000000000001
+      },
+      {
+        "chapter": 1,
+        "verse": 17,
+        "text": "So Jesus said to them: 'Come after me, and I will cause you to become fishers of men.'",
+        "coordinates": [
+          0.6,
+          0.5833333333333334,
+          0.5,
+          0.6166666666666667
+        ],
+        "harmony": 0.5391633637217109,
+        "confidence": 0.4
+      },
+      {
+        "chapter": 1,
+        "verse": 18,
+        "text": "And at once they abandoned their nets and followed him.",
+        "coordinates": [
+          0.5222222222222223,
+          0.5,
+          0.5,
+          0.5222222222222223
+        ],
+        "harmony": 0.5055534361376725,
+        "confidence": 0.1
+      },
+      {
+        "chapter": 1,
+        "verse": 19,
+        "text": "After going on a little farther, he saw James the son of Zebedee and John his brother; in fact, they were in their boat mending their nets.",
+        "coordinates": [
+          0.5201834862385322,
+          0.5,
+          0.5,
+          0.5201834862385322
+        ],
+        "harmony": 0.5050442878883875,
+        "confidence": 0.1
+      },
+      {
+        "chapter": 1,
+        "verse": 20,
+        "text": "Without delay he called them, and they left their father Zebedee in the boat with the hired men and went after him.",
+        "coordinates": [
+          0.6086956521739131,
+          0.5,
+          0.41847826086956524,
+          0.5
+        ],
+        "harmony": 0.5010939429673495,
+        "confidence": 0.2
+      },
+      {
+        "chapter": 1,
+        "verse": 21,
+        "text": "And they went into Capernaum. As soon as the Sabbath arrived, he entered the synagogue and began to teach.",
+        "coordinates": [
+          0.6011764705882353,
+          0.5666666666666667,
+          0.42411764705882354,
+          0.6333333333333333
+        ],
+        "harmony": 0.5258667604345356,
+        "confidence": 0.6000000000000001
+      },
+      {
+        "chapter": 1,
+        "verse": 22,
+        "text": "And they were astounded at his way of teaching, for he was teaching them as one having authority and not as the scribes.",
+        "coordinates": [
+          0.6083333333333334,
+          0.6666666666666666,
+          0.6520833333333333,
+          0.6333333333333333
+        ],
+        "harmony": 0.5810192859529342,
+        "confidence": 0.6000000000000001
+      },
+      {
+        "chapter": 1,
+        "verse": 23,
+        "text": "At that very moment, there was in their synagogue a man under the power of an unclean spirit, and he shouted,",
+        "coordinates": [
+          0.9244186046511628,
+          0.7666666666666666,
+          0.3732558139534884,
+          0.9554263565891472
+        ],
+        "harmony": 0.597192709200496,
+        "confidence": 0.9000000000000001
+      },
+      {
+        "chapter": 1,
+        "verse": 24,
+        "text": "saying: 'What have we to do with you, Jesus the Nazarene? Did you come to destroy us? I know exactly who you are, the Holy One of God!'",
+        "coordinates": [
+          0.9219999999999999,
+          0.75,
+          0.4085,
+          0.85
+        ],
+        "harmony": 0.6009451542458856,
+        "confidence": 0.6000000000000001
+      },
+      {
+        "chapter": 1,
+        "verse": 25,
+        "text": "But Jesus rebuked it, saying: 'Be silent, and come out of him!'",
+        "coordinates": [
+          0.6,
+          0.5833333333333334,
+          0.5,
+          0.6166666666666667
+        ],
+        "harmony": 0.5391633637217109,
+        "confidence": 0.4
+      },
+      {
+        "chapter": 1,
+        "verse": 26,
+        "text": "And the unclean spirit, after throwing him into a convulsion and crying out with a loud voice, came out of him.",
+        "coordinates": [
+          0.6215909090909091,
+          0.5833333333333334,
+          0.5,
+          0.6382575757575758
+        ],
+        "harmony": 0.5448814148844399,
+        "confidence": 0.5
+      },
+      {
+        "chapter": 1,
+        "verse": 27,
+        "text": "Well, the people were all so astonished that they began to discuss it among themselves, saying: 'What is this? A new teaching! He authoritatively orders even the unclean spirits, and they obey him.'",
+        "coordinates": [
+          0.9031847133757962,
+          0.75,
+          0.4226114649681529,
+          0.85
+        ],
+        "harmony": 0.6045852188376912,
+        "confidence": 0.6000000000000001
+      },
+      {
+        "chapter": 1,
+        "verse": 28,
+        "text": "So the report about him spread immediately in all directions throughout the whole region of Galilee.",
+        "coordinates": [
+          0.6261904761904763,
+          0.5,
+          0.42142857142857143,
+          0.5214285714285715
+        ],
+        "harmony": 0.5059505117131614,
+        "confidence": 0.30000000000000004
+      },
+      {
+        "chapter": 1,
+        "verse": 29,
+        "text": "And as soon as they left the synagogue, they went into the house of Simon and Andrew with James and John.",
+        "coordinates": [
+          0.6060240963855422,
+          0.5,
+          0.42048192771084336,
+          0.5
+        ],
+        "harmony": 0.5011227492382008,
+        "confidence": 0.2
+      },
+      {
+        "chapter": 1,
+        "verse": 30,
+        "text": "Now Simon's mother-in-law was lying down sick with a fever, and they at once told him about her.",
+        "coordinates": [
+          0.6243243243243244,
+          0.6333333333333333,
+          0.47297297297297297,
+          0.604954954954955
+        ],
+        "harmony": 0.5428128016989424,
+        "confidence": 0.7000000000000001
+      },
+      {
+        "chapter": 1,
+        "verse": 31,
+        "text": "Going over to her, he raised her up, taking her by the hand; and the fever left her, and she began ministering to them.",
+        "coordinates": [
+          0.5208791208791209,
+          0.5833333333333334,
+          0.6166666666666667,
+          0.5875457875457876
+        ],
+        "harmony": 0.5409311349150138,
+        "confidence": 0.5
+      },
+      {
+        "chapter": 1,
+        "verse": 32,
+        "text": "After sunset, when the darkness had fallen, the people began bringing him all those who were ill and those demon-possessed.",
+        "coordinates": [
+          0.522,
+          0.5,
+          0.5,
+          0.522
+        ],
+        "harmony": 0.5054979441386042,
+        "confidence": 0.1
+      },
+      {
+        "chapter": 1,
+        "verse": 33,
+        "text": "In fact, the whole city was gathered right at the door.",
+        "coordinates": [
+          0.6069767441860465,
+          0.6717054263565891,
+          0.5209302325581395,
+          0.5833333333333334
+        ],
+        "harmony": 0.5507523209747813,
+        "confidence": 0.8
+      },
+      {
+        "chapter": 1,
+        "verse": 34,
+        "text": "So he cured many who were ill with various sicknesses, and he expelled many demons, but he would not let the demons speak, for they knew him to be Christ.",
+        "coordinates": [
+          0.6,
+          0.5833333333333334,
+          0.5,
+          0.6166666666666667
+        ],
+        "harmony": 0.5391633637217109,
+        "confidence": 0.4
+      },
+      {
+        "chapter": 1,
+        "verse": 35,
+        "text": "And very early in the morning, while it was still dark, he got up and went outside and left for an isolated place, and there he began praying.",
+        "coordinates": [
+          0.5234234234234234,
+          0.5,
+          0.5,
+          0.5234234234234234
+        ],
+        "harmony": 0.5058533698683991,
+        "confidence": 0.1
+      },
+      {
+        "chapter": 1,
+        "verse": 36,
+        "text": "However, Simon and those with him hunted for him,",
+        "coordinates": [
+          0.6333333333333334,
+          0.5,
+          0.4153846153846154,
+          0.5205128205128206
+        ],
+        "harmony": 0.5056077594490731,
+        "confidence": 0.30000000000000004
+      },
+      {
+        "chapter": 1,
+        "verse": 37,
+        "text": "and when they found him, they said to him: 'Everyone is looking for you.'",
+        "coordinates": [
+          0.6163636363636363,
+          0.5833333333333334,
+          0.5293939393939394,
+          0.5666666666666667
+        ],
+        "harmony": 0.5392517777453266,
+        "confidence": 0.6000000000000001
+      },
+      {
+        "chapter": 1,
+        "verse": 38,
+        "text": "But he said to them: 'Let us go somewhere else, into the towns nearby, so that I may preach there also, for this is why I have come.'",
+        "coordinates": [
+          0.6111111111111112,
+          0.5,
+          0.4166666666666667,
+          0.5
+        ],
+        "harmony": 0.5010654833350647,
+        "confidence": 0.2
+      },
+      {
+        "chapter": 1,
+        "verse": 39,
+        "text": "And he went throughout the whole of Galilee, preaching in their synagogues and expelling the demons.",
+        "coordinates": [
+          0.6240963855421686,
+          0.5,
+          0.422289156626506,
+          0.5204819277108433
+        ],
+        "harmony": 0.5057564254596072,
+        "confidence": 0.30000000000000004
+      },
+      {
+        "chapter": 1,
+        "verse": 40,
+        "text": "A leper also came to him, pleading with him even on bended knee, saying to him: 'If you just want to, you can make me clean.'",
+        "coordinates": [
+          0.624731182795699,
+          0.6333333333333333,
+          0.47258064516129034,
+          0.6048387096774194
+        ],
+        "harmony": 0.5427778202937503,
+        "confidence": 0.7000000000000001
+      },
+      {
+        "chapter": 1,
+        "verse": 41,
+        "text": "At that he was moved with pity, and he stretched out his hand and touched him, and said to him: 'I want to! Be made clean.'",
+        "coordinates": [
+          0.6054945054945056,
+          0.5379120879120879,
+          0.4714285714285714,
+          0.5
+        ],
+        "harmony": 0.5133687654479172,
+        "confidence": 0.4
+      },
+      {
+        "chapter": 1,
+        "verse": 42,
+        "text": "And immediately the leprosy vanished from him, and he was made clean.",
+        "coordinates": [
+          0.525,
+          0.5,
+          0.5,
+          0.525
+        ],
+        "harmony": 0.5062469711475287,
+        "confidence": 0.1
+      },
+      {
+        "chapter": 1,
+        "verse": 43,
+        "text": "Furthermore, he gave him strict orders and immediately sent him away,",
+        "coordinates": [
+          0.5245614035087719,
+          0.6333333333333333,
+          0.55,
+          0.6078947368421053
+        ],
+        "harmony": 0.5415355736698014,
+        "confidence": 0.5
+      },
+      {
+        "chapter": 1,
+        "verse": 44,
+        "text": "and said to him: 'See that you tell nobody anything, but go show yourself to the priest and offer in behalf of your cleansing the things Moses directed, for a witness to them.'",
+        "coordinates": [
+          0.4,
+          0.4,
+          0.5,
+          0.5
+        ],
+        "harmony": 0.47516409872148213,
+        "confidence": 0.4
+      },
+      {
+        "chapter": 1,
+        "verse": 45,
+        "text": "But after going out, the man started to proclaim it a great deal and to spread the account widely, so that Jesus was no longer able to enter openly into a city, but he stayed outside in isolated places. Yet people kept coming to him from all sides.",
+        "coordinates": [
+          0.6,
+          0.6215986394557823,
+          0.5510204081632653,
+          0.6166666666666667
+        ],
+        "harmony": 0.5533150932350401,
+        "confidence": 0.6000000000000001
+      }
+    ],
+    "statistics": {
+      "avg_L": 0.614536744960311,
+      "avg_J": 0.5748912231691855,
+      "avg_P": 0.48784454910897895,
+      "avg_W": 0.6038726523768584,
+      "std_L": 0.11302018467399094,
+      "std_J": 0.09969227911752747,
+      "std_P": 0.07305435862296143,
+      "std_W": 0.11468412406598431,
+      "avg_harmony": 0.5350778653318823
+    }
+  },
+  "chapter2": {
+    "chapter": 2,
+    "verse_count": 10,
+    "verses": [
+      {
+        "chapter": 2,
+        "verse": 1,
+        "text": "And again he entered into Capernaum after some days; and it was noised that he was in the house.",
+        "coordinates": [
+          0.6078947368421053,
+          0.5,
+          0.41907894736842105,
+          0.5
+        ],
+        "harmony": 0.5011028734205077,
+        "confidence": 0.2
+      },
+      {
+        "chapter": 2,
+        "verse": 2,
+        "text": "And straightway many were gathered together, insomuch that there was no room to receive them, no, not so much as about the door: and he preached the word unto them.",
+        "coordinates": [
+          0.6061538461538462,
+          0.5,
+          0.42038461538461536,
+          0.5
+        ],
+        "harmony": 0.5011214150413471,
+        "confidence": 0.2
+      },
+      {
+        "chapter": 2,
+        "verse": 3,
+        "text": "And they come unto him, bringing one sick of the palsy, which was borne of four.",
+        "coordinates": [
+          0.5,
+          0.5,
+          0.5,
+          0.5
+        ],
+        "harmony": 0.5,
+        "confidence": 0.0
+      },
+      {
+        "chapter": 2,
+        "verse": 4,
+        "text": "And when they could not come nigh unto him for the press, they uncovered the roof where he was: and when they had broken it up, they let down the bed wherein the sick of the palsy lay.",
+        "coordinates": [
+          0.6090909090909091,
+          0.5,
+          0.4181818181818182,
+          0.5
+        ],
+        "harmony": 0.501089442814816,
+        "confidence": 0.2
+      },
+      {
+        "chapter": 2,
+        "verse": 5,
+        "text": "When Jesus saw their faith, he said unto the sick of the palsy, Son, thy sins be forgiven thee.",
+        "coordinates": [
+          0.8041095890410959,
+          0.6666666666666666,
+          0.42191780821917807,
+          0.7333333333333333
+        ],
+        "harmony": 0.5731211707944391,
+        "confidence": 0.6000000000000001
+      },
+      {
+        "chapter": 2,
+        "verse": 6,
+        "text": "But there were certain of the scribes sitting there, and reasoning in their hearts,",
+        "coordinates": [
+          0.5205882352941177,
+          0.5,
+          0.5,
+          0.5205882352941177
+        ],
+        "harmony": 0.505145377049356,
+        "confidence": 0.1
+      },
+      {
+        "chapter": 2,
+        "verse": 7,
+        "text": "Why doth this man thus speak blasphemies? who can forgive sins but God only?",
+        "coordinates": [
+          0.7,
+          0.6666666666666666,
+          0.5,
+          0.7333333333333333
+        ],
+        "harmony": 0.5805011589293861,
+        "confidence": 0.4
+      },
+      {
+        "chapter": 2,
+        "verse": 8,
+        "text": "And immediately when Jesus perceived in his spirit that they so reasoned within themselves, he said unto them, Why reason ye these things in your hearts?",
+        "coordinates": [
+          0.8071999999999999,
+          0.6666666666666666,
+          0.4196,
+          0.7333333333333333
+        ],
+        "harmony": 0.572794372876337,
+        "confidence": 0.6000000000000001
+      },
+      {
+        "chapter": 2,
+        "verse": 9,
+        "text": "Whether is it easier to say to the sick of the palsy, Thy sins be forgiven thee; or to say, Arise, and take up thy bed, and walk?",
+        "coordinates": [
+          0.5041666666666668,
+          0.4,
+          0.421875,
+          0.5
+        ],
+        "harmony": 0.4782612296317194,
+        "confidence": 0.6000000000000001
+      },
+      {
+        "chapter": 2,
+        "verse": 10,
+        "text": "But that ye may know that the Son of man hath power on earth to forgive sins, (he saith to the sick of the palsy,)",
+        "coordinates": [
+          0.6046511627906976,
+          0.75,
+          0.7715116279069767,
+          0.7
+        ],
+        "harmony": 0.6246723934411568,
+        "confidence": 0.6000000000000001
+      }
+    ],
+    "statistics": {
+      "avg_L": 0.6263855145879438,
+      "avg_J": 0.5650000000000001,
+      "avg_P": 0.4792549817061009,
+      "avg_W": 0.5920588235294117,
+      "std_L": 0.10645437582598248,
+      "std_J": 0.1065754818583211,
+      "std_P": 0.10375960276010265,
+      "std_W": 0.10909121819361331,
+      "avg_harmony": 0.5337809433999066
+    }
+  },
+  "comparison": {
+    "chapter1": 1,
+    "chapter2": 2,
+    "centroid1": [
+      0.614536744960311,
+      0.5748912231691855,
+      0.48784454910897895,
+      0.6038726523768584
+    ],
+    "centroid2": [
+      0.6263855145879438,
+      0.5650000000000001,
+      0.4792549817061009,
+      0.5920588235294117
+    ],
+    "centroid_distance": 0.02125033782500156,
+    "dimension_differences": {
+      "L": 0.011848769627632816,
+      "J": 0.009891223169185448,
+      "P": 0.008589567402878029,
+      "W": 0.011813828847446639
+    }
+  }
+}

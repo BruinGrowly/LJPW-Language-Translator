@@ -1,0 +1,305 @@
+{
+  "book": "Luke",
+  "chapter": 10,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 42,
+  "verses": {
+    "1": "Now after these things, the Lord also appointed seventy others, and sent them two by two ahead of him into every city and place where he was about to come.",
+    "2": "Then he said to them, “The harvest is indeed plentiful, but the laborers are few. Pray therefore to the Lord of the harvest, that he may send out laborers into his harvest.",
+    "3": "Go your ways. Behold, I send you out as lambs among wolves.",
+    "4": "Carry no purse, nor wallet, nor sandals. Greet no one on the way.",
+    "5": "Into whatever house you enter, first say, ‘Peace be to this house.’",
+    "6": "If a son of peace is there, your peace will rest on him; but if not, it will return to you.",
+    "7": "Remain in that same house, eating and drinking the things they give, for the laborer is worthy of his wages. Don’t go from house to house.",
+    "8": "Into whatever city you enter, and they receive you, eat the things that are set before you.",
+    "9": "Heal the sick who are there, and tell them, ‘God’s Kingdom has come near to you.’",
+    "10": "But into whatever city you enter, and they don’t receive you, go out into its streets and say,",
+    "11": "‘Even the dust from your city that clings to us, we wipe off against you. Nevertheless know this, that God’s Kingdom has come near to you.’",
+    "12": "I tell you, it will be more tolerable in that day for Sodom than for that city.",
+    "13": "“Woe to you, Chorazin! Woe to you, Bethsaida! For if the mighty works had been done in Tyre and Sidon which were done in you, they would have repented long ago, sitting in sackcloth and ashes.",
+    "14": "But it will be more tolerable for Tyre and Sidon in the judgment than for you.",
+    "15": "You, Capernaum, who are exalted to heaven, will be brought down to Hades.",
+    "16": "Whoever listens to you listens to me, and whoever rejects you rejects me. Whoever rejects me rejects him who sent me.”",
+    "17": "The seventy returned with joy, saying, “Lord, even the demons are subject to us in your name!”",
+    "18": "He said to them, “I saw Satan having fallen like lightning from heaven.",
+    "19": "Behold, I give you authority to tread on serpents and scorpions, and over all the power of the enemy. Nothing will in any way hurt you.",
+    "20": "Nevertheless, don’t rejoice in this, that the spirits are subject to you, but rejoice that your names are written in heaven.”",
+    "21": "In that same hour Jesus rejoiced in the Holy Spirit, and said, “I thank you, O Father, Lord of heaven and earth, that you have hidden these things from the wise and understanding, and revealed them to little children. Yes, Father, for so it was well-pleasing in your sight.”",
+    "22": "Turning to the disciples, he said, “All things have been delivered to me by my Father. No one knows who the Son is, except the Father, and who the Father is, except the Son, and he to whomever the Son desires to reveal him.”",
+    "23": "Turning to the disciples, he said privately, “Blessed are the eyes which see the things that you see,",
+    "24": "for I tell you that many prophets and kings desired to see the things which you see, and didn’t see them, and to hear the things which you hear, and didn’t hear them.”",
+    "25": "Behold, a certain lawyer stood up and tested him, saying, “Teacher, what shall I do to inherit eternal life?”",
+    "26": "He said to him, “What is written in the law? How do you read it?”",
+    "27": "He answered, “You shall love the Lord your God with all your heart, with all your soul, with all your strength, and with all your mind; and your neighbor as yourself.”",
+    "28": "He said to him, “You have answered correctly. Do this, and you will live.”",
+    "29": "But he, desiring to justify himself, asked Jesus, “Who is my neighbor?”",
+    "30": "Jesus answered, “A certain man was going down from Jerusalem to Jericho, and he fell among robbers, who both stripped him and beat him, and departed, leaving him half dead.",
+    "31": "By chance a certain priest was going down that way. When he saw him, he passed by on the other side.",
+    "32": "In the same way a Levite also, when he came to the place, and saw him, passed by on the other side.",
+    "33": "But a certain Samaritan, as he traveled, came where he was. When he saw him, he was moved with compassion,",
+    "34": "came to him, and bound up his wounds, pouring on oil and wine. He set him on his own animal, brought him to an inn, and took care of him.",
+    "35": "On the next day, when he departed, he took out two denarii, gave them to the host, and said to him, ‘Take care of him. Whatever you spend beyond that, I will repay you when I return.’",
+    "36": "Now which of these three do you think seemed to be a neighbor to him who fell among the robbers?”",
+    "37": "He said, “He who showed mercy on him.” Then Jesus said to him, “Go and do likewise.”",
+    "38": "As they went on their way, he entered into a certain village, and a certain woman named Martha received him into her house.",
+    "39": "She had a sister called Mary, who also sat at Jesus’ feet, and heard his word.",
+    "40": "But Martha was distracted with much serving, and she came up to him, and said, “Lord, don’t you care that my sister left me to serve alone? Ask her therefore to help me.”",
+    "41": "Jesus answered her, “Martha, Martha, you are anxious and troubled about many things,",
+    "42": "but one thing is needed. Mary has chosen the good part, which will not be taken away from her.”"
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.6010452961672474,
+      0.5619047619047619,
+      0.4799303135888502,
+      0.5866666666666667
+    ],
+    "2": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "3": [
+      0.5266666666666666,
+      0.575,
+      0.5925,
+      0.5
+    ],
+    "4": [
+      0.5163265306122449,
+      0.5,
+      0.5,
+      0.5163265306122449
+    ],
+    "5": [
+      0.5588235294117647,
+      0.5,
+      0.45588235294117646,
+      0.5
+    ],
+    "6": [
+      0.5626865671641791,
+      0.5,
+      0.46082089552238803,
+      0.5104477611940299
+    ],
+    "7": [
+      0.5266666666666666,
+      0.5619047619047619,
+      0.5666666666666667,
+      0.5495238095238095
+    ],
+    "8": [
+      0.5583333333333333,
+      0.5,
+      0.45625,
+      0.5
+    ],
+    "9": [
+      0.5118320610687023,
+      0.7213740458015268,
+      0.8010496183206107,
+      0.6770992366412214
+    ],
+    "10": [
+      0.552054794520548,
+      0.5,
+      0.460958904109589,
+      0.5
+    ],
+    "11": [
+      0.5,
+      0.75,
+      0.85,
+      0.7
+    ],
+    "12": [
+      0.5114754098360657,
+      0.5,
+      0.5,
+      0.5114754098360657
+    ],
+    "13": [
+      0.5283029721955896,
+      0.5619047619047619,
+      0.5654394375199744,
+      0.5495238095238095
+    ],
+    "14": [
+      0.5129032258064516,
+      0.5,
+      0.5,
+      0.5129032258064516
+    ],
+    "15": [
+      0.556140350877193,
+      0.5,
+      0.45789473684210524,
+      0.5
+    ],
+    "16": [
+      0.5,
+      0.5,
+      0.5,
+      0.6
+    ],
+    "17": [
+      0.58515625,
+      0.5677083333333334,
+      0.5,
+      0.5986979166666667
+    ],
+    "18": [
+      0.5116071428571429,
+      0.5,
+      0.5,
+      0.5116071428571429
+    ],
+    "19": [
+      0.5288964642460758,
+      0.6288515406162465,
+      0.6624121346651868,
+      0.6080043338089953
+    ],
+    "20": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "21": [
+      0.8857142857142857,
+      0.8357142857142856,
+      0.5857142857142856,
+      0.9142857142857141
+    ],
+    "22": [
+      0.5258646616541354,
+      0.5495238095238095,
+      0.4806015037593985,
+      0.599047619047619
+    ],
+    "23": [
+      0.5525,
+      0.5,
+      0.460625,
+      0.5
+    ],
+    "24": [
+      0.5265178571428571,
+      0.5619047619047619,
+      0.5667782738095238,
+      0.5495238095238095
+    ],
+    "25": [
+      0.5201872822299651,
+      0.6113821138211382,
+      0.4873584494773519,
+      0.7535351335656213
+    ],
+    "26": [
+      0.5197353497164461,
+      0.6124637681159419,
+      0.5273724007561437,
+      0.6094202898550725
+    ],
+    "27": [
+      0.7730501217362101,
+      0.7093862815884475,
+      0.48677692888926194,
+      0.7972966165729156
+    ],
+    "28": [
+      0.5563636363636364,
+      0.5,
+      0.4577272727272727,
+      0.5
+    ],
+    "29": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7661800486618005
+    ],
+    "30": [
+      0.5855238970588235,
+      0.5677083333333334,
+      0.5,
+      0.5990655637254902
+    ],
+    "31": [
+      0.5558441558441559,
+      0.5,
+      0.4581168831168831,
+      0.5
+    ],
+    "32": [
+      0.5567567567567567,
+      0.5,
+      0.4574324324324324,
+      0.5
+    ],
+    "33": [
+      0.6285249709639953,
+      0.5,
+      0.4407491289198606,
+      0.5495238095238095
+    ],
+    "34": [
+      0.6316579796475553,
+      0.5,
+      0.4404504839910648,
+      0.5522586249689749
+    ],
+    "35": [
+      0.6279527285366702,
+      0.5,
+      0.4411783107403545,
+      0.5495238095238095
+    ],
+    "36": [
+      0.531578947368421,
+      0.5,
+      0.47631578947368425,
+      0.5714285714285714
+    ],
+    "37": [
+      0.7790076335877864,
+      0.7213740458015268,
+      0.48998091603053434,
+      0.8099236641221375
+    ],
+    "38": [
+      0.5668367346938775,
+      0.5,
+      0.4586734693877551,
+      0.511734693877551
+    ],
+    "39": [
+      0.6004358353510896,
+      0.5619047619047619,
+      0.4803874092009685,
+      0.5866666666666667
+    ],
+    "40": [
+      0.6855158420477602,
+      0.6532438478747202,
+      0.49999999999999994,
+      0.7463659539045834
+    ],
+    "41": [
+      0.6081617230304176,
+      0.5548523206751056,
+      0.47398450784054413,
+      0.5844448642861642
+    ],
+    "42": [
+      0.552054794520548,
+      0.5,
+      0.460958904109589,
+      0.5
+    ]
+  }
+}

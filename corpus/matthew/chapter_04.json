@@ -1,0 +1,186 @@
+{
+  "book": "Matthew",
+  "chapter": 4,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 25,
+  "verses": {
+    "1": "Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil.",
+    "2": "When he had fasted forty days and forty nights, he was hungry afterward.",
+    "3": "The tempter came and said to him, “If you are the Son of God, command that these stones become bread.”",
+    "4": "But he answered, “It is written, ‘Man shall not live by bread alone, but by every word that proceeds out of God’s mouth.’ ”",
+    "5": "Then the devil took him into the holy city. He set him on the pinnacle of the temple,",
+    "6": "and said to him, “If you are the Son of God, throw yourself down, for it is written, ‘He will command his angels concerning you,’ and, ‘On their hands they will bear you up, so that you don’t dash your foot against a stone.’ ”",
+    "7": "Jesus said to him, “Again, it is written, ‘You shall not test the Lord, your God.’ ”",
+    "8": "Again, the devil took him to an exceedingly high mountain, and showed him all the kingdoms of the world, and their glory.",
+    "9": "He said to him, “I will give you all of these things, if you will fall down and worship me.”",
+    "10": "Then Jesus said to him, “Get behind me, Satan! For it is written, ‘You shall worship the Lord your God, and you shall serve him only.’ ”",
+    "11": "Then the devil left him, and behold, angels came and served him.",
+    "12": "Now when Jesus heard that John was delivered up, he withdrew into Galilee.",
+    "13": "Leaving Nazareth, he came and lived in Capernaum, which is by the sea, in the region of Zebulun and Naphtali,",
+    "14": "that it might be fulfilled which was spoken through Isaiah the prophet, saying,",
+    "15": "“The land of Zebulun and the land of Naphtali, toward the sea, beyond the Jordan, Galilee of the Gentiles,",
+    "16": "the people who sat in darkness saw a great light, to those who sat in the region and shadow of death, to them light has dawned.”",
+    "17": "From that time, Jesus began to preach, and to say, “Repent! For the Kingdom of Heaven is at hand.”",
+    "18": "Walking by the sea of Galilee, he saw two brothers: Simon, who is called Peter, and Andrew, his brother, casting a net into the sea; for they were fishermen.",
+    "19": "He said to them, “Come after me, and I will make you fishers for men.”",
+    "20": "They immediately left their nets and followed him.",
+    "21": "Going on from there, he saw two other brothers, James the son of Zebedee, and John his brother, in the boat with Zebedee their father, mending their nets. He called them.",
+    "22": "They immediately left the boat and their father, and followed him.",
+    "23": "Jesus went about in all Galilee, teaching in their synagogues, preaching the Good News of the Kingdom, and healing every disease and every sickness among the people.",
+    "24": "The report about him went out into all Syria. They brought to him all who were sick, afflicted with various diseases and torments, possessed with demons, epileptics, and paralytics; and he healed them.",
+    "25": "Great multitudes from Galilee, Decapolis, Jerusalem, Judea and from beyond the Jordan followed him."
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.7656488549618322,
+      0.7263185287994448,
+      0.5065926439972241,
+      0.8099236641221375
+    ],
+    "2": [
+      0.5,
+      0.5,
+      0.5,
+      0.6
+    ],
+    "3": [
+      0.8002557544757033,
+      0.7502131287297529,
+      0.6335038363171356,
+      0.81692242114237
+    ],
+    "4": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "5": [
+      0.6846280991735536,
+      0.6393939393939393,
+      0.4869834710743801,
+      0.6951515151515151
+    ],
+    "6": [
+      0.7798961709608305,
+      0.724388379204893,
+      0.6117521837059825,
+      0.7842125382262998
+    ],
+    "7": [
+      0.8,
+      0.75,
+      0.5,
+      0.85
+    ],
+    "8": [
+      0.501736111111111,
+      0.7301587301587301,
+      0.8222222222222221,
+      0.6858630952380952
+    ],
+    "9": [
+      0.5647058823529413,
+      0.5,
+      0.4591911764705882,
+      0.5102941176470589
+    ],
+    "10": [
+      0.7778571428571429,
+      0.7301587301587301,
+      0.5,
+      0.8238888888888888
+    ],
+    "11": [
+      0.42325,
+      0.41875,
+      0.5,
+      0.5045
+    ],
+    "12": [
+      0.6034285714285714,
+      0.5619047619047619,
+      0.47814285714285715,
+      0.5866666666666667
+    ],
+    "13": [
+      0.5622093023255814,
+      0.5,
+      0.46162790697674416,
+      0.511046511627907
+    ],
+    "14": [
+      0.5269010989010989,
+      0.5619047619047619,
+      0.5664908424908425,
+      0.5495238095238095
+    ],
+    "15": [
+      0.5102409638554217,
+      0.5,
+      0.5,
+      0.5102409638554217
+    ],
+    "16": [
+      0.5525252525252525,
+      0.5189393939393939,
+      0.4858585858585858,
+      0.5
+    ],
+    "17": [
+      0.5857142857142856,
+      0.8571428571428571,
+      0.8928571428571428,
+      0.8285714285714285
+    ],
+    "18": [
+      0.5263518299881936,
+      0.5619047619047619,
+      0.5669027941755215,
+      0.5495238095238095
+    ],
+    "19": [
+      0.5627450980392157,
+      0.5,
+      0.4617647058823529,
+      0.511764705882353
+    ],
+    "20": [
+      0.511904761904762,
+      0.5,
+      0.5,
+      0.511904761904762
+    ],
+    "21": [
+      0.5251879699248121,
+      0.575,
+      0.593609022556391,
+      0.5
+    ],
+    "22": [
+      0.5620370370370371,
+      0.5,
+      0.4611111111111111,
+      0.5101851851851852
+    ],
+    "23": [
+      0.5,
+      0.75,
+      0.85,
+      0.7
+    ],
+    "24": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "25": [
+      0.5121951219512195,
+      0.5,
+      0.5,
+      0.5121951219512195
+    ]
+  }
+}

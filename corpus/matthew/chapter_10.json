@@ -1,0 +1,305 @@
+{
+  "book": "Matthew",
+  "chapter": 10,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 42,
+  "verses": {
+    "1": "He called to himself his twelve disciples, and gave them authority over unclean spirits, to cast them out, and to heal every disease and every sickness.",
+    "2": "Now the names of the twelve apostles are these. The first, Simon, who is called Peter; Andrew, his brother; James the son of Zebedee; John, his brother;",
+    "3": "Philip; Bartholomew; Thomas; Matthew the tax collector; James the son of Alphaeus; Lebbaeus, who was also called Thaddaeus;",
+    "4": "Simon the Zealot; and Judas Iscariot, who also betrayed him.",
+    "5": "Jesus sent these twelve out, and commanded them, saying, “Don’t go among the Gentiles, and don’t enter into any city of the Samaritans.",
+    "6": "Rather, go to the lost sheep of the house of Israel.",
+    "7": "As you go, preach, saying, ‘The Kingdom of Heaven is at hand!’",
+    "8": "Heal the sick, cleanse the lepers, and cast out demons. Freely you received, so freely give.",
+    "9": "Don’t take any gold, silver, or brass in your money belts.",
+    "10": "Take no bag for your journey, neither two coats, nor sandals, nor staff: for the laborer is worthy of his food.",
+    "11": "Into whatever city or village you enter, find out who in it is worthy; and stay there until you go on.",
+    "12": "As you enter into the household, greet it.",
+    "13": "If the household is worthy, let your peace come on it, but if it isn’t worthy, let your peace return to you.",
+    "14": "Whoever doesn’t receive you, nor hear your words, as you go out of that house or that city, shake the dust off your feet.",
+    "15": "Most certainly I tell you, it will be more tolerable for the land of Sodom and Gomorrah in the day of judgment than for that city.",
+    "16": "“Behold, I send you out as sheep among wolves. Therefore be wise as serpents, and harmless as doves.",
+    "17": "But beware of men: for they will deliver you up to councils, and in their synagogues they will scourge you.",
+    "18": "Yes, and you will be brought before governors and kings for my sake, for a testimony to them and to the nations.",
+    "19": "But when they deliver you up, don’t be anxious how or what you will say, for it will be given you in that hour what you will say.",
+    "20": "For it is not you who speak, but the Spirit of your Father who speaks in you.",
+    "21": "“Brother will deliver up brother to death, and the father his child. Children will rise up against parents, and cause them to be put to death.",
+    "22": "You will be hated by all men for my name’s sake, but he who endures to the end will be saved.",
+    "23": "But when they persecute you in this city, flee into the next, for most certainly I tell you, you will not have gone through the cities of Israel until the Son of Man has come.",
+    "24": "“A disciple is not above his teacher, nor a servant above his lord.",
+    "25": "It is enough for the disciple that he be like his teacher, and the servant like his lord. If they have called the master of the house Beelzebul, how much more those of his household!",
+    "26": "Therefore don’t be afraid of them, for there is nothing covered that will not be revealed; and hidden that will not be known.",
+    "27": "What I tell you in the darkness, speak in the light; and what you hear whispered in the ear, proclaim on the housetops.",
+    "28": "Don’t be afraid of those who kill the body, but are not able to kill the soul. Rather, fear him who is able to destroy both soul and body in Gehenna.",
+    "29": "“Aren’t two sparrows sold for an assarion coin? Not one of them falls on the ground apart from your Father’s will,",
+    "30": "but the very hairs of your head are all numbered.",
+    "31": "Therefore don’t be afraid. You are of more value than many sparrows.",
+    "32": "Everyone therefore who confesses me before men, I will also confess him before my Father who is in heaven.",
+    "33": "But whoever denies me before men, I will also deny him before my Father who is in heaven.",
+    "34": "“Don’t think that I came to send peace on the earth. I didn’t come to send peace, but a sword.",
+    "35": "For I came to set a man at odds against his father, and a daughter against her mother, and a daughter-in-law against her mother-in-law.",
+    "36": "A man’s foes will be those of his own household.",
+    "37": "He who loves father or mother more than me is not worthy of me; and he who loves son or daughter more than me isn’t worthy of me.",
+    "38": "He who doesn’t take his cross and follow after me, isn’t worthy of me.",
+    "39": "He who seeks his life will lose it; and he who loses his life for my sake will find it.",
+    "40": "He who receives you receives me, and he who receives me receives him who sent me.",
+    "41": "He who receives a prophet in the name of a prophet will receive a prophet’s reward. He who receives a righteous man in the name of a righteous man will receive a righteous man’s reward.",
+    "42": "Whoever gives one of these little ones just a cup of cold water to drink in the name of a disciple, most certainly I tell you he will in no way lose his reward.”"
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7333333333333333
+    ],
+    "2": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "3": [
+      0.5515151515151515,
+      0.5,
+      0.46136363636363636,
+      0.5
+    ],
+    "4": [
+      0.5520833333333334,
+      0.5,
+      0.4609375,
+      0.5
+    ],
+    "5": [
+      0.5851785714285714,
+      0.5677083333333334,
+      0.5,
+      0.5987202380952381
+    ],
+    "6": [
+      0.555,
+      0.5,
+      0.45875,
+      0.5
+    ],
+    "7": [
+      0.6063432835820896,
+      0.7744092039800995,
+      0.7557213930348258,
+      0.7682213930348258
+    ],
+    "8": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "9": [
+      0.5049586776859505,
+      0.5818181818181818,
+      0.6227272727272728,
+      0.5049586776859505
+    ],
+    "10": [
+      0.5038054968287526,
+      0.5818181818181818,
+      0.6227272727272728,
+      0.5038054968287526
+    ],
+    "11": [
+      0.5556962025316456,
+      0.5,
+      0.4582278481012658,
+      0.5
+    ],
+    "12": [
+      0.5575757575757576,
+      0.5,
+      0.4568181818181818,
+      0.5
+    ],
+    "13": [
+      0.5560975609756098,
+      0.5,
+      0.45792682926829265,
+      0.5
+    ],
+    "14": [
+      0.5331797235023041,
+      0.5,
+      0.4751152073732719,
+      0.5714285714285714
+    ],
+    "15": [
+      0.512621359223301,
+      0.5,
+      0.5,
+      0.512621359223301
+    ],
+    "16": [
+      0.5,
+      0.5666666666666667,
+      0.5,
+      0.6333333333333333
+    ],
+    "17": [
+      0.5529411764705883,
+      0.5,
+      0.4602941176470588,
+      0.5
+    ],
+    "18": [
+      0.5040482954545454,
+      0.5677083333333334,
+      0.5947916666666667,
+      0.5582149621212121
+    ],
+    "19": [
+      0.5612244897959184,
+      0.5,
+      0.45408163265306123,
+      0.5
+    ],
+    "20": [
+      0.6030508474576272,
+      0.5619047619047619,
+      0.4784261501210654,
+      0.5866666666666667
+    ],
+    "21": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "22": [
+      0.5621428571428572,
+      0.5,
+      0.4614285714285714,
+      0.5107142857142858
+    ],
+    "23": [
+      0.5525547445255474,
+      0.5,
+      0.46058394160583943,
+      0.5
+    ],
+    "24": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7333333333333333
+    ],
+    "25": [
+      0.6849999999999998,
+      0.6393939393939393,
+      0.48670454545454545,
+      0.6951515151515151
+    ],
+    "26": [
+      0.5041666666666667,
+      0.5541666666666667,
+      0.5,
+      0.6124999999999999
+    ],
+    "27": [
+      0.5313364055299539,
+      0.5,
+      0.47649769585253454,
+      0.5714285714285714
+    ],
+    "28": [
+      0.525438596491228,
+      0.575,
+      0.593421052631579,
+      0.5
+    ],
+    "29": [
+      0.505913660555884,
+      0.5,
+      0.5,
+      0.5848610289769367
+    ],
+    "30": [
+      0.5653846153846155,
+      0.5,
+      0.4596153846153846,
+      0.5115384615384616
+    ],
+    "31": [
+      0.5638888888888889,
+      0.5,
+      0.4611111111111111,
+      0.5120370370370371
+    ],
+    "32": [
+      0.5645348837209303,
+      0.5,
+      0.45988372093023255,
+      0.511046511627907
+    ],
+    "33": [
+      0.5671428571428572,
+      0.5,
+      0.4582142857142857,
+      0.5114285714285715
+    ],
+    "34": [
+      0.5,
+      0.5217391304347826,
+      0.5289855072463768,
+      0.5
+    ],
+    "35": [
+      0.5039285714285714,
+      0.6083333333333333,
+      0.540625,
+      0.5716369047619048
+    ],
+    "36": [
+      0.5567567567567567,
+      0.5,
+      0.4574324324324324,
+      0.5
+    ],
+    "37": [
+      0.6326428845416188,
+      0.5,
+      0.4396432681242808,
+      0.5521672420406598
+    ],
+    "38": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "39": [
+      0.5545454545454546,
+      0.5,
+      0.4590909090909091,
+      0.5
+    ],
+    "40": [
+      0.5609375,
+      0.5,
+      0.454296875,
+      0.5
+    ],
+    "41": [
+      0.5296347110272681,
+      0.7061624649859944,
+      0.5585577087978049,
+      0.6334819642142571
+    ],
+    "42": [
+      0.5264774193548388,
+      0.6043010752688173,
+      0.5226516129032259,
+      0.6060075268817205
+    ]
+  }
+}

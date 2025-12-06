@@ -1,0 +1,277 @@
+{
+  "book": "Luke",
+  "chapter": 3,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 38,
+  "verses": {
+    "1": "Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of the region of Ituraea and Trachonitis, and Lysanias tetrarch of Abilene,",
+    "2": "in the high priesthood of Annas and Caiaphas, the word of God came to John, the son of Zacharias, in the wilderness.",
+    "3": "He came into all the region around the Jordan, preaching the baptism of repentance for remission of sins.",
+    "4": "As it is written in the book of the words of Isaiah the prophet, “The voice of one crying in the wilderness, ‘Make ready the way of the Lord. Make his paths straight.",
+    "5": "Every valley will be filled. Every mountain and hill will be brought low. The crooked will become straight, and the rough ways smooth.",
+    "6": "All flesh will see God’s salvation.’ ”",
+    "7": "He said therefore to the multitudes who went out to be baptized by him, “You offspring of vipers, who warned you to flee from the wrath to come?",
+    "8": "Therefore produce fruits worthy of repentance, and don’t begin to say among yourselves, ‘We have Abraham for our father;’ for I tell you that God is able to raise up children to Abraham from these stones!",
+    "9": "Even now the ax also lies at the root of the trees. Every tree therefore that doesn’t produce good fruit is cut down, and thrown into the fire.”",
+    "10": "The multitudes asked him, “What then must we do?”",
+    "11": "He answered them, “He who has two coats, let him give to him who has none. He who has food, let him do likewise.”",
+    "12": "Tax collectors also came to be baptized, and they said to him, “Teacher, what must we do?”",
+    "13": "He said to them, “Collect no more than that which is appointed to you.”",
+    "14": "Soldiers also asked him, saying, “What about us? What must we do?” He said to them, “Extort from no one by violence, neither accuse anyone wrongfully. Be content with your wages.”",
+    "15": "As the people were in expectation, and all men reasoned in their hearts concerning John, whether perhaps he was the Christ,",
+    "16": "John answered them all, “I indeed baptize you with water, but he comes who is mightier than I, the strap of whose sandals I am not worthy to loosen. He will baptize you in the Holy Spirit and fire,",
+    "17": "whose fan is in his hand, and he will thoroughly cleanse his threshing floor, and will gather the wheat into his barn; but he will burn up the chaff with unquenchable fire.”",
+    "18": "Then with many other exhortations he preached good news to the people,",
+    "19": "but Herod the tetrarch, being reproved by him for Herodias, his brother’s wife, and for all the evil things which Herod had done,",
+    "20": "added this also to them all, that he shut up John in prison.",
+    "21": "Now when all the people were baptized, Jesus also had been baptized, and was praying. The sky was opened,",
+    "22": "and the Holy Spirit descended in a bodily form like a dove on him; and a voice came out of the sky, saying “You are my beloved Son. In you I am well pleased.”",
+    "23": "Jesus himself, when he began to teach, was about thirty years old, being the son (as was supposed) of Joseph, the son of Heli,",
+    "24": "the son of Matthat, the son of Levi, the son of Melchi, the son of Jannai, the son of Joseph,",
+    "25": "the son of Mattathias, the son of Amos, the son of Nahum, the son of Esli, the son of Naggai,",
+    "26": "the son of Maath, the son of Mattathias, the son of Semein, the son of Joseph, the son of Judah,",
+    "27": "the son of Joanan, the son of Rhesa, the son of Zerubbabel, the son of Shealtiel, the son of Neri,",
+    "28": "the son of Melchi, the son of Addi, the son of Cosam, the son of Elmodam, the son of Er,",
+    "29": "the son of Jose, the son of Eliezer, the son of Jorim, the son of Matthat, the son of Levi,",
+    "30": "the son of Simeon, the son of Judah, the son of Joseph, the son of Jonan, the son of Eliakim,",
+    "31": "the son of Melea, the son of Menan, the son of Mattatha, the son of Nathan, the son of David,",
+    "32": "the son of Jesse, the son of Obed, the son of Boaz, the son of Salmon, the son of Nahshon,",
+    "33": "the son of Amminadab, the son of Aram, the son of Hezron, the son of Perez, the son of Judah,",
+    "34": "the son of Jacob, the son of Isaac, the son of Abraham, the son of Terah, the son of Nahor,",
+    "35": "the son of Serug, the son of Reu, the son of Peleg, the son of Eber, the son of Shelah,",
+    "36": "the son of Cainan, the son of Arphaxad, the son of Shem, the son of Noah, the son of Lamech,",
+    "37": "the son of Methuselah, the son of Enoch, the son of Jared, the son of Mahalaleel, the son of Cainan,",
+    "38": "the son of Enos, the son of Seth, the son of Adam, the son of God."
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.5037688442211055,
+      0.5677083333333334,
+      0.5947916666666667,
+      0.5579355108877722
+    ],
+    "2": [
+      0.7499962193769533,
+      0.7543195718654434,
+      0.5817975602379273,
+      0.8340978593272171
+    ],
+    "3": [
+      0.423328488372093,
+      0.41875,
+      0.5,
+      0.504578488372093
+    ],
+    "4": [
+      0.6012053571428572,
+      0.5619047619047619,
+      0.47981026785714287,
+      0.5866666666666667
+    ],
+    "5": [
+      0.5120370370370371,
+      0.5,
+      0.5,
+      0.5120370370370371
+    ],
+    "6": [
+      0.5859375,
+      0.5677083333333334,
+      0.5,
+      0.5994791666666668
+    ],
+    "7": [
+      0.5303413400758534,
+      0.5,
+      0.47724399494311,
+      0.5714285714285714
+    ],
+    "8": [
+      0.5850694444444444,
+      0.5677083333333334,
+      0.5,
+      0.5986111111111112
+    ],
+    "9": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "10": [
+      0.5422893481717012,
+      0.5166931637519874,
+      0.4905405405405406,
+      0.5588235294117647
+    ],
+    "11": [
+      0.5322203098106713,
+      0.5495238095238095,
+      0.47583476764199656,
+      0.599047619047619
+    ],
+    "12": [
+      0.5,
+      0.5666666666666667,
+      0.5,
+      0.679725085910653
+    ],
+    "13": [
+      0.5537037037037037,
+      0.5,
+      0.4597222222222222,
+      0.5
+    ],
+    "14": [
+      0.4318755950491907,
+      0.41565217391304343,
+      0.4878324341478895,
+      0.5391304347826087
+    ],
+    "15": [
+      0.585375,
+      0.5677083333333334,
+      0.5,
+      0.5989166666666668
+    ],
+    "16": [
+      0.8666396833962944,
+      0.8126146788990827,
+      0.5742174851592012,
+      0.8857798165137615
+    ],
+    "17": [
+      0.5473540145985402,
+      0.5,
+      0.47043795620437956,
+      0.5704379562043795
+    ],
+    "18": [
+      0.5551724137931034,
+      0.5,
+      0.4586206896551724,
+      0.5
+    ],
+    "19": [
+      0.4,
+      0.4,
+      0.5,
+      0.5
+    ],
+    "20": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "21": [
+      0.6003098106712564,
+      0.5619047619047619,
+      0.48048192771084336,
+      0.5866666666666667
+    ],
+    "22": [
+      0.866344152339835,
+      0.8126146788990827,
+      0.5744391334515457,
+      0.8857798165137615
+    ],
+    "23": [
+      0.6843181818181817,
+      0.6393939393939393,
+      0.48721590909090906,
+      0.6951515151515151
+    ],
+    "24": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "25": [
+      0.5507246376811594,
+      0.5,
+      0.46195652173913043,
+      0.5
+    ],
+    "26": [
+      0.5513888888888889,
+      0.5,
+      0.4614583333333333,
+      0.5
+    ],
+    "27": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "28": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "29": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "30": [
+      0.5507246376811594,
+      0.5,
+      0.46195652173913043,
+      0.5
+    ],
+    "31": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "32": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "33": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "34": [
+      0.5522388059701493,
+      0.5,
+      0.46082089552238803,
+      0.5
+    ],
+    "35": [
+      0.5507936507936508,
+      0.5,
+      0.4619047619047619,
+      0.5
+    ],
+    "36": [
+      0.5514705882352942,
+      0.5,
+      0.4613970588235294,
+      0.5
+    ],
+    "37": [
+      0.5526315789473685,
+      0.5,
+      0.4605263157894737,
+      0.5
+    ],
+    "38": [
+      0.8002557544757033,
+      0.7502131287297529,
+      0.6335038363171356,
+      0.81692242114237
+    ]
+  }
+}

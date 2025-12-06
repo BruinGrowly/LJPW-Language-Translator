@@ -1,0 +1,326 @@
+{
+  "book": "Mark",
+  "chapter": 1,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 45,
+  "verses": {
+    "1": "The beginning of the Good News of Jesus Christ, the Son of God.",
+    "2": "As it is written in the prophets, “Behold, I send my messenger before your face, who will prepare your way before you:",
+    "3": "the voice of one crying in the wilderness, ‘Make ready the way of the Lord! Make his paths straight!’ ”",
+    "4": "John came baptizing in the wilderness and preaching the baptism of repentance for forgiveness of sins.",
+    "5": "All the country of Judea and all those of Jerusalem went out to him. They were baptized by him in the Jordan river, confessing their sins.",
+    "6": "John was clothed with camel’s hair and a leather belt around his waist. He ate locusts and wild honey.",
+    "7": "He preached, saying, “After me comes he who is mightier than I, the thong of whose sandals I am not worthy to stoop down and loosen.",
+    "8": "I baptized you in water, but he will baptize you in the Holy Spirit.”",
+    "9": "In those days, Jesus came from Nazareth of Galilee, and was baptized by John in the Jordan.",
+    "10": "Immediately coming up from the water, he saw the heavens parting, and the Spirit descending on him like a dove.",
+    "11": "A voice came out of the sky, “You are my beloved Son, in whom I am well pleased.”",
+    "12": "Immediately the Spirit drove him out into the wilderness.",
+    "13": "He was there in the wilderness forty days tempted by Satan. He was with the wild animals; and the angels were serving him.",
+    "14": "Now after John was taken into custody, Jesus came into Galilee, preaching the Good News of God’s Kingdom,",
+    "15": "and saying, “The time is fulfilled, and God’s Kingdom is at hand! Repent, and believe in the Good News.”",
+    "16": "Passing along by the sea of Galilee, he saw Simon and Andrew, the brother of Simon, casting a net into the sea, for they were fishermen.",
+    "17": "Jesus said to them, “Come after me, and I will make you into fishers for men.”",
+    "18": "Immediately they left their nets, and followed him.",
+    "19": "Going on a little further from there, he saw James the son of Zebedee, and John, his brother, who were also in the boat mending the nets.",
+    "20": "Immediately he called them, and they left their father, Zebedee, in the boat with the hired servants, and went after him.",
+    "21": "They went into Capernaum, and immediately on the Sabbath day he entered into the synagogue and taught.",
+    "22": "They were astonished at his teaching, for he taught them as having authority, and not as the scribes.",
+    "23": "Immediately there was in their synagogue a man with an unclean spirit, and he cried out,",
+    "24": "saying, “Ha! What do we have to do with you, Jesus, you Nazarene? Have you come to destroy us? I know you who you are: the Holy One of God!”",
+    "25": "Jesus rebuked him, saying, “Be quiet, and come out of him!”",
+    "26": "The unclean spirit, convulsing him and crying with a loud voice, came out of him.",
+    "27": "They were all amazed, so that they questioned among themselves, saying, “What is this? A new teaching? For with authority he commands even the unclean spirits, and they obey him!”",
+    "28": "The report of him went out immediately everywhere into all the region of Galilee and its surrounding area.",
+    "29": "Immediately, when they had come out of the synagogue, they came into the house of Simon and Andrew, with James and John.",
+    "30": "Now Simon’s wife’s mother lay sick with a fever, and immediately they told him about her.",
+    "31": "He came and took her by the hand, and raised her up. The fever left her immediately, and she served them.",
+    "32": "At evening, when the sun had set, they brought to him all who were sick, and those who were possessed by demons.",
+    "33": "All the city was gathered together at the door.",
+    "34": "He healed many who were sick with various diseases, and cast out many demons. He didn’t allow the demons to speak, because they knew him.",
+    "35": "Early in the morning, while it was still dark, he rose up and went out, and departed into a deserted place, and prayed there.",
+    "36": "Simon and those who were with him searched for him.",
+    "37": "They found him and told him, “Everyone is looking for you.”",
+    "38": "He said to them, “Let’s go elsewhere into the next towns, that I may preach there also, because I came out for this reason.”",
+    "39": "He went into their synagogues throughout all Galilee, preaching and casting out demons.",
+    "40": "A leper came to him, begging him, kneeling down to him, and saying to him, “If you want to, you can make me clean.”",
+    "41": "Being moved with compassion, he stretched out his hand, and touched him, and said to him, “I want to. Be made clean.”",
+    "42": "When he had said this, immediately the leprosy departed from him, and he was made clean.",
+    "43": "He strictly warned him, and immediately sent him out,",
+    "44": "and said to him, “See you say nothing to anybody, but go show yourself to the priest, and offer for your cleansing the things which Moses commanded, for a testimony to them.”",
+    "45": "But he went out, and began to proclaim it much, and to spread about the matter, so that Jesus could no more openly enter into a city, but was outside in desert places. People came to him from everywhere."
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.8857142857142857,
+      0.8571428571428571,
+      0.5857142857142856,
+      0.9142857142857141
+    ],
+    "2": [
+      0.5532608695652175,
+      0.5,
+      0.46005434782608695,
+      0.5
+    ],
+    "3": [
+      0.6006593406593407,
+      0.5619047619047619,
+      0.48021978021978023,
+      0.5866666666666667
+    ],
+    "4": [
+      0.42267441860465116,
+      0.41875,
+      0.5,
+      0.5039244186046512
+    ],
+    "5": [
+      0.42267045454545454,
+      0.41875,
+      0.5,
+      0.5039204545454545
+    ],
+    "6": [
+      0.5530864197530865,
+      0.5,
+      0.4601851851851852,
+      0.5
+    ],
+    "7": [
+      0.5272268907563025,
+      0.5619047619047619,
+      0.5662464985994398,
+      0.5495238095238095
+    ],
+    "8": [
+      0.814448394818361,
+      0.7500621890547263,
+      0.5902597859757814,
+      0.843594527363184
+    ],
+    "9": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "10": [
+      0.5850421348314606,
+      0.5677083333333334,
+      0.5,
+      0.5985838014981274
+    ],
+    "11": [
+      0.6278127522195319,
+      0.5,
+      0.44128329297820823,
+      0.5495238095238095
+    ],
+    "12": [
+      0.58515625,
+      0.5677083333333334,
+      0.5,
+      0.5986979166666667
+    ],
+    "13": [
+      0.5505154639175258,
+      0.5,
+      0.46211340206185564,
+      0.5
+    ],
+    "14": [
+      0.8,
+      0.75,
+      0.5,
+      0.85
+    ],
+    "15": [
+      0.5033324076645376,
+      0.7156345459594556,
+      0.8014718133851707,
+      0.6708414329352956
+    ],
+    "16": [
+      0.4226415094339623,
+      0.41875,
+      0.5,
+      0.5038915094339622
+    ],
+    "17": [
+      0.5854525862068966,
+      0.5677083333333334,
+      0.5,
+      0.5989942528735632
+    ],
+    "18": [
+      0.511904761904762,
+      0.5,
+      0.5,
+      0.511904761904762
+    ],
+    "19": [
+      0.5037735849056604,
+      0.5818181818181818,
+      0.6227272727272728,
+      0.5037735849056604
+    ],
+    "20": [
+      0.5510416666666667,
+      0.5,
+      0.46171875,
+      0.5
+    ],
+    "21": [
+      0.5523809523809524,
+      0.5196428571428572,
+      0.4869047619047619,
+      0.5
+    ],
+    "22": [
+      0.5173737373737374,
+      0.6393939393939393,
+      0.6821212121212121,
+      0.6115151515151515
+    ],
+    "23": [
+      0.6101087537885541,
+      0.5548523206751056,
+      0.472561954002496,
+      0.5844951565935699
+    ],
+    "24": [
+      0.7851044451626171,
+      0.7277448071216618,
+      0.4911419925375327,
+      0.8410979228486647
+    ],
+    "25": [
+      0.6005980066445182,
+      0.5619047619047619,
+      0.480265780730897,
+      0.5866666666666667
+    ],
+    "26": [
+      0.6794471153846153,
+      0.6474358974358974,
+      0.5,
+      0.7089342948717948
+    ],
+    "27": [
+      0.7827640633878402,
+      0.7277448071216618,
+      0.49289727886861545,
+      0.8410979228486647
+    ],
+    "28": [
+      0.5647727272727273,
+      0.5,
+      0.46079545454545456,
+      0.5125000000000001
+    ],
+    "29": [
+      0.5568421052631579,
+      0.5,
+      0.4573684210526316,
+      0.5
+    ],
+    "30": [
+      0.5528571428571429,
+      0.5,
+      0.46035714285714285,
+      0.5
+    ],
+    "31": [
+      0.5506172839506173,
+      0.5,
+      0.462037037037037,
+      0.5
+    ],
+    "32": [
+      0.5528735632183909,
+      0.5,
+      0.4603448275862069,
+      0.5
+    ],
+    "33": [
+      0.5526315789473685,
+      0.5217105263157895,
+      0.4894736842105263,
+      0.5
+    ],
+    "34": [
+      0.5537037037037037,
+      0.5,
+      0.4597222222222222,
+      0.5
+    ],
+    "35": [
+      0.5113402061855671,
+      0.5,
+      0.5,
+      0.5113402061855671
+    ],
+    "36": [
+      0.5585365853658537,
+      0.5,
+      0.4560975609756098,
+      0.5
+    ],
+    "37": [
+      0.5440506329113924,
+      0.5548523206751056,
+      0.549451476793249,
+      0.5514767932489452
+    ],
+    "38": [
+      0.5531914893617021,
+      0.5,
+      0.4601063829787234,
+      0.5
+    ],
+    "39": [
+      0.5102739726027398,
+      0.5,
+      0.5,
+      0.5102739726027398
+    ],
+    "40": [
+      0.5630952380952381,
+      0.5,
+      0.4616071428571428,
+      0.511904761904762
+    ],
+    "41": [
+      0.6333333333333333,
+      0.5,
+      0.45,
+      0.5666666666666667
+    ],
+    "42": [
+      0.5302040816326531,
+      0.5,
+      0.4773469387755102,
+      0.5714285714285714
+    ],
+    "43": [
+      0.5127906976744186,
+      0.5,
+      0.5,
+      0.5127906976744186
+    ],
+    "44": [
+      0.4,
+      0.4,
+      0.5,
+      0.5
+    ],
+    "45": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ]
+  }
+}

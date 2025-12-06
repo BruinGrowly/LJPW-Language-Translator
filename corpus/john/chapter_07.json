@@ -1,0 +1,382 @@
+{
+  "book": "John",
+  "chapter": 7,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 53,
+  "verses": {
+    "1": "After these things, Jesus was walking in Galilee, for he wouldn’t walk in Judea, because the Jews sought to kill him.",
+    "2": "Now the feast of the Jews, the Feast of Booths, was at hand.",
+    "3": "His brothers therefore said to him, “Depart from here and go into Judea, that your disciples also may see your works which you do.",
+    "4": "For no one does anything in secret while he seeks to be known openly. If you do these things, reveal yourself to the world.”",
+    "5": "For even his brothers didn’t believe in him.",
+    "6": "Jesus therefore said to them, “My time has not yet come, but your time is always ready.",
+    "7": "The world can’t hate you, but it hates me, because I testify about it, that its works are evil.",
+    "8": "You go up to the feast. I am not yet going up to this feast, because my time is not yet fulfilled.”",
+    "9": "Having said these things to them, he stayed in Galilee.",
+    "10": "But when his brothers had gone up to the feast, then he also went up, not publicly, but as it were in secret.",
+    "11": "The Jews therefore sought him at the feast, and said, “Where is he?”",
+    "12": "There was much murmuring among the multitudes concerning him. Some said, “He is a good man.” Others said, “Not so, but he leads the multitude astray.”",
+    "13": "Yet no one spoke openly of him for fear of the Jews.",
+    "14": "But when it was now the middle of the feast, Jesus went up into the temple and taught.",
+    "15": "The Jews therefore marveled, saying, “How does this man know letters, having never been educated?”",
+    "16": "Jesus therefore answered them, “My teaching is not mine, but his who sent me.",
+    "17": "If anyone desires to do his will, he will know about the teaching, whether it is from God, or if I am speaking from myself.",
+    "18": "He who speaks from himself seeks his own glory, but he who seeks the glory of him who sent him is true, and no unrighteousness is in him.",
+    "19": "Didn’t Moses give you the law, and yet none of you keeps the law? Why do you seek to kill me?”",
+    "20": "The multitude answered, “You have a demon! Who seeks to kill you?”",
+    "21": "Jesus answered them, “I did one work and you all marvel because of it.",
+    "22": "Moses has given you circumcision (not that it is of Moses, but of the fathers), and on the Sabbath you circumcise a boy.",
+    "23": "If a boy receives circumcision on the Sabbath, that the law of Moses may not be broken, are you angry with me, because I made a man completely healthy on the Sabbath?",
+    "24": "Don’t judge according to appearance, but judge righteous judgment.”",
+    "25": "Therefore some of them of Jerusalem said, “Isn’t this he whom they seek to kill?",
+    "26": "Behold, he speaks openly, and they say nothing to him. Can it be that the rulers indeed know that this is truly the Christ?",
+    "27": "However we know where this man comes from, but when the Christ comes, no one will know where he comes from.”",
+    "28": "Jesus therefore cried out in the temple, teaching and saying, “You both know me, and know where I am from. I have not come of myself, but he who sent me is true, whom you don’t know.",
+    "29": "I know him, because I am from him, and he sent me.”",
+    "30": "They sought therefore to take him; but no one laid a hand on him, because his hour had not yet come.",
+    "31": "But of the multitude, many believed in him. They said, “When the Christ comes, he won’t do more signs than those which this man has done, will he?”",
+    "32": "The Pharisees heard the multitude murmuring these things concerning him, and the chief priests and the Pharisees sent officers to arrest him.",
+    "33": "Then Jesus said, “I will be with you a little while longer, then I go to him who sent me.",
+    "34": "You will seek me, and won’t find me. You can’t come where I am.”",
+    "35": "The Jews therefore said among themselves, “Where will this man go that we won’t find him? Will he go to the Dispersion among the Greeks, and teach the Greeks?",
+    "36": "What is this word that he said, ‘You will seek me, and won’t find me;’ and ‘Where I am, you can’t come’?”",
+    "37": "Now on the last and greatest day of the feast, Jesus stood and cried out, “If anyone is thirsty, let him come to me and drink!",
+    "38": "He who believes in me, as the Scripture has said, from within him will flow rivers of living water.”",
+    "39": "But he said this about the Spirit, which those believing in him were to receive. For the Holy Spirit was not yet given, because Jesus wasn’t yet glorified.",
+    "40": "Many of the multitude therefore, when they heard these words, said, “This is truly the prophet.”",
+    "41": "Others said, “This is the Christ.” But some said, “What, does the Christ come out of Galilee?",
+    "42": "Hasn’t the Scripture said that the Christ comes of the offspring of David, and from Bethlehem, the village where David was?”",
+    "43": "So a division arose in the multitude because of him.",
+    "44": "Some of them would have arrested him, but no one laid hands on him.",
+    "45": "The officers therefore came to the chief priests and Pharisees, and they said to them, “Why didn’t you bring him?”",
+    "46": "The officers answered, “No man ever spoke like this man!”",
+    "47": "The Pharisees therefore answered them, “You aren’t also led astray, are you?",
+    "48": "Have any of the rulers believed in him, or of the Pharisees?",
+    "49": "But this multitude that doesn’t know the law is cursed.”",
+    "50": "Nicodemus (he who came to him by night, being one of them) said to them,",
+    "51": "“Does our law judge a man, unless it first hears from him personally and knows what he does?”",
+    "52": "They answered him, “Are you also from Galilee? Search, and see that no prophet has arisen out of Galilee.”",
+    "53": "Everyone went to his own house,"
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7333333333333333
+    ],
+    "2": [
+      0.5533333333333333,
+      0.5,
+      0.45999999999999996,
+      0.5
+    ],
+    "3": [
+      0.5533980582524272,
+      0.5,
+      0.45995145631067963,
+      0.5
+    ],
+    "4": [
+      0.5265095729013255,
+      0.5495238095238095,
+      0.4801178203240059,
+      0.599047619047619
+    ],
+    "5": [
+      0.5114285714285715,
+      0.5,
+      0.5,
+      0.5114285714285715
+    ],
+    "6": [
+      0.6019189765458423,
+      0.5619047619047619,
+      0.47927505330490405,
+      0.5866666666666667
+    ],
+    "7": [
+      0.45285714285714285,
+      0.4257142857142857,
+      0.47964285714285715,
+      0.5
+    ],
+    "8": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "9": [
+      0.5522727272727272,
+      0.5,
+      0.46079545454545456,
+      0.5
+    ],
+    "10": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "11": [
+      0.5324929971988795,
+      0.5,
+      0.4756302521008403,
+      0.5714285714285714
+    ],
+    "12": [
+      0.5108695652173914,
+      0.5,
+      0.5,
+      0.5108695652173914
+    ],
+    "13": [
+      0.5525,
+      0.5,
+      0.460625,
+      0.5
+    ],
+    "14": [
+      0.5742857142857143,
+      0.5722672352523099,
+      0.5138166311300639,
+      0.5866666666666667
+    ],
+    "15": [
+      0.5,
+      0.5666666666666667,
+      0.5,
+      0.679725085910653
+    ],
+    "16": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7333333333333333
+    ],
+    "17": [
+      0.5115709120128565,
+      0.6770992366412214,
+      0.49132181599035757,
+      0.8541984732824428
+    ],
+    "18": [
+      0.5171282922684791,
+      0.7230303030303029,
+      0.5707901444350041,
+      0.6393939393939393
+    ],
+    "19": [
+      0.5176937618147448,
+      0.6124637681159419,
+      0.5289035916824196,
+      0.6094202898550725
+    ],
+    "20": [
+      0.5331428571428571,
+      0.5,
+      0.47514285714285714,
+      0.5714285714285714
+    ],
+    "21": [
+      0.5850694444444444,
+      0.5677083333333334,
+      0.5,
+      0.5986111111111112
+    ],
+    "22": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "23": [
+      0.5164885496183206,
+      0.6124637681159419,
+      0.5298075008297378,
+      0.6094202898550725
+    ],
+    "24": [
+      0.5,
+      0.7757132298595713,
+      0.6455986696230599,
+      0.6483739837398375
+    ],
+    "25": [
+      0.5294930875576037,
+      0.5,
+      0.47788018433179724,
+      0.5714285714285714
+    ],
+    "26": [
+      0.8,
+      0.75,
+      0.5,
+      0.8744299674267101
+    ],
+    "27": [
+      0.6886324041811847,
+      0.6392276422764227,
+      0.48677047038327526,
+      0.7262775842044135
+    ],
+    "28": [
+      0.5120354376776063,
+      0.6770992366412214,
+      0.4909734217417953,
+      0.8541984732824428
+    ],
+    "29": [
+      0.544620253164557,
+      0.5438818565400844,
+      0.47294303797468357,
+      0.5963080168776371
+    ],
+    "30": [
+      0.5571428571428572,
+      0.5,
+      0.45714285714285713,
+      0.5
+    ],
+    "31": [
+      0.6009870740305523,
+      0.5702898550724638,
+      0.48752056404230315,
+      0.637536231884058
+    ],
+    "32": [
+      0.5101694915254238,
+      0.5,
+      0.5,
+      0.5101694915254238
+    ],
+    "33": [
+      0.6031168831168832,
+      0.5619047619047619,
+      0.47837662337662334,
+      0.5866666666666667
+    ],
+    "34": [
+      0.5677777777777778,
+      0.5,
+      0.4583333333333333,
+      0.5122222222222222
+    ],
+    "35": [
+      0.5,
+      0.5666666666666667,
+      0.5,
+      0.679725085910653
+    ],
+    "36": [
+      0.5317460317460317,
+      0.5,
+      0.47619047619047616,
+      0.5714285714285714
+    ],
+    "37": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "38": [
+      0.5621794871794872,
+      0.5,
+      0.4615384615384615,
+      0.510897435897436
+    ],
+    "39": [
+      0.8664466323562319,
+      0.8126146788990827,
+      0.5743622734392482,
+      0.8857798165137615
+    ],
+    "40": [
+      0.5533333333333333,
+      0.5,
+      0.45999999999999996,
+      0.5
+    ],
+    "41": [
+      0.6002268431001889,
+      0.5702898550724638,
+      0.48809073724007557,
+      0.637536231884058
+    ],
+    "42": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6630584192439863
+    ],
+    "43": [
+      0.5547619047619048,
+      0.5,
+      0.4589285714285714,
+      0.5
+    ],
+    "44": [
+      0.5634615384615386,
+      0.5,
+      0.4610576923076923,
+      0.5115384615384616
+    ],
+    "45": [
+      0.528892455858748,
+      0.5,
+      0.478330658105939,
+      0.5714285714285714
+    ],
+    "46": [
+      0.5113636363636364,
+      0.5,
+      0.5,
+      0.5113636363636364
+    ],
+    "47": [
+      0.5323809523809524,
+      0.5,
+      0.47571428571428576,
+      0.5714285714285714
+    ],
+    "48": [
+      0.5173172987974097,
+      0.5702898550724638,
+      0.585417823003392,
+      0.5953623188405797
+    ],
+    "49": [
+      0.5,
+      0.618767217630854,
+      0.5096694214876033,
+      0.7230303030303029
+    ],
+    "50": [
+      0.5537037037037037,
+      0.5,
+      0.4597222222222222,
+      0.5
+    ],
+    "51": [
+      0.5019015659955257,
+      0.6225950782997762,
+      0.49999999999999994,
+      0.7772930648769574
+    ],
+    "52": [
+      0.5489329268292683,
+      0.5,
+      0.4691310975609756,
+      0.5702743902439025
+    ],
+    "53": [
+      0.5640000000000001,
+      0.5,
+      0.452,
+      0.5
+    ]
+  }
+}

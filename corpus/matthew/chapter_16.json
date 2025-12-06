@@ -1,0 +1,207 @@
+{
+  "book": "Matthew",
+  "chapter": 16,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 28,
+  "verses": {
+    "1": "The Pharisees and Sadducees came, and testing him, asked him to show them a sign from heaven.",
+    "2": "But he answered them, “When it is evening, you say, ‘It will be fair weather, for the sky is red.’",
+    "3": "In the morning, ‘It will be foul weather today, for the sky is red and threatening.’ Hypocrites! You know how to discern the appearance of the sky, but you can’t discern the signs of the times!",
+    "4": "An evil and adulterous generation seeks after a sign, and there will be no sign given to it, except the sign of the prophet Jonah.” He left them, and departed.",
+    "5": "The disciples came to the other side and had forgotten to take bread.",
+    "6": "Jesus said to them, “Take heed and beware of the yeast of the Pharisees and Sadducees.”",
+    "7": "They reasoned among themselves, saying, “We brought no bread.”",
+    "8": "Jesus, perceiving it, said, “Why do you reason among yourselves, you of little faith, ‘because you have brought no bread?’",
+    "9": "Don’t you yet perceive, neither remember the five loaves for the five thousand, and how many baskets you took up?",
+    "10": "Nor the seven loaves for the four thousand, and how many baskets you took up?",
+    "11": "How is it that you don’t perceive that I didn’t speak to you concerning bread? But beware of the yeast of the Pharisees and Sadducees.”",
+    "12": "Then they understood that he didn’t tell them to beware of the yeast of bread, but of the teaching of the Pharisees and Sadducees.",
+    "13": "Now when Jesus came into the parts of Caesarea Philippi, he asked his disciples, saying, “Who do men say that I, the Son of Man, am?”",
+    "14": "They said, “Some say John the Baptizer, some, Elijah, and others, Jeremiah, or one of the prophets.”",
+    "15": "He said to them, “But who do you say that I am?”",
+    "16": "Simon Peter answered, “You are the Christ, the Son of the living God.”",
+    "17": "Jesus answered him, “Blessed are you, Simon Bar Jonah, for flesh and blood has not revealed this to you, but my Father who is in heaven.",
+    "18": "I also tell you that you are Peter, and on this rock I will build my assembly, and the gates of Hades will not prevail against it.",
+    "19": "I will give to you the keys of the Kingdom of Heaven, and whatever you bind on earth will have been bound in heaven; and whatever you release on earth will have been released in heaven.”",
+    "20": "Then he commanded the disciples that they should tell no one that he was Jesus the Christ.",
+    "21": "From that time, Jesus began to show his disciples that he must go to Jerusalem and suffer many things from the elders, chief priests, and scribes, and be killed, and the third day be raised up.",
+    "22": "Peter took him aside, and began to rebuke him, saying, “Far be it from you, Lord! This will never be done to you.”",
+    "23": "But he turned, and said to Peter, “Get behind me, Satan! You are a stumbling block to me, for you are not setting your mind on the things of God, but on the things of men.”",
+    "24": "Then Jesus said to his disciples, “If anyone desires to come after me, let him deny himself, and take up his cross, and follow me.",
+    "25": "For whoever desires to save his life will lose it, and whoever will lose his life for my sake will find it.",
+    "26": "For what will it profit a man, if he gains the whole world, and forfeits his life? Or what will a man give in exchange for his life?",
+    "27": "For the Son of Man will come in the glory of his Father with his angels, and then he will render to everyone according to his deeds.",
+    "28": "Most certainly I tell you, there are some standing here who will in no way taste of death, until they see the Son of Man coming in his Kingdom.”"
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "2": [
+      0.5282494969818914,
+      0.599047619047619,
+      0.5159557344064387,
+      0.5619047619047619
+    ],
+    "3": [
+      0.5,
+      0.5666666666666667,
+      0.5,
+      0.6333333333333333
+    ],
+    "4": [
+      0.4,
+      0.4,
+      0.5,
+      0.5
+    ],
+    "5": [
+      0.5,
+      0.5227678571428571,
+      0.5303571428571429,
+      0.5
+    ],
+    "6": [
+      0.6015126050420168,
+      0.5619047619047619,
+      0.4795798319327731,
+      0.5866666666666667
+    ],
+    "7": [
+      0.5102040816326531,
+      0.5,
+      0.5,
+      0.5102040816326531
+    ],
+    "8": [
+      0.6013320999074929,
+      0.5702898550724638,
+      0.48726179463459757,
+      0.637536231884058
+    ],
+    "9": [
+      0.5298412698412698,
+      0.5,
+      0.4776190476190476,
+      0.5714285714285714
+    ],
+    "10": [
+      0.52903981264637,
+      0.5,
+      0.4782201405152225,
+      0.5714285714285714
+    ],
+    "11": [
+      0.541953385127636,
+      0.5157325194228635,
+      0.489511653718091,
+      0.5588235294117647
+    ],
+    "12": [
+      0.5,
+      0.559908424908425,
+      0.5138461538461538,
+      0.599047619047619
+    ],
+    "13": [
+      0.6006260869565216,
+      0.5702898550724638,
+      0.487791304347826,
+      0.637536231884058
+    ],
+    "14": [
+      0.5533333333333333,
+      0.5,
+      0.45999999999999996,
+      0.5
+    ],
+    "15": [
+      0.5363636363636364,
+      0.5,
+      0.4727272727272727,
+      0.5714285714285714
+    ],
+    "16": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7333333333333333
+    ],
+    "17": [
+      0.6007346938775511,
+      0.5619047619047619,
+      0.48016326530612247,
+      0.5866666666666667
+    ],
+    "18": [
+      0.5103960396039604,
+      0.5,
+      0.5,
+      0.5103960396039604
+    ],
+    "19": [
+      0.6069829424307036,
+      0.7744092039800995,
+      0.7552416488983653,
+      0.7682213930348258
+    ],
+    "20": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7333333333333333
+    ],
+    "21": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "22": [
+      0.5850446428571429,
+      0.5677083333333334,
+      0.5,
+      0.5985863095238095
+    ],
+    "23": [
+      0.5727650316455697,
+      0.568870319092827,
+      0.518690664556962,
+      0.5837354957805908
+    ],
+    "24": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "25": [
+      0.5619047619047619,
+      0.5,
+      0.4616071428571428,
+      0.5107142857142858
+    ],
+    "26": [
+      0.5467821782178217,
+      0.5,
+      0.471039603960396,
+      0.5706683168316832
+    ],
+    "27": [
+      0.5115384615384616,
+      0.5,
+      0.5,
+      0.5115384615384616
+    ],
+    "28": [
+      0.5283613445378151,
+      0.6288515406162465,
+      0.6630714785914366,
+      0.6083483393357343
+    ]
+  }
+}

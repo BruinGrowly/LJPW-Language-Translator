@@ -1,0 +1,368 @@
+{
+  "book": "Matthew",
+  "chapter": 24,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 51,
+  "verses": {
+    "1": "Jesus went out from the temple, and was going on his way. His disciples came to him to show him the buildings of the temple.",
+    "2": "But he answered them, “You see all of these things, don’t you? Most certainly I tell you, there will not be left here one stone on another, that will not be thrown down.”",
+    "3": "As he sat on the Mount of Olives, the disciples came to him privately, saying, “Tell us, when will these things be? What is the sign of your coming, and of the end of the age?”",
+    "4": "Jesus answered them, “Be careful that no one leads you astray.",
+    "5": "For many will come in my name, saying, ‘I am the Christ,’ and will lead many astray.",
+    "6": "You will hear of wars and rumors of wars. See that you aren’t troubled, for all this must happen, but the end is not yet.",
+    "7": "For nation will rise against nation, and kingdom against kingdom; and there will be famines, plagues, and earthquakes in various places.",
+    "8": "But all these things are the beginning of birth pains.",
+    "9": "Then they will deliver you up to oppression, and will kill you. You will be hated by all of the nations for my name’s sake.",
+    "10": "Then many will stumble, and will deliver up one another, and will hate one another.",
+    "11": "Many false prophets will arise, and will lead many astray.",
+    "12": "Because iniquity will be multiplied, the love of many will grow cold.",
+    "13": "But he who endures to the end will be saved.",
+    "14": "This Good News of the Kingdom will be preached in the whole world for a testimony to all the nations, and then the end will come.",
+    "15": "“When, therefore, you see the abomination of desolation, which was spoken of through Daniel the prophet, standing in the holy place (let the reader understand),",
+    "16": "then let those who are in Judea flee to the mountains.",
+    "17": "Let him who is on the housetop not go down to take out the things that are in his house.",
+    "18": "Let him who is in the field not return back to get his clothes.",
+    "19": "But woe to those who are with child and to nursing mothers in those days!",
+    "20": "Pray that your flight will not be in the winter, nor on a Sabbath,",
+    "21": "for then there will be great suffering, such as has not been from the beginning of the world until now, no, nor ever will be.",
+    "22": "Unless those days had been shortened, no flesh would have been saved. But for the sake of the chosen ones, those days will be shortened.",
+    "23": "“Then if any man tells you, ‘Behold, here is the Christ,’ or, ‘There,’ don’t believe it.",
+    "24": "For there will arise false christs, and false prophets, and they will show great signs and wonders, so as to lead astray, if possible, even the chosen ones.",
+    "25": "“Behold, I have told you beforehand.",
+    "26": "If therefore they tell you, ‘Behold, he is in the wilderness,’ don’t go out; or ‘Behold, he is in the inner rooms,’ don’t believe it.",
+    "27": "For as the lightning flashes from the east, and is seen even to the west, so will the coming of the Son of Man be.",
+    "28": "For wherever the carcass is, that is where the vultures gather together.",
+    "29": "But immediately after the suffering of those days, the sun will be darkened, the moon will not give its light, the stars will fall from the sky, and the powers of the heavens will be shaken;",
+    "30": "and then the sign of the Son of Man will appear in the sky. Then all the tribes of the earth will mourn, and they will see the Son of Man coming on the clouds of the sky with power and great glory.",
+    "31": "He will send out his angels with a great sound of a trumpet, and they will gather together his chosen ones from the four winds, from one end of the sky to the other.",
+    "32": "“Now from the fig tree learn this parable. When its branch has now become tender, and produces its leaves, you know that the summer is near.",
+    "33": "Even so you also, when you see all these things, know that it is near, even at the doors.",
+    "34": "Most certainly I tell you, this generation will not pass away, until all these things are accomplished.",
+    "35": "Heaven and earth will pass away, but my words will not pass away.",
+    "36": "But no one knows of that day and hour, not even the angels of heaven, but my Father only.",
+    "37": "“As the days of Noah were, so will the coming of the Son of Man be.",
+    "38": "For as in those days which were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noah entered into the ship,",
+    "39": "and they didn’t know until the flood came, and took them all away, so will the coming of the Son of Man be.",
+    "40": "Then two men will be in the field: one will be taken and one will be left.",
+    "41": "Two women will be grinding at the mill: one will be taken and one will be left.",
+    "42": "Watch therefore, for you don’t know in what hour your Lord comes.",
+    "43": "But know this, that if the master of the house had known in what watch of the night the thief was coming, he would have watched, and would not have allowed his house to be broken into.",
+    "44": "Therefore also be ready, for in an hour that you don’t expect, the Son of Man will come.",
+    "45": "“Who then is the faithful and wise servant, whom his lord has set over his household, to give them their food in due season?",
+    "46": "Blessed is that servant whom his lord finds doing so when he comes.",
+    "47": "Most certainly I tell you that he will set him over all that he has.",
+    "48": "But if that evil servant should say in his heart, ‘My lord is delaying his coming,’",
+    "49": "and begins to beat his fellow servants, and eat and drink with the drunkards,",
+    "50": "the lord of that servant will come in a day when he doesn’t expect it, and in an hour when he doesn’t know it,",
+    "51": "and will cut him in pieces, and appoint his portion with the hypocrites. That is where the weeping and grinding of teeth will be."
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "2": [
+      0.547093023255814,
+      0.5,
+      0.4712209302325582,
+      0.5712209302325582
+    ],
+    "3": [
+      0.5,
+      0.5,
+      0.5,
+      0.6
+    ],
+    "4": [
+      0.6839703153988868,
+      0.6393939393939393,
+      0.4874768089053803,
+      0.6951515151515151
+    ],
+    "5": [
+      0.5872983870967742,
+      0.5677083333333334,
+      0.5,
+      0.6008400537634409
+    ],
+    "6": [
+      0.5108695652173914,
+      0.5,
+      0.5,
+      0.5108695652173914
+    ],
+    "7": [
+      0.5028066528066528,
+      0.6474358974358974,
+      0.7064102564102563,
+      0.6207553707553707
+    ],
+    "8": [
+      0.5102272727272728,
+      0.5204545454545455,
+      0.5272727272727273,
+      0.5102272727272728
+    ],
+    "9": [
+      0.5631578947368422,
+      0.5,
+      0.4613157894736842,
+      0.5115789473684211
+    ],
+    "10": [
+      0.515909090909091,
+      0.5,
+      0.5,
+      0.515909090909091
+    ],
+    "11": [
+      0.5148936170212767,
+      0.5,
+      0.5,
+      0.5148936170212767
+    ],
+    "12": [
+      0.6126860119047619,
+      0.5,
+      0.45937500000000003,
+      0.5585193452380952
+    ],
+    "13": [
+      0.5529411764705883,
+      0.5,
+      0.4602941176470588,
+      0.5
+    ],
+    "14": [
+      0.5026018099547511,
+      0.6474358974358974,
+      0.7064102564102563,
+      0.620550527903469
+    ],
+    "15": [
+      0.684403409090909,
+      0.6393939393939393,
+      0.4871519886363636,
+      0.6951515151515151
+    ],
+    "16": [
+      0.5558139534883721,
+      0.5,
+      0.45813953488372094,
+      0.5
+    ],
+    "17": [
+      0.5573529411764706,
+      0.5,
+      0.45698529411764705,
+      0.5
+    ],
+    "18": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "19": [
+      0.45320197044334976,
+      0.4257142857142857,
+      0.47938423645320194,
+      0.5
+    ],
+    "20": [
+      0.511764705882353,
+      0.5,
+      0.5,
+      0.511764705882353
+    ],
+    "21": [
+      0.5134020618556702,
+      0.5,
+      0.5,
+      0.5134020618556702
+    ],
+    "22": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "23": [
+      0.6078439510271841,
+      0.5548523206751056,
+      0.47394687694542437,
+      0.5840769177561044
+    ],
+    "24": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "25": [
+      0.5571428571428572,
+      0.5,
+      0.45714285714285713,
+      0.5
+    ],
+    "26": [
+      0.5625000000000001,
+      0.5,
+      0.4609375,
+      0.5104166666666667
+    ],
+    "27": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "28": [
+      0.5508474576271186,
+      0.5,
+      0.461864406779661,
+      0.5
+    ],
+    "29": [
+      0.5,
+      0.5833333333333334,
+      0.6166666666666667,
+      0.5666666666666667
+    ],
+    "30": [
+      0.5043174342105263,
+      0.5677083333333334,
+      0.5947916666666667,
+      0.5584841008771929
+    ],
+    "31": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "32": [
+      0.5018037518037518,
+      0.684126984126984,
+      0.5,
+      0.87005772005772
+    ],
+    "33": [
+      0.5284008528784648,
+      0.5495238095238095,
+      0.4786993603411514,
+      0.599047619047619
+    ],
+    "34": [
+      0.511904761904762,
+      0.5,
+      0.5,
+      0.511904761904762
+    ],
+    "35": [
+      0.5529411764705883,
+      0.5,
+      0.4602941176470588,
+      0.5
+    ],
+    "36": [
+      0.5038602941176471,
+      0.5541666666666667,
+      0.5,
+      0.6121936274509804
+    ],
+    "37": [
+      0.553061224489796,
+      0.5,
+      0.46020408163265303,
+      0.5
+    ],
+    "38": [
+      0.5419204905063292,
+      0.5548523206751056,
+      0.5507598233122364,
+      0.5510911128691983
+    ],
+    "39": [
+      0.5041666666666667,
+      0.5541666666666667,
+      0.5,
+      0.6124999999999999
+    ],
+    "40": [
+      0.5142857142857143,
+      0.5,
+      0.5,
+      0.5142857142857143
+    ],
+    "41": [
+      0.5155737704918033,
+      0.5,
+      0.5,
+      0.5155737704918033
+    ],
+    "42": [
+      0.6844290657439447,
+      0.6288515406162465,
+      0.4813148788927336,
+      0.6852858790575054
+    ],
+    "43": [
+      0.5285714285714286,
+      0.5495238095238095,
+      0.4785714285714286,
+      0.599047619047619
+    ],
+    "44": [
+      0.5619402985074627,
+      0.5,
+      0.46194029850746265,
+      0.5111940298507462
+    ],
+    "45": [
+      0.6894645826405056,
+      0.6473118279569893,
+      0.49048220818091126,
+      0.7352688172043012
+    ],
+    "46": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "47": [
+      0.5641509433962264,
+      0.5,
+      0.46037735849056605,
+      0.5113207547169811
+    ],
+    "48": [
+      0.6792668269230768,
+      0.6474358974358974,
+      0.5,
+      0.7087540064102563
+    ],
+    "49": [
+      0.510483870967742,
+      0.5205645161290323,
+      0.5274193548387097,
+      0.510483870967742
+    ],
+    "50": [
+      0.6822314467955857,
+      0.6288515406162465,
+      0.4827781715095677,
+      0.6850393169315919
+    ],
+    "51": [
+      0.550485436893204,
+      0.5,
+      0.4621359223300971,
+      0.5
+    ]
+  }
+}

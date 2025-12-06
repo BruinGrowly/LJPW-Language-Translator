@@ -1,0 +1,333 @@
+{
+  "book": "Matthew",
+  "chapter": 22,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 46,
+  "verses": {
+    "1": "Jesus answered and spoke to them again in parables, saying,",
+    "2": "“The Kingdom of Heaven is like a certain king, who made a wedding feast for his son,",
+    "3": "and sent out his servants to call those who were invited to the wedding feast, but they would not come.",
+    "4": "Again he sent out other servants, saying, ‘Tell those who are invited, “Behold, I have prepared my dinner. My cattle and my fatlings are killed, and all things are ready. Come to the wedding feast!” ’",
+    "5": "But they made light of it, and went their ways, one to his own farm, another to his merchandise,",
+    "6": "and the rest grabbed his servants, and treated them shamefully, and killed them.",
+    "7": "When the king heard that, he was angry, and sent his armies, destroyed those murderers, and burned their city.",
+    "8": "“Then he said to his servants, ‘The wedding is ready, but those who were invited weren’t worthy.",
+    "9": "Go therefore to the intersections of the highways, and as many as you may find, invite to the wedding feast.’",
+    "10": "Those servants went out into the highways, and gathered together as many as they found, both bad and good. The wedding was filled with guests.",
+    "11": "But when the king came in to see the guests, he saw there a man who didn’t have on wedding clothing,",
+    "12": "and he said to him, ‘Friend, how did you come in here not wearing wedding clothing?’ He was speechless.",
+    "13": "Then the king said to the servants, ‘Bind him hand and foot, take him away, and throw him into the outer darkness. That is where the weeping and grinding of teeth will be.’",
+    "14": "For many are called, but few chosen.”",
+    "15": "Then the Pharisees went and took counsel how they might entrap him in his talk.",
+    "16": "They sent their disciples to him, along with the Herodians, saying, “Teacher, we know that you are honest, and teach the way of God in truth, no matter whom you teach, for you aren’t partial to anyone.",
+    "17": "Tell us therefore, what do you think? Is it lawful to pay taxes to Caesar, or not?”",
+    "18": "But Jesus perceived their wickedness, and said, “Why do you test me, you hypocrites?",
+    "19": "Show me the tax money.” They brought to him a denarius.",
+    "20": "He asked them, “Whose is this image and inscription?”",
+    "21": "They said to him, “Caesar’s.” Then he said to them, “Give therefore to Caesar the things that are Caesar’s, and to God the things that are God’s.”",
+    "22": "When they heard it, they marveled, and left him, and went away.",
+    "23": "On that day Sadducees (those who say that there is no resurrection) came to him. They asked him,",
+    "24": "saying, “Teacher, Moses said, ‘If a man dies, having no children, his brother shall marry his wife, and raise up offspring for his brother.’",
+    "25": "Now there were with us seven brothers. The first married and died, and having no offspring left his wife to his brother.",
+    "26": "In the same way, the second also, and the third, to the seventh.",
+    "27": "After them all, the woman died.",
+    "28": "In the resurrection therefore, whose wife will she be of the seven? For they all had her.”",
+    "29": "But Jesus answered them, “You are mistaken, not knowing the Scriptures, nor the power of God.",
+    "30": "For in the resurrection they neither marry, nor are given in marriage, but are like God’s angels in heaven.",
+    "31": "But concerning the resurrection of the dead, haven’t you read that which was spoken to you by God, saying,",
+    "32": "‘I am the God of Abraham, and the God of Isaac, and the God of Jacob?’ God is not the God of the dead, but of the living.”",
+    "33": "When the multitudes heard it, they were astonished at his teaching.",
+    "34": "But the Pharisees, when they heard that he had silenced the Sadducees, gathered themselves together.",
+    "35": "One of them, a lawyer, asked him a question, testing him.",
+    "36": "“Teacher, which is the greatest commandment in the law?”",
+    "37": "Jesus said to him, “ ‘You shall love the Lord your God with all your heart, with all your soul, and with all your mind.’",
+    "38": "This is the first and great commandment.",
+    "39": "A second likewise is this, ‘You shall love your neighbor as yourself.’",
+    "40": "The whole law and the prophets depend on these two commandments.”",
+    "41": "Now while the Pharisees were gathered together, Jesus asked them a question,",
+    "42": "saying, “What do you think of the Christ? Whose son is he?” They said to him, “Of David.”",
+    "43": "He said to them, “How then does David in the Spirit call him Lord, saying,",
+    "44": "‘The Lord said to my Lord, sit on my right hand, until I make your enemies a footstool for your feet?’",
+    "45": "“If then David calls him Lord, how is he his son?”",
+    "46": "No one was able to answer him a word, neither did any man dare ask him any more questions from that day forward."
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "2": [
+      0.6063136456211812,
+      0.7995587236931432,
+      0.7864901561439239,
+      0.7928038017651051
+    ],
+    "3": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "4": [
+      0.5111111111111112,
+      0.5,
+      0.5,
+      0.5111111111111112
+    ],
+    "5": [
+      0.5527027027027027,
+      0.5,
+      0.46047297297297296,
+      0.5
+    ],
+    "6": [
+      0.5115384615384616,
+      0.5196153846153846,
+      0.5261538461538462,
+      0.5115384615384616
+    ],
+    "7": [
+      0.5022777602024676,
+      0.5741590214067279,
+      0.603822629969419,
+      0.6028893809975746
+    ],
+    "8": [
+      0.5540540540540541,
+      0.5,
+      0.45945945945945943,
+      0.5
+    ],
+    "9": [
+      0.5261627906976745,
+      0.575,
+      0.5928779069767443,
+      0.5
+    ],
+    "10": [
+      0.4257142857142857,
+      0.436203007518797,
+      0.513984962406015,
+      0.5
+    ],
+    "11": [
+      0.5267161410018553,
+      0.5619047619047619,
+      0.5666295609152752,
+      0.5495238095238095
+    ],
+    "12": [
+      0.530379746835443,
+      0.5,
+      0.4772151898734177,
+      0.5714285714285714
+    ],
+    "13": [
+      0.5,
+      0.5717651271034729,
+      0.5998138202649481,
+      0.5495238095238095
+    ],
+    "14": [
+      0.5125000000000001,
+      0.5,
+      0.5,
+      0.5125000000000001
+    ],
+    "15": [
+      0.5265178571428571,
+      0.5619047619047619,
+      0.5667782738095238,
+      0.5495238095238095
+    ],
+    "16": [
+      0.5127062299926126,
+      0.6770992366412214,
+      0.49047032750554054,
+      0.8541984732824428
+    ],
+    "17": [
+      0.5161570827489481,
+      0.6124637681159419,
+      0.5300561009817673,
+      0.6094202898550725
+    ],
+    "18": [
+      0.6004743083003952,
+      0.5702898550724638,
+      0.48790513833992094,
+      0.637536231884058
+    ],
+    "19": [
+      0.5571428571428572,
+      0.5,
+      0.45714285714285713,
+      0.5
+    ],
+    "20": [
+      0.5292682926829269,
+      0.5,
+      0.47804878048780486,
+      0.5714285714285714
+    ],
+    "21": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "22": [
+      0.55,
+      0.5,
+      0.468359375,
+      0.5703125
+    ],
+    "23": [
+      0.5546666666666666,
+      0.5,
+      0.459,
+      0.5
+    ],
+    "24": [
+      0.5022810074449549,
+      0.6056497175141242,
+      0.5686440677966103,
+      0.6220550187443898
+    ],
+    "25": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "26": [
+      0.5520833333333334,
+      0.5,
+      0.4609375,
+      0.5
+    ],
+    "27": [
+      0.5125000000000001,
+      0.5,
+      0.5,
+      0.5125000000000001
+    ],
+    "28": [
+      0.5318367346938775,
+      0.5,
+      0.47612244897959183,
+      0.5714285714285714
+    ],
+    "29": [
+      0.8857142857142857,
+      0.8571428571428571,
+      0.6714285714285714,
+      0.9142857142857141
+    ],
+    "30": [
+      0.586764705882353,
+      0.5677083333333334,
+      0.5,
+      0.6003063725490196
+    ],
+    "31": [
+      0.6006122448979592,
+      0.5619047619047619,
+      0.48025510204081634,
+      0.5866666666666667
+    ],
+    "32": [
+      0.5843478260869565,
+      0.5773063468265867,
+      0.5093553223388305,
+      0.637536231884058
+    ],
+    "33": [
+      0.5176442687747036,
+      0.556231884057971,
+      0.4867667984189723,
+      0.6515942028985506
+    ],
+    "34": [
+      0.5530120481927712,
+      0.5,
+      0.4602409638554217,
+      0.5
+    ],
+    "35": [
+      0.5275083056478406,
+      0.599047619047619,
+      0.5165116279069768,
+      0.5619047619047619
+    ],
+    "36": [
+      0.5016473459426479,
+      0.6225950782997762,
+      0.49999999999999994,
+      0.7770388448240796
+    ],
+    "37": [
+      0.7729850322475966,
+      0.7093862815884475,
+      0.4865837829067456,
+      0.7969739991076136
+    ],
+    "38": [
+      0.5121212121212122,
+      0.5,
+      0.5,
+      0.5121212121212122
+    ],
+    "39": [
+      0.5178512396694215,
+      0.6115151515151515,
+      0.4866115702479339,
+      0.7230303030303029
+    ],
+    "40": [
+      0.5038915094339622,
+      0.6083333333333333,
+      0.540625,
+      0.5715998427672957
+    ],
+    "41": [
+      0.6028571428571429,
+      0.5619047619047619,
+      0.4785714285714286,
+      0.5866666666666667
+    ],
+    "42": [
+      0.6022360248447205,
+      0.5702898550724638,
+      0.486583850931677,
+      0.637536231884058
+    ],
+    "43": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7333333333333333
+    ],
+    "44": [
+      0.6857752985269763,
+      0.6532438478747202,
+      0.49999999999999994,
+      0.7466254103837995
+    ],
+    "45": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6630584192439863
+    ],
+    "46": [
+      0.5636363636363637,
+      0.5,
+      0.46164772727272724,
+      0.5125000000000001
+    ]
+  }
+}

@@ -1,0 +1,571 @@
+{
+  "book": "Luke",
+  "chapter": 1,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 80,
+  "verses": {
+    "1": "Since many have undertaken to set in order a narrative concerning those matters which have been fulfilled among us,",
+    "2": "even as those who from the beginning were eyewitnesses and servants of the word delivered them to us,",
+    "3": "it seemed good to me also, having traced the course of all things accurately from the first, to write to you in order, most excellent Theophilus;",
+    "4": "that you might know the certainty concerning the things in which you were instructed.",
+    "5": "There was in the days of Herod, the king of Judea, a certain priest named Zacharias, of the priestly division of Abijah. He had a wife of the daughters of Aaron, and her name was Elizabeth.",
+    "6": "They were both righteous before God, walking blamelessly in all the commandments and ordinances of the Lord.",
+    "7": "But they had no child, because Elizabeth was barren, and they both were well advanced in years.",
+    "8": "Now while he executed the priest’s office before God in the order of his division",
+    "9": "according to the custom of the priest’s office, his lot was to enter into the temple of the Lord and burn incense.",
+    "10": "The whole multitude of the people were praying outside at the hour of incense.",
+    "11": "An angel of the Lord appeared to him, standing on the right side of the altar of incense.",
+    "12": "Zacharias was troubled when he saw him, and fear fell upon him.",
+    "13": "But the angel said to him, “Don’t be afraid, Zacharias, because your request has been heard. Your wife, Elizabeth, will bear you a son, and you shall call his name John.",
+    "14": "You will have joy and gladness, and many will rejoice at his birth.",
+    "15": "For he will be great in the sight of the Lord, and he will drink no wine nor strong drink. He will be filled with the Holy Spirit, even from his mother’s womb.",
+    "16": "He will turn many of the children of Israel to the Lord their God.",
+    "17": "He will go before him in the spirit and power of Elijah, ‘to turn the hearts of the fathers to the children,’ and the disobedient to the wisdom of the just; to prepare a people prepared for the Lord.”",
+    "18": "Zacharias said to the angel, “How can I be sure of this? For I am an old man, and my wife is well advanced in years.”",
+    "19": "The angel answered him, “I am Gabriel, who stands in the presence of God. I was sent to speak to you and to bring you this good news.",
+    "20": "Behold, you will be silent and not able to speak until the day that these things will happen, because you didn’t believe my words, which will be fulfilled in their proper time.”",
+    "21": "The people were waiting for Zacharias, and they marveled that he delayed in the temple.",
+    "22": "When he came out, he could not speak to them. They perceived that he had seen a vision in the temple. He continued making signs to them, and remained mute.",
+    "23": "When the days of his service were fulfilled, he departed to his house.",
+    "24": "After these days Elizabeth his wife conceived, and she hid herself five months, saying,",
+    "25": "“Thus has the Lord done to me in the days in which he looked at me, to take away my reproach among men.”",
+    "26": "Now in the sixth month, the angel Gabriel was sent from God to a city of Galilee named Nazareth,",
+    "27": "to a virgin pledged to be married to a man whose name was Joseph, of David’s house. The virgin’s name was Mary.",
+    "28": "Having come in, the angel said to her, “Rejoice, you highly favored one! The Lord is with you. Blessed are you among women!”",
+    "29": "But when she saw him, she was greatly troubled at the saying, and considered what kind of salutation this might be.",
+    "30": "The angel said to her, “Don’t be afraid, Mary, for you have found favor with God.",
+    "31": "Behold, you will conceive in your womb and give birth to a son, and shall name him ‘Jesus.’",
+    "32": "He will be great and will be called the Son of the Most High. The Lord God will give him the throne of his father David,",
+    "33": "and he will reign over the house of Jacob forever. There will be no end to his Kingdom.”",
+    "34": "Mary said to the angel, “How can this be, seeing I am a virgin?”",
+    "35": "The angel answered her, “The Holy Spirit will come on you, and the power of the Most High will overshadow you. Therefore also the holy one who is born from you will be called the Son of God.",
+    "36": "Behold, Elizabeth your relative also has conceived a son in her old age; and this is the sixth month with her who was called barren.",
+    "37": "For nothing spoken by God is impossible.”",
+    "38": "Mary said, “Behold, the servant of the Lord; let it be done to me according to your word.” The angel departed from her.",
+    "39": "Mary arose in those days and went into the hill country with haste, into a city of Judah,",
+    "40": "and entered into the house of Zacharias and greeted Elizabeth.",
+    "41": "When Elizabeth heard Mary’s greeting, the baby leaped in her womb; and Elizabeth was filled with the Holy Spirit.",
+    "42": "She called out with a loud voice and said, “Blessed are you among women, and blessed is the fruit of your womb!",
+    "43": "Why am I so favored, that the mother of my Lord should come to me?",
+    "44": "For behold, when the voice of your greeting came into my ears, the baby leaped in my womb for joy!",
+    "45": "Blessed is she who believed, for there will be a fulfillment of the things which have been spoken to her from the Lord!”",
+    "46": "Mary said, “My soul magnifies the Lord.",
+    "47": "My spirit has rejoiced in God my Savior,",
+    "48": "for he has looked at the humble state of his servant. For behold, from now on, all generations will call me blessed.",
+    "49": "For he who is mighty has done great things for me. Holy is his name.",
+    "50": "His mercy is for generations of generations on those who fear him.",
+    "51": "He has shown strength with his arm. He has scattered the proud in the imagination of their hearts.",
+    "52": "He has put down princes from their thrones, and has exalted the lowly.",
+    "53": "He has filled the hungry with good things. He has sent the rich away empty.",
+    "54": "He has given help to Israel, his servant, that he might remember mercy,",
+    "55": "as he spoke to our fathers, to Abraham and his offspring forever.”",
+    "56": "Mary stayed with her about three months, and then returned to her house.",
+    "57": "Now the time that Elizabeth should give birth was fulfilled, and she gave birth to a son.",
+    "58": "Her neighbors and her relatives heard that the Lord had magnified his mercy toward her, and they rejoiced with her.",
+    "59": "On the eighth day, they came to circumcise the child; and they would have called him Zacharias, after the name of his father.",
+    "60": "His mother answered, “Not so; but he will be called John.”",
+    "61": "They said to her, “There is no one among your relatives who is called by this name.”",
+    "62": "They made signs to his father, what he would have him called.",
+    "63": "He asked for a writing tablet, and wrote, “His name is John.” They all marveled.",
+    "64": "His mouth was opened immediately and his tongue freed, and he spoke, blessing God.",
+    "65": "Fear came on all who lived around them, and all these sayings were talked about throughout all the hill country of Judea.",
+    "66": "All who heard them laid them up in their heart, saying, “What then will this child be?” The hand of the Lord was with him.",
+    "67": "His father Zacharias was filled with the Holy Spirit, and prophesied, saying,",
+    "68": "“Blessed be the Lord, the God of Israel, for he has visited and redeemed his people;",
+    "69": "and has raised up a horn of salvation for us in the house of his servant David",
+    "70": "(as he spoke by the mouth of his holy prophets who have been from of old),",
+    "71": "salvation from our enemies and from the hand of all who hate us;",
+    "72": "to show mercy toward our fathers, to remember his holy covenant,",
+    "73": "the oath which he swore to Abraham our father,",
+    "74": "to grant to us that we, being delivered out of the hand of our enemies, should serve him without fear,",
+    "75": "in holiness and righteousness before him all the days of our life.",
+    "76": "And you, child, will be called a prophet of the Most High; for you will go before the face of the Lord to prepare his ways,",
+    "77": "to give knowledge of salvation to his people by the remission of their sins,",
+    "78": "because of the tender mercy of our God, by which the dawn from on high will visit us,",
+    "79": "to shine on those who sit in darkness and the shadow of death; to guide our feet into the way of peace.”",
+    "80": "The child was growing and becoming strong in spirit, and was in the desert until the day of his public appearance to Israel."
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.5028846153846154,
+      0.7358974358974358,
+      0.5884615384615385,
+      0.6503205128205127
+    ],
+    "2": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "3": [
+      0.5,
+      0.6333333333333333,
+      0.55,
+      0.5833333333333334
+    ],
+    "4": [
+      0.5165941101152368,
+      0.6393939393939393,
+      0.6827059325650875,
+      0.6115151515151515
+    ],
+    "5": [
+      0.5277992277992278,
+      0.5619047619047619,
+      0.5658172458172458,
+      0.5495238095238095
+    ],
+    "6": [
+      0.7782186948853616,
+      0.7301587301587301,
+      0.5,
+      0.8242504409171074
+    ],
+    "7": [
+      0.5526315789473685,
+      0.5,
+      0.4605263157894737,
+      0.5
+    ],
+    "8": [
+      0.6846280991735536,
+      0.6393939393939393,
+      0.4869834710743801,
+      0.6951515151515151
+    ],
+    "9": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "10": [
+      0.55625,
+      0.5,
+      0.4578125,
+      0.5
+    ],
+    "11": [
+      0.6793956043956043,
+      0.6474358974358974,
+      0.5,
+      0.7088827838827838
+    ],
+    "12": [
+      0.5650000000000001,
+      0.5,
+      0.45949999999999996,
+      0.511
+    ],
+    "13": [
+      0.5542635658914729,
+      0.5,
+      0.45930232558139533,
+      0.5
+    ],
+    "14": [
+      0.5622641509433962,
+      0.5,
+      0.46179245283018866,
+      0.5113207547169811
+    ],
+    "15": [
+      0.8688370661125222,
+      0.8199530516431925,
+      0.5816901408450704,
+      0.8960671130608789
+    ],
+    "16": [
+      0.6800295857988164,
+      0.6474358974358974,
+      0.5,
+      0.7095167652859959
+    ],
+    "17": [
+      0.8,
+      0.75,
+      0.5,
+      0.85
+    ],
+    "18": [
+      0.5462209302325581,
+      0.5,
+      0.4712209302325582,
+      0.5703488372093023
+    ],
+    "19": [
+      0.8670076726342711,
+      0.7502131287297529,
+      0.7002557544757033,
+      0.8502983802216539
+    ],
+    "20": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "21": [
+      0.5535211267605634,
+      0.5,
+      0.45985915492957746,
+      0.5
+    ],
+    "22": [
+      0.5160402443406396,
+      0.5702898550724638,
+      0.5863756138459695,
+      0.5953623188405797
+    ],
+    "23": [
+      0.5316326530612245,
+      0.5,
+      0.47627551020408165,
+      0.5714285714285714
+    ],
+    "24": [
+      0.5507042253521127,
+      0.5,
+      0.4619718309859155,
+      0.5
+    ],
+    "25": [
+      0.6026373626373627,
+      0.5619047619047619,
+      0.47873626373626377,
+      0.5866666666666667
+    ],
+    "26": [
+      0.5854440789473684,
+      0.5677083333333334,
+      0.5,
+      0.5989857456140352
+    ],
+    "27": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "28": [
+      0.6032826747720365,
+      0.5619047619047619,
+      0.47825227963525835,
+      0.5866666666666667
+    ],
+    "29": [
+      0.5,
+      0.5833333333333334,
+      0.6166666666666667,
+      0.5666666666666667
+    ],
+    "30": [
+      0.6008571428571429,
+      0.5619047619047619,
+      0.4800714285714286,
+      0.5866666666666667
+    ],
+    "31": [
+      0.60842047330765,
+      0.5548523206751056,
+      0.4739955971381398,
+      0.5847184002935242
+    ],
+    "32": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7333333333333333
+    ],
+    "33": [
+      0.501750700280112,
+      0.7301587301587301,
+      0.8222222222222221,
+      0.6858776844070961
+    ],
+    "34": [
+      0.5298136645962733,
+      0.5,
+      0.47763975155279503,
+      0.5714285714285714
+    ],
+    "35": [
+      0.8603748426919158,
+      0.8215077605321508,
+      0.646031341763049,
+      0.8750389524779769
+    ],
+    "36": [
+      0.5523809523809524,
+      0.5,
+      0.4607142857142857,
+      0.5
+    ],
+    "37": [
+      0.5742857142857143,
+      0.5724242424242424,
+      0.514025974025974,
+      0.5866666666666667
+    ],
+    "38": [
+      0.5854166666666667,
+      0.5677083333333334,
+      0.5,
+      0.5989583333333334
+    ],
+    "39": [
+      0.5542857142857143,
+      0.5,
+      0.4592857142857143,
+      0.5
+    ],
+    "40": [
+      0.551923076923077,
+      0.5,
+      0.4610576923076923,
+      0.5
+    ],
+    "41": [
+      0.8138008446777103,
+      0.7500621890547263,
+      0.5907454485812695,
+      0.843594527363184
+    ],
+    "42": [
+      0.5511627906976745,
+      0.5,
+      0.46162790697674416,
+      0.5
+    ],
+    "43": [
+      0.6006260869565216,
+      0.5702898550724638,
+      0.487791304347826,
+      0.637536231884058
+    ],
+    "44": [
+      0.5526315789473685,
+      0.5,
+      0.4605263157894737,
+      0.5
+    ],
+    "45": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "46": [
+      0.5862499999999999,
+      0.5677083333333334,
+      0.5,
+      0.5997916666666667
+    ],
+    "47": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7333333333333333
+    ],
+    "48": [
+      0.5126373626373627,
+      0.5,
+      0.5,
+      0.5126373626373627
+    ],
+    "49": [
+      0.6848951048951047,
+      0.6393939393939393,
+      0.4867832167832168,
+      0.6951515151515151
+    ],
+    "50": [
+      0.6308016877637131,
+      0.5,
+      0.44050632911392407,
+      0.5514767932489452
+    ],
+    "51": [
+      0.5273417721518987,
+      0.5619047619047619,
+      0.5661603375527426,
+      0.5495238095238095
+    ],
+    "52": [
+      0.5107142857142858,
+      0.5,
+      0.5,
+      0.5107142857142858
+    ],
+    "53": [
+      0.5559322033898305,
+      0.5,
+      0.4580508474576271,
+      0.5
+    ],
+    "54": [
+      0.5026785714285714,
+      0.6474358974358974,
+      0.7064102564102563,
+      0.6206272893772893
+    ],
+    "55": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "56": [
+      0.5637931034482759,
+      0.5,
+      0.45991379310344827,
+      0.5103448275862069
+    ],
+    "57": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "58": [
+      0.6828625067048095,
+      0.6288515406162465,
+      0.4822590738423029,
+      0.684978246617796
+    ],
+    "59": [
+      0.5545454545454546,
+      0.5,
+      0.4590909090909091,
+      0.5
+    ],
+    "60": [
+      0.5116279069767442,
+      0.5,
+      0.5,
+      0.5116279069767442
+    ],
+    "61": [
+      0.56484375,
+      0.5,
+      0.458984375,
+      0.51015625
+    ],
+    "62": [
+      0.55625,
+      0.5,
+      0.4578125,
+      0.5
+    ],
+    "63": [
+      0.5116666666666667,
+      0.5,
+      0.5,
+      0.5116666666666667
+    ],
+    "64": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7333333333333333
+    ],
+    "65": [
+      0.5622448979591838,
+      0.5,
+      0.461734693877551,
+      0.5112244897959184
+    ],
+    "66": [
+      0.6017013232514177,
+      0.5702898550724638,
+      0.48698487712665406,
+      0.637536231884058
+    ],
+    "67": [
+      0.8137393390191897,
+      0.7500621890547263,
+      0.5907915778251599,
+      0.843594527363184
+    ],
+    "68": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7333333333333333
+    ],
+    "69": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "70": [
+      0.6027551020408164,
+      0.5619047619047619,
+      0.4786479591836735,
+      0.5866666666666667
+    ],
+    "71": [
+      0.5637254901960784,
+      0.5,
+      0.4617647058823529,
+      0.5127450980392158
+    ],
+    "72": [
+      0.679585798816568,
+      0.6474358974358974,
+      0.5,
+      0.7090729783037475
+    ],
+    "73": [
+      0.5648648648648649,
+      0.5,
+      0.45135135135135135,
+      0.5
+    ],
+    "74": [
+      0.5525,
+      0.5,
+      0.460625,
+      0.5
+    ],
+    "75": [
+      0.5025641025641026,
+      0.7358974358974358,
+      0.5884615384615385,
+      0.6499999999999999
+    ],
+    "76": [
+      0.6010942249240121,
+      0.5619047619047619,
+      0.4798936170212766,
+      0.5866666666666667
+    ],
+    "77": [
+      0.5,
+      0.7,
+      0.5,
+      0.9
+    ],
+    "78": [
+      0.8659958362248439,
+      0.5,
+      0.35832755031228314,
+      0.6770992366412214
+    ],
+    "79": [
+      0.55625,
+      0.5,
+      0.4578125,
+      0.5
+    ],
+    "80": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ]
+  }
+}

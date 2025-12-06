@@ -1,0 +1,222 @@
+{
+  "test_cases": [
+    {
+      "name": "Divine Declaration",
+      "coords": [
+        0.9,
+        0.9,
+        0.5,
+        0.95
+      ],
+      "description": "God speaking about His nature"
+    },
+    {
+      "name": "Action Statement",
+      "coords": [
+        0.7,
+        0.7,
+        0.85,
+        0.75
+      ],
+      "description": "Physical action or event"
+    },
+    {
+      "name": "Teaching/Wisdom",
+      "coords": [
+        0.75,
+        0.8,
+        0.6,
+        0.92
+      ],
+      "description": "Instructional content"
+    },
+    {
+      "name": "Prophecy",
+      "coords": [
+        0.7,
+        0.88,
+        0.75,
+        0.9
+      ],
+      "description": "Prophetic declaration"
+    }
+  ],
+  "results": [
+    {
+      "target_coords": [
+        0.9,
+        0.9,
+        0.5,
+        0.95
+      ],
+      "semantic_type": "divine_declaration",
+      "nearest_terms": [
+        "Holy",
+        "Sanctification",
+        "Consecration",
+        "Reconciliation",
+        "Worship"
+      ],
+      "candidates": [
+        {
+          "text": "At that very moment, there was in their synagogue a man under the power of an unclean spirit, and he shouted,",
+          "method": "nearest_corpus",
+          "distance": 0.18565446418902218,
+          "confidence": 0.907172767905489
+        },
+        {
+          "text": "Holy is Sanctification",
+          "method": "template",
+          "template": "{subject} is {descriptor}",
+          "distance": 0.494694069321861,
+          "confidence": 0.7526529653390694
+        },
+        {
+          "text": "You are Holy, Sanctification",
+          "method": "template",
+          "template": "You are {subject}, {descriptor}",
+          "distance": 0.5026492315720775,
+          "confidence": 0.7486753842139613
+        }
+      ],
+      "best_candidate": {
+        "text": "At that very moment, there was in their synagogue a man under the power of an unclean spirit, and he shouted,",
+        "method": "nearest_corpus",
+        "distance": 0.18565446418902218,
+        "confidence": 0.907172767905489
+      }
+    },
+    {
+      "target_coords": [
+        0.7,
+        0.7,
+        0.85,
+        0.75
+      ],
+      "semantic_type": "action_statement",
+      "nearest_terms": [
+        "Earth",
+        "Body",
+        "Crown",
+        "Proclamation",
+        "Woman"
+      ],
+      "candidates": [
+        {
+          "text": "and saying: 'The appointed time has been fulfilled, and the Kingdom of God has drawn near. Repent, and have faith in the good news.'",
+          "method": "nearest_corpus",
+          "distance": 0.23979157616563593,
+          "confidence": 0.880104211917182
+        },
+        {
+          "text": "Earth will proclaimed Crown",
+          "method": "template",
+          "template": "{subject} will {action} {object}",
+          "distance": 0.4870546398734152,
+          "confidence": 0.7564726800632924
+        },
+        {
+          "text": "Earth proclaimed Crown",
+          "method": "template",
+          "template": "{subject} {action} {object}",
+          "distance": 0.4896937818678117,
+          "confidence": 0.7551531090660941
+        }
+      ],
+      "best_candidate": {
+        "text": "and saying: 'The appointed time has been fulfilled, and the Kingdom of God has drawn near. Repent, and have faith in the good news.'",
+        "method": "nearest_corpus",
+        "distance": 0.23979157616563593,
+        "confidence": 0.880104211917182
+      }
+    },
+    {
+      "target_coords": [
+        0.75,
+        0.8,
+        0.6,
+        0.92
+      ],
+      "semantic_type": "teaching",
+      "nearest_terms": [
+        "Teaching",
+        "Assurance",
+        "Confidence",
+        "Witness",
+        "Servant"
+      ],
+      "candidates": [
+        {
+          "text": "The beginning of the good news about Jesus Christ, the Son of God.",
+          "method": "nearest_corpus",
+          "distance": 0.14106735979665888,
+          "confidence": 0.9294663201016705
+        },
+        {
+          "text": "Teaching taught them, saying: Teaching",
+          "method": "template",
+          "template": "{subject} taught them, saying: {message}",
+          "distance": 0.42793524028580804,
+          "confidence": 0.786032379857096
+        },
+        {
+          "text": "Teaching said: Teaching",
+          "method": "template",
+          "template": "{subject} said: {message}",
+          "distance": 0.45729883251788683,
+          "confidence": 0.7713505837410566
+        }
+      ],
+      "best_candidate": {
+        "text": "The beginning of the good news about Jesus Christ, the Son of God.",
+        "method": "nearest_corpus",
+        "distance": 0.14106735979665888,
+        "confidence": 0.9294663201016705
+      }
+    },
+    {
+      "target_coords": [
+        0.7,
+        0.88,
+        0.75,
+        0.9
+      ],
+      "semantic_type": "action_statement",
+      "nearest_terms": [
+        "Obedience",
+        "Conviction",
+        "Glory",
+        "Word",
+        "Return"
+      ],
+      "candidates": [
+        {
+          "text": "and saying: 'The appointed time has been fulfilled, and the Kingdom of God has drawn near. Repent, and have faith in the good news.'",
+          "method": "nearest_corpus",
+          "distance": 0.11575836902790221,
+          "confidence": 0.9421208154860489
+        },
+        {
+          "text": "Obedience will proclaimed Glory",
+          "method": "template",
+          "template": "{subject} will {action} {object}",
+          "distance": 0.6117572547796308,
+          "confidence": 0.6941213726101846
+        },
+        {
+          "text": "Obedience proclaimed Glory",
+          "method": "template",
+          "template": "{subject} {action} {object}",
+          "distance": 0.6149390213671596,
+          "confidence": 0.6925304893164201
+        }
+      ],
+      "best_candidate": {
+        "text": "and saying: 'The appointed time has been fulfilled, and the Kingdom of God has drawn near. Repent, and have faith in the good news.'",
+        "method": "nearest_corpus",
+        "distance": 0.11575836902790221,
+        "confidence": 0.9421208154860489
+      }
+    }
+  ]
+}

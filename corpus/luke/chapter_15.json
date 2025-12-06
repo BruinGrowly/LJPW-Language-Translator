@@ -1,0 +1,235 @@
+{
+  "book": "Luke",
+  "chapter": 15,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 32,
+  "verses": {
+    "1": "Now all the tax collectors and sinners were coming close to him to hear him.",
+    "2": "The Pharisees and the scribes murmured, saying, “This man welcomes sinners, and eats with them.”",
+    "3": "He told them this parable.",
+    "4": "“Which of you men, if you had one hundred sheep, and lost one of them, wouldn’t leave the ninety-nine in the wilderness, and go after the one that was lost, until he found it?",
+    "5": "When he has found it, he carries it on his shoulders, rejoicing.",
+    "6": "When he comes home, he calls together his friends and his neighbors, saying to them, ‘Rejoice with me, for I have found my sheep which was lost!’",
+    "7": "I tell you that even so there will be more joy in heaven over one sinner who repents, than over ninety-nine righteous people who need no repentance.",
+    "8": "Or what woman, if she had ten drachma coins, if she lost one drachma coin, wouldn’t light a lamp, sweep the house, and seek diligently until she found it?",
+    "9": "When she has found it, she calls together her friends and neighbors, saying, ‘Rejoice with me, for I have found the drachma which I had lost.’",
+    "10": "Even so, I tell you, there is joy in the presence of the angels of God over one sinner repenting.”",
+    "11": "He said, “A certain man had two sons.",
+    "12": "The younger of them said to his father, ‘Father, give me my share of your property.’ He divided his livelihood between them.",
+    "13": "Not many days after, the younger son gathered all of this together and traveled into a far country. There he wasted his property with riotous living.",
+    "14": "When he had spent all of it, there arose a severe famine in that country, and he began to be in need.",
+    "15": "He went and joined himself to one of the citizens of that country, and he sent him into his fields to feed pigs.",
+    "16": "He wanted to fill his belly with the husks that the pigs ate, but no one gave him any.",
+    "17": "But when he came to himself he said, ‘How many hired servants of my father’s have bread enough to spare, and I’m dying with hunger!",
+    "18": "I will get up and go to my father, and will tell him, “Father, I have sinned against heaven, and in your sight.",
+    "19": "I am no more worthy to be called your son. Make me as one of your hired servants.” ’",
+    "20": "“He arose, and came to his father. But while he was still far off, his father saw him, and was moved with compassion, and ran, and fell on his neck, and kissed him.",
+    "21": "The son said to him, ‘Father, I have sinned against heaven and in your sight. I am no longer worthy to be called your son.’",
+    "22": "“But the father said to his servants, ‘Bring out the best robe, and put it on him. Put a ring on his hand, and sandals on his feet.",
+    "23": "Bring the fattened calf, kill it, and let’s eat, and celebrate;",
+    "24": "for this, my son, was dead, and is alive again. He was lost, and is found.’ Then they began to celebrate.",
+    "25": "“Now his elder son was in the field. As he came near to the house, he heard music and dancing.",
+    "26": "He called one of the servants to him, and asked what was going on.",
+    "27": "He said to him, ‘Your brother has come, and your father has killed the fattened calf, because he has received him back safe and healthy.’",
+    "28": "But he was angry, and would not go in. Therefore his father came out, and begged him.",
+    "29": "But he answered his father, ‘Behold, these many years I have served you, and I never disobeyed a commandment of yours, but you never gave me a goat, that I might celebrate with my friends.",
+    "30": "But when this your son came, who has devoured your living with prostitutes, you killed the fattened calf for him.’",
+    "31": "“He said to him, ‘Son, you are always with me, and all that is mine is yours.",
+    "32": "But it was appropriate to celebrate and be glad, for this, your brother, was dead, and is alive again. He was lost, and is found.’ ”"
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.4239754098360656,
+      0.41875,
+      0.5,
+      0.5052254098360656
+    ],
+    "2": [
+      0.4229440789473684,
+      0.41875,
+      0.5,
+      0.5041940789473685
+    ],
+    "3": [
+      0.5,
+      0.5214285714285715,
+      0.5285714285714286,
+      0.5
+    ],
+    "4": [
+      0.5470864661654136,
+      0.5,
+      0.47039473684210525,
+      0.5701127819548872
+    ],
+    "5": [
+      0.5308571428571429,
+      0.5,
+      0.47685714285714287,
+      0.5714285714285714
+    ],
+    "6": [
+      0.5306122448979592,
+      0.5,
+      0.4770408163265306,
+      0.5714285714285714
+    ],
+    "7": [
+      0.5212966052847131,
+      0.8350180505415161,
+      0.6127309407517519,
+      0.7134817826047386
+    ],
+    "8": [
+      0.5042459088898718,
+      0.5,
+      0.5,
+      0.5831932773109244
+    ],
+    "9": [
+      0.5296103896103896,
+      0.5,
+      0.47779220779220777,
+      0.5714285714285714
+    ],
+    "10": [
+      0.6795384615384614,
+      0.6474358974358974,
+      0.5,
+      0.7090256410256409
+    ],
+    "11": [
+      0.5518518518518519,
+      0.5,
+      0.4611111111111111,
+      0.5
+    ],
+    "12": [
+      0.554639175257732,
+      0.5,
+      0.459020618556701,
+      0.5
+    ],
+    "13": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "14": [
+      0.5467532467532468,
+      0.5,
+      0.4707792207792208,
+      0.5702922077922078
+    ],
+    "15": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "16": [
+      0.5530303030303031,
+      0.5,
+      0.4602272727272727,
+      0.5
+    ],
+    "17": [
+      0.5524752475247525,
+      0.5,
+      0.4606435643564356,
+      0.5
+    ],
+    "18": [
+      0.4230421686746988,
+      0.41875,
+      0.5,
+      0.5042921686746988
+    ],
+    "19": [
+      0.5645161290322581,
+      0.5,
+      0.4612903225806452,
+      0.5129032258064516
+    ],
+    "20": [
+      0.6333333333333333,
+      0.5,
+      0.45,
+      0.5666666666666667
+    ],
+    "21": [
+      0.47680685994283384,
+      0.4341772151898734,
+      0.4735402204981626,
+      0.5073499387505105
+    ],
+    "22": [
+      0.5,
+      0.5193298969072165,
+      0.5257731958762887,
+      0.5
+    ],
+    "23": [
+      0.5114583333333333,
+      0.521875,
+      0.5291666666666667,
+      0.5114583333333333
+    ],
+    "24": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "25": [
+      0.5535211267605634,
+      0.5,
+      0.45985915492957746,
+      0.5
+    ],
+    "26": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "27": [
+      0.5532710280373832,
+      0.5,
+      0.46004672897196264,
+      0.5
+    ],
+    "28": [
+      0.5507692307692308,
+      0.5,
+      0.46192307692307694,
+      0.5
+    ],
+    "29": [
+      0.5265889212827988,
+      0.5619047619047619,
+      0.5667249757045676,
+      0.5495238095238095
+    ],
+    "30": [
+      0.5516483516483517,
+      0.5,
+      0.46126373626373623,
+      0.5
+    ],
+    "31": [
+      0.5581818181818182,
+      0.5,
+      0.45636363636363636,
+      0.5
+    ],
+    "32": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "book": "Matthew",
+  "chapter": 9,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 38,
+  "verses": {
+    "1": "He entered into a boat, and crossed over, and came into his own city.",
+    "2": "Behold, they brought to him a man who was paralyzed, lying on a bed. Jesus, seeing their faith, said to the paralytic, “Son, cheer up! Your sins are forgiven you.”",
+    "3": "Behold, some of the scribes said to themselves, “This man blasphemes.”",
+    "4": "Jesus, knowing their thoughts, said, “Why do you think evil in your hearts?",
+    "5": "For which is easier, to say, ‘Your sins are forgiven;’ or to say, ‘Get up, and walk?’",
+    "6": "But that you may know that the Son of Man has authority on earth to forgive sins-” (then he said to the paralytic), “Get up, and take up your mat, and go to your house.”",
+    "7": "He arose and departed to his house.",
+    "8": "But when the multitudes saw it, they marveled and glorified God, who had given such authority to men.",
+    "9": "As Jesus passed by from there, he saw a man called Matthew sitting at the tax collection office. He said to him, “Follow me.” He got up and followed him.",
+    "10": "As he sat in the house, behold, many tax collectors and sinners came and sat down with Jesus and his disciples.",
+    "11": "When the Pharisees saw it, they said to his disciples, “Why does your teacher eat with tax collectors and sinners?”",
+    "12": "When Jesus heard it, he said to them, “Those who are healthy have no need for a physician, but those who are sick do.",
+    "13": "But you go and learn what this means: ‘I desire mercy, and not sacrifice,’ for I came not to call the righteous, but sinners to repentance.”",
+    "14": "Then John’s disciples came to him, saying, “Why do we and the Pharisees fast often, but your disciples don’t fast?”",
+    "15": "Jesus said to them, “Can the friends of the bridegroom mourn, as long as the bridegroom is with them? But the days will come when the bridegroom will be taken away from them, and then they will fast.",
+    "16": "No one puts a piece of unshrunk cloth on an old garment; for the patch would tear away from the garment, and a worse hole is made.",
+    "17": "Neither do people put new wine into old wine skins, or else the skins would burst, and the wine be spilled, and the skins ruined. No, they put new wine into fresh wine skins, and both are preserved.”",
+    "18": "While he told these things to them, behold, a ruler came and worshiped him, saying, “My daughter has just died, but come and lay your hand on her, and she will live.”",
+    "19": "Jesus got up and followed him, as did his disciples.",
+    "20": "Behold, a woman who had a discharge of blood for twelve years came behind him, and touched the fringe of his garment;",
+    "21": "for she said within herself, “If I just touch his garment, I will be made well.”",
+    "22": "But Jesus, turning around and seeing her, said, “Daughter, cheer up! Your faith has made you well.” And the woman was made well from that hour.",
+    "23": "When Jesus came into the ruler’s house, and saw the flute players, and the crowd in noisy disorder,",
+    "24": "he said to them, “Make room, because the girl isn’t dead, but sleeping.” They were ridiculing him.",
+    "25": "But when the crowd was put out, he entered in, took her by the hand, and the girl arose.",
+    "26": "The report of this went out into all that land.",
+    "27": "As Jesus passed by from there, two blind men followed him, calling out and saying, “Have mercy on us, son of David!”",
+    "28": "When he had come into the house, the blind men came to him. Jesus said to them, “Do you believe that I am able to do this?” They told him, “Yes, Lord.”",
+    "29": "Then he touched their eyes, saying, “According to your faith be it done to you.”",
+    "30": "Their eyes were opened. Jesus strictly commanded them, saying, “See that no one knows about this.”",
+    "31": "But they went out and spread abroad his fame in all that land.",
+    "32": "As they went out, behold, a mute man who was demon possessed was brought to him.",
+    "33": "When the demon was cast out, the mute man spoke. The multitudes marveled, saying, “Nothing like this has ever been seen in Israel!”",
+    "34": "But the Pharisees said, “By the prince of the demons, he casts out demons.”",
+    "35": "Jesus went about all the cities and the villages, teaching in their synagogues, and preaching the Good News of the Kingdom, and healing every disease and every sickness among the people.",
+    "36": "But when he saw the multitudes, he was moved with compassion for them, because they were harassed and scattered, like sheep without a shepherd.",
+    "37": "Then he said to his disciples, “The harvest indeed is plentiful, but the laborers are few.",
+    "38": "Pray therefore that the Lord of the harvest will send out laborers into his harvest.”"
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "2": [
+      0.6845676274944567,
+      0.6393939393939393,
+      0.48702882483370286,
+      0.6951515151515151
+    ],
+    "3": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "4": [
+      0.7831167502302262,
+      0.7277448071216618,
+      0.49263276373682596,
+      0.8410979228486647
+    ],
+    "5": [
+      0.43210022107590274,
+      0.41565217391304343,
+      0.48766396462785555,
+      0.5391304347826087
+    ],
+    "6": [
+      0.5122748091603053,
+      0.7213740458015268,
+      0.8007175572519084,
+      0.6770992366412214
+    ],
+    "7": [
+      0.5571428571428572,
+      0.5,
+      0.45714285714285713,
+      0.5
+    ],
+    "8": [
+      0.6842424242424241,
+      0.6393939393939393,
+      0.48727272727272725,
+      0.6951515151515151
+    ],
+    "9": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "10": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7333333333333333
+    ],
+    "11": [
+      0.5122509748316201,
+      0.6178494623655914,
+      0.4908117688762851,
+      0.764731182795699
+    ],
+    "12": [
+      0.6029897410845139,
+      0.5702898550724638,
+      0.48601856375183194,
+      0.637536231884058
+    ],
+    "13": [
+      0.5017801513128616,
+      0.8682539682539682,
+      0.638095238095238,
+      0.7319388814715917
+    ],
+    "14": [
+      0.5,
+      0.5,
+      0.5,
+      0.6
+    ],
+    "15": [
+      0.5913196894848272,
+      0.5741590214067279,
+      0.5,
+      0.6474358974358976
+    ],
+    "16": [
+      0.5118811881188119,
+      0.5,
+      0.5,
+      0.5118811881188119
+    ],
+    "17": [
+      0.5107142857142858,
+      0.5,
+      0.5,
+      0.5107142857142858
+    ],
+    "18": [
+      0.5280912364945979,
+      0.6288515406162465,
+      0.6628351340536214,
+      0.6077631052420969
+    ],
+    "19": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "20": [
+      0.5516129032258065,
+      0.5,
+      0.4612903225806452,
+      0.5
+    ],
+    "21": [
+      0.5,
+      0.6333333333333333,
+      0.55,
+      0.5833333333333334
+    ],
+    "22": [
+      0.6087794681221693,
+      0.5548523206751056,
+      0.4731912669840902,
+      0.584004954902644
+    ],
+    "23": [
+      0.782905982905983,
+      0.7347094801223242,
+      0.5,
+      0.8527836587469615
+    ],
+    "24": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "25": [
+      0.5530303030303031,
+      0.5193181818181818,
+      0.48598484848484846,
+      0.5
+    ],
+    "26": [
+      0.5108108108108108,
+      0.5202702702702703,
+      0.5270270270270271,
+      0.5108108108108108
+    ],
+    "27": [
+      0.6794143356643356,
+      0.6474358974358974,
+      0.5,
+      0.7089015151515151
+    ],
+    "28": [
+      0.689559041136431,
+      0.6473118279569893,
+      0.49041136430896715,
+      0.7352688172043012
+    ],
+    "29": [
+      0.5573770491803279,
+      0.5,
+      0.4569672131147541,
+      0.5
+    ],
+    "30": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7333333333333333
+    ],
+    "31": [
+      0.5102040816326531,
+      0.5198979591836735,
+      0.5265306122448979,
+      0.5102040816326531
+    ],
+    "32": [
+      0.5532258064516129,
+      0.5,
+      0.4600806451612903,
+      0.5
+    ],
+    "33": [
+      0.5043343653250774,
+      0.5,
+      0.5,
+      0.58328173374613
+    ],
+    "34": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "35": [
+      0.5,
+      0.75,
+      0.85,
+      0.7
+    ],
+    "36": [
+      0.6269786535303776,
+      0.5,
+      0.4419088669950739,
+      0.5495238095238095
+    ],
+    "37": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "38": [
+      0.5850543478260869,
+      0.5677083333333334,
+      0.5,
+      0.5985960144927537
+    ]
+  }
+}

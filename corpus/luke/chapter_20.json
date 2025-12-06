@@ -1,0 +1,340 @@
+{
+  "book": "Luke",
+  "chapter": 20,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 47,
+  "verses": {
+    "1": "On one of those days, as he was teaching the people in the temple and preaching the Good News, the priests and scribes came to him with the elders.",
+    "2": "They asked him, “Tell us: by what authority do you do these things? Or who is giving you this authority?”",
+    "3": "He answered them, “I also will ask you one question. Tell me:",
+    "4": "the baptism of John, was it from heaven, or from men?”",
+    "5": "They reasoned with themselves, saying, “If we say, ‘From heaven,’ he will say, ‘Why didn’t you believe him?’",
+    "6": "But if we say, ‘From men,’ all the people will stone us, for they are persuaded that John was a prophet.”",
+    "7": "They answered that they didn’t know where it was from.",
+    "8": "Jesus said to them, “Neither will I tell you by what authority I do these things.”",
+    "9": "He began to tell the people this parable. “A man planted a vineyard, and rented it out to some farmers, and went into another country for a long time.",
+    "10": "At the proper season, he sent a servant to the farmers to collect his share of the fruit of the vineyard. But the farmers beat him, and sent him away empty.",
+    "11": "He sent yet another servant, and they also beat him, and treated him shamefully, and sent him away empty.",
+    "12": "He sent yet a third, and they also wounded him, and threw him out.",
+    "13": "The lord of the vineyard said, ‘What shall I do? I will send my beloved son. It may be that seeing him, they will respect him.’",
+    "14": "“But when the farmers saw him, they reasoned among themselves, saying, ‘This is the heir. Come, let’s kill him, that the inheritance may be ours.’",
+    "15": "They threw him out of the vineyard and killed him. What therefore will the lord of the vineyard do to them?",
+    "16": "He will come and destroy these farmers, and will give the vineyard to others.” When they heard that, they said, “May that never be!”",
+    "17": "But he looked at them and said, “Then what is this that is written, ‘The stone which the builders rejected was made the chief cornerstone?’",
+    "18": "Everyone who falls on that stone will be broken to pieces, but it will crush whomever it falls on to dust.”",
+    "19": "The chief priests and the scribes sought to lay hands on him that very hour, but they feared the people—for they knew he had spoken this parable against them.",
+    "20": "They watched him and sent out spies, who pretended to be righteous, that they might trap him in something he said, so as to deliver him up to the power and authority of the governor.",
+    "21": "They asked him, “Teacher, we know that you say and teach what is right, and aren’t partial to anyone, but truly teach the way of God.",
+    "22": "Is it lawful for us to pay taxes to Caesar, or not?”",
+    "23": "But he perceived their craftiness, and said to them, “Why do you test me?",
+    "24": "Show me a denarius. Whose image and inscription are on it?” They answered, “Caesar’s.”",
+    "25": "He said to them, “Then give to Caesar the things that are Caesar’s, and to God the things that are God’s.”",
+    "26": "They weren’t able to trap him in his words before the people. They marveled at his answer and were silent.",
+    "27": "Some of the Sadducees came to him, those who deny that there is a resurrection.",
+    "28": "They asked him, “Teacher, Moses wrote to us that if a man’s brother dies having a wife, and he is childless, his brother should take the wife and raise up children for his brother.",
+    "29": "There were therefore seven brothers. The first took a wife, and died childless.",
+    "30": "The second took her as wife, and he died childless.",
+    "31": "The third took her, and likewise the seven all left no children, and died.",
+    "32": "Afterward the woman also died.",
+    "33": "Therefore in the resurrection whose wife of them will she be? For the seven had her as a wife.”",
+    "34": "Jesus said to them, “The children of this age marry, and are given in marriage.",
+    "35": "But those who are considered worthy to attain to that age and the resurrection from the dead neither marry nor are given in marriage.",
+    "36": "For they can’t die any more, for they are like the angels, and are children of God, being children of the resurrection.",
+    "37": "But that the dead are raised, even Moses showed at the bush, when he called the Lord ‘The God of Abraham, the God of Isaac, and the God of Jacob.’",
+    "38": "Now he is not the God of the dead, but of the living, for all are alive to him.”",
+    "39": "Some of the scribes answered, “Teacher, you speak well.”",
+    "40": "They didn’t dare to ask him any more questions.",
+    "41": "He said to them, “Why do they say that the Christ is David’s son?",
+    "42": "David himself says in the book of Psalms, ‘The Lord said to my Lord, “Sit at my right hand,",
+    "43": "until I make your enemies the footstool of your feet.” ’",
+    "44": "“David therefore calls him Lord, so how is he his son?”",
+    "45": "In the hearing of all the people, he said to his disciples,",
+    "46": "“Beware of those scribes who like to walk in long robes, and love greetings in the marketplaces, the best seats in the synagogues, and the best places at feasts;",
+    "47": "who devour widows’ houses, and for a pretense make long prayers: these will receive greater condemnation.”"
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.5,
+      0.5666666666666667,
+      0.5,
+      0.6333333333333333
+    ],
+    "2": [
+      0.5183913043478261,
+      0.5702898550724638,
+      0.5846123188405796,
+      0.5953623188405797
+    ],
+    "3": [
+      0.566304347826087,
+      0.5,
+      0.4592391304347826,
+      0.5119565217391304
+    ],
+    "4": [
+      0.5052631578947369,
+      0.5,
+      0.5,
+      0.5842105263157895
+    ],
+    "5": [
+      0.5332730560578662,
+      0.5,
+      0.4750452079566003,
+      0.5714285714285714
+    ],
+    "6": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "7": [
+      0.5275083056478406,
+      0.5495238095238095,
+      0.4793687707641196,
+      0.599047619047619
+    ],
+    "8": [
+      0.6854545454545453,
+      0.6393939393939393,
+      0.48636363636363633,
+      0.6951515151515151
+    ],
+    "9": [
+      0.5128205128205129,
+      0.5,
+      0.5,
+      0.5128205128205129
+    ],
+    "10": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "11": [
+      0.5614457831325301,
+      0.5,
+      0.46204819277108433,
+      0.5108433734939759
+    ],
+    "12": [
+      0.556,
+      0.5,
+      0.45799999999999996,
+      0.5
+    ],
+    "13": [
+      0.6885093378607811,
+      0.6473118279569893,
+      0.4911986417657046,
+      0.7352688172043012
+    ],
+    "14": [
+      0.5617117117117117,
+      0.5,
+      0.4614864864864865,
+      0.5103603603603604
+    ],
+    "15": [
+      0.6012890025575447,
+      0.5702898550724638,
+      0.48729411764705877,
+      0.637536231884058
+    ],
+    "16": [
+      0.5524752475247525,
+      0.5,
+      0.4606435643564356,
+      0.5
+    ],
+    "17": [
+      0.5288335517693317,
+      0.5,
+      0.4783748361730013,
+      0.5714285714285714
+    ],
+    "18": [
+      0.5107142857142858,
+      0.5,
+      0.5,
+      0.5107142857142858
+    ],
+    "19": [
+      0.5503937007874016,
+      0.5,
+      0.4622047244094488,
+      0.5
+    ],
+    "20": [
+      0.5119274809160306,
+      0.7213740458015268,
+      0.8009780534351145,
+      0.6770992366412214
+    ],
+    "21": [
+      0.512697452951402,
+      0.6770992366412214,
+      0.4904769102864485,
+      0.8541984732824428
+    ],
+    "22": [
+      0.5,
+      0.6333333333333333,
+      0.55,
+      0.6297250859106529
+    ],
+    "23": [
+      0.5,
+      0.5,
+      0.5,
+      0.6
+    ],
+    "24": [
+      0.5307692307692308,
+      0.5,
+      0.4769230769230769,
+      0.5714285714285714
+    ],
+    "25": [
+      0.5742857142857143,
+      0.5726461723930079,
+      0.5143218806509946,
+      0.5866666666666667
+    ],
+    "26": [
+      0.5619047619047619,
+      0.5,
+      0.4616071428571428,
+      0.5107142857142858
+    ],
+    "27": [
+      0.553968253968254,
+      0.5,
+      0.4595238095238095,
+      0.5
+    ],
+    "28": [
+      0.5260816326530612,
+      0.5495238095238095,
+      0.4804387755102041,
+      0.599047619047619
+    ],
+    "29": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "30": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "31": [
+      0.5042025862068965,
+      0.5541666666666667,
+      0.5,
+      0.6125359195402298
+    ],
+    "32": [
+      0.552,
+      0.5,
+      0.46099999999999997,
+      0.5
+    ],
+    "33": [
+      0.5324324324324324,
+      0.5,
+      0.4756756756756757,
+      0.5714285714285714
+    ],
+    "34": [
+      0.5855532786885246,
+      0.5677083333333334,
+      0.5,
+      0.5990949453551913
+    ],
+    "35": [
+      0.5619266055045872,
+      0.5,
+      0.46215596330275227,
+      0.5114678899082569
+    ],
+    "36": [
+      0.8116197992490997,
+      0.7633808392715755,
+      0.6239904988123515,
+      0.7651035680535335
+    ],
+    "37": [
+      0.6842314049586775,
+      0.6393939393939393,
+      0.4872809917355372,
+      0.6951515151515151
+    ],
+    "38": [
+      0.6008866995073892,
+      0.5619047619047619,
+      0.48004926108374385,
+      0.5866666666666667
+    ],
+    "39": [
+      0.526312292358804,
+      0.5495238095238095,
+      0.480265780730897,
+      0.599047619047619
+    ],
+    "40": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "41": [
+      0.6013043478260869,
+      0.5702898550724638,
+      0.48728260869565215,
+      0.637536231884058
+    ],
+    "42": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7333333333333333
+    ],
+    "43": [
+      0.5558139534883721,
+      0.5,
+      0.45813953488372094,
+      0.5
+    ],
+    "44": [
+      0.6003817603393424,
+      0.5702898550724638,
+      0.4879745493107105,
+      0.637536231884058
+    ],
+    "45": [
+      0.5521739130434783,
+      0.5,
+      0.4608695652173913,
+      0.5
+    ],
+    "46": [
+      0.6333333333333333,
+      0.5,
+      0.45,
+      0.5666666666666667
+    ],
+    "47": [
+      0.5046511627906977,
+      0.5,
+      0.5,
+      0.5835985312117503
+    ]
+  }
+}

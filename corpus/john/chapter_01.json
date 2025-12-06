@@ -1,0 +1,368 @@
+{
+  "book": "John",
+  "chapter": 1,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 51,
+  "verses": {
+    "1": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+    "2": "The same was in the beginning with God.",
+    "3": "All things were made through him. Without him, nothing was made that has been made.",
+    "4": "In him was life, and the life was the light of men.",
+    "5": "The light shines in the darkness, and the darkness hasn’t overcome it.",
+    "6": "There came a man, sent from God, whose name was John.",
+    "7": "The same came as a witness, that he might testify about the light, that all might believe through him.",
+    "8": "He was not the light, but was sent that he might testify about the light.",
+    "9": "The true light that enlightens everyone was coming into the world.",
+    "10": "He was in the world, and the world was made through him, and the world didn’t recognize him.",
+    "11": "He came to his own, and those who were his own didn’t receive him.",
+    "12": "But as many as received him, to them he gave the right to become God’s children, to those who believe in his name:",
+    "13": "who were born not of blood, nor of the will of the flesh, nor of the will of man, but of God.",
+    "14": "The Word became flesh, and lived among us. We saw his glory, such glory as of the one and only Son of the Father, full of grace and truth.",
+    "15": "John testified about him. He cried out, saying, “This was he of whom I said, ‘He who comes after me has surpassed me, for he was before me.’ ”",
+    "16": "From his fullness we all received grace upon grace.",
+    "17": "For the law was given through Moses. Grace and truth were realized through Jesus Christ.",
+    "18": "No one has seen God at any time. The one and only Son, who is in the bosom of the Father, has declared him.",
+    "19": "This is John’s testimony, when the Jews sent priests and Levites from Jerusalem to ask him, “Who are you?”",
+    "20": "He declared, and didn’t deny, but he declared, “I am not the Christ.”",
+    "21": "They asked him, “What then? Are you Elijah?” He said, “I am not.” “Are you the prophet?” He answered, “No.”",
+    "22": "They said therefore to him, “Who are you? Give us an answer to take back to those who sent us. What do you say about yourself?”",
+    "23": "He said, “I am the voice of one crying in the wilderness, ‘Make straight the way of the Lord,’ as Isaiah the prophet said.”",
+    "24": "The ones who had been sent were from the Pharisees.",
+    "25": "They asked him, “Why then do you baptize, if you are not the Christ, nor Elijah, nor the prophet?”",
+    "26": "John answered them, “I baptize in water, but among you stands one whom you don’t know.",
+    "27": "He is the one who comes after me, who is preferred before me, whose sandal strap I’m not worthy to loosen.”",
+    "28": "These things were done in Bethany beyond the Jordan, where John was baptizing.",
+    "29": "The next day, he saw Jesus coming to him, and said, “Behold, the Lamb of God, who takes away the sin of the world!",
+    "30": "This is he of whom I said, ‘After me comes a man who is preferred before me, for he was before me.’",
+    "31": "I didn’t know him, but for this reason I came baptizing in water: that he would be revealed to Israel.”",
+    "32": "John testified, saying, “I have seen the Spirit descending like a dove out of heaven, and it remained on him.",
+    "33": "I didn’t recognize him, but he who sent me to baptize in water said to me, ‘On whomever you will see the Spirit descending and remaining on him is he who baptizes in the Holy Spirit.’",
+    "34": "I have seen, and have testified that this is the Son of God.”",
+    "35": "Again, the next day, John was standing with two of his disciples,",
+    "36": "and he looked at Jesus as he walked, and said, “Behold, the Lamb of God!”",
+    "37": "The two disciples heard him speak, and they followed Jesus.",
+    "38": "Jesus turned and saw them following, and said to them, “What are you looking for?” They said to him, “Rabbi” (which is to say, being interpreted, Teacher), “where are you staying?”",
+    "39": "He said to them, “Come, and see.” They came and saw where he was staying, and they stayed with him that day. It was about the tenth hour.",
+    "40": "One of the two who heard John and followed him was Andrew, Simon Peter’s brother.",
+    "41": "He first found his own brother, Simon, and said to him, “We have found the Messiah!” (which is, being interpreted, Christ).",
+    "42": "He brought him to Jesus. Jesus looked at him, and said, “You are Simon the son of Jonah. You shall be called Cephas” (which is by interpretation, Peter).",
+    "43": "On the next day, he was determined to go out into Galilee, and he found Philip. Jesus said to him, “Follow me.”",
+    "44": "Now Philip was from Bethsaida, of the city of Andrew and Peter.",
+    "45": "Philip found Nathanael, and said to him, “We have found him, of whom Moses in the law, and the prophets, wrote: Jesus of Nazareth, the son of Joseph.”",
+    "46": "Nathanael said to him, “Can any good thing come out of Nazareth?” Philip said to him, “Come and see.”",
+    "47": "Jesus saw Nathanael coming to him, and said about him, “Behold, an Israelite indeed, in whom is no deceit!”",
+    "48": "Nathanael said to him, “How do you know me?” Jesus answered him, “Before Philip called you, when you were under the fig tree, I saw you.”",
+    "49": "Nathanael answered him, “Rabbi, you are the Son of God! You are King of Israel!”",
+    "50": "Jesus answered him, “Because I told you, ‘I saw you underneath the fig tree,’ do you believe? You will see greater things than these!”",
+    "51": "He said to him, “Most certainly, I tell you all, hereafter you will see heaven opened, and the angels of God ascending and descending on the Son of Man.”"
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.6012574850299401,
+      0.5679291417165669,
+      0.4921407185628742,
+      0.5726546906187625
+    ],
+    "2": [
+      0.6012169209967163,
+      0.5664992595454253,
+      0.4902646320262701,
+      0.5726546906187625
+    ],
+    "3": [
+      0.5545454545454546,
+      0.5,
+      0.4590909090909091,
+      0.5
+    ],
+    "4": [
+      0.5631578947368421,
+      0.5,
+      0.4605263157894737,
+      0.5105263157894737
+    ],
+    "5": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "6": [
+      0.5859375,
+      0.5677083333333334,
+      0.5,
+      0.5994791666666668
+    ],
+    "7": [
+      0.5266666666666666,
+      0.5619047619047619,
+      0.5666666666666667,
+      0.5495238095238095
+    ],
+    "8": [
+      0.5383863851244879,
+      0.5697657316945058,
+      0.5676909339216305,
+      0.5415169660678643
+    ],
+    "9": [
+      0.510909090909091,
+      0.5,
+      0.5,
+      0.510909090909091
+    ],
+    "10": [
+      0.5619718309859155,
+      0.5,
+      0.4619718309859155,
+      0.5112676056338028
+    ],
+    "11": [
+      0.56,
+      0.5,
+      0.455,
+      0.5
+    ],
+    "12": [
+      0.684380165289256,
+      0.6393939393939393,
+      0.4871694214876033,
+      0.6951515151515151
+    ],
+    "13": [
+      0.5915812196438208,
+      0.5741590214067279,
+      0.5,
+      0.6476974275948912
+    ],
+    "14": [
+      0.5024175824175824,
+      0.6179487179487179,
+      0.5,
+      0.7383150183150182
+    ],
+    "15": [
+      0.5557692307692308,
+      0.5,
+      0.4581730769230769,
+      0.5
+    ],
+    "16": [
+      0.6132440476190476,
+      0.5,
+      0.45937500000000003,
+      0.5590773809523809
+    ],
+    "17": [
+      0.8,
+      0.75,
+      0.5,
+      0.85
+    ],
+    "18": [
+      0.6019285714285715,
+      0.5619047619047619,
+      0.47926785714285713,
+      0.5866666666666667
+    ],
+    "19": [
+      0.5,
+      0.5,
+      0.5,
+      0.6
+    ],
+    "20": [
+      0.5742857142857143,
+      0.5727047619047619,
+      0.5144,
+      0.5866666666666667
+    ],
+    "21": [
+      0.5357142857142857,
+      0.5,
+      0.4732142857142857,
+      0.5714285714285714
+    ],
+    "22": [
+      0.5339285714285714,
+      0.5,
+      0.47455357142857146,
+      0.5714285714285714
+    ],
+    "23": [
+      0.6022360248447205,
+      0.5619047619047619,
+      0.47903726708074534,
+      0.5866666666666667
+    ],
+    "24": [
+      0.5560975609756098,
+      0.5,
+      0.45792682926829265,
+      0.5
+    ],
+    "25": [
+      0.601929720071471,
+      0.5702898550724638,
+      0.486813579511614,
+      0.637536231884058
+    ],
+    "26": [
+      0.5264935064935065,
+      0.5495238095238095,
+      0.48012987012987013,
+      0.599047619047619
+    ],
+    "27": [
+      0.5628048780487805,
+      0.5,
+      0.46067073170731704,
+      0.5103658536585366
+    ],
+    "28": [
+      0.5515625000000001,
+      0.5,
+      0.461328125,
+      0.5
+    ],
+    "29": [
+      0.8663826998689383,
+      0.8325688073394496,
+      0.5744102228047182,
+      0.8857798165137615
+    ],
+    "30": [
+      0.5534246575342466,
+      0.5,
+      0.45993150684931505,
+      0.5
+    ],
+    "31": [
+      0.5,
+      0.5666666666666667,
+      0.5,
+      0.6333333333333333
+    ],
+    "32": [
+      0.6003025210084034,
+      0.5619047619047619,
+      0.4804873949579832,
+      0.5866666666666667
+    ],
+    "33": [
+      0.813576045827202,
+      0.7500621890547263,
+      0.5909140477191508,
+      0.843594527363184
+    ],
+    "34": [
+      0.7800358994814518,
+      0.724388379204893,
+      0.6116473873155166,
+      0.7842125382262998
+    ],
+    "35": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "36": [
+      0.8292910447761195,
+      0.8020827466441378,
+      0.6018234300197127,
+      0.843594527363184
+    ],
+    "37": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "38": [
+      0.7827273129899465,
+      0.7277448071216618,
+      0.49292484166703576,
+      0.8410979228486647
+    ],
+    "39": [
+      0.5588235294117647,
+      0.5,
+      0.45588235294117646,
+      0.5
+    ],
+    "40": [
+      0.5640625,
+      0.5,
+      0.46015625,
+      0.5109375
+    ],
+    "41": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "42": [
+      0.6008866995073892,
+      0.5619047619047619,
+      0.48004926108374385,
+      0.5866666666666667
+    ],
+    "43": [
+      0.6009294320137694,
+      0.5619047619047619,
+      0.4800172117039587,
+      0.5866666666666667
+    ],
+    "44": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "45": [
+      0.6843604183427191,
+      0.6393939393939393,
+      0.487184231697506,
+      0.6951515151515151
+    ],
+    "46": [
+      0.5297142857142857,
+      0.5,
+      0.4777142857142857,
+      0.5714285714285714
+    ],
+    "47": [
+      0.6012543554006968,
+      0.5619047619047619,
+      0.4797735191637631,
+      0.5866666666666667
+    ],
+    "48": [
+      0.6906641366223909,
+      0.6473118279569893,
+      0.4895825426944972,
+      0.7352688172043012
+    ],
+    "49": [
+      0.8319382273948075,
+      0.7633542226201133,
+      0.583493733213966,
+      0.8323709340495374
+    ],
+    "50": [
+      0.6021483375959078,
+      0.5702898550724638,
+      0.4866496163682864,
+      0.637536231884058
+    ],
+    "51": [
+      0.5855402542372882,
+      0.5677083333333334,
+      0.5,
+      0.5990819209039548
+    ]
+  }
+}

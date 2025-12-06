@@ -1,0 +1,347 @@
+{
+  "book": "Matthew",
+  "chapter": 5,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 48,
+  "verses": {
+    "1": "Seeing the multitudes, he went up onto the mountain. When he had sat down, his disciples came to him.",
+    "2": "He opened his mouth and taught them, saying,",
+    "3": "“Blessed are the poor in spirit, for theirs is the Kingdom of Heaven.",
+    "4": "Blessed are those who mourn, for they shall be comforted.",
+    "5": "Blessed are the gentle, for they shall inherit the earth.",
+    "6": "Blessed are those who hunger and thirst after righteousness, for they shall be filled.",
+    "7": "Blessed are the merciful, for they shall obtain mercy.",
+    "8": "Blessed are the pure in heart, for they shall see God.",
+    "9": "Blessed are the peacemakers, for they shall be called children of God.",
+    "10": "Blessed are those who have been persecuted for righteousness’ sake, for theirs is the Kingdom of Heaven.",
+    "11": "“Blessed are you when people reproach you, persecute you, and say all kinds of evil against you falsely, for my sake.",
+    "12": "Rejoice, and be exceedingly glad, for great is your reward in heaven. For that is how they persecuted the prophets who were before you.",
+    "13": "“You are the salt of the earth, but if the salt has lost its flavor, with what will it be salted? It is then good for nothing, but to be cast out and trodden under the feet of men.",
+    "14": "You are the light of the world. A city located on a hill can’t be hidden.",
+    "15": "Neither do you light a lamp, and put it under a measuring basket, but on a stand; and it shines to all who are in the house.",
+    "16": "Even so, let your light shine before men; that they may see your good works, and glorify your Father who is in heaven.",
+    "17": "“Don’t think that I came to destroy the law or the prophets. I didn’t come to destroy, but to fulfill.",
+    "18": "For most certainly, I tell you, until heaven and earth pass away, not even one smallest letter or one tiny pen stroke shall in any way pass away from the law, until all things are accomplished.",
+    "19": "Whoever, therefore, shall break one of these least commandments, and teach others to do so, shall be called least in the Kingdom of Heaven; but whoever shall do and teach them shall be called great in the Kingdom of Heaven.",
+    "20": "For I tell you that unless your righteousness exceeds that of the scribes and Pharisees, there is no way you will enter into the Kingdom of Heaven.",
+    "21": "“You have heard that it was said to the ancient ones, ‘You shall not murder;’ and ‘Whoever murders will be in danger of the judgment.’",
+    "22": "But I tell you that everyone who is angry with his brother without a cause will be in danger of the judgment. Whoever says to his brother, ‘Raca!’ will be in danger of the council. Whoever says, ‘You fool!’ will be in danger of the fire of Gehenna.",
+    "23": "“If therefore you are offering your gift at the altar, and there remember that your brother has anything against you,",
+    "24": "leave your gift there before the altar, and go your way. First be reconciled to your brother, and then come and offer your gift.",
+    "25": "Agree with your adversary quickly, while you are with him on the way; lest perhaps the prosecutor deliver you to the judge, and the judge deliver you to the officer, and you be cast into prison.",
+    "26": "Most certainly I tell you, you shall by no means get out of there, until you have paid the last penny.",
+    "27": "“You have heard that it was said, ‘You shall not commit adultery;’",
+    "28": "but I tell you that everyone who gazes at a woman to lust after her has committed adultery with her already in his heart.",
+    "29": "If your right eye causes you to stumble, pluck it out and throw it away from you. For it is more profitable for you that one of your members should perish, than for your whole body to be cast into Gehenna.",
+    "30": "If your right hand causes you to stumble, cut it off, and throw it away from you. For it is more profitable for you that one of your members should perish, than for your whole body to be cast into Gehenna.",
+    "31": "“It was also said, ‘Whoever shall put away his wife, let him give her a writing of divorce,’",
+    "32": "but I tell you that whoever puts away his wife, except for the cause of sexual immorality, makes her an adulteress; and whoever marries her when she is put away commits adultery.",
+    "33": "“Again you have heard that it was said to the ancient ones, ‘You shall not make false vows, but shall perform to the Lord your vows,’",
+    "34": "but I tell you, don’t swear at all: neither by heaven, for it is the throne of God;",
+    "35": "nor by the earth, for it is the footstool of his feet; nor by Jerusalem, for it is the city of the great King.",
+    "36": "Neither shall you swear by your head, for you can’t make one hair white or black.",
+    "37": "But let your ‘Yes’ be ‘Yes’ and your ‘No’ be ‘No.’ Whatever is more than these is of the evil one.",
+    "38": "“You have heard that it was said, ‘An eye for an eye, and a tooth for a tooth.’",
+    "39": "But I tell you, don’t resist him who is evil; but whoever strikes you on your right cheek, turn to him the other also.",
+    "40": "If anyone sues you to take away your coat, let him have your cloak also.",
+    "41": "Whoever compels you to go one mile, go with him two.",
+    "42": "Give to him who asks you, and don’t turn away him who desires to borrow from you.",
+    "43": "“You have heard that it was said, ‘You shall love your neighbor and hate your enemy.’",
+    "44": "But I tell you, love your enemies, bless those who curse you, do good to those who hate you, and pray for those who mistreat you and persecute you,",
+    "45": "that you may be children of your Father who is in heaven. For he makes his sun to rise on the evil and the good, and sends rain on the just and the unjust.",
+    "46": "For if you love those who love you, what reward do you have? Don’t even the tax collectors do the same?",
+    "47": "If you only greet your friends, what more do you do than others? Don’t even the tax collectors do the same?",
+    "48": "Therefore you shall be perfect, just as your Father in heaven is perfect."
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.5265822784810127,
+      0.575,
+      0.5925632911392406,
+      0.5
+    ],
+    "2": [
+      0.5542857142857143,
+      0.5192857142857144,
+      0.485,
+      0.5
+    ],
+    "3": [
+      0.5857142857142856,
+      0.8571428571428571,
+      0.8928571428571428,
+      0.8285714285714285
+    ],
+    "4": [
+      0.5108695652173914,
+      0.5,
+      0.5,
+      0.5108695652173914
+    ],
+    "5": [
+      0.612409420289855,
+      0.5,
+      0.45937500000000003,
+      0.5582427536231884
+    ],
+    "6": [
+      0.5,
+      0.7666666666666666,
+      0.6,
+      0.6666666666666666
+    ],
+    "7": [
+      0.6130208333333333,
+      0.5,
+      0.45937500000000003,
+      0.5588541666666667
+    ],
+    "8": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "9": [
+      0.8113576697087135,
+      0.7633808392715755,
+      0.6239904988123515,
+      0.7648414385131475
+    ],
+    "10": [
+      0.5857142857142856,
+      0.8571428571428571,
+      0.8928571428571428,
+      0.8285714285714285
+    ],
+    "11": [
+      0.4525465838509317,
+      0.4257142857142857,
+      0.47987577639751555,
+      0.5
+    ],
+    "12": [
+      0.5537037037037037,
+      0.5,
+      0.4597222222222222,
+      0.5
+    ],
+    "13": [
+      0.5,
+      0.5110294117647058,
+      0.5147058823529411,
+      0.5714285714285714
+    ],
+    "14": [
+      0.5527272727272727,
+      0.5,
+      0.46045454545454545,
+      0.5
+    ],
+    "15": [
+      0.5101063829787235,
+      0.5,
+      0.5,
+      0.5101063829787235
+    ],
+    "16": [
+      0.5554347826086957,
+      0.5,
+      0.45842391304347824,
+      0.5
+    ],
+    "17": [
+      0.5,
+      0.6105689548546691,
+      0.552504638218924,
+      0.5619047619047619
+    ],
+    "18": [
+      0.5049019607843137,
+      0.6083333333333333,
+      0.540625,
+      0.5726102941176471
+    ],
+    "19": [
+      0.5826924091364667,
+      0.8403755868544601,
+      0.874413145539906,
+      0.8141478081974995
+    ],
+    "20": [
+      0.5868707115873872,
+      0.8325688073394496,
+      0.860535039703955,
+      0.8059633027522937
+    ],
+    "21": [
+      0.5107843137254903,
+      0.5,
+      0.5,
+      0.5107843137254903
+    ],
+    "22": [
+      0.5536842105263158,
+      0.5,
+      0.45973684210526317,
+      0.5
+    ],
+    "23": [
+      0.5631578947368421,
+      0.5,
+      0.4605263157894737,
+      0.5105263157894737
+    ],
+    "24": [
+      0.5103960396039604,
+      0.5,
+      0.5,
+      0.5103960396039604
+    ],
+    "25": [
+      0.5545454545454546,
+      0.5,
+      0.4590909090909091,
+      0.5
+    ],
+    "26": [
+      0.5626582278481013,
+      0.5,
+      0.4610759493670886,
+      0.5107594936708861
+    ],
+    "27": [
+      0.556,
+      0.5,
+      0.45799999999999996,
+      0.5
+    ],
+    "28": [
+      0.554639175257732,
+      0.5,
+      0.459020618556701,
+      0.5
+    ],
+    "29": [
+      0.5271517302573203,
+      0.599047619047619,
+      0.5167790594498669,
+      0.5619047619047619
+    ],
+    "30": [
+      0.5266785714285714,
+      0.599047619047619,
+      0.5171339285714286,
+      0.5619047619047619
+    ],
+    "31": [
+      0.5565217391304348,
+      0.5,
+      0.4576086956521739,
+      0.5
+    ],
+    "32": [
+      0.5538461538461539,
+      0.5,
+      0.4596153846153846,
+      0.5
+    ],
+    "33": [
+      0.6010084033613445,
+      0.5619047619047619,
+      0.4799579831932773,
+      0.5866666666666667
+    ],
+    "34": [
+      0.6004215456674473,
+      0.5619047619047619,
+      0.4803981264637002,
+      0.5866666666666667
+    ],
+    "35": [
+      0.5,
+      0.5833333333333334,
+      0.6166666666666667,
+      0.5666666666666667
+    ],
+    "36": [
+      0.5690476190476191,
+      0.5,
+      0.45595238095238094,
+      0.5103174603174604
+    ],
+    "37": [
+      0.45445378151260507,
+      0.4257142857142857,
+      0.47844537815126054,
+      0.5
+    ],
+    "38": [
+      0.5625,
+      0.5,
+      0.453125,
+      0.5
+    ],
+    "39": [
+      0.5174545454545454,
+      0.7230303030303029,
+      0.5705454545454545,
+      0.6393939393939393
+    ],
+    "40": [
+      0.5625,
+      0.5,
+      0.453125,
+      0.5
+    ],
+    "41": [
+      0.5342857142857143,
+      0.5,
+      0.4742857142857143,
+      0.5714285714285714
+    ],
+    "42": [
+      0.5282258064516129,
+      0.575,
+      0.5913306451612903,
+      0.5
+    ],
+    "43": [
+      0.6306959706959707,
+      0.5,
+      0.4391208791208791,
+      0.5495238095238095
+    ],
+    "44": [
+      0.6292731829573934,
+      0.5,
+      0.440187969924812,
+      0.5495238095238095
+    ],
+    "45": [
+      0.5167761650114591,
+      0.7230303030303029,
+      0.5710542398777692,
+      0.6393939393939393
+    ],
+    "46": [
+      0.630295358649789,
+      0.5,
+      0.44445239405613646,
+      0.5953623188405797
+    ],
+    "47": [
+      0.5289156626506024,
+      0.5,
+      0.4783132530120482,
+      0.5714285714285714
+    ],
+    "48": [
+      0.5,
+      0.6333333333333333,
+      0.55,
+      0.5833333333333334
+    ]
+  }
+}

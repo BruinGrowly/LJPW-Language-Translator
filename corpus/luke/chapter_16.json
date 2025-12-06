@@ -1,0 +1,228 @@
+{
+  "book": "Luke",
+  "chapter": 16,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 31,
+  "verses": {
+    "1": "He also said to his disciples, “There was a certain rich man who had a manager. An accusation was made to him that this man was wasting his possessions.",
+    "2": "He called him, and said to him, ‘What is this that I hear about you? Give an accounting of your management, for you can no longer be manager.’",
+    "3": "“The manager said within himself, ‘What will I do, seeing that my lord is taking away the management position from me? I don’t have strength to dig. I am ashamed to beg.",
+    "4": "I know what I will do, so that when I am removed from management, they may receive me into their houses.’",
+    "5": "Calling each one of his lord’s debtors to him, he said to the first, ‘How much do you owe to my lord?’",
+    "6": "He said, ‘A hundred batos of oil.’ He said to him, ‘Take your bill, and sit down quickly and write fifty.’",
+    "7": "Then he said to another, ‘How much do you owe?’ He said, ‘A hundred cors of wheat.’ He said to him, ‘Take your bill, and write eighty.’",
+    "8": "“His lord commended the dishonest manager because he had done wisely, for the children of this world are, in their own generation, wiser than the children of the light.",
+    "9": "I tell you, make for yourselves friends by means of unrighteous mammon, so that when you fail, they may receive you into the eternal tents.",
+    "10": "He who is faithful in a very little is faithful also in much. He who is dishonest in a very little is also dishonest in much.",
+    "11": "If therefore you have not been faithful in the unrighteous mammon, who will commit to your trust the true riches?",
+    "12": "If you have not been faithful in that which is another’s, who will give you that which is your own?",
+    "13": "No servant can serve two masters, for either he will hate the one, and love the other; or else he will hold to one, and despise the other. You aren’t able to serve God and Mammon.”",
+    "14": "The Pharisees, who were lovers of money, also heard all these things, and they scoffed at him.",
+    "15": "He said to them, “You are those who justify yourselves in the sight of men, but God knows your hearts. For that which is exalted among men is an abomination in the sight of God.",
+    "16": "The law and the prophets were until John. From that time the Good News of God’s Kingdom is preached, and everyone is forcing his way into it.",
+    "17": "But it is easier for heaven and earth to pass away, than for one tiny stroke of a pen in the law to fall.",
+    "18": "Everyone who divorces his wife and marries another commits adultery. He who marries one who is divorced from a husband commits adultery.",
+    "19": "“Now there was a certain rich man, and he was clothed in purple and fine linen, living in luxury every day.",
+    "20": "A certain beggar, named Lazarus, was taken to his gate, full of sores,",
+    "21": "and desiring to be fed with the crumbs that fell from the rich man’s table. Yes, even the dogs came and licked his sores.",
+    "22": "The beggar died, and he was carried away by the angels to Abraham’s bosom. The rich man also died, and was buried.",
+    "23": "In Hades, he lifted up his eyes, being in torment, and saw Abraham far off, and Lazarus at his bosom.",
+    "24": "He cried and said, ‘Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue! For I am in anguish in this flame.’",
+    "25": "“But Abraham said, ‘Son, remember that you, in your lifetime, received your good things, and Lazarus, in the same way, bad things. But here he is now comforted, and you are in anguish.",
+    "26": "Besides all this, between us and you there is a great gulf fixed, that those who want to pass from here to you are not able, and that no one may cross over from there to us.’",
+    "27": "“He said, ‘I ask you therefore, father, that you would send him to my father’s house;",
+    "28": "for I have five brothers, that he may testify to them, so they won’t also come into this place of torment.’",
+    "29": "“But Abraham said to him, ‘They have Moses and the prophets. Let them listen to them.’",
+    "30": "“He said, ‘No, father Abraham, but if one goes to them from the dead, they will repent.’",
+    "31": "“He said to him, ‘If they don’t listen to Moses and the prophets, neither will they be persuaded if one rises from the dead.’ ”"
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.5516666666666667,
+      0.5,
+      0.46125,
+      0.5
+    ],
+    "2": [
+      0.5475694444444444,
+      0.5,
+      0.4703125,
+      0.570486111111111
+    ],
+    "3": [
+      0.5,
+      0.75,
+      0.85,
+      0.7244299674267101
+    ],
+    "4": [
+      0.5455696202531646,
+      0.5438818565400844,
+      0.4715189873417722,
+      0.5953586497890295
+    ],
+    "5": [
+      0.6006260869565216,
+      0.5702898550724638,
+      0.487791304347826,
+      0.637536231884058
+    ],
+    "6": [
+      0.5506493506493507,
+      0.5,
+      0.462012987012987,
+      0.5
+    ],
+    "7": [
+      0.5345238095238095,
+      0.5,
+      0.47410714285714284,
+      0.5714285714285714
+    ],
+    "8": [
+      0.6825210084033613,
+      0.6288515406162465,
+      0.4828571428571429,
+      0.6854341736694678
+    ],
+    "9": [
+      0.528821258233023,
+      0.7061624649859944,
+      0.5595275948217124,
+      0.6339616927852222
+    ],
+    "10": [
+      0.553061224489796,
+      0.5,
+      0.46020408163265303,
+      0.5
+    ],
+    "11": [
+      0.5211161187698834,
+      0.7227642276422763,
+      0.5703837486744432,
+      0.6702456698480027
+    ],
+    "12": [
+      0.5356215213358071,
+      0.5,
+      0.47328385899814474,
+      0.5714285714285714
+    ],
+    "13": [
+      0.6827761761638962,
+      0.6288515406162465,
+      0.4828589830092621,
+      0.6856917949661616
+    ],
+    "14": [
+      0.6261518661518661,
+      0.5,
+      0.44252895752895754,
+      0.5495238095238095
+    ],
+    "15": [
+      0.7775970793229341,
+      0.7213740458015268,
+      0.4910388317291736,
+      0.8099236641221375
+    ],
+    "16": [
+      0.5,
+      0.75,
+      0.85,
+      0.7
+    ],
+    "17": [
+      0.5263571428571429,
+      0.599047619047619,
+      0.517375,
+      0.5619047619047619
+    ],
+    "18": [
+      0.5623893805309735,
+      0.5,
+      0.461504424778761,
+      0.5110619469026549
+    ],
+    "19": [
+      0.513855421686747,
+      0.5,
+      0.5,
+      0.513855421686747
+    ],
+    "20": [
+      0.5101851851851852,
+      0.5,
+      0.5,
+      0.5101851851851852
+    ],
+    "21": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "22": [
+      0.5511363636363636,
+      0.5,
+      0.46164772727272724,
+      0.5
+    ],
+    "23": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "24": [
+      0.6124840966921119,
+      0.5,
+      0.45937500000000003,
+      0.5583174300254452
+    ],
+    "25": [
+      0.452530612244898,
+      0.4257142857142857,
+      0.47988775510204085,
+      0.5
+    ],
+    "26": [
+      0.5503759398496241,
+      0.5,
+      0.4622180451127819,
+      0.5
+    ],
+    "27": [
+      0.5587301587301587,
+      0.5,
+      0.45595238095238094,
+      0.5
+    ],
+    "28": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "29": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "30": [
+      0.5515625000000001,
+      0.5,
+      0.461328125,
+      0.5
+    ],
+    "31": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ]
+  }
+}

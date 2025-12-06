@@ -1,0 +1,270 @@
+{
+  "book": "Mark",
+  "chapter": 13,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 37,
+  "verses": {
+    "1": "As he went out of the temple, one of his disciples said to him, “Teacher, see what kind of stones and what kind of buildings!”",
+    "2": "Jesus said to him, “Do you see these great buildings? There will not be left here one stone on another, which will not be thrown down.”",
+    "3": "As he sat on the Mount of Olives opposite the temple, Peter, James, John, and Andrew asked him privately,",
+    "4": "“Tell us, when will these things be? What is the sign that these things are all about to be fulfilled?”",
+    "5": "Jesus, answering, began to tell them, “Be careful that no one leads you astray.",
+    "6": "For many will come in my name, saying, ‘I am he!’ and will lead many astray.",
+    "7": "“When you hear of wars and rumors of wars, don’t be troubled. For those must happen, but the end is not yet.",
+    "8": "For nation will rise against nation, and kingdom against kingdom. There will be earthquakes in various places. There will be famines and troubles. These things are the beginning of birth pains.",
+    "9": "But watch yourselves, for they will deliver you up to councils. You will be beaten in synagogues. You will stand before rulers and kings for my sake, for a testimony to them.",
+    "10": "The Good News must first be preached to all the nations.",
+    "11": "When they lead you away and deliver you up, don’t be anxious beforehand, or premeditate what you will say, but say whatever will be given you in that hour. For it is not you who speak, but the Holy Spirit.",
+    "12": "“Brother will deliver up brother to death, and the father his child. Children will rise up against parents, and cause them to be put to death.",
+    "13": "You will be hated by all men for my name’s sake, but he who endures to the end will be saved.",
+    "14": "But when you see the abomination of desolation, spoken of by Daniel the prophet, standing where it ought not” (let the reader understand), “then let those who are in Judea flee to the mountains,",
+    "15": "and let him who is on the housetop not go down, nor enter in, to take anything out of his house.",
+    "16": "Let him who is in the field not return back to take his cloak.",
+    "17": "But woe to those who are with child and to those who nurse babies in those days!",
+    "18": "Pray that your flight won’t be in the winter.",
+    "19": "For in those days there will be oppression, such as there has not been the like from the beginning of the creation which God created until now, and never will be.",
+    "20": "Unless the Lord had shortened the days, no flesh would have been saved; but for the sake of the chosen ones, whom he picked out, he shortened the days.",
+    "21": "Then if anyone tells you, ‘Look, here is the Christ!’ or, ‘Look, there!’ don’t believe it.",
+    "22": "For there will arise false christs and false prophets, and will show signs and wonders, that they may lead astray, if possible, even the chosen ones.",
+    "23": "But you watch. “Behold, I have told you all things beforehand.",
+    "24": "But in those days, after that oppression, the sun will be darkened, the moon will not give its light,",
+    "25": "the stars will be falling from the sky, and the powers that are in the heavens will be shaken.",
+    "26": "Then they will see the Son of Man coming in clouds with great power and glory.",
+    "27": "Then he will send out his angels, and will gather together his chosen ones from the four winds, from the ends of the earth to the ends of the sky.",
+    "28": "“Now from the fig tree, learn this parable. When the branch has now become tender, and produces its leaves, you know that the summer is near;",
+    "29": "even so you also, when you see these things coming to pass, know that it is near, at the doors.",
+    "30": "Most certainly I say to you, this generation will not pass away until all these things happen.",
+    "31": "Heaven and earth will pass away, but my words will not pass away.",
+    "32": "But of that day or that hour no one knows, not even the angels in heaven, nor the Son, but only the Father.",
+    "33": "Watch, keep alert, and pray; for you don’t know when the time is.",
+    "34": "“It is like a man, traveling to another country, having left his house, and given authority to his servants, and to each one his work, and also commanded the doorkeeper to keep watch.",
+    "35": "Watch therefore, for you don’t know when the lord of the house is coming, whether at evening, or at midnight, or when the rooster crows, or in the morning;",
+    "36": "lest coming suddenly he might find you sleeping.",
+    "37": "What I tell you, I tell all: Watch.”"
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.5,
+      0.5666666666666667,
+      0.5,
+      0.6333333333333333
+    ],
+    "2": [
+      0.6052341811414392,
+      0.5651881720430109,
+      0.48304125310173707,
+      0.6319504755996692
+    ],
+    "3": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "4": [
+      0.5,
+      0.5,
+      0.5,
+      0.6
+    ],
+    "5": [
+      0.6793820933165194,
+      0.6474358974358974,
+      0.5,
+      0.7088692728036989
+    ],
+    "6": [
+      0.5681818181818182,
+      0.5,
+      0.4618181818181818,
+      0.5172727272727273
+    ],
+    "7": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "8": [
+      0.5027020447906524,
+      0.6474358974358974,
+      0.7064102564102563,
+      0.6206507627393703
+    ],
+    "9": [
+      0.5024247491638796,
+      0.6474358974358974,
+      0.7064102564102563,
+      0.6203734671125974
+    ],
+    "10": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "11": [
+      0.8146596029287525,
+      0.7500621890547263,
+      0.5901013798929879,
+      0.843594527363184
+    ],
+    "12": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "13": [
+      0.5621428571428572,
+      0.5,
+      0.4614285714285714,
+      0.5107142857142858
+    ],
+    "14": [
+      0.5265546218487396,
+      0.5495238095238095,
+      0.48008403361344537,
+      0.599047619047619
+    ],
+    "15": [
+      0.5547945205479452,
+      0.5,
+      0.4589041095890411,
+      0.5
+    ],
+    "16": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "17": [
+      0.5587301587301587,
+      0.5,
+      0.45595238095238094,
+      0.5
+    ],
+    "18": [
+      0.5514285714285715,
+      0.5192857142857144,
+      0.48714285714285716,
+      0.5
+    ],
+    "19": [
+      0.5925288408716352,
+      0.5754593175853019,
+      0.5744094488188977,
+      0.657227003601294
+    ],
+    "20": [
+      0.6008716707021792,
+      0.5619047619047619,
+      0.48006053268765136,
+      0.5866666666666667
+    ],
+    "21": [
+      0.6086799276672695,
+      0.5548523206751056,
+      0.47314647377938523,
+      0.5838456901748041
+    ],
+    "22": [
+      0.585031512605042,
+      0.5677083333333334,
+      0.5,
+      0.5985731792717087
+    ],
+    "23": [
+      0.5541666666666667,
+      0.5,
+      0.459375,
+      0.5
+    ],
+    "24": [
+      0.5,
+      0.5189873417721519,
+      0.5253164556962026,
+      0.5
+    ],
+    "25": [
+      0.504054054054054,
+      0.5677083333333334,
+      0.5947916666666667,
+      0.5582207207207207
+    ],
+    "26": [
+      0.5045362903225806,
+      0.5677083333333334,
+      0.5947916666666667,
+      0.5587029569892473
+    ],
+    "27": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "28": [
+      0.5018037518037518,
+      0.684126984126984,
+      0.5,
+      0.87005772005772
+    ],
+    "29": [
+      0.5271428571428571,
+      0.5495238095238095,
+      0.47964285714285715,
+      0.599047619047619
+    ],
+    "30": [
+      0.5105263157894737,
+      0.5,
+      0.5,
+      0.5105263157894737
+    ],
+    "31": [
+      0.5529411764705883,
+      0.5,
+      0.4602941176470588,
+      0.5
+    ],
+    "32": [
+      0.5417721518987342,
+      0.5438818565400844,
+      0.47405063291139243,
+      0.5949367088607596
+    ],
+    "33": [
+      0.5267857142857143,
+      0.5495238095238095,
+      0.4799107142857143,
+      0.599047619047619
+    ],
+    "34": [
+      0.5,
+      0.5833333333333334,
+      0.6166666666666667,
+      0.5666666666666667
+    ],
+    "35": [
+      0.683172268907563,
+      0.6288515406162465,
+      0.48241596638655465,
+      0.6854971988795517
+    ],
+    "36": [
+      0.5042187499999999,
+      0.5677083333333334,
+      0.5947916666666667,
+      0.5583854166666666
+    ],
+    "37": [
+      0.5509999999999999,
+      0.5,
+      0.4685,
+      0.5715
+    ]
+  }
+}

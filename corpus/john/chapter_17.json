@@ -1,0 +1,193 @@
+{
+  "book": "John",
+  "chapter": 17,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 26,
+  "verses": {
+    "1": "Jesus said these things, then lifting up his eyes to heaven, he said, “Father, the time has come. Glorify your Son, that your Son may also glorify you;",
+    "2": "even as you gave him authority over all flesh, so he will give eternal life to all whom you have given him.",
+    "3": "This is eternal life, that they should know you, the only true God, and him whom you sent, Jesus Christ.",
+    "4": "I glorified you on the earth. I have accomplished the work which you have given me to do.",
+    "5": "Now, Father, glorify me with your own self with the glory which I had with you before the world existed.",
+    "6": "I revealed your name to the people whom you have given me out of the world. They were yours, and you have given them to me. They have kept your word.",
+    "7": "Now they have known that all things whatever you have given me are from you,",
+    "8": "for the words which you have given me I have given to them, and they received them, and knew for sure that I came from you. They have believed that you sent me.",
+    "9": "I pray for them. I don’t pray for the world, but for those whom you have given me, for they are yours.",
+    "10": "All things that are mine are yours, and yours are mine, and I am glorified in them.",
+    "11": "I am no more in the world, but these are in the world, and I am coming to you. Holy Father, keep them through your name which you have given me, that they may be one, even as we are.",
+    "12": "While I was with them in the world, I kept them in your name. I have kept those whom you have given me. None of them is lost except the son of destruction, that the Scripture might be fulfilled.",
+    "13": "But now I come to you, and I say these things in the world, that they may have my joy made full in themselves.",
+    "14": "I have given them your word. The world hated them, because they are not of the world, even as I am not of the world.",
+    "15": "I pray not that you would take them from the world, but that you would keep them from the evil one.",
+    "16": "They are not of the world even as I am not of the world.",
+    "17": "Sanctify them in your truth. Your word is truth.",
+    "18": "As you sent me into the world, even so I have sent them into the world.",
+    "19": "For their sakes I sanctify myself, that they themselves also may be sanctified in truth.",
+    "20": "Not for these only do I pray, but for those also who will believe in me through their word,",
+    "21": "that they may all be one; even as you, Father, are in me, and I in you, that they also may be one in us; that the world may believe that you sent me.",
+    "22": "The glory which you have given me, I have given to them; that they may be one, even as we are one;",
+    "23": "I in them, and you in me, that they may be perfected into one; that the world may know that you sent me and loved them, even as you loved me.",
+    "24": "Father, I desire that they also whom you have given me be with me where I am, that they may see my glory, which you have given me, for you loved me before the foundation of the world.",
+    "25": "Righteous Father, the world hasn’t known you, but I knew you; and these knew that you sent me.",
+    "26": "I made known to them your name, and will make it known; that the love with which you loved me may be in them, and I in them.”"
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.6017733990147783,
+      0.5619047619047619,
+      0.47938423645320194,
+      0.5866666666666667
+    ],
+    "2": [
+      0.5463833634719711,
+      0.5548523206751056,
+      0.5474984930681134,
+      0.551205545509343
+    ],
+    "3": [
+      0.777671755725191,
+      0.7213740458015268,
+      0.4909828244274809,
+      0.8099236641221375
+    ],
+    "4": [
+      0.56,
+      0.5,
+      0.455,
+      0.5
+    ],
+    "5": [
+      0.5585365853658537,
+      0.5,
+      0.4560975609756098,
+      0.5
+    ],
+    "6": [
+      0.56,
+      0.5,
+      0.455,
+      0.5
+    ],
+    "7": [
+      0.5295081967213114,
+      0.5495238095238095,
+      0.4778688524590164,
+      0.599047619047619
+    ],
+    "8": [
+      0.5556451612903226,
+      0.5,
+      0.45826612903225805,
+      0.5
+    ],
+    "9": [
+      0.5539473684210526,
+      0.5,
+      0.4595394736842105,
+      0.5
+    ],
+    "10": [
+      0.51484375,
+      0.5,
+      0.5,
+      0.51484375
+    ],
+    "11": [
+      0.6125651526433359,
+      0.5548523206751056,
+      0.4702205882352941,
+      0.5838297344254157
+    ],
+    "12": [
+      0.526225165562914,
+      0.5619047619047619,
+      0.5669977924944812,
+      0.5495238095238095
+    ],
+    "13": [
+      0.5535714285714286,
+      0.5,
+      0.45982142857142855,
+      0.5
+    ],
+    "14": [
+      0.5545454545454546,
+      0.5,
+      0.4590909090909091,
+      0.5
+    ],
+    "15": [
+      0.4530983302411874,
+      0.4257142857142857,
+      0.47946196660482376,
+      0.5
+    ],
+    "16": [
+      0.5630952380952382,
+      0.5,
+      0.4607142857142857,
+      0.5107142857142858
+    ],
+    "17": [
+      0.5039473684210526,
+      0.5541666666666667,
+      0.5,
+      0.6122807017543859
+    ],
+    "18": [
+      0.5620370370370371,
+      0.5,
+      0.4611111111111111,
+      0.5101851851851852
+    ],
+    "19": [
+      0.5,
+      0.5666666666666667,
+      0.5,
+      0.6333333333333333
+    ],
+    "20": [
+      0.5640845070422535,
+      0.5,
+      0.45985915492957746,
+      0.5105633802816901
+    ],
+    "21": [
+      0.5577981651376147,
+      0.5,
+      0.45665137614678897,
+      0.5
+    ],
+    "22": [
+      0.5616438356164384,
+      0.5,
+      0.4537671232876712,
+      0.5
+    ],
+    "23": [
+      0.5172898799313893,
+      0.6115151515151515,
+      0.48703259005145794,
+      0.7230303030303029
+    ],
+    "24": [
+      0.6296859169199595,
+      0.5,
+      0.4398784194528875,
+      0.5495238095238095
+    ],
+    "25": [
+      0.5124045801526718,
+      0.8541984732824428,
+      0.6235209923664123,
+      0.7213740458015268
+    ],
+    "26": [
+      0.5302521008403361,
+      0.6030812324929972,
+      0.48133640552995394,
+      0.7115297731996024
+    ]
+  }
+}

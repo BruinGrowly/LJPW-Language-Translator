@@ -1,0 +1,221 @@
+{
+  "book": "Matthew",
+  "chapter": 19,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 30,
+  "verses": {
+    "1": "When Jesus had finished these words, he departed from Galilee, and came into the borders of Judea beyond the Jordan.",
+    "2": "Great multitudes followed him, and he healed them there.",
+    "3": "Pharisees came to him, testing him, and saying, “Is it lawful for a man to divorce his wife for any reason?”",
+    "4": "He answered, “Haven’t you read that he who made them from the beginning made them male and female,",
+    "5": "and said, ‘For this cause a man shall leave his father and mother, and shall be joined to his wife; and the two shall become one flesh?’",
+    "6": "So that they are no more two, but one flesh. What therefore God has joined together, don’t let man tear apart.”",
+    "7": "They asked him, “Why then did Moses command us to give her a certificate of divorce, and divorce her?”",
+    "8": "He said to them, “Moses, because of the hardness of your hearts, allowed you to divorce your wives, but from the beginning it has not been so.",
+    "9": "I tell you that whoever divorces his wife, except for sexual immorality, and marries another, commits adultery; and he who marries her when she is divorced commits adultery.”",
+    "10": "His disciples said to him, “If this is the case of the man with his wife, it is not expedient to marry.”",
+    "11": "But he said to them, “Not all men can receive this saying, but those to whom it is given.",
+    "12": "For there are eunuchs who were born that way from their mother’s womb, and there are eunuchs who were made eunuchs by men; and there are eunuchs who made themselves eunuchs for the Kingdom of Heaven’s sake. He who is able to receive it, let him receive it.”",
+    "13": "Then little children were brought to him, that he should lay his hands on them and pray; and the disciples rebuked them.",
+    "14": "But Jesus said, “Allow the little children, and don’t forbid them to come to me; for the Kingdom of Heaven belongs to ones like these.”",
+    "15": "He laid his hands on them, and departed from there.",
+    "16": "Behold, one came to him and said, “Good teacher, what good thing shall I do, that I may have eternal life?”",
+    "17": "He said to him, “Why do you call me good? No one is good but one, that is, God. But if you want to enter into life, keep the commandments.”",
+    "18": "He said to him, “Which ones?” Jesus said, “ ‘You shall not murder.’ ‘You shall not commit adultery.’ ‘You shall not steal.’ ‘You shall not offer false testimony.’",
+    "19": "‘Honor your father and your mother.’ And, ‘You shall love your neighbor as yourself.’ ”",
+    "20": "The young man said to him, “All these things I have observed from my youth. What do I still lack?”",
+    "21": "Jesus said to him, “If you want to be perfect, go, sell what you have, and give to the poor, and you will have treasure in heaven; and come, follow me.”",
+    "22": "But when the young man heard the saying, he went away sad, for he was one who had great possessions.",
+    "23": "Jesus said to his disciples, “Most certainly I say to you, a rich man will enter into the Kingdom of Heaven with difficulty.",
+    "24": "Again I tell you, it is easier for a camel to go through a needle’s eye, than for a rich man to enter into God’s Kingdom.”",
+    "25": "When the disciples heard it, they were exceedingly astonished, saying, “Who then can be saved?”",
+    "26": "Looking at them, Jesus said, “With men this is impossible, but with God all things are possible.”",
+    "27": "Then Peter answered, “Behold, we have left everything, and followed you. What then will we have?”",
+    "28": "Jesus said to them, “Most certainly I tell you that you who have followed me, in the regeneration when the Son of Man will sit on the throne of his glory, you also will sit on twelve thrones, judging the twelve tribes of Israel.",
+    "29": "Everyone who has left houses, or brothers, or sisters, or father, or mother, or wife, or children, or lands, for my name’s sake, will receive one hundred times, and will inherit eternal life.",
+    "30": "But many will be last who are first; and first who are last."
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7661800486618005
+    ],
+    "2": [
+      0.5630434782608696,
+      0.5,
+      0.4608695652173913,
+      0.5108695652173914
+    ],
+    "3": [
+      0.5022823897963751,
+      0.6186544342507645,
+      0.5444954128440367,
+      0.6177258148728277
+    ],
+    "4": [
+      0.564935064935065,
+      0.5,
+      0.46006493506493507,
+      0.5116883116883117
+    ],
+    "5": [
+      0.504251012145749,
+      0.5,
+      0.5,
+      0.5831983805668016
+    ],
+    "6": [
+      0.6003025210084034,
+      0.5619047619047619,
+      0.4804873949579832,
+      0.5866666666666667
+    ],
+    "7": [
+      0.5,
+      0.5,
+      0.5,
+      0.6
+    ],
+    "8": [
+      0.5518181818181819,
+      0.5,
+      0.4611363636363636,
+      0.5
+    ],
+    "9": [
+      0.5613475177304965,
+      0.5,
+      0.4622340425531915,
+      0.5109929078014185
+    ],
+    "10": [
+      0.5512820512820513,
+      0.5,
+      0.4615384615384615,
+      0.5
+    ],
+    "11": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "12": [
+      0.6066979459139944,
+      0.7744092039800995,
+      0.7554553962858972,
+      0.7682213930348258
+    ],
+    "13": [
+      0.5104166666666667,
+      0.5,
+      0.5,
+      0.5104166666666667
+    ],
+    "14": [
+      0.582638136511376,
+      0.8403755868544601,
+      0.874413145539906,
+      0.8140935355724088
+    ],
+    "15": [
+      0.51125,
+      0.5,
+      0.5,
+      0.51125
+    ],
+    "16": [
+      0.5168260869565218,
+      0.556231884057971,
+      0.4873804347826087,
+      0.6515942028985506
+    ],
+    "17": [
+      0.600464916056823,
+      0.5702898550724638,
+      0.48791218252260005,
+      0.637536231884058
+    ],
+    "18": [
+      0.6050248138957817,
+      0.5651881720430109,
+      0.483529776674938,
+      0.6323924731182797
+    ],
+    "19": [
+      0.6345602077247647,
+      0.5,
+      0.4386952288218111,
+      0.5528205128205128
+    ],
+    "20": [
+      0.5,
+      0.5,
+      0.5,
+      0.6
+    ],
+    "21": [
+      0.602295918367347,
+      0.5619047619047619,
+      0.4789923469387755,
+      0.5866666666666667
+    ],
+    "22": [
+      0.5576923076923077,
+      0.5,
+      0.4567307692307692,
+      0.5
+    ],
+    "23": [
+      0.5857142857142856,
+      0.8571428571428571,
+      0.8928571428571428,
+      0.8285714285714285
+    ],
+    "24": [
+      0.5199944459872257,
+      0.7093862815884475,
+      0.7808227873209821,
+      0.6710794620541911
+    ],
+    "25": [
+      0.5304761904761905,
+      0.5,
+      0.47714285714285715,
+      0.5714285714285714
+    ],
+    "26": [
+      0.8,
+      0.75,
+      0.5,
+      0.85
+    ],
+    "27": [
+      0.532,
+      0.5,
+      0.476,
+      0.5714285714285714
+    ],
+    "28": [
+      0.6082101690120926,
+      0.5548523206751056,
+      0.47365108549607526,
+      0.5840487471418807
+    ],
+    "29": [
+      0.5139455782312925,
+      0.5,
+      0.5,
+      0.5139455782312925
+    ],
+    "30": [
+      0.5119565217391304,
+      0.5,
+      0.5,
+      0.5119565217391304
+    ]
+  }
+}

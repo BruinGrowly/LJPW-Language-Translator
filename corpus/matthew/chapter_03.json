@@ -1,0 +1,130 @@
+{
+  "book": "Matthew",
+  "chapter": 3,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 17,
+  "verses": {
+    "1": "In those days, John the Baptizer came, preaching in the wilderness of Judea, saying,",
+    "2": "“Repent, for the Kingdom of Heaven is at hand!”",
+    "3": "For this is he who was spoken of by Isaiah the prophet, saying, “The voice of one crying in the wilderness, make the way of the Lord ready! Make his paths straight!”",
+    "4": "Now John himself wore clothing made of camel’s hair, with a leather belt around his waist. His food was locusts and wild honey.",
+    "5": "Then people from Jerusalem, all of Judea, and all the region around the Jordan went out to him.",
+    "6": "They were baptized by him in the Jordan, confessing their sins.",
+    "7": "But when he saw many of the Pharisees and Sadducees coming for his baptism, he said to them, “You offspring of vipers, who warned you to flee from the wrath to come?",
+    "8": "Therefore produce fruit worthy of repentance!",
+    "9": "Don’t think to yourselves, ‘We have Abraham for our father,’ for I tell you that God is able to raise up children to Abraham from these stones.",
+    "10": "“Even now the ax lies at the root of the trees. Therefore every tree that doesn’t produce good fruit is cut down, and cast into the fire.",
+    "11": "I indeed baptize you in water for repentance, but he who comes after me is mightier than I, whose sandals I am not worthy to carry. He will baptize you in the Holy Spirit.",
+    "12": "His winnowing fork is in his hand, and he will thoroughly cleanse his threshing floor. He will gather his wheat into the barn, but the chaff he will burn up with unquenchable fire.”",
+    "13": "Then Jesus came from Galilee to the Jordan to John, to be baptized by him.",
+    "14": "But John would have hindered him, saying, “I need to be baptized by you, and you come to me?”",
+    "15": "But Jesus, answering, said to him, “Allow it now, for this is the fitting way for us to fulfill all righteousness.” Then he allowed him.",
+    "16": "Jesus, when he was baptized, went up directly from the water: and behold, the heavens were opened to him. He saw the Spirit of God descending as a dove, and coming on him.",
+    "17": "Behold, a voice out of the heavens said, “This is my beloved Son, with whom I am well pleased.”"
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "2": [
+      0.6063136456211812,
+      0.7995587236931432,
+      0.7864901561439239,
+      0.7928038017651051
+    ],
+    "3": [
+      0.601822272215973,
+      0.5619047619047619,
+      0.47934758155230595,
+      0.5866666666666667
+    ],
+    "4": [
+      0.5524752475247525,
+      0.5,
+      0.4606435643564356,
+      0.5
+    ],
+    "5": [
+      0.5133333333333333,
+      0.5,
+      0.5,
+      0.5133333333333333
+    ],
+    "6": [
+      0.4,
+      0.4,
+      0.5,
+      0.5
+    ],
+    "7": [
+      0.5292358803986711,
+      0.5,
+      0.4780730897009967,
+      0.5714285714285714
+    ],
+    "8": [
+      0.5102564102564103,
+      0.5,
+      0.5,
+      0.5102564102564103
+    ],
+    "9": [
+      0.6000000000000001,
+      0.6342767295597485,
+      0.5764150943396227,
+      0.6166666666666667
+    ],
+    "10": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "11": [
+      0.866568533479392,
+      0.8126146788990827,
+      0.5742708475968781,
+      0.8857798165137615
+    ],
+    "12": [
+      0.5635416666666667,
+      0.5,
+      0.46041666666666664,
+      0.5107638888888889
+    ],
+    "13": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "14": [
+      0.5314699792960662,
+      0.5,
+      0.4763975155279503,
+      0.5714285714285714
+    ],
+    "15": [
+      0.5016025641025641,
+      0.8682539682539682,
+      0.638095238095238,
+      0.7317612942612942
+    ],
+    "16": [
+      0.8,
+      0.75,
+      0.5,
+      0.85
+    ],
+    "17": [
+      0.6272971160295104,
+      0.5,
+      0.4416700201207243,
+      0.5495238095238095
+    ]
+  }
+}

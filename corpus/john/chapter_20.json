@@ -1,0 +1,228 @@
+{
+  "book": "John",
+  "chapter": 20,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 31,
+  "verses": {
+    "1": "Now on the first day of the week, Mary Magdalene went early, while it was still dark, to the tomb, and saw the stone taken away from the tomb.",
+    "2": "Therefore she ran and came to Simon Peter and to the other disciple whom Jesus loved, and said to them, “They have taken away the Lord out of the tomb, and we don’t know where they have laid him!”",
+    "3": "Therefore Peter and the other disciple went out, and they went toward the tomb.",
+    "4": "They both ran together. The other disciple outran Peter, and came to the tomb first.",
+    "5": "Stooping and looking in, he saw the linen cloths lying, yet he didn’t enter in.",
+    "6": "Then Simon Peter came, following him, and entered into the tomb. He saw the linen cloths lying,",
+    "7": "and the cloth that had been on his head, not lying with the linen cloths, but rolled up in a place by itself.",
+    "8": "So then the other disciple who came first to the tomb also entered in, and he saw and believed.",
+    "9": "For as yet they didn’t know the Scripture, that he must rise from the dead.",
+    "10": "So the disciples went away again to their own homes.",
+    "11": "But Mary was standing outside at the tomb weeping. So as she wept, she stooped and looked into the tomb,",
+    "12": "and she saw two angels in white sitting, one at the head, and one at the feet, where the body of Jesus had lain.",
+    "13": "They asked her, “Woman, why are you weeping?” She said to them, “Because they have taken away my Lord, and I don’t know where they have laid him.”",
+    "14": "When she had said this, she turned around and saw Jesus standing, and didn’t know that it was Jesus.",
+    "15": "Jesus said to her, “Woman, why are you weeping? Who are you looking for?” She, supposing him to be the gardener, said to him, “Sir, if you have carried him away, tell me where you have laid him, and I will take him away.”",
+    "16": "Jesus said to her, “Mary.” She turned and said to him, “Rabboni!” which is to say, “Teacher!”",
+    "17": "Jesus said to her, “Don’t hold me, for I haven’t yet ascended to my Father; but go to my brothers and tell them, ‘I am ascending to my Father and your Father, to my God and your God.’ ”",
+    "18": "Mary Magdalene came and told the disciples that she had seen the Lord, and that he had said these things to her.",
+    "19": "When therefore it was evening on that day, the first day of the week, and when the doors were locked where the disciples were assembled, for fear of the Jews, Jesus came and stood in the middle, and said to them, “Peace be to you.”",
+    "20": "When he had said this, he showed them his hands and his side. The disciples therefore were glad when they saw the Lord.",
+    "21": "Jesus therefore said to them again, “Peace be to you. As the Father has sent me, even so I send you.”",
+    "22": "When he had said this, he breathed on them, and said to them, “Receive the Holy Spirit!",
+    "23": "If you forgive anyone’s sins, they have been forgiven them. If you retain anyone’s sins, they have been retained.”",
+    "24": "But Thomas, one of the twelve, called Didymus, wasn’t with them when Jesus came.",
+    "25": "The other disciples therefore said to him, “We have seen the Lord!” But he said to them, “Unless I see in his hands the print of the nails, put my finger into the print of the nails, and put my hand into his side, I will not believe.”",
+    "26": "After eight days again his disciples were inside and Thomas was with them. Jesus came, the doors being locked, and stood in the middle, and said, “Peace be to you.”",
+    "27": "Then he said to Thomas, “Reach here your finger, and see my hands. Reach here your hand, and put it into my side. Don’t be unbelieving, but believing.”",
+    "28": "Thomas answered him, “My Lord and my God!”",
+    "29": "Jesus said to him, “Because you have seen me, you have believed. Blessed are those who have not seen, and have believed.”",
+    "30": "Therefore Jesus did many other signs in the presence of his disciples, which are not written in this book;",
+    "31": "but these are written, that you may believe that Jesus is the Christ, the Son of God, and that believing you may have life in his name."
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.5605504587155964,
+      0.5,
+      0.46215596330275227,
+      0.5100917431192661
+    ],
+    "2": [
+      0.77778170972145,
+      0.7213740458015268,
+      0.49090035893028666,
+      0.8099236641221375
+    ],
+    "3": [
+      0.5,
+      0.52109375,
+      0.5281250000000001,
+      0.5
+    ],
+    "4": [
+      0.5,
+      0.521268656716418,
+      0.5283582089552239,
+      0.5
+    ],
+    "5": [
+      0.5046106557377049,
+      0.5677083333333334,
+      0.5947916666666667,
+      0.5587773224043715
+    ],
+    "6": [
+      0.5133333333333333,
+      0.5,
+      0.5,
+      0.5133333333333333
+    ],
+    "7": [
+      0.5101190476190477,
+      0.5,
+      0.5,
+      0.5101190476190477
+    ],
+    "8": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "9": [
+      0.5,
+      0.5594991789819377,
+      0.5133004926108374,
+      0.599047619047619
+    ],
+    "10": [
+      0.5571428571428572,
+      0.5,
+      0.45714285714285713,
+      0.5
+    ],
+    "11": [
+      0.5,
+      0.5228658536585367,
+      0.5304878048780488,
+      0.5
+    ],
+    "12": [
+      0.8106111710739341,
+      0.724388379204893,
+      0.6111643281165677,
+      0.7542813455657492
+    ],
+    "13": [
+      0.6909677419354839,
+      0.6473118279569893,
+      0.48935483870967744,
+      0.7352688172043012
+    ],
+    "14": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7661800486618005
+    ],
+    "15": [
+      0.7839981067156979,
+      0.7277448071216618,
+      0.4919717463727222,
+      0.8410979228486647
+    ],
+    "16": [
+      0.6843916083916083,
+      0.6393939393939393,
+      0.48716083916083913,
+      0.6951515151515151
+    ],
+    "17": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7333333333333333
+    ],
+    "18": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "19": [
+      0.6005276013678553,
+      0.5702898550724638,
+      0.4878651685393258,
+      0.637536231884058
+    ],
+    "20": [
+      0.6019981498612395,
+      0.5702898550724638,
+      0.48676225716928767,
+      0.637536231884058
+    ],
+    "21": [
+      0.6024,
+      0.5619047619047619,
+      0.47891428571428574,
+      0.5866666666666667
+    ],
+    "22": [
+      0.8143571913161465,
+      0.7500621890547263,
+      0.5903281886024423,
+      0.843594527363184
+    ],
+    "23": [
+      0.45402889245585876,
+      0.4257142857142857,
+      0.47876404494382024,
+      0.5
+    ],
+    "24": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "25": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "26": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "27": [
+      0.5609649122807018,
+      0.5,
+      0.4618421052631579,
+      0.5100877192982456
+    ],
+    "28": [
+      0.6802729528535979,
+      0.6474358974358974,
+      0.5,
+      0.7097601323407774
+    ],
+    "29": [
+      0.6041474654377881,
+      0.5619047619047619,
+      0.4776036866359447,
+      0.5866666666666667
+    ],
+    "30": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "31": [
+      0.8665137614678899,
+      0.8325688073394496,
+      0.5743119266055046,
+      0.8857798165137615
+    ]
+  }
+}

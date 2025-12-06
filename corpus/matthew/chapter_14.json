@@ -1,0 +1,263 @@
+{
+  "book": "Matthew",
+  "chapter": 14,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 36,
+  "verses": {
+    "1": "At that time, Herod the tetrarch heard the report concerning Jesus,",
+    "2": "and said to his servants, “This is John the Baptizer. He is risen from the dead. That is why these powers work in him.”",
+    "3": "For Herod had arrested John, and bound him, and put him in prison for the sake of Herodias, his brother Philip’s wife.",
+    "4": "For John said to him, “It is not lawful for you to have her.”",
+    "5": "When he would have put him to death, he feared the multitude, because they counted him as a prophet.",
+    "6": "But when Herod’s birthday came, the daughter of Herodias danced among them and pleased Herod.",
+    "7": "Whereupon he promised with an oath to give her whatever she should ask.",
+    "8": "She, being prompted by her mother, said, “Give me here on a platter the head of John the Baptizer.”",
+    "9": "The king was grieved, but for the sake of his oaths, and of those who sat at the table with him, he commanded it to be given,",
+    "10": "and he sent and beheaded John in the prison.",
+    "11": "His head was brought on a platter, and given to the young lady; and she brought it to her mother.",
+    "12": "His disciples came, and took the body, and buried it. Then they went and told Jesus.",
+    "13": "Now when Jesus heard this, he withdrew from there in a boat, to a deserted place apart. When the multitudes heard it, they followed him on foot from the cities.",
+    "14": "Jesus went out, and he saw a great multitude. He had compassion on them, and healed their sick.",
+    "15": "When evening had come, his disciples came to him, saying, “This place is deserted, and the hour is already late. Send the multitudes away, that they may go into the villages, and buy themselves food.”",
+    "16": "But Jesus said to them, “They don’t need to go away. You give them something to eat.”",
+    "17": "They told him, “We only have here five loaves and two fish.”",
+    "18": "He said, “Bring them here to me.”",
+    "19": "He commanded the multitudes to sit down on the grass; and he took the five loaves and the two fish, and looking up to heaven, he blessed, broke and gave the loaves to the disciples, and the disciples gave to the multitudes.",
+    "20": "They all ate, and were filled. They took up twelve baskets full of that which remained left over from the broken pieces.",
+    "21": "Those who ate were about five thousand men, in addition to women and children.",
+    "22": "Immediately Jesus made the disciples get into the boat, and to go ahead of him to the other side, while he sent the multitudes away.",
+    "23": "After he had sent the multitudes away, he went up into the mountain by himself to pray. When evening had come, he was there alone.",
+    "24": "But the boat was now in the middle of the sea, distressed by the waves, for the wind was contrary.",
+    "25": "In the fourth watch of the night, Jesus came to them, walking on the sea.",
+    "26": "When the disciples saw him walking on the sea, they were troubled, saying, “It’s a ghost!” and they cried out for fear.",
+    "27": "But immediately Jesus spoke to them, saying, “Cheer up! It is I! Don’t be afraid.”",
+    "28": "Peter answered him and said, “Lord, if it is you, command me to come to you on the waters.”",
+    "29": "He said, “Come!” Peter stepped down from the boat, and walked on the waters to come to Jesus.",
+    "30": "But when he saw that the wind was strong, he was afraid, and beginning to sink, he cried out, saying, “Lord, save me!”",
+    "31": "Immediately Jesus stretched out his hand, took hold of him, and said to him, “You of little faith, why did you doubt?”",
+    "32": "When they got up into the boat, the wind ceased.",
+    "33": "Those who were in the boat came and worshiped him, saying, “You are truly the Son of God!”",
+    "34": "When they had crossed over, they came to the land of Gennesaret.",
+    "35": "When the people of that place recognized him, they sent into all that surrounding region, and brought to him all who were sick;",
+    "36": "and they begged him that they might just touch the fringe of his garment. As many as touched it were made whole."
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "2": [
+      0.5,
+      0.5833333333333334,
+      0.6166666666666667,
+      0.5666666666666667
+    ],
+    "3": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "4": [
+      0.5280519480519481,
+      0.599047619047619,
+      0.5161038961038962,
+      0.5619047619047619
+    ],
+    "5": [
+      0.5332730560578662,
+      0.5,
+      0.4750452079566003,
+      0.5714285714285714
+    ],
+    "6": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "7": [
+      0.5334975369458128,
+      0.5,
+      0.4748768472906404,
+      0.5714285714285714
+    ],
+    "8": [
+      0.5,
+      0.519,
+      0.5253333333333333,
+      0.5
+    ],
+    "9": [
+      0.5389158525055153,
+      0.5661918268725707,
+      0.5625286269566132,
+      0.5415169660678643
+    ],
+    "10": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "11": [
+      0.5506666666666667,
+      0.52,
+      0.48866666666666664,
+      0.5
+    ],
+    "12": [
+      0.5742857142857143,
+      0.5725860805860805,
+      0.5142417582417582,
+      0.5866666666666667
+    ],
+    "13": [
+      0.6016326530612245,
+      0.5619047619047619,
+      0.4794897959183674,
+      0.5866666666666667
+    ],
+    "14": [
+      0.684078624078624,
+      0.6393939393939393,
+      0.4873955773955774,
+      0.6951515151515151
+    ],
+    "15": [
+      0.528937728937729,
+      0.5,
+      0.47829670329670326,
+      0.5714285714285714
+    ],
+    "16": [
+      0.602994011976048,
+      0.5671656686626747,
+      0.48982035928143713,
+      0.5726546906187625
+    ],
+    "17": [
+      0.5577777777777778,
+      0.5,
+      0.45666666666666667,
+      0.5
+    ],
+    "18": [
+      0.5630434782608696,
+      0.5,
+      0.4608695652173913,
+      0.5108695652173914
+    ],
+    "19": [
+      0.5,
+      0.5833333333333334,
+      0.6166666666666667,
+      0.5666666666666667
+    ],
+    "20": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "21": [
+      0.553968253968254,
+      0.5,
+      0.4595238095238095,
+      0.5
+    ],
+    "22": [
+      0.602204081632653,
+      0.5619047619047619,
+      0.47906122448979593,
+      0.5866666666666667
+    ],
+    "23": [
+      0.5558823529411765,
+      0.5,
+      0.45808823529411763,
+      0.5
+    ],
+    "24": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "25": [
+      0.6842207792207791,
+      0.6393939393939393,
+      0.487288961038961,
+      0.6951515151515151
+    ],
+    "26": [
+      0.5163478260869565,
+      0.5702898550724638,
+      0.5861449275362318,
+      0.5953623188405797
+    ],
+    "27": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "28": [
+      0.6076516153410165,
+      0.5548523206751056,
+      0.47398450784054413,
+      0.5839347565967631
+    ],
+    "29": [
+      0.5742857142857143,
+      0.5718231292517006,
+      0.5132244897959184,
+      0.5866666666666667
+    ],
+    "30": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7333333333333333
+    ],
+    "31": [
+      0.6010434782608696,
+      0.5702898550724638,
+      0.4874782608695652,
+      0.637536231884058
+    ],
+    "32": [
+      0.5467408585055644,
+      0.518362480127186,
+      0.48942766295707474,
+      0.5588235294117647
+    ],
+    "33": [
+      0.7811049649217484,
+      0.724388379204893,
+      0.6108455882352941,
+      0.7842125382262998
+    ],
+    "34": [
+      0.5291316526610644,
+      0.5,
+      0.47815126050420165,
+      0.5714285714285714
+    ],
+    "35": [
+      0.5045407636738907,
+      0.5,
+      0.5,
+      0.5834881320949432
+    ],
+    "36": [
+      0.5169152196118488,
+      0.6393939393939393,
+      0.6824651004426285,
+      0.6115151515151515
+    ]
+  }
+}

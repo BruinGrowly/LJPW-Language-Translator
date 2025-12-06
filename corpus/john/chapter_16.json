@@ -1,0 +1,242 @@
+{
+  "book": "John",
+  "chapter": 16,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 33,
+  "verses": {
+    "1": "“I have said these things to you so that you wouldn’t be caused to stumble.",
+    "2": "They will put you out of the synagogues. Yes, the time comes that whoever kills you will think that he offers service to God.",
+    "3": "They will do these things because they have not known the Father, nor me.",
+    "4": "But I have told you these things, so that when the time comes, you may remember that I told you about them. I didn’t tell you these things from the beginning, because I was with you.",
+    "5": "But now I am going to him who sent me, and none of you asks me, ‘Where are you going?’",
+    "6": "But because I have told you these things, sorrow has filled your heart.",
+    "7": "Nevertheless I tell you the truth: It is to your advantage that I go away, for if I don’t go away, the Counselor won’t come to you. But if I go, I will send him to you.",
+    "8": "When he has come, he will convict the world about sin, about righteousness, and about judgment;",
+    "9": "about sin, because they don’t believe in me;",
+    "10": "about righteousness, because I am going to my Father, and you won’t see me any more;",
+    "11": "about judgment, because the prince of this world has been judged.",
+    "12": "“I still have many things to tell you, but you can’t bear them now.",
+    "13": "However when he, the Spirit of truth, has come, he will guide you into all truth, for he will not speak from himself; but whatever he hears, he will speak. He will declare to you things that are coming.",
+    "14": "He will glorify me, for he will take from what is mine, and will declare it to you.",
+    "15": "All things that the Father has are mine; therefore I said that he takes of mine and will declare it to you.",
+    "16": "A little while, and you will not see me. Again a little while, and you will see me.”",
+    "17": "Some of his disciples therefore said to one another, “What is this that he says to us, ‘A little while, and you won’t see me, and again a little while, and you will see me;’ and, ‘Because I go to the Father’?”",
+    "18": "They said therefore, “What is this that he says, ‘A little while’? We don’t know what he is saying.”",
+    "19": "Therefore Jesus perceived that they wanted to ask him, and he said to them, “Do you inquire among yourselves concerning this, that I said, ‘A little while, and you won’t see me, and again a little while, and you will see me?’",
+    "20": "Most certainly I tell you that you will weep and lament, but the world will rejoice. You will be sorrowful, but your sorrow will be turned into joy.",
+    "21": "A woman, when she gives birth, has sorrow because her time has come. But when she has delivered the child, she doesn’t remember the anguish any more, for the joy that a human being is born into the world.",
+    "22": "Therefore you now have sorrow, but I will see you again, and your heart will rejoice, and no one will take your joy away from you.",
+    "23": "“In that day you will ask me no questions. Most certainly I tell you, whatever you may ask of the Father in my name, he will give it to you.",
+    "24": "Until now, you have asked nothing in my name. Ask, and you will receive, that your joy may be made full.",
+    "25": "I have spoken these things to you in figures of speech. But the time is coming when I will no more speak to you in figures of speech, but will tell you plainly about the Father.",
+    "26": "In that day you will ask in my name; and I don’t say to you that I will pray to the Father for you,",
+    "27": "for the Father himself loves you, because you have loved me, and have believed that I came from God.",
+    "28": "I came from the Father, and have come into the world. Again, I leave the world, and go to the Father.”",
+    "29": "His disciples said to him, “Behold, now you are speaking plainly, and using no figures of speech.",
+    "30": "Now we know that you know all things, and don’t need for anyone to question you. By this we believe that you came from God.”",
+    "31": "Jesus answered them, “Do you now believe?",
+    "32": "Behold, the time is coming, yes, and has now come, that you will be scattered, everyone to his own place, and you will leave me alone. Yet I am not alone, because the Father is with me.",
+    "33": "I have told you these things, that in me you may have peace. In the world you have trouble; but cheer up! I have overcome the world.”"
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.553448275862069,
+      0.5,
+      0.45991379310344827,
+      0.5
+    ],
+    "2": [
+      0.6018181818181818,
+      0.5619047619047619,
+      0.47935064935064936,
+      0.5866666666666667
+    ],
+    "3": [
+      0.527487684729064,
+      0.5495238095238095,
+      0.47938423645320194,
+      0.599047619047619
+    ],
+    "4": [
+      0.5539007092198582,
+      0.5,
+      0.4595744680851064,
+      0.5
+    ],
+    "5": [
+      0.5502016129032259,
+      0.5,
+      0.4682459677419355,
+      0.5703629032258064
+    ],
+    "6": [
+      0.5543859649122808,
+      0.5,
+      0.45921052631578946,
+      0.5
+    ],
+    "7": [
+      0.5286175115207373,
+      0.5495238095238095,
+      0.47853686635944703,
+      0.599047619047619
+    ],
+    "8": [
+      0.5,
+      0.9,
+      0.65,
+      0.7744299674267101
+    ],
+    "9": [
+      0.45294117647058824,
+      0.4257142857142857,
+      0.4795798319327731,
+      0.5
+    ],
+    "10": [
+      0.5176223776223776,
+      0.7230303030303029,
+      0.5704195804195803,
+      0.6393939393939393
+    ],
+    "11": [
+      0.5,
+      0.519811320754717,
+      0.5264150943396226,
+      0.5
+    ],
+    "12": [
+      0.511,
+      0.5,
+      0.5,
+      0.511
+    ],
+    "13": [
+      0.8383323765786452,
+      0.8149875621890548,
+      0.6149540757749713,
+      0.843594527363184
+    ],
+    "14": [
+      0.565873015873016,
+      0.5,
+      0.4607142857142857,
+      0.5134920634920636
+    ],
+    "15": [
+      0.5523809523809524,
+      0.5,
+      0.4607142857142857,
+      0.5
+    ],
+    "16": [
+      0.5709677419354839,
+      0.5,
+      0.4564516129032258,
+      0.5129032258064516
+    ],
+    "17": [
+      0.5317460317460317,
+      0.5,
+      0.47619047619047616,
+      0.5714285714285714
+    ],
+    "18": [
+      0.5184395473496128,
+      0.556231884057971,
+      0.4861703394877903,
+      0.6515942028985506
+    ],
+    "19": [
+      0.6010920121334681,
+      0.5702898550724638,
+      0.4874418604651163,
+      0.637536231884058
+    ],
+    "20": [
+      0.5641025641025641,
+      0.5,
+      0.4615384615384615,
+      0.5128205128205129
+    ],
+    "21": [
+      0.5528301886792453,
+      0.5,
+      0.46037735849056605,
+      0.5
+    ],
+    "22": [
+      0.5722772277227723,
+      0.5,
+      0.453960396039604,
+      0.5108910891089109
+    ],
+    "23": [
+      0.5556603773584906,
+      0.5,
+      0.45825471698113207,
+      0.5
+    ],
+    "24": [
+      0.5658227848101266,
+      0.5,
+      0.4591772151898734,
+      0.5113924050632912
+    ],
+    "25": [
+      0.5517985611510792,
+      0.5,
+      0.4611510791366906,
+      0.5
+    ],
+    "26": [
+      0.5561643835616439,
+      0.5,
+      0.4578767123287671,
+      0.5
+    ],
+    "27": [
+      0.6846720368239354,
+      0.6393939393939393,
+      0.48695051783659377,
+      0.6951515151515151
+    ],
+    "28": [
+      0.5526315789473685,
+      0.5,
+      0.4605263157894737,
+      0.5
+    ],
+    "29": [
+      0.5,
+      0.6666666666666666,
+      0.7333333333333333,
+      0.6333333333333333
+    ],
+    "30": [
+      0.6848421052631578,
+      0.6393939393939393,
+      0.486822966507177,
+      0.6951515151515151
+    ],
+    "31": [
+      0.6019565217391304,
+      0.5702898550724638,
+      0.48679347826086955,
+      0.637536231884058
+    ],
+    "32": [
+      0.555,
+      0.5,
+      0.45875,
+      0.5
+    ],
+    "33": [
+      0.5584158415841585,
+      0.5,
+      0.4561881188118812,
+      0.5
+    ]
+  }
+}

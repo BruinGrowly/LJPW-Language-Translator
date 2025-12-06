@@ -1,0 +1,151 @@
+{
+  "book": "Mark",
+  "chapter": 16,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 20,
+  "verses": {
+    "1": "When the Sabbath was past, Mary Magdalene, and Mary the mother of James, and Salome, bought spices, that they might come and anoint him.",
+    "2": "Very early on the first day of the week, they came to the tomb when the sun had risen.",
+    "3": "They were saying among themselves, “Who will roll away the stone from the door of the tomb for us?”",
+    "4": "for it was very big. Looking up, they saw that the stone was rolled back.",
+    "5": "Entering into the tomb, they saw a young man sitting on the right side, dressed in a white robe, and they were amazed.",
+    "6": "He said to them, “Don’t be amazed. You seek Jesus, the Nazarene, who has been crucified. He has risen. He is not here. Behold, the place where they laid him!",
+    "7": "But go, tell his disciples and Peter, ‘He goes before you into Galilee. There you will see him, as he said to you.’ ”",
+    "8": "They went out, and fled from the tomb, for trembling and astonishment had come on them. They said nothing to anyone; for they were afraid.",
+    "9": "Now when he had risen early on the first day of the week, he appeared first to Mary Magdalene, from whom he had cast out seven demons.",
+    "10": "She went and told those who had been with him, as they mourned and wept.",
+    "11": "When they heard that he was alive, and had been seen by her, they disbelieved.",
+    "12": "After these things he was revealed in another form to two of them, as they walked, on their way into the country.",
+    "13": "They went away and told it to the rest. They didn’t believe them, either.",
+    "14": "Afterward he was revealed to the eleven themselves as they sat at the table, and he rebuked them for their unbelief and hardness of heart, because they didn’t believe those who had seen him after he had risen.",
+    "15": "He said to them, “Go into all the world, and preach the Good News to the whole creation.",
+    "16": "He who believes and is baptized will be saved; but he who disbelieves will be condemned.",
+    "17": "These signs will accompany those who believe: in my name they will cast out demons; they will speak with new languages;",
+    "18": "they will take up serpents; and if they drink any deadly thing, it will in no way hurt them; they will lay hands on the sick, and they will recover.”",
+    "19": "So then the Lord, after he had spoken to them, was received up into heaven, and sat down at the right hand of God.",
+    "20": "They went out, and preached everywhere, the Lord working with them, and confirming the word by the signs that followed. Amen."
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.5,
+      0.5833333333333334,
+      0.6166666666666667,
+      0.6130584192439863
+    ],
+    "2": [
+      0.5545454545454546,
+      0.5,
+      0.4590909090909091,
+      0.5
+    ],
+    "3": [
+      0.5472402597402597,
+      0.5,
+      0.4707792207792208,
+      0.5707792207792208
+    ],
+    "4": [
+      0.5,
+      0.5833333333333334,
+      0.6166666666666667,
+      0.5666666666666667
+    ],
+    "5": [
+      0.5262732919254658,
+      0.599047619047619,
+      0.5174378881987578,
+      0.5619047619047619
+    ],
+    "6": [
+      0.6037362637362638,
+      0.5619047619047619,
+      0.47791208791208795,
+      0.5866666666666667
+    ],
+    "7": [
+      0.5558139534883721,
+      0.5,
+      0.45813953488372094,
+      0.5
+    ],
+    "8": [
+      0.5114678899082569,
+      0.5,
+      0.5,
+      0.5114678899082569
+    ],
+    "9": [
+      0.5523809523809524,
+      0.5,
+      0.4607142857142857,
+      0.5
+    ],
+    "10": [
+      0.5553571428571429,
+      0.5,
+      0.45848214285714284,
+      0.5
+    ],
+    "11": [
+      0.5337236533957845,
+      0.5,
+      0.4747072599531616,
+      0.5714285714285714
+    ],
+    "12": [
+      0.553932584269663,
+      0.5,
+      0.4595505617977528,
+      0.5
+    ],
+    "13": [
+      0.5535714285714286,
+      0.5214285714285715,
+      0.48839285714285713,
+      0.5
+    ],
+    "14": [
+      0.5523809523809524,
+      0.5,
+      0.4607142857142857,
+      0.5
+    ],
+    "15": [
+      0.5537313432835821,
+      0.5,
+      0.4597014925373134,
+      0.5
+    ],
+    "16": [
+      0.5507042253521127,
+      0.5,
+      0.4619718309859155,
+      0.5
+    ],
+    "17": [
+      0.5520833333333334,
+      0.5,
+      0.4609375,
+      0.5
+    ],
+    "18": [
+      0.5114035087719299,
+      0.5,
+      0.5,
+      0.5114035087719299
+    ],
+    "19": [
+      0.7656488549618322,
+      0.7257172940247434,
+      0.5057909976309556,
+      0.8099236641221375
+    ],
+    "20": [
+      0.6793461538461538,
+      0.6474358974358974,
+      0.5,
+      0.7088333333333332
+    ]
+  }
+}

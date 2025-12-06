@@ -1,0 +1,229 @@
+{
+  "summary": {
+    "success_rate": 0.0,
+    "avg_preservation_rate": 0.897993552950501,
+    "avg_source_to_final_distance": 0.2040128940989982
+  },
+  "results": [
+    {
+      "verse_num": 1,
+      "source_lang": "english",
+      "intermediate_lang": "spanish",
+      "source": {
+        "verse": 1,
+        "text": "The beginning of the good news about Jesus Christ, the Son of God.",
+        "coords": [
+          0.8,
+          0.75,
+          0.5,
+          0.85
+        ]
+      },
+      "intermediate": {
+        "verse": 8,
+        "text": "Yo a la verdad os he bautizado con agua; pero él os bautizará con Espíritu Santo",
+        "coords": [
+          0.895,
+          0.76,
+          0.5675,
+          0.78375
+        ],
+        "matched_same_verse": false
+      },
+      "final": {
+        "verse": 8,
+        "text": "I baptized you with water, but he will baptize you with holy spirit.'",
+        "coords": [
+          0.8185185185185184,
+          0.7055555555555555,
+          0.46296296296296297,
+          0.7333333333333333
+        ],
+        "matched_original": false
+      },
+      "distances": {
+        "source_to_intermediate": 0.1344258624670119,
+        "intermediate_to_final": 0.14927641116642323,
+        "source_to_final": 0.13153363597836865
+      },
+      "preservation_rate": 0.9342331820108156,
+      "success": false
+    },
+    {
+      "verse_num": 8,
+      "source_lang": "english",
+      "intermediate_lang": "greek",
+      "source": {
+        "verse": 8,
+        "text": "I baptized you with water, but he will baptize you with holy spirit.'",
+        "coords": [
+          0.8185185185185184,
+          0.7055555555555555,
+          0.46296296296296297,
+          0.7333333333333333
+        ]
+      },
+      "intermediate": {
+        "verse": 12,
+        "text": "Καὶ εὐθὺς τὸ πνεῦμα αὐτὸν ἐκβάλλει εἰς τὴν ἔρημον",
+        "coords": [
+          0.78,
+          0.7399999999999999,
+          0.57,
+          0.815
+        ],
+        "matched_same_verse": false
+      },
+      "final": {
+        "verse": 1,
+        "text": "The beginning of the good news about Jesus Christ, the Son of God.",
+        "coords": [
+          0.8,
+          0.75,
+          0.5,
+          0.85
+        ],
+        "matched_original": false
+      },
+      "distances": {
+        "source_to_intermediate": 0.14420980467381658,
+        "intermediate_to_final": 0.08139410298049853,
+        "source_to_final": 0.13153363597836865
+      },
+      "preservation_rate": 0.9342331820108156,
+      "success": false
+    },
+    {
+      "verse_num": 15,
+      "source_lang": "english",
+      "intermediate_lang": "chinese",
+      "source": {
+        "verse": 15,
+        "text": "and saying: 'The appointed time has been fulfilled, and the Kingdom of God has drawn near. Repent, and have faith in the good news.'",
+        "coords": [
+          0.6,
+          0.85,
+          0.7999999999999999,
+          0.8999999999999999
+        ]
+      },
+      "intermediate": {
+        "verse": 7,
+        "text": "他传道说：有一位在我以后来的，能力比我更大，我就是弯腰给他解鞋带也是不配的",
+        "coords": [
+          0.6499999999999999,
+          0.785,
+          0.67,
+          0.8520000000000001
+        ],
+        "matched_same_verse": false
+      },
+      "final": {
+        "verse": 1,
+        "text": "The beginning of the good news about Jesus Christ, the Son of God.",
+        "coords": [
+          0.8,
+          0.75,
+          0.5,
+          0.85
+        ],
+        "matched_original": false
+      },
+      "distances": {
+        "source_to_intermediate": 0.16102484280383553,
+        "intermediate_to_final": 0.22941011311622697,
+        "source_to_final": 0.37749172176353746
+      },
+      "preservation_rate": 0.8112541391182313,
+      "success": false
+    },
+    {
+      "verse_num": 24,
+      "source_lang": "spanish",
+      "intermediate_lang": "chinese",
+      "source": {
+        "verse": 24,
+        "text": "diciendo: ¡Ah! ¿qué tienes con nosotros, Jesús nazareno? ¿Has venido para destruirnos? Sé quién eres, el Santo de Dios",
+        "coords": [
+          0.9049999999999999,
+          0.8300000000000001,
+          0.5525,
+          0.885
+        ]
+      },
+      "intermediate": {
+        "verse": 24,
+        "text": "拿撒勒人耶稣，我们与你有什么相干？你来灭我们吗？我知道你是谁，乃是神的圣者",
+        "coords": [
+          0.7788962162162162,
+          0.8646000000000001,
+          0.6392,
+          0.92208
+        ],
+        "matched_same_verse": true
+      },
+      "final": {
+        "verse": 14,
+        "text": "Después que Juan fue encarcelado, Jesús vino a Galilea predicando el evangelio del reino de Dios",
+        "coords": [
+          0.89,
+          0.905,
+          0.71875,
+          0.88
+        ],
+        "matched_original": false
+      },
+      "distances": {
+        "source_to_intermediate": 0.16121768105449005,
+        "intermediate_to_final": 0.1485770496108796,
+        "source_to_final": 0.1830684639690845
+      },
+      "preservation_rate": 0.9084657680154578,
+      "success": false
+    },
+    {
+      "verse_num": 11,
+      "source_lang": "greek",
+      "intermediate_lang": "english",
+      "source": {
+        "verse": 11,
+        "text": "καὶ φωνὴ ἐγένετο ἐκ τῶν οὐρανῶν Σὺ εἶ ὁ υἱός μου ὁ ἀγαπητός ἐν ᾧ εὐδόκησα",
+        "coords": [
+          0.745,
+          1.0,
+          0.654,
+          0.88
+        ]
+      },
+      "intermediate": {
+        "verse": 15,
+        "text": "and saying: 'The appointed time has been fulfilled, and the Kingdom of God has drawn near. Repent, and have faith in the good news.'",
+        "coords": [
+          0.6,
+          0.85,
+          0.7999999999999999,
+          0.8999999999999999
+        ],
+        "matched_same_verse": false
+      },
+      "final": {
+        "verse": 22,
+        "text": "καὶ ἐξεπλήσσοντο ἐπὶ τῇ διδαχῇ αὐτοῦ ἦν γὰρ διδάσκων αὐτοὺς ὡς ἐξουσίαν ἔχων καὶ οὐχ ὡς οἱ γραμματεῖς",
+        "coords": [
+          0.6014999999999999,
+          1.0,
+          0.7869999999999999,
+          0.8975
+        ],
+        "matched_original": false
+      },
+      "distances": {
+        "source_to_intermediate": 0.25542317827479943,
+        "intermediate_to_final": 0.15059050434871385,
+        "source_to_final": 0.1964370128056319
+      },
+      "preservation_rate": 0.9017814935971841,
+      "success": false
+    }
+  ]
+}

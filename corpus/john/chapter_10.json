@@ -1,0 +1,305 @@
+{
+  "book": "John",
+  "chapter": 10,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 42,
+  "verses": {
+    "1": "“Most certainly, I tell you, one who doesn’t enter by the door into the sheep fold, but climbs up some other way, is a thief and a robber.",
+    "2": "But one who enters in by the door is the shepherd of the sheep.",
+    "3": "The gatekeeper opens the gate for him, and the sheep listen to his voice. He calls his own sheep by name, and leads them out.",
+    "4": "Whenever he brings out his own sheep, he goes before them, and the sheep follow him, for they know his voice.",
+    "5": "They will by no means follow a stranger, but will flee from him; for they don’t know the voice of strangers.”",
+    "6": "Jesus spoke this parable to them, but they didn’t understand what he was telling them.",
+    "7": "Jesus therefore said to them again, “Most certainly, I tell you, I am the sheep’s door.",
+    "8": "All who came before me are thieves and robbers, but the sheep didn’t listen to them.",
+    "9": "I am the door. If anyone enters in by me, he will be saved, and will go in and go out, and will find pasture.",
+    "10": "The thief only comes to steal, kill, and destroy. I came that they may have life, and may have it abundantly.",
+    "11": "I am the good shepherd. The good shepherd lays down his life for the sheep.",
+    "12": "He who is a hired hand, and not a shepherd, who doesn’t own the sheep, sees the wolf coming, leaves the sheep, and flees. The wolf snatches the sheep, and scatters them.",
+    "13": "The hired hand flees because he is a hired hand, and doesn’t care for the sheep.",
+    "14": "I am the good shepherd. I know my own, and I’m known by my own;",
+    "15": "even as the Father knows me, and I know the Father. I lay down my life for the sheep.",
+    "16": "I have other sheep, which are not of this fold. I must bring them also, and they will hear my voice. They will become one flock with one shepherd.",
+    "17": "Therefore the Father loves me, because I lay down my life, that I may take it again.",
+    "18": "No one takes it away from me, but I lay it down by myself. I have power to lay it down, and I have power to take it again. I received this commandment from my Father.”",
+    "19": "Therefore a division arose again among the Jews because of these words.",
+    "20": "Many of them said, “He has a demon, and is insane! Why do you listen to him?”",
+    "21": "Others said, “These are not the sayings of one possessed by a demon. It isn’t possible for a demon to open the eyes of the blind, is it?”",
+    "22": "It was the Feast of the Dedication at Jerusalem.",
+    "23": "It was winter, and Jesus was walking in the temple, in Solomon’s porch.",
+    "24": "The Jews therefore came around him and said to him, “How long will you hold us in suspense? If you are the Christ, tell us plainly.”",
+    "25": "Jesus answered them, “I told you, and you don’t believe. The works that I do in my Father’s name, these testify about me.",
+    "26": "But you don’t believe, because you are not of my sheep, as I told you.",
+    "27": "My sheep hear my voice, and I know them, and they follow me.",
+    "28": "I give eternal life to them. They will never perish, and no one will snatch them out of my hand.",
+    "29": "My Father who has given them to me is greater than all. No one is able to snatch them out of my Father’s hand.",
+    "30": "I and the Father are one.”",
+    "31": "Therefore Jews took up stones again to stone him.",
+    "32": "Jesus answered them, “I have shown you many good works from my Father. For which of those works do you stone me?”",
+    "33": "The Jews answered him, “We don’t stone you for a good work, but for blasphemy: because you, being a man, make yourself God.”",
+    "34": "Jesus answered them, “Isn’t it written in your law, ‘I said, you are gods?’",
+    "35": "If he called them gods, to whom the word of God came (and the Scripture can’t be broken),",
+    "36": "do you say of him whom the Father sanctified and sent into the world, ‘You blaspheme,’ because I said, ‘I am the Son of God?’",
+    "37": "If I don’t do the works of my Father, don’t believe me.",
+    "38": "But if I do them, though you don’t believe me, believe the works, that you may know and believe that the Father is in me, and I in the Father.”",
+    "39": "They sought again to seize him, and he went out of their hand.",
+    "40": "He went away again beyond the Jordan into the place where John was baptizing at first, and he stayed there.",
+    "41": "Many came to him. They said, “John indeed did no sign, but everything that John said about this man is true.”",
+    "42": "Many believed in him there."
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "2": [
+      0.5551020408163265,
+      0.5,
+      0.4586734693877551,
+      0.5
+    ],
+    "3": [
+      0.5515463917525774,
+      0.5,
+      0.461340206185567,
+      0.5
+    ],
+    "4": [
+      0.5176777493606137,
+      0.556231884057971,
+      0.4867416879795396,
+      0.6515942028985506
+    ],
+    "5": [
+      0.5049107142857143,
+      0.5541666666666667,
+      0.5,
+      0.6132440476190476
+    ],
+    "6": [
+      0.6672727272727271,
+      0.6465085638998682,
+      0.5094861660079051,
+      0.6951515151515151
+    ],
+    "7": [
+      0.6007792207792207,
+      0.5619047619047619,
+      0.48012987012987013,
+      0.5866666666666667
+    ],
+    "8": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "9": [
+      0.5125000000000001,
+      0.5,
+      0.5,
+      0.5125000000000001
+    ],
+    "10": [
+      0.5511904761904762,
+      0.5,
+      0.4616071428571428,
+      0.5
+    ],
+    "11": [
+      0.5542372881355933,
+      0.5,
+      0.45932203389830506,
+      0.5
+    ],
+    "12": [
+      0.5519379844961241,
+      0.5,
+      0.46104651162790694,
+      0.5
+    ],
+    "13": [
+      0.6264208909370199,
+      0.5,
+      0.44232718894009215,
+      0.5495238095238095
+    ],
+    "14": [
+      0.5448101265822786,
+      0.5438818565400844,
+      0.4726582278481013,
+      0.5961181434599157
+    ],
+    "15": [
+      0.5273214285714285,
+      0.5495238095238095,
+      0.47950892857142857,
+      0.599047619047619
+    ],
+    "16": [
+      0.5539823008849558,
+      0.5,
+      0.4595132743362832,
+      0.5
+    ],
+    "17": [
+      0.6275311355311355,
+      0.5,
+      0.44149450549450553,
+      0.5495238095238095
+    ],
+    "18": [
+      0.5265306122448979,
+      0.5619047619047619,
+      0.5667687074829932,
+      0.5495238095238095
+    ],
+    "19": [
+      0.5542372881355933,
+      0.5,
+      0.45932203389830506,
+      0.5
+    ],
+    "20": [
+      0.5322077922077922,
+      0.5,
+      0.47584415584415585,
+      0.5714285714285714
+    ],
+    "21": [
+      0.5,
+      0.5,
+      0.5,
+      0.6
+    ],
+    "22": [
+      0.5512820512820513,
+      0.5,
+      0.4615384615384615,
+      0.5
+    ],
+    "23": [
+      0.6796503496503495,
+      0.6474358974358974,
+      0.5,
+      0.709137529137529
+    ],
+    "24": [
+      0.6058208240178857,
+      0.5651881720430109,
+      0.48286090705844786,
+      0.6322966570850634
+    ],
+    "25": [
+      0.6008477237048666,
+      0.5619047619047619,
+      0.4800784929356358,
+      0.5866666666666667
+    ],
+    "26": [
+      0.5576923076923077,
+      0.5,
+      0.4567307692307692,
+      0.5
+    ],
+    "27": [
+      0.5455696202531646,
+      0.5438818565400844,
+      0.4715189873417722,
+      0.5953586497890295
+    ],
+    "28": [
+      0.5128378378378379,
+      0.5,
+      0.5,
+      0.5128378378378379
+    ],
+    "29": [
+      0.5107142857142858,
+      0.5,
+      0.5,
+      0.5107142857142858
+    ],
+    "30": [
+      0.5684210526315789,
+      0.5,
+      0.45657894736842103,
+      0.5105263157894737
+    ],
+    "31": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "32": [
+      0.6012593703148426,
+      0.5702898550724638,
+      0.48731634182908545,
+      0.637536231884058
+    ],
+    "33": [
+      0.6008294930875576,
+      0.5619047619047619,
+      0.48009216589861753,
+      0.5866666666666667
+    ],
+    "34": [
+      0.78252555225849,
+      0.7277448071216618,
+      0.4930761622156281,
+      0.8410979228486647
+    ],
+    "35": [
+      0.7393348623853211,
+      0.7582477520653612,
+      0.5950311515815419,
+      0.8340978593272171
+    ],
+    "36": [
+      0.780364013021604,
+      0.724388379204893,
+      0.6114013021604024,
+      0.8340978593272171
+    ],
+    "37": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "38": [
+      0.5283578104138852,
+      0.5495238095238095,
+      0.47873164218958614,
+      0.599047619047619
+    ],
+    "39": [
+      0.5583333333333333,
+      0.5,
+      0.45625,
+      0.5
+    ],
+    "40": [
+      0.5534883720930233,
+      0.5,
+      0.45988372093023255,
+      0.5
+    ],
+    "41": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "42": [
+      0.5681818181818182,
+      0.5,
+      0.4590909090909091,
+      0.5136363636363637
+    ]
+  }
+}

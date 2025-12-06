@@ -1,0 +1,242 @@
+{
+  "book": "Mark",
+  "chapter": 11,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 33,
+  "verses": {
+    "1": "When they came near to Jerusalem, to Bethsphage and Bethany, at the Mount of Olives, he sent two of his disciples,",
+    "2": "and said to them, “Go your way into the village that is opposite you. Immediately as you enter into it, you will find a young donkey tied, on which no one has sat. Untie him, and bring him.",
+    "3": "If anyone asks you, ‘Why are you doing this?’ say, ‘The Lord needs him;’ and immediately he will send him back here.”",
+    "4": "They went away, and found a young donkey tied at the door outside in the open street, and they untied him.",
+    "5": "Some of those who stood there asked them, “What are you doing, untying the young donkey?”",
+    "6": "They said to them just as Jesus had said, and they let them go.",
+    "7": "They brought the young donkey to Jesus, and threw their garments on it, and Jesus sat on it.",
+    "8": "Many spread their garments on the way, and others were cutting down branches from the trees, and spreading them on the road.",
+    "9": "Those who went in front, and those who followed, cried out, “Hosanna! Blessed is he who comes in the name of the Lord!",
+    "10": "Blessed is the kingdom of our father David that is coming in the name of the Lord! Hosanna in the highest!”",
+    "11": "Jesus entered into the temple in Jerusalem. When he had looked around at everything, it being now evening, he went out to Bethany with the twelve.",
+    "12": "The next day, when they had come out from Bethany, he was hungry.",
+    "13": "Seeing a fig tree afar off having leaves, he came to see if perhaps he might find anything on it. When he came to it, he found nothing but leaves, for it was not the season for figs.",
+    "14": "Jesus told it, “May no one ever eat fruit from you again!” and his disciples heard it.",
+    "15": "They came to Jerusalem, and Jesus entered into the temple, and began to throw out those who sold and those who bought in the temple, and overthrew the money changers’ tables, and the seats of those who sold the doves.",
+    "16": "He would not allow anyone to carry a container through the temple.",
+    "17": "He taught, saying to them, “Isn’t it written, ‘My house will be called a house of prayer for all the nations?’ But you have made it a den of robbers!”",
+    "18": "The chief priests and the scribes heard it, and sought how they might destroy him. For they feared him, because all the multitude was astonished at his teaching.",
+    "19": "When evening came, he went out of the city.",
+    "20": "As they passed by in the morning, they saw the fig tree withered away from the roots.",
+    "21": "Peter, remembering, said to him, “Rabbi, look! The fig tree which you cursed has withered away.”",
+    "22": "Jesus answered them, “Have faith in God.",
+    "23": "For most certainly I tell you, whoever may tell this mountain, ‘Be taken up and cast into the sea,’ and doesn’t doubt in his heart, but believes that what he says is happening; he shall have whatever he says.",
+    "24": "Therefore I tell you, all things whatever you pray and ask for, believe that you have received them, and you shall have them.",
+    "25": "Whenever you stand praying, forgive, if you have anything against anyone; so that your Father, who is in heaven, may also forgive you your transgressions.",
+    "26": "But if you do not forgive, neither will your Father in heaven forgive your transgressions.”",
+    "27": "They came again to Jerusalem, and as he was walking in the temple, the chief priests, the scribes, and the elders came to him,",
+    "28": "and they began saying to him, “By what authority do you do these things? Or who gave you this authority to do these things?”",
+    "29": "Jesus said to them, “I will ask you one question. Answer me, and I will tell you by what authority I do these things.",
+    "30": "The baptism of John—was it from heaven, or from men? Answer me.”",
+    "31": "They reasoned with themselves, saying, “If we should say, ‘From heaven;’ he will say, ‘Why then did you not believe him?’",
+    "32": "If we should say, ‘From men’ ”—they feared the people, for all held John to really be a prophet.",
+    "33": "They answered Jesus, “We don’t know.” Jesus said to them, “Neither do I tell you by what authority I do these things.”"
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.5292063492063492,
+      0.5,
+      0.47809523809523813,
+      0.5714285714285714
+    ],
+    "2": [
+      0.5555555555555556,
+      0.5,
+      0.4583333333333333,
+      0.5
+    ],
+    "3": [
+      0.6018200202224468,
+      0.5702898550724638,
+      0.4868958543983822,
+      0.637536231884058
+    ],
+    "4": [
+      0.555421686746988,
+      0.5198795180722892,
+      0.48493975903614456,
+      0.5
+    ],
+    "5": [
+      0.5322981366459627,
+      0.5,
+      0.4757763975155279,
+      0.5714285714285714
+    ],
+    "6": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7333333333333333
+    ],
+    "7": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "8": [
+      0.512,
+      0.5,
+      0.5,
+      0.512
+    ],
+    "9": [
+      0.7802752293577981,
+      0.7842507645259938,
+      0.6713302752293578,
+      0.8141437308868502
+    ],
+    "10": [
+      0.6285714285714286,
+      0.8571428571428571,
+      0.9142857142857141,
+      0.8285714285714285
+    ],
+    "11": [
+      0.6015384615384616,
+      0.5619047619047619,
+      0.4795604395604396,
+      0.5866666666666667
+    ],
+    "12": [
+      0.558,
+      0.5,
+      0.4565,
+      0.5
+    ],
+    "13": [
+      0.5,
+      0.6342767295597485,
+      0.6930817610062894,
+      0.5666666666666667
+    ],
+    "14": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "15": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "16": [
+      0.5666666666666667,
+      0.5,
+      0.4597222222222222,
+      0.512962962962963
+    ],
+    "17": [
+      0.5293436293436293,
+      0.5,
+      0.477992277992278,
+      0.5714285714285714
+    ],
+    "18": [
+      0.5168671328671328,
+      0.6393939393939393,
+      0.6825011655011655,
+      0.6115151515151515
+    ],
+    "19": [
+      0.532900432900433,
+      0.5,
+      0.4753246753246753,
+      0.5714285714285714
+    ],
+    "20": [
+      0.5537313432835821,
+      0.5,
+      0.4597014925373134,
+      0.5
+    ],
+    "21": [
+      0.5547945205479452,
+      0.5,
+      0.4589041095890411,
+      0.5
+    ],
+    "22": [
+      0.6841642228739002,
+      0.6393939393939393,
+      0.4873313782991202,
+      0.6951515151515151
+    ],
+    "23": [
+      0.5515527950310559,
+      0.5,
+      0.46133540372670806,
+      0.5
+    ],
+    "24": [
+      0.5555555555555556,
+      0.5,
+      0.4583333333333333,
+      0.5
+    ],
+    "25": [
+      0.43281907433380085,
+      0.41565217391304343,
+      0.48712482468443197,
+      0.5391304347826087
+    ],
+    "26": [
+      0.4228040540540541,
+      0.41875,
+      0.5,
+      0.504054054054054
+    ],
+    "27": [
+      0.5,
+      0.5833333333333334,
+      0.6166666666666667,
+      0.5666666666666667
+    ],
+    "28": [
+      0.5182608695652173,
+      0.5702898550724638,
+      0.5847101449275363,
+      0.5953623188405797
+    ],
+    "29": [
+      0.6852911133810009,
+      0.6393939393939393,
+      0.4864862104187947,
+      0.6951515151515151
+    ],
+    "30": [
+      0.505701754385965,
+      0.5,
+      0.5,
+      0.5846491228070175
+    ],
+    "31": [
+      0.5330158730158729,
+      0.5,
+      0.47523809523809524,
+      0.5714285714285714
+    ],
+    "32": [
+      0.5619718309859155,
+      0.5,
+      0.4619718309859155,
+      0.5112676056338028
+    ],
+    "33": [
+      0.7781401804302569,
+      0.7213740458015268,
+      0.4906315058986815,
+      0.8099236641221375
+    ]
+  }
+}

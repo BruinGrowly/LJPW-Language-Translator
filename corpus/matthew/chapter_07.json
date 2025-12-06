@@ -1,0 +1,214 @@
+{
+  "book": "Matthew",
+  "chapter": 7,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 29,
+  "verses": {
+    "1": "“Don’t judge, so that you won’t be judged.",
+    "2": "For with whatever judgment you judge, you will be judged; and with whatever measure you measure, it will be measured to you.",
+    "3": "Why do you see the speck that is in your brother’s eye, but don’t consider the beam that is in your own eye?",
+    "4": "Or how will you tell your brother, ‘Let me remove the speck from your eye;’ and behold, the beam is in your own eye?",
+    "5": "You hypocrite! First remove the beam out of your own eye, and then you can see clearly to remove the speck out of your brother’s eye.",
+    "6": "“Don’t give that which is holy to the dogs, neither throw your pearls before the pigs, lest perhaps they trample them under their feet, and turn and tear you to pieces.",
+    "7": "“Ask, and it will be given you. Seek, and you will find. Knock, and it will be opened for you.",
+    "8": "For everyone who asks receives. He who seeks finds. To him who knocks it will be opened.",
+    "9": "Or who is there among you, who, if his son asks him for bread, will give him a stone?",
+    "10": "Or if he asks for a fish, who will give him a serpent?",
+    "11": "If you then, being evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him!",
+    "12": "Therefore whatever you desire for men to do to you, you shall also do to them; for this is the law and the prophets.",
+    "13": "“Enter in by the narrow gate; for wide is the gate and broad is the way that leads to destruction, and many are those who enter in by it.",
+    "14": "How narrow is the gate, and restricted is the way that leads to life! Few are those who find it.",
+    "15": "“Beware of false prophets, who come to you in sheep’s clothing, but inwardly are ravening wolves.",
+    "16": "By their fruits you will know them. Do you gather grapes from thorns, or figs from thistles?",
+    "17": "Even so, every good tree produces good fruit; but the corrupt tree produces evil fruit.",
+    "18": "A good tree can’t produce evil fruit, neither can a corrupt tree produce good fruit.",
+    "19": "Every tree that doesn’t grow good fruit is cut down, and thrown into the fire.",
+    "20": "Therefore by their fruits you will know them.",
+    "21": "Not everyone who says to me, ‘Lord, Lord,’ will enter into the Kingdom of Heaven; but he who does the will of my Father who is in heaven.",
+    "22": "Many will tell me in that day, ‘Lord, Lord, didn’t we prophesy in your name, in your name cast out demons, and in your name do many mighty works?’",
+    "23": "Then I will tell them, ‘I never knew you. Depart from me, you who work iniquity.’",
+    "24": "“Everyone therefore who hears these words of mine, and does them, I will liken him to a wise man, who built his house on a rock.",
+    "25": "The rain came down, the floods came, and the winds blew, and beat on that house; and it didn’t fall, for it was founded on the rock.",
+    "26": "Everyone who hears these words of mine, and doesn’t do them will be like a foolish man, who built his house on the sand.",
+    "27": "The rain came down, the floods came, and the winds blew, and beat on that house; and it fell—and great was its fall.”",
+    "28": "When Jesus had finished saying these things, the multitudes were astonished at his teaching,",
+    "29": "for he taught them with authority, and not like the scribes."
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.5,
+      0.5275,
+      0.5366666666666667,
+      0.5
+    ],
+    "2": [
+      0.5565656565656566,
+      0.5,
+      0.4575757575757576,
+      0.5
+    ],
+    "3": [
+      0.5320557491289198,
+      0.5,
+      0.4759581881533101,
+      0.5714285714285714
+    ],
+    "4": [
+      0.5512931034482759,
+      0.5,
+      0.4683189655172414,
+      0.5715517241379311
+    ],
+    "5": [
+      0.5557692307692308,
+      0.5,
+      0.4581730769230769,
+      0.5
+    ],
+    "6": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "7": [
+      0.5102941176470589,
+      0.5,
+      0.5,
+      0.5102941176470589
+    ],
+    "8": [
+      0.5521739130434783,
+      0.5,
+      0.4608695652173913,
+      0.5
+    ],
+    "9": [
+      0.5317460317460317,
+      0.5,
+      0.47619047619047616,
+      0.5714285714285714
+    ],
+    "10": [
+      0.53,
+      0.5,
+      0.47750000000000004,
+      0.5714285714285714
+    ],
+    "11": [
+      0.518241430700447,
+      0.6115151515151515,
+      0.48631892697466467,
+      0.7230303030303029
+    ],
+    "12": [
+      0.528,
+      0.599047619047619,
+      0.5161428571428572,
+      0.5619047619047619
+    ],
+    "13": [
+      0.5514285714285715,
+      0.5,
+      0.4614285714285714,
+      0.5
+    ],
+    "14": [
+      0.5308880308880308,
+      0.5,
+      0.4768339768339768,
+      0.5714285714285714
+    ],
+    "15": [
+      0.5506493506493507,
+      0.5,
+      0.462012987012987,
+      0.5
+    ],
+    "16": [
+      0.5024129697122032,
+      0.5593272171253822,
+      0.5,
+      0.6623518076326924
+    ],
+    "17": [
+      0.4,
+      0.4,
+      0.5,
+      0.5
+    ],
+    "18": [
+      0.4,
+      0.4,
+      0.5,
+      0.5
+    ],
+    "19": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "20": [
+      0.544338008894971,
+      0.5438818565400844,
+      0.47228874444064317,
+      0.5951533812293306
+    ],
+    "21": [
+      0.5901427249047424,
+      0.8215077605321508,
+      0.8455212795729017,
+      0.797918326049986
+    ],
+    "22": [
+      0.6863308909549903,
+      0.6532438478747202,
+      0.49999999999999994,
+      0.7471810028118135
+    ],
+    "23": [
+      0.5675,
+      0.5,
+      0.45875,
+      0.5125000000000001
+    ],
+    "24": [
+      0.5460346163781968,
+      0.5438818565400844,
+      0.47070524412296566,
+      0.5947386549556533
+    ],
+    "25": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "26": [
+      0.5548387096774193,
+      0.5,
+      0.4588709677419355,
+      0.5
+    ],
+    "27": [
+      0.5102272727272728,
+      0.5,
+      0.5,
+      0.5102272727272728
+    ],
+    "28": [
+      0.688839547549225,
+      0.6473118279569893,
+      0.4909509844993717,
+      0.7352688172043012
+    ],
+    "29": [
+      0.5267857142857143,
+      0.5619047619047619,
+      0.566577380952381,
+      0.5495238095238095
+    ]
+  }
+}

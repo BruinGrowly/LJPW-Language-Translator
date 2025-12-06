@@ -1,0 +1,354 @@
+{
+  "book": "Luke",
+  "chapter": 6,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 49,
+  "verses": {
+    "1": "Now on the second Sabbath after the first, he was going through the grain fields. His disciples plucked the heads of grain and ate, rubbing them in their hands.",
+    "2": "But some of the Pharisees said to them, “Why do you do that which is not lawful to do on the Sabbath day?”",
+    "3": "Jesus, answering them, said, “Haven’t you read what David did when he was hungry, he, and those who were with him;",
+    "4": "how he entered into God’s house, and took and ate the show bread, and gave also to those who were with him, which is not lawful to eat except for the priests alone?”",
+    "5": "He said to them, “The Son of Man is lord of the Sabbath.”",
+    "6": "It also happened on another Sabbath that he entered into the synagogue and taught. There was a man there, and his right hand was withered.",
+    "7": "The scribes and the Pharisees watched him, to see whether he would heal on the Sabbath, that they might find an accusation against him.",
+    "8": "But he knew their thoughts; and he said to the man who had the withered hand, “Rise up, and stand in the middle.” He arose and stood.",
+    "9": "Then Jesus said to them, “I will ask you something: Is it lawful on the Sabbath to do good, or to do harm? To save a life, or to kill?”",
+    "10": "He looked around at them all, and said to the man, “Stretch out your hand.” He did, and his hand was restored as sound as the other.",
+    "11": "But they were filled with rage, and talked with one another about what they might do to Jesus.",
+    "12": "In these days, he went out to the mountain to pray, and he continued all night in prayer to God.",
+    "13": "When it was day, he called his disciples, and from them he chose twelve, whom he also named apostles:",
+    "14": "Simon, whom he also named Peter; Andrew, his brother; James; John; Philip; Bartholomew;",
+    "15": "Matthew; Thomas; James, the son of Alphaeus; Simon, who was called the Zealot;",
+    "16": "Judas the son of James; and Judas Iscariot, who also became a traitor.",
+    "17": "He came down with them, and stood on a level place, with a crowd of his disciples, and a great number of the people from all Judea and Jerusalem, and the sea coast of Tyre and Sidon, who came to hear him and to be healed of their diseases;",
+    "18": "as well as those who were troubled by unclean spirits, and they were being healed.",
+    "19": "All the multitude sought to touch him, for power came out of him and healed them all.",
+    "20": "He lifted up his eyes to his disciples, and said, “Blessed are you who are poor, God’s Kingdom is yours.",
+    "21": "Blessed are you who hunger now, for you will be filled. Blessed are you who weep now, for you will laugh.",
+    "22": "Blessed are you when men hate you, and when they exclude and mock you, and throw out your name as evil, for the Son of Man’s sake.",
+    "23": "Rejoice in that day, and leap for joy, for behold, your reward is great in heaven, for their fathers did the same thing to the prophets.",
+    "24": "“But woe to you who are rich! For you have received your consolation.",
+    "25": "Woe to you, you who are full now, for you will be hungry. Woe to you who laugh now, for you will mourn and weep.",
+    "26": "Woe, when men speak well of you, for their fathers did the same thing to the false prophets.",
+    "27": "“But I tell you who hear: love your enemies, do good to those who hate you,",
+    "28": "bless those who curse you, and pray for those who mistreat you.",
+    "29": "To him who strikes you on the cheek, offer also the other; and from him who takes away your cloak, don’t withhold your coat also.",
+    "30": "Give to everyone who asks you, and don’t ask him who takes away your goods to give them back again.",
+    "31": "“As you would like people to do to you, do exactly so to them.",
+    "32": "If you love those who love you, what credit is that to you? For even sinners love those who love them.",
+    "33": "If you do good to those who do good to you, what credit is that to you? For even sinners do the same.",
+    "34": "If you lend to those from whom you hope to receive, what credit is that to you? Even sinners lend to sinners, to receive back as much.",
+    "35": "But love your enemies, and do good, and lend, expecting nothing back; and your reward will be great, and you will be children of the Most High; for he is kind toward the unthankful and evil.",
+    "36": "“Therefore be merciful, even as your Father is also merciful.",
+    "37": "Don’t judge, and you won’t be judged. Don’t condemn, and you won’t be condemned. Set free, and you will be set free.",
+    "38": "“Give, and it will be given to you: good measure, pressed down, shaken together, and running over, will be given to you. For with the same measure you measure it will be measured back to you.”",
+    "39": "He spoke a parable to them. “Can the blind guide the blind? Won’t they both fall into a pit?",
+    "40": "A disciple is not above his teacher, but everyone when he is fully trained will be like his teacher.",
+    "41": "Why do you see the speck of chaff that is in your brother’s eye, but don’t consider the beam that is in your own eye?",
+    "42": "Or how can you tell your brother, ‘Brother, let me remove the speck of chaff that is in your eye,’ when you yourself don’t see the beam that is in your own eye? You hypocrite! First remove the beam from your own eye, and then you can see clearly to remove the speck of chaff that is in your brother’s eye.",
+    "43": "For there is no good tree that produces rotten fruit; nor again a rotten tree that produces good fruit.",
+    "44": "For each tree is known by its own fruit. For people don’t gather figs from thorns, nor do they gather grapes from a bramble bush.",
+    "45": "The good man out of the good treasure of his heart brings out that which is good, and the evil man out of the evil treasure of his heart brings out that which is evil, for out of the abundance of the heart, his mouth speaks.",
+    "46": "“Why do you call me, ‘Lord, Lord,’ and don’t do the things which I say?",
+    "47": "Everyone who comes to me, and hears my words, and does them, I will show you who he is like.",
+    "48": "He is like a man building a house, who dug and went deep, and laid a foundation on the rock. When a flood arose, the stream broke against that house, and could not shake it, because it was founded on the rock.",
+    "49": "But he who hears, and doesn’t do, is like a man who built a house on the earth without a foundation, against which the stream broke, and immediately it fell, and the ruin of that house was great.”"
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "2": [
+      0.5176086956521739,
+      0.6124637681159419,
+      0.5289673913043479,
+      0.6094202898550725
+    ],
+    "3": [
+      0.6047840531561461,
+      0.5619047619047619,
+      0.47712624584717606,
+      0.5866666666666667
+    ],
+    "4": [
+      0.6895758191516383,
+      0.6473118279569893,
+      0.4903987807975616,
+      0.7352688172043012
+    ],
+    "5": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "6": [
+      0.5401035766305228,
+      0.5973080865296434,
+      0.5200922479365594,
+      0.5518962075848304
+    ],
+    "7": [
+      0.5278374836173001,
+      0.5619047619047619,
+      0.5657885539536915,
+      0.5495238095238095
+    ],
+    "8": [
+      0.553,
+      0.5195000000000001,
+      0.48624999999999996,
+      0.5
+    ],
+    "9": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7661800486618005
+    ],
+    "10": [
+      0.5505050505050505,
+      0.5,
+      0.4621212121212121,
+      0.5
+    ],
+    "11": [
+      0.6768744939271254,
+      0.6343589743589744,
+      0.4926882591093118,
+      0.6738191632928475
+    ],
+    "12": [
+      0.6078515224084845,
+      0.5548523206751056,
+      0.47367430721861103,
+      0.5837210628349869
+    ],
+    "13": [
+      0.5296564195298372,
+      0.5,
+      0.4777576853526221,
+      0.5714285714285714
+    ],
+    "14": [
+      0.5634328358208955,
+      0.5,
+      0.46194029850746265,
+      0.5126865671641792
+    ],
+    "15": [
+      0.5533333333333333,
+      0.5,
+      0.45999999999999996,
+      0.5
+    ],
+    "16": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "17": [
+      0.5502702702702703,
+      0.5,
+      0.4622972972972973,
+      0.5
+    ],
+    "18": [
+      0.6015584415584416,
+      0.5619047619047619,
+      0.47954545454545455,
+      0.5866666666666667
+    ],
+    "19": [
+      0.5428490459096921,
+      0.5548523206751056,
+      0.5500125952515902,
+      0.5510233641916997
+    ],
+    "20": [
+      0.5115953232196347,
+      0.7213740458015268,
+      0.8012271717074113,
+      0.6770992366412214
+    ],
+    "21": [
+      0.5697530864197531,
+      0.5,
+      0.45555555555555555,
+      0.5104938271604939
+    ],
+    "22": [
+      0.4783659378596088,
+      0.4341772151898734,
+      0.4720368239355581,
+      0.5069044879171462
+    ],
+    "23": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "24": [
+      0.562962962962963,
+      0.5,
+      0.4527777777777778,
+      0.5
+    ],
+    "25": [
+      0.5771084337349398,
+      0.5,
+      0.4503012048192771,
+      0.5108433734939759
+    ],
+    "26": [
+      0.5513888888888889,
+      0.5,
+      0.4614583333333333,
+      0.5
+    ],
+    "27": [
+      0.6330272108843538,
+      0.5,
+      0.4373724489795918,
+      0.5495238095238095
+    ],
+    "28": [
+      0.556,
+      0.5,
+      0.45799999999999996,
+      0.5
+    ],
+    "29": [
+      0.557,
+      0.5,
+      0.45725,
+      0.5
+    ],
+    "30": [
+      0.5279220779220779,
+      0.575,
+      0.5915584415584416,
+      0.5
+    ],
+    "31": [
+      0.5565217391304348,
+      0.5,
+      0.4576086956521739,
+      0.5
+    ],
+    "32": [
+      0.7492228120321219,
+      0.5,
+      0.4014699877501021,
+      0.6468817204301075
+    ],
+    "33": [
+      0.43336384439359266,
+      0.41565217391304343,
+      0.48671624713958805,
+      0.5391304347826087
+    ],
+    "34": [
+      0.43160535117056853,
+      0.41565217391304343,
+      0.48803511705685615,
+      0.5391304347826087
+    ],
+    "35": [
+      0.7384702009702009,
+      0.5,
+      0.4115384615384616,
+      0.6205214830214829
+    ],
+    "36": [
+      0.5122448979591837,
+      0.5,
+      0.5,
+      0.5122448979591837
+    ],
+    "37": [
+      0.5,
+      0.5847058823529412,
+      0.6254411764705883,
+      0.5
+    ],
+    "38": [
+      0.5517006802721088,
+      0.5,
+      0.46122448979591835,
+      0.5
+    ],
+    "39": [
+      0.5,
+      0.5130434782608695,
+      0.5173913043478261,
+      0.5714285714285714
+    ],
+    "40": [
+      0.5276428571428572,
+      0.5495238095238095,
+      0.47926785714285713,
+      0.599047619047619
+    ],
+    "41": [
+      0.5314606741573034,
+      0.5,
+      0.4764044943820225,
+      0.5714285714285714
+    ],
+    "42": [
+      0.5312576312576313,
+      0.5,
+      0.47655677655677653,
+      0.5714285714285714
+    ],
+    "43": [
+      0.5,
+      0.5198795180722892,
+      0.5265060240963856,
+      0.5
+    ],
+    "44": [
+      0.504269801980198,
+      0.5541666666666667,
+      0.5,
+      0.6126031353135313
+    ],
+    "45": [
+      0.4527510204081633,
+      0.4257142857142857,
+      0.4797224489795918,
+      0.5
+    ],
+    "46": [
+      0.6048880842659645,
+      0.5651881720430109,
+      0.4833360763660304,
+      0.631997476409919
+    ],
+    "47": [
+      0.5594202898550725,
+      0.5,
+      0.45543478260869563,
+      0.5
+    ],
+    "48": [
+      0.5515527950310559,
+      0.5,
+      0.46133540372670806,
+      0.5
+    ],
+    "49": [
+      0.5549668874172186,
+      0.5,
+      0.45877483443708605,
+      0.5
+    ]
+  }
+}

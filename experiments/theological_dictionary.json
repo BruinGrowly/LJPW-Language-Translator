@@ -1,0 +1,1783 @@
+{
+  "God": {
+    "category": "divine_attributes",
+    "coordinates": [
+      0.88,
+      0.9,
+      0.75,
+      0.98
+    ],
+    "L": 0.88,
+    "J": 0.9,
+    "P": 0.75,
+    "W": 0.98
+  },
+  "Lord": {
+    "category": "divine_attributes",
+    "coordinates": [
+      0.85,
+      0.9,
+      0.8,
+      0.95
+    ],
+    "L": 0.85,
+    "J": 0.9,
+    "P": 0.8,
+    "W": 0.95
+  },
+  "Father": {
+    "category": "divine_attributes",
+    "coordinates": [
+      0.9,
+      0.85,
+      0.7,
+      0.92
+    ],
+    "L": 0.9,
+    "J": 0.85,
+    "P": 0.7,
+    "W": 0.92
+  },
+  "Son": {
+    "category": "divine_attributes",
+    "coordinates": [
+      0.85,
+      0.88,
+      0.72,
+      0.9
+    ],
+    "L": 0.85,
+    "J": 0.88,
+    "P": 0.72,
+    "W": 0.9
+  },
+  "Holy Spirit": {
+    "category": "divine_attributes",
+    "coordinates": [
+      0.9,
+      0.7,
+      0.6,
+      0.95
+    ],
+    "L": 0.9,
+    "J": 0.7,
+    "P": 0.6,
+    "W": 0.95
+  },
+  "Trinity": {
+    "category": "divine_attributes",
+    "coordinates": [
+      0.88,
+      0.9,
+      0.75,
+      0.98
+    ],
+    "L": 0.88,
+    "J": 0.9,
+    "P": 0.75,
+    "W": 0.98
+  },
+  "Almighty": {
+    "category": "divine_attributes",
+    "coordinates": [
+      0.75,
+      0.9,
+      0.95,
+      0.92
+    ],
+    "L": 0.75,
+    "J": 0.9,
+    "P": 0.95,
+    "W": 0.92
+  },
+  "Creator": {
+    "category": "divine_attributes",
+    "coordinates": [
+      0.8,
+      0.88,
+      0.9,
+      0.95
+    ],
+    "L": 0.8,
+    "J": 0.88,
+    "P": 0.9,
+    "W": 0.95
+  },
+  "Eternal": {
+    "category": "eschatology",
+    "coordinates": [
+      0.85,
+      0.95,
+      0.75,
+      0.98
+    ],
+    "L": 0.85,
+    "J": 0.95,
+    "P": 0.75,
+    "W": 0.98
+  },
+  "Holy": {
+    "category": "divine_attributes",
+    "coordinates": [
+      0.88,
+      0.88,
+      0.48,
+      0.95
+    ],
+    "L": 0.88,
+    "J": 0.88,
+    "P": 0.48,
+    "W": 0.95
+  },
+  "Righteous": {
+    "category": "divine_attributes",
+    "coordinates": [
+      0.75,
+      0.95,
+      0.65,
+      0.9
+    ],
+    "L": 0.75,
+    "J": 0.95,
+    "P": 0.65,
+    "W": 0.9
+  },
+  "Merciful": {
+    "category": "divine_attributes",
+    "coordinates": [
+      0.95,
+      0.75,
+      0.5,
+      0.85
+    ],
+    "L": 0.95,
+    "J": 0.75,
+    "P": 0.5,
+    "W": 0.85
+  },
+  "Gracious": {
+    "category": "divine_attributes",
+    "coordinates": [
+      0.92,
+      0.7,
+      0.45,
+      0.88
+    ],
+    "L": 0.92,
+    "J": 0.7,
+    "P": 0.45,
+    "W": 0.88
+  },
+  "Faithful": {
+    "category": "divine_attributes",
+    "coordinates": [
+      0.85,
+      0.9,
+      0.6,
+      0.88
+    ],
+    "L": 0.85,
+    "J": 0.9,
+    "P": 0.6,
+    "W": 0.88
+  },
+  "Sovereign": {
+    "category": "divine_attributes",
+    "coordinates": [
+      0.75,
+      0.92,
+      0.95,
+      0.9
+    ],
+    "L": 0.75,
+    "J": 0.92,
+    "P": 0.95,
+    "W": 0.9
+  },
+  "Kingdom": {
+    "category": "kingdom",
+    "coordinates": [
+      0.75,
+      0.9,
+      0.85,
+      0.88
+    ],
+    "L": 0.75,
+    "J": 0.9,
+    "P": 0.85,
+    "W": 0.88
+  },
+  "Kingdom of God": {
+    "category": "kingdom",
+    "coordinates": [
+      0.8,
+      0.92,
+      0.88,
+      0.95
+    ],
+    "L": 0.8,
+    "J": 0.92,
+    "P": 0.88,
+    "W": 0.95
+  },
+  "Kingdom of Heaven": {
+    "category": "kingdom",
+    "coordinates": [
+      0.82,
+      0.92,
+      0.85,
+      0.96
+    ],
+    "L": 0.82,
+    "J": 0.92,
+    "P": 0.85,
+    "W": 0.96
+  },
+  "Reign": {
+    "category": "kingdom",
+    "coordinates": [
+      0.7,
+      0.88,
+      0.9,
+      0.85
+    ],
+    "L": 0.7,
+    "J": 0.88,
+    "P": 0.9,
+    "W": 0.85
+  },
+  "King": {
+    "category": "kingdom",
+    "coordinates": [
+      0.7,
+      0.88,
+      0.9,
+      0.85
+    ],
+    "L": 0.7,
+    "J": 0.88,
+    "P": 0.9,
+    "W": 0.85
+  },
+  "Throne": {
+    "category": "kingdom",
+    "coordinates": [
+      0.65,
+      0.9,
+      0.88,
+      0.82
+    ],
+    "L": 0.65,
+    "J": 0.9,
+    "P": 0.88,
+    "W": 0.82
+  },
+  "Crown": {
+    "category": "kingdom",
+    "coordinates": [
+      0.68,
+      0.85,
+      0.82,
+      0.8
+    ],
+    "L": 0.68,
+    "J": 0.85,
+    "P": 0.82,
+    "W": 0.8
+  },
+  "Authority": {
+    "category": "kingdom",
+    "coordinates": [
+      0.6,
+      0.88,
+      0.92,
+      0.85
+    ],
+    "L": 0.6,
+    "J": 0.88,
+    "P": 0.92,
+    "W": 0.85
+  },
+  "Power": {
+    "category": "kingdom",
+    "coordinates": [
+      0.55,
+      0.8,
+      0.95,
+      0.75
+    ],
+    "L": 0.55,
+    "J": 0.8,
+    "P": 0.95,
+    "W": 0.75
+  },
+  "Glory": {
+    "category": "kingdom",
+    "coordinates": [
+      0.75,
+      0.85,
+      0.8,
+      0.9
+    ],
+    "L": 0.75,
+    "J": 0.85,
+    "P": 0.8,
+    "W": 0.9
+  },
+  "Majesty": {
+    "category": "kingdom",
+    "coordinates": [
+      0.72,
+      0.88,
+      0.85,
+      0.88
+    ],
+    "L": 0.72,
+    "J": 0.88,
+    "P": 0.85,
+    "W": 0.88
+  },
+  "Gospel": {
+    "category": "gospel",
+    "coordinates": [
+      0.9,
+      0.85,
+      0.7,
+      0.95
+    ],
+    "L": 0.9,
+    "J": 0.85,
+    "P": 0.7,
+    "W": 0.95
+  },
+  "Good News": {
+    "category": "gospel",
+    "coordinates": [
+      0.92,
+      0.82,
+      0.68,
+      0.93
+    ],
+    "L": 0.92,
+    "J": 0.82,
+    "P": 0.68,
+    "W": 0.93
+  },
+  "Word": {
+    "category": "gospel",
+    "coordinates": [
+      0.75,
+      0.85,
+      0.7,
+      0.92
+    ],
+    "L": 0.75,
+    "J": 0.85,
+    "P": 0.7,
+    "W": 0.92
+  },
+  "Word of God": {
+    "category": "gospel",
+    "coordinates": [
+      0.8,
+      0.9,
+      0.75,
+      0.95
+    ],
+    "L": 0.8,
+    "J": 0.9,
+    "P": 0.75,
+    "W": 0.95
+  },
+  "Scripture": {
+    "category": "gospel",
+    "coordinates": [
+      0.75,
+      0.9,
+      0.65,
+      0.95
+    ],
+    "L": 0.75,
+    "J": 0.9,
+    "P": 0.65,
+    "W": 0.95
+  },
+  "Truth": {
+    "category": "gospel",
+    "coordinates": [
+      0.7,
+      0.98,
+      0.6,
+      0.95
+    ],
+    "L": 0.7,
+    "J": 0.98,
+    "P": 0.6,
+    "W": 0.95
+  },
+  "Revelation": {
+    "category": "gospel",
+    "coordinates": [
+      0.75,
+      0.88,
+      0.7,
+      0.98
+    ],
+    "L": 0.75,
+    "J": 0.88,
+    "P": 0.7,
+    "W": 0.98
+  },
+  "Prophecy": {
+    "category": "gospel",
+    "coordinates": [
+      0.72,
+      0.85,
+      0.68,
+      0.95
+    ],
+    "L": 0.72,
+    "J": 0.85,
+    "P": 0.68,
+    "W": 0.95
+  },
+  "Teaching": {
+    "category": "gospel",
+    "coordinates": [
+      0.7,
+      0.82,
+      0.6,
+      0.9
+    ],
+    "L": 0.7,
+    "J": 0.82,
+    "P": 0.6,
+    "W": 0.9
+  },
+  "Doctrine": {
+    "category": "gospel",
+    "coordinates": [
+      0.65,
+      0.88,
+      0.58,
+      0.92
+    ],
+    "L": 0.65,
+    "J": 0.88,
+    "P": 0.58,
+    "W": 0.92
+  },
+  "Proclamation": {
+    "category": "gospel",
+    "coordinates": [
+      0.75,
+      0.8,
+      0.75,
+      0.85
+    ],
+    "L": 0.75,
+    "J": 0.8,
+    "P": 0.75,
+    "W": 0.85
+  },
+  "Witness": {
+    "category": "gospel",
+    "coordinates": [
+      0.78,
+      0.85,
+      0.65,
+      0.88
+    ],
+    "L": 0.78,
+    "J": 0.85,
+    "P": 0.65,
+    "W": 0.88
+  },
+  "Testimony": {
+    "category": "gospel",
+    "coordinates": [
+      0.8,
+      0.88,
+      0.62,
+      0.86
+    ],
+    "L": 0.8,
+    "J": 0.88,
+    "P": 0.62,
+    "W": 0.86
+  },
+  "Faith": {
+    "category": "faith",
+    "coordinates": [
+      0.82,
+      0.75,
+      0.55,
+      0.88
+    ],
+    "L": 0.82,
+    "J": 0.75,
+    "P": 0.55,
+    "W": 0.88
+  },
+  "Believe": {
+    "category": "faith",
+    "coordinates": [
+      0.8,
+      0.73,
+      0.58,
+      0.85
+    ],
+    "L": 0.8,
+    "J": 0.73,
+    "P": 0.58,
+    "W": 0.85
+  },
+  "Trust": {
+    "category": "faith",
+    "coordinates": [
+      0.85,
+      0.78,
+      0.52,
+      0.86
+    ],
+    "L": 0.85,
+    "J": 0.78,
+    "P": 0.52,
+    "W": 0.86
+  },
+  "Hope": {
+    "category": "faith",
+    "coordinates": [
+      0.88,
+      0.7,
+      0.48,
+      0.85
+    ],
+    "L": 0.88,
+    "J": 0.7,
+    "P": 0.48,
+    "W": 0.85
+  },
+  "Confidence": {
+    "category": "faith",
+    "coordinates": [
+      0.75,
+      0.8,
+      0.65,
+      0.88
+    ],
+    "L": 0.75,
+    "J": 0.8,
+    "P": 0.65,
+    "W": 0.88
+  },
+  "Assurance": {
+    "category": "faith",
+    "coordinates": [
+      0.78,
+      0.85,
+      0.6,
+      0.9
+    ],
+    "L": 0.78,
+    "J": 0.85,
+    "P": 0.6,
+    "W": 0.9
+  },
+  "Conviction": {
+    "category": "faith",
+    "coordinates": [
+      0.72,
+      0.88,
+      0.68,
+      0.9
+    ],
+    "L": 0.72,
+    "J": 0.88,
+    "P": 0.68,
+    "W": 0.9
+  },
+  "Devotion": {
+    "category": "faith",
+    "coordinates": [
+      0.88,
+      0.82,
+      0.55,
+      0.85
+    ],
+    "L": 0.88,
+    "J": 0.82,
+    "P": 0.55,
+    "W": 0.85
+  },
+  "Commitment": {
+    "category": "faith",
+    "coordinates": [
+      0.8,
+      0.85,
+      0.7,
+      0.88
+    ],
+    "L": 0.8,
+    "J": 0.85,
+    "P": 0.7,
+    "W": 0.88
+  },
+  "Obedience": {
+    "category": "faith",
+    "coordinates": [
+      0.75,
+      0.9,
+      0.75,
+      0.88
+    ],
+    "L": 0.75,
+    "J": 0.9,
+    "P": 0.75,
+    "W": 0.88
+  },
+  "Baptism": {
+    "category": "sacraments",
+    "coordinates": [
+      0.7,
+      0.8,
+      0.6,
+      0.75
+    ],
+    "L": 0.7,
+    "J": 0.8,
+    "P": 0.6,
+    "W": 0.75
+  },
+  "Baptize": {
+    "category": "sacraments",
+    "coordinates": [
+      0.68,
+      0.78,
+      0.62,
+      0.73
+    ],
+    "L": 0.68,
+    "J": 0.78,
+    "P": 0.62,
+    "W": 0.73
+  },
+  "Water": {
+    "category": "sacraments",
+    "coordinates": [
+      0.75,
+      0.7,
+      0.45,
+      0.65
+    ],
+    "L": 0.75,
+    "J": 0.7,
+    "P": 0.45,
+    "W": 0.65
+  },
+  "Communion": {
+    "category": "sacraments",
+    "coordinates": [
+      0.88,
+      0.75,
+      0.5,
+      0.85
+    ],
+    "L": 0.88,
+    "J": 0.75,
+    "P": 0.5,
+    "W": 0.85
+  },
+  "Eucharist": {
+    "category": "sacraments",
+    "coordinates": [
+      0.9,
+      0.78,
+      0.52,
+      0.88
+    ],
+    "L": 0.9,
+    "J": 0.78,
+    "P": 0.52,
+    "W": 0.88
+  },
+  "Bread": {
+    "category": "sacraments",
+    "coordinates": [
+      0.8,
+      0.7,
+      0.55,
+      0.75
+    ],
+    "L": 0.8,
+    "J": 0.7,
+    "P": 0.55,
+    "W": 0.75
+  },
+  "Wine": {
+    "category": "sacraments",
+    "coordinates": [
+      0.75,
+      0.68,
+      0.58,
+      0.72
+    ],
+    "L": 0.75,
+    "J": 0.68,
+    "P": 0.58,
+    "W": 0.72
+  },
+  "Body": {
+    "category": "human",
+    "coordinates": [
+      0.6,
+      0.65,
+      0.75,
+      0.7
+    ],
+    "L": 0.6,
+    "J": 0.65,
+    "P": 0.75,
+    "W": 0.7
+  },
+  "Blood": {
+    "category": "sacraments",
+    "coordinates": [
+      0.65,
+      0.8,
+      0.7,
+      0.75
+    ],
+    "L": 0.65,
+    "J": 0.8,
+    "P": 0.7,
+    "W": 0.75
+  },
+  "Covenant": {
+    "category": "sacraments",
+    "coordinates": [
+      0.82,
+      0.92,
+      0.7,
+      0.9
+    ],
+    "L": 0.82,
+    "J": 0.92,
+    "P": 0.7,
+    "W": 0.9
+  },
+  "Love": {
+    "category": "love",
+    "coordinates": [
+      0.98,
+      0.5,
+      0.3,
+      0.65
+    ],
+    "L": 0.98,
+    "J": 0.5,
+    "P": 0.3,
+    "W": 0.65
+  },
+  "Agape": {
+    "category": "love",
+    "coordinates": [
+      0.98,
+      0.55,
+      0.28,
+      0.7
+    ],
+    "L": 0.98,
+    "J": 0.55,
+    "P": 0.28,
+    "W": 0.7
+  },
+  "Compassion": {
+    "category": "love",
+    "coordinates": [
+      0.95,
+      0.6,
+      0.35,
+      0.75
+    ],
+    "L": 0.95,
+    "J": 0.6,
+    "P": 0.35,
+    "W": 0.75
+  },
+  "Mercy": {
+    "category": "love",
+    "coordinates": [
+      0.95,
+      0.7,
+      0.35,
+      0.85
+    ],
+    "L": 0.95,
+    "J": 0.7,
+    "P": 0.35,
+    "W": 0.85
+  },
+  "Grace": {
+    "category": "love",
+    "coordinates": [
+      0.95,
+      0.68,
+      0.32,
+      0.88
+    ],
+    "L": 0.95,
+    "J": 0.68,
+    "P": 0.32,
+    "W": 0.88
+  },
+  "Kindness": {
+    "category": "love",
+    "coordinates": [
+      0.92,
+      0.65,
+      0.4,
+      0.75
+    ],
+    "L": 0.92,
+    "J": 0.65,
+    "P": 0.4,
+    "W": 0.75
+  },
+  "Gentleness": {
+    "category": "love",
+    "coordinates": [
+      0.9,
+      0.62,
+      0.35,
+      0.72
+    ],
+    "L": 0.9,
+    "J": 0.62,
+    "P": 0.35,
+    "W": 0.72
+  },
+  "Patience": {
+    "category": "love",
+    "coordinates": [
+      0.88,
+      0.75,
+      0.38,
+      0.85
+    ],
+    "L": 0.88,
+    "J": 0.75,
+    "P": 0.38,
+    "W": 0.85
+  },
+  "Forgiveness": {
+    "category": "love",
+    "coordinates": [
+      0.95,
+      0.78,
+      0.4,
+      0.88
+    ],
+    "L": 0.95,
+    "J": 0.78,
+    "P": 0.4,
+    "W": 0.88
+  },
+  "Reconciliation": {
+    "category": "love",
+    "coordinates": [
+      0.92,
+      0.85,
+      0.45,
+      0.9
+    ],
+    "L": 0.92,
+    "J": 0.85,
+    "P": 0.45,
+    "W": 0.9
+  },
+  "Sin": {
+    "category": "sin",
+    "coordinates": [
+      0.25,
+      0.4,
+      0.65,
+      0.35
+    ],
+    "L": 0.25,
+    "J": 0.4,
+    "P": 0.65,
+    "W": 0.35
+  },
+  "Transgression": {
+    "category": "sin",
+    "coordinates": [
+      0.28,
+      0.45,
+      0.68,
+      0.38
+    ],
+    "L": 0.28,
+    "J": 0.45,
+    "P": 0.68,
+    "W": 0.38
+  },
+  "Iniquity": {
+    "category": "sin",
+    "coordinates": [
+      0.22,
+      0.42,
+      0.7,
+      0.32
+    ],
+    "L": 0.22,
+    "J": 0.42,
+    "P": 0.7,
+    "W": 0.32
+  },
+  "Evil": {
+    "category": "sin",
+    "coordinates": [
+      0.15,
+      0.35,
+      0.8,
+      0.25
+    ],
+    "L": 0.15,
+    "J": 0.35,
+    "P": 0.8,
+    "W": 0.25
+  },
+  "Wickedness": {
+    "category": "sin",
+    "coordinates": [
+      0.18,
+      0.38,
+      0.82,
+      0.28
+    ],
+    "L": 0.18,
+    "J": 0.38,
+    "P": 0.82,
+    "W": 0.28
+  },
+  "Repentance": {
+    "category": "sin",
+    "coordinates": [
+      0.75,
+      0.88,
+      0.5,
+      0.85
+    ],
+    "L": 0.75,
+    "J": 0.88,
+    "P": 0.5,
+    "W": 0.85
+  },
+  "Repent": {
+    "category": "sin",
+    "coordinates": [
+      0.73,
+      0.86,
+      0.52,
+      0.83
+    ],
+    "L": 0.73,
+    "J": 0.86,
+    "P": 0.52,
+    "W": 0.83
+  },
+  "Confession": {
+    "category": "sin",
+    "coordinates": [
+      0.7,
+      0.85,
+      0.48,
+      0.8
+    ],
+    "L": 0.7,
+    "J": 0.85,
+    "P": 0.48,
+    "W": 0.8
+  },
+  "Contrition": {
+    "category": "sin",
+    "coordinates": [
+      0.78,
+      0.82,
+      0.45,
+      0.82
+    ],
+    "L": 0.78,
+    "J": 0.82,
+    "P": 0.45,
+    "W": 0.82
+  },
+  "Remorse": {
+    "category": "sin",
+    "coordinates": [
+      0.72,
+      0.75,
+      0.42,
+      0.7
+    ],
+    "L": 0.72,
+    "J": 0.75,
+    "P": 0.42,
+    "W": 0.7
+  },
+  "Salvation": {
+    "category": "salvation",
+    "coordinates": [
+      0.88,
+      0.85,
+      0.7,
+      0.92
+    ],
+    "L": 0.88,
+    "J": 0.85,
+    "P": 0.7,
+    "W": 0.92
+  },
+  "Redemption": {
+    "category": "salvation",
+    "coordinates": [
+      0.9,
+      0.88,
+      0.72,
+      0.95
+    ],
+    "L": 0.9,
+    "J": 0.88,
+    "P": 0.72,
+    "W": 0.95
+  },
+  "Ransom": {
+    "category": "salvation",
+    "coordinates": [
+      0.85,
+      0.9,
+      0.75,
+      0.9
+    ],
+    "L": 0.85,
+    "J": 0.9,
+    "P": 0.75,
+    "W": 0.9
+  },
+  "Atonement": {
+    "category": "salvation",
+    "coordinates": [
+      0.88,
+      0.92,
+      0.68,
+      0.93
+    ],
+    "L": 0.88,
+    "J": 0.92,
+    "P": 0.68,
+    "W": 0.93
+  },
+  "Sacrifice": {
+    "category": "salvation",
+    "coordinates": [
+      0.82,
+      0.88,
+      0.7,
+      0.88
+    ],
+    "L": 0.82,
+    "J": 0.88,
+    "P": 0.7,
+    "W": 0.88
+  },
+  "Justification": {
+    "category": "salvation",
+    "coordinates": [
+      0.75,
+      0.95,
+      0.6,
+      0.92
+    ],
+    "L": 0.75,
+    "J": 0.95,
+    "P": 0.6,
+    "W": 0.92
+  },
+  "Sanctification": {
+    "category": "salvation",
+    "coordinates": [
+      0.85,
+      0.9,
+      0.55,
+      0.95
+    ],
+    "L": 0.85,
+    "J": 0.9,
+    "P": 0.55,
+    "W": 0.95
+  },
+  "Regeneration": {
+    "category": "salvation",
+    "coordinates": [
+      0.88,
+      0.85,
+      0.65,
+      0.92
+    ],
+    "L": 0.88,
+    "J": 0.85,
+    "P": 0.65,
+    "W": 0.92
+  },
+  "Renewal": {
+    "category": "salvation",
+    "coordinates": [
+      0.85,
+      0.8,
+      0.62,
+      0.88
+    ],
+    "L": 0.85,
+    "J": 0.8,
+    "P": 0.62,
+    "W": 0.88
+  },
+  "Restoration": {
+    "category": "salvation",
+    "coordinates": [
+      0.88,
+      0.85,
+      0.68,
+      0.9
+    ],
+    "L": 0.88,
+    "J": 0.85,
+    "P": 0.68,
+    "W": 0.9
+  },
+  "Worship": {
+    "category": "worship",
+    "coordinates": [
+      0.9,
+      0.8,
+      0.5,
+      0.88
+    ],
+    "L": 0.9,
+    "J": 0.8,
+    "P": 0.5,
+    "W": 0.88
+  },
+  "Praise": {
+    "category": "worship",
+    "coordinates": [
+      0.92,
+      0.75,
+      0.55,
+      0.85
+    ],
+    "L": 0.92,
+    "J": 0.75,
+    "P": 0.55,
+    "W": 0.85
+  },
+  "Adoration": {
+    "category": "worship",
+    "coordinates": [
+      0.95,
+      0.78,
+      0.48,
+      0.88
+    ],
+    "L": 0.95,
+    "J": 0.78,
+    "P": 0.48,
+    "W": 0.88
+  },
+  "Prayer": {
+    "category": "worship",
+    "coordinates": [
+      0.88,
+      0.75,
+      0.45,
+      0.9
+    ],
+    "L": 0.88,
+    "J": 0.75,
+    "P": 0.45,
+    "W": 0.9
+  },
+  "Intercession": {
+    "category": "worship",
+    "coordinates": [
+      0.9,
+      0.8,
+      0.52,
+      0.88
+    ],
+    "L": 0.9,
+    "J": 0.8,
+    "P": 0.52,
+    "W": 0.88
+  },
+  "Supplication": {
+    "category": "worship",
+    "coordinates": [
+      0.85,
+      0.78,
+      0.55,
+      0.85
+    ],
+    "L": 0.85,
+    "J": 0.78,
+    "P": 0.55,
+    "W": 0.85
+  },
+  "Thanksgiving": {
+    "category": "worship",
+    "coordinates": [
+      0.92,
+      0.72,
+      0.48,
+      0.82
+    ],
+    "L": 0.92,
+    "J": 0.72,
+    "P": 0.48,
+    "W": 0.82
+  },
+  "Blessing": {
+    "category": "worship",
+    "coordinates": [
+      0.93,
+      0.75,
+      0.5,
+      0.85
+    ],
+    "L": 0.93,
+    "J": 0.75,
+    "P": 0.5,
+    "W": 0.85
+  },
+  "Consecration": {
+    "category": "worship",
+    "coordinates": [
+      0.85,
+      0.88,
+      0.55,
+      0.92
+    ],
+    "L": 0.85,
+    "J": 0.88,
+    "P": 0.55,
+    "W": 0.92
+  },
+  "Dedication": {
+    "category": "worship",
+    "coordinates": [
+      0.88,
+      0.85,
+      0.6,
+      0.9
+    ],
+    "L": 0.88,
+    "J": 0.85,
+    "P": 0.6,
+    "W": 0.9
+  },
+  "Judgment": {
+    "category": "judgment",
+    "coordinates": [
+      0.5,
+      0.95,
+      0.8,
+      0.92
+    ],
+    "L": 0.5,
+    "J": 0.95,
+    "P": 0.8,
+    "W": 0.92
+  },
+  "Justice": {
+    "category": "judgment",
+    "coordinates": [
+      0.6,
+      0.98,
+      0.75,
+      0.95
+    ],
+    "L": 0.6,
+    "J": 0.98,
+    "P": 0.75,
+    "W": 0.95
+  },
+  "Righteousness": {
+    "category": "judgment",
+    "coordinates": [
+      0.7,
+      0.95,
+      0.65,
+      0.92
+    ],
+    "L": 0.7,
+    "J": 0.95,
+    "P": 0.65,
+    "W": 0.92
+  },
+  "Law": {
+    "category": "judgment",
+    "coordinates": [
+      0.55,
+      0.95,
+      0.7,
+      0.9
+    ],
+    "L": 0.55,
+    "J": 0.95,
+    "P": 0.7,
+    "W": 0.9
+  },
+  "Commandment": {
+    "category": "judgment",
+    "coordinates": [
+      0.6,
+      0.92,
+      0.75,
+      0.88
+    ],
+    "L": 0.6,
+    "J": 0.92,
+    "P": 0.75,
+    "W": 0.88
+  },
+  "Decree": {
+    "category": "judgment",
+    "coordinates": [
+      0.55,
+      0.9,
+      0.78,
+      0.85
+    ],
+    "L": 0.55,
+    "J": 0.9,
+    "P": 0.78,
+    "W": 0.85
+  },
+  "Statute": {
+    "category": "judgment",
+    "coordinates": [
+      0.58,
+      0.92,
+      0.72,
+      0.88
+    ],
+    "L": 0.58,
+    "J": 0.92,
+    "P": 0.72,
+    "W": 0.88
+  },
+  "Ordinance": {
+    "category": "judgment",
+    "coordinates": [
+      0.6,
+      0.9,
+      0.7,
+      0.86
+    ],
+    "L": 0.6,
+    "J": 0.9,
+    "P": 0.7,
+    "W": 0.86
+  },
+  "Condemnation": {
+    "category": "judgment",
+    "coordinates": [
+      0.3,
+      0.88,
+      0.85,
+      0.8
+    ],
+    "L": 0.3,
+    "J": 0.88,
+    "P": 0.85,
+    "W": 0.8
+  },
+  "Punishment": {
+    "category": "judgment",
+    "coordinates": [
+      0.35,
+      0.85,
+      0.88,
+      0.75
+    ],
+    "L": 0.35,
+    "J": 0.85,
+    "P": 0.88,
+    "W": 0.75
+  },
+  "Creation": {
+    "category": "creation",
+    "coordinates": [
+      0.8,
+      0.85,
+      0.88,
+      0.95
+    ],
+    "L": 0.8,
+    "J": 0.85,
+    "P": 0.88,
+    "W": 0.95
+  },
+  "Heaven": {
+    "category": "creation",
+    "coordinates": [
+      0.85,
+      0.88,
+      0.75,
+      0.95
+    ],
+    "L": 0.85,
+    "J": 0.88,
+    "P": 0.75,
+    "W": 0.95
+  },
+  "Earth": {
+    "category": "creation",
+    "coordinates": [
+      0.7,
+      0.75,
+      0.8,
+      0.85
+    ],
+    "L": 0.7,
+    "J": 0.75,
+    "P": 0.8,
+    "W": 0.85
+  },
+  "Light": {
+    "category": "creation",
+    "coordinates": [
+      0.8,
+      0.85,
+      0.7,
+      0.92
+    ],
+    "L": 0.8,
+    "J": 0.85,
+    "P": 0.7,
+    "W": 0.92
+  },
+  "Darkness": {
+    "category": "creation",
+    "coordinates": [
+      0.35,
+      0.5,
+      0.65,
+      0.55
+    ],
+    "L": 0.35,
+    "J": 0.5,
+    "P": 0.65,
+    "W": 0.55
+  },
+  "Life": {
+    "category": "creation",
+    "coordinates": [
+      0.9,
+      0.75,
+      0.8,
+      0.88
+    ],
+    "L": 0.9,
+    "J": 0.75,
+    "P": 0.8,
+    "W": 0.88
+  },
+  "Death": {
+    "category": "creation",
+    "coordinates": [
+      0.3,
+      0.7,
+      0.85,
+      0.75
+    ],
+    "L": 0.3,
+    "J": 0.7,
+    "P": 0.85,
+    "W": 0.75
+  },
+  "Resurrection": {
+    "category": "creation",
+    "coordinates": [
+      0.88,
+      0.9,
+      0.85,
+      0.95
+    ],
+    "L": 0.88,
+    "J": 0.9,
+    "P": 0.85,
+    "W": 0.95
+  },
+  "Eternal Life": {
+    "category": "creation",
+    "coordinates": [
+      0.92,
+      0.88,
+      0.75,
+      0.98
+    ],
+    "L": 0.92,
+    "J": 0.88,
+    "P": 0.75,
+    "W": 0.98
+  },
+  "Paradise": {
+    "category": "creation",
+    "coordinates": [
+      0.95,
+      0.85,
+      0.7,
+      0.92
+    ],
+    "L": 0.95,
+    "J": 0.85,
+    "P": 0.7,
+    "W": 0.92
+  },
+  "Man": {
+    "category": "human",
+    "coordinates": [
+      0.6,
+      0.65,
+      0.7,
+      0.75
+    ],
+    "L": 0.6,
+    "J": 0.65,
+    "P": 0.7,
+    "W": 0.75
+  },
+  "Woman": {
+    "category": "human",
+    "coordinates": [
+      0.65,
+      0.65,
+      0.68,
+      0.75
+    ],
+    "L": 0.65,
+    "J": 0.65,
+    "P": 0.68,
+    "W": 0.75
+  },
+  "Soul": {
+    "category": "human",
+    "coordinates": [
+      0.75,
+      0.7,
+      0.55,
+      0.88
+    ],
+    "L": 0.75,
+    "J": 0.7,
+    "P": 0.55,
+    "W": 0.88
+  },
+  "Spirit": {
+    "category": "human",
+    "coordinates": [
+      0.8,
+      0.68,
+      0.52,
+      0.9
+    ],
+    "L": 0.8,
+    "J": 0.68,
+    "P": 0.52,
+    "W": 0.9
+  },
+  "Heart": {
+    "category": "human",
+    "coordinates": [
+      0.88,
+      0.65,
+      0.5,
+      0.8
+    ],
+    "L": 0.88,
+    "J": 0.65,
+    "P": 0.5,
+    "W": 0.8
+  },
+  "Mind": {
+    "category": "human",
+    "coordinates": [
+      0.65,
+      0.75,
+      0.55,
+      0.92
+    ],
+    "L": 0.65,
+    "J": 0.75,
+    "P": 0.55,
+    "W": 0.92
+  },
+  "Flesh": {
+    "category": "human",
+    "coordinates": [
+      0.45,
+      0.55,
+      0.75,
+      0.6
+    ],
+    "L": 0.45,
+    "J": 0.55,
+    "P": 0.75,
+    "W": 0.6
+  },
+  "Servant": {
+    "category": "human",
+    "coordinates": [
+      0.8,
+      0.82,
+      0.65,
+      0.85
+    ],
+    "L": 0.8,
+    "J": 0.82,
+    "P": 0.65,
+    "W": 0.85
+  },
+  "Disciple": {
+    "category": "human",
+    "coordinates": [
+      0.82,
+      0.85,
+      0.68,
+      0.9
+    ],
+    "L": 0.82,
+    "J": 0.85,
+    "P": 0.68,
+    "W": 0.9
+  },
+  "Second Coming": {
+    "category": "eschatology",
+    "coordinates": [
+      0.8,
+      0.9,
+      0.88,
+      0.95
+    ],
+    "L": 0.8,
+    "J": 0.9,
+    "P": 0.88,
+    "W": 0.95
+  },
+  "Return": {
+    "category": "eschatology",
+    "coordinates": [
+      0.75,
+      0.85,
+      0.82,
+      0.9
+    ],
+    "L": 0.75,
+    "J": 0.85,
+    "P": 0.82,
+    "W": 0.9
+  },
+  "Parousia": {
+    "category": "eschatology",
+    "coordinates": [
+      0.78,
+      0.88,
+      0.85,
+      0.93
+    ],
+    "L": 0.78,
+    "J": 0.88,
+    "P": 0.85,
+    "W": 0.93
+  },
+  "Tribulation": {
+    "category": "eschatology",
+    "coordinates": [
+      0.4,
+      0.75,
+      0.8,
+      0.75
+    ],
+    "L": 0.4,
+    "J": 0.75,
+    "P": 0.8,
+    "W": 0.75
+  },
+  "Rapture": {
+    "category": "eschatology",
+    "coordinates": [
+      0.85,
+      0.82,
+      0.78,
+      0.9
+    ],
+    "L": 0.85,
+    "J": 0.82,
+    "P": 0.78,
+    "W": 0.9
+  },
+  "Millennium": {
+    "category": "eschatology",
+    "coordinates": [
+      0.8,
+      0.88,
+      0.85,
+      0.92
+    ],
+    "L": 0.8,
+    "J": 0.88,
+    "P": 0.85,
+    "W": 0.92
+  },
+  "New Heaven": {
+    "category": "eschatology",
+    "coordinates": [
+      0.92,
+      0.9,
+      0.8,
+      0.98
+    ],
+    "L": 0.92,
+    "J": 0.9,
+    "P": 0.8,
+    "W": 0.98
+  },
+  "New Earth": {
+    "category": "eschatology",
+    "coordinates": [
+      0.9,
+      0.88,
+      0.82,
+      0.96
+    ],
+    "L": 0.9,
+    "J": 0.88,
+    "P": 0.82,
+    "W": 0.96
+  },
+  "Everlasting": {
+    "category": "eschatology",
+    "coordinates": [
+      0.88,
+      0.92,
+      0.78,
+      0.96
+    ],
+    "L": 0.88,
+    "J": 0.92,
+    "P": 0.78,
+    "W": 0.96
+  }
+}

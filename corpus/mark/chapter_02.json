@@ -1,0 +1,207 @@
+{
+  "book": "Mark",
+  "chapter": 2,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 28,
+  "verses": {
+    "1": "When he entered again into Capernaum after some days, it was heard that he was in the house.",
+    "2": "Immediately many were gathered together, so that there was no more room, not even around the door; and he spoke the word to them.",
+    "3": "Four people came, carrying a paralytic to him.",
+    "4": "When they could not come near to him for the crowd, they removed the roof where he was. When they had broken it up, they let down the mat that the paralytic was lying on.",
+    "5": "Jesus, seeing their faith, said to the paralytic, “Son, your sins are forgiven you.”",
+    "6": "But there were some of the scribes sitting there, and reasoning in their hearts,",
+    "7": "“Why does this man speak blasphemies like that? Who can forgive sins but God alone?”",
+    "8": "Immediately Jesus, perceiving in his spirit that they so reasoned within themselves, said to them, “Why do you reason these things in your hearts?",
+    "9": "Which is easier, to tell the paralytic, ‘Your sins are forgiven;’ or to say, ‘Arise, and take up your bed, and walk?’",
+    "10": "But that you may know that the Son of Man has authority on earth to forgive sins”—he said to the paralytic—",
+    "11": "“I tell you, arise, take up your mat, and go to your house.”",
+    "12": "He arose, and immediately took up the mat, and went out in front of them all; so that they were all amazed, and glorified God, saying, “We never saw anything like this!”",
+    "13": "He went out again by the seaside. All the multitude came to him, and he taught them.",
+    "14": "As he passed by, he saw Levi, the son of Alphaeus, sitting at the tax office, and he said to him, “Follow me.” And he arose and followed him.",
+    "15": "He was reclining at the table in his house, and many tax collectors and sinners sat down with Jesus and his disciples, for there were many, and they followed him.",
+    "16": "The scribes and the Pharisees, when they saw that he was eating with the sinners and tax collectors, said to his disciples, “Why is it that he eats and drinks with tax collectors and sinners?”",
+    "17": "When Jesus heard it, he said to them, “Those who are healthy have no need for a physician, but those who are sick. I came not to call the righteous, but sinners to repentance.”",
+    "18": "John’s disciples and the Pharisees were fasting, and they came and asked him, “Why do John’s disciples and the disciples of the Pharisees fast, but your disciples don’t fast?”",
+    "19": "Jesus said to them, “Can the groomsmen fast while the bridegroom is with them? As long as they have the bridegroom with them, they can’t fast.",
+    "20": "But the days will come when the bridegroom will be taken away from them, and then they will fast in that day.",
+    "21": "No one sews a piece of unshrunk cloth on an old garment, or else the patch shrinks and the new tears away from the old, and a worse hole is made.",
+    "22": "No one puts new wine into old wineskins, or else the new wine will burst the skins, and the wine pours out, and the skins will be destroyed; but they put new wine into fresh wineskins.”",
+    "23": "He was going on the Sabbath day through the grain fields, and his disciples began, as they went, to pluck the ears of grain.",
+    "24": "The Pharisees said to him, “Behold, why do they do that which is not lawful on the Sabbath day?”",
+    "25": "He said to them, “Did you never read what David did, when he had need, and was hungry—he, and those who were with him?",
+    "26": "How he entered into God’s house at the time of Abiathar the high priest, and ate the show bread, which is not lawful to eat except for the priests, and gave also to those who were with him?”",
+    "27": "He said to them, “The Sabbath was made for man, not man for the Sabbath.",
+    "28": "Therefore the Son of Man is lord even of the Sabbath.”"
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.5328767123287671,
+      0.5,
+      0.47534246575342465,
+      0.5714285714285714
+    ],
+    "2": [
+      0.5637254901960785,
+      0.5,
+      0.4602941176470588,
+      0.5107843137254903
+    ],
+    "3": [
+      0.5121621621621621,
+      0.5,
+      0.5,
+      0.5121621621621621
+    ],
+    "4": [
+      0.5316017316017316,
+      0.5,
+      0.47629870129870133,
+      0.5714285714285714
+    ],
+    "5": [
+      0.6841477272727272,
+      0.6393939393939393,
+      0.48734374999999996,
+      0.6951515151515151
+    ],
+    "6": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "7": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7661800486618005
+    ],
+    "8": [
+      0.6889775833788956,
+      0.6473118279569893,
+      0.4908474576271187,
+      0.7352688172043012
+    ],
+    "9": [
+      0.4318567774936061,
+      0.41565217391304343,
+      0.487846547314578,
+      0.5391304347826087
+    ],
+    "10": [
+      0.51226826608506,
+      0.7213740458015268,
+      0.8007224645583424,
+      0.6770992366412214
+    ],
+    "11": [
+      0.5595238095238095,
+      0.5,
+      0.45535714285714285,
+      0.5
+    ],
+    "12": [
+      0.607418310273771,
+      0.5548523206751056,
+      0.47416838386811894,
+      0.583946619566284
+    ],
+    "13": [
+      0.5553846153846154,
+      0.5,
+      0.4584615384615385,
+      0.5
+    ],
+    "14": [
+      0.5528846153846154,
+      0.5,
+      0.46033653846153844,
+      0.5
+    ],
+    "15": [
+      0.6794275491949909,
+      0.6474358974358974,
+      0.5,
+      0.7089147286821704
+    ],
+    "16": [
+      0.4,
+      0.4,
+      0.5,
+      0.5463917525773196
+    ],
+    "17": [
+      0.5096274315858885,
+      0.8643916913946588,
+      0.6294263105835806,
+      0.75
+    ],
+    "18": [
+      0.5,
+      0.5,
+      0.5,
+      0.6
+    ],
+    "19": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6630584192439863
+    ],
+    "20": [
+      0.5616279069767443,
+      0.5,
+      0.46162790697674416,
+      0.5104651162790698
+    ],
+    "21": [
+      0.5116071428571429,
+      0.5,
+      0.5,
+      0.5116071428571429
+    ],
+    "22": [
+      0.5104166666666667,
+      0.5,
+      0.5,
+      0.5104166666666667
+    ],
+    "23": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "24": [
+      0.5180107206670637,
+      0.6124637681159419,
+      0.5286658725431805,
+      0.6094202898550725
+    ],
+    "25": [
+      0.5344155844155845,
+      0.5,
+      0.47418831168831166,
+      0.5714285714285714
+    ],
+    "26": [
+      0.6897300855826202,
+      0.6473118279569893,
+      0.49028308097432527,
+      0.7352688172043012
+    ],
+    "27": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "28": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ]
+  }
+}

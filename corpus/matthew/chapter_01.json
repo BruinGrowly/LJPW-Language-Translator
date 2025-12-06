@@ -1,0 +1,186 @@
+{
+  "book": "Matthew",
+  "chapter": 1,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 25,
+  "verses": {
+    "1": "The book of the genealogy of Jesus Christ, the son of David, the son of Abraham.",
+    "2": "Abraham became the father of Isaac. Isaac became the father of Jacob. Jacob became the father of Judah and his brothers.",
+    "3": "Judah became the father of Perez and Zerah by Tamar. Perez became the father of Hezron. Hezron became the father of Ram.",
+    "4": "Ram became the father of Amminadab. Amminadab became the father of Nahshon. Nahshon became the father of Salmon.",
+    "5": "Salmon became the father of Boaz by Rahab. Boaz became the father of Obed by Ruth. Obed became the father of Jesse.",
+    "6": "Jesse became the father of King David. David became the father of Solomon by her who had been Uriah’s wife.",
+    "7": "Solomon became the father of Rehoboam. Rehoboam became the father of Abijah. Abijah became the father of Asa.",
+    "8": "Asa became the father of Jehoshaphat. Jehoshaphat became the father of Joram. Joram became the father of Uzziah.",
+    "9": "Uzziah became the father of Jotham. Jotham became the father of Ahaz. Ahaz became the father of Hezekiah.",
+    "10": "Hezekiah became the father of Manasseh. Manasseh became the father of Amon. Amon became the father of Josiah.",
+    "11": "Josiah became the father of Jechoniah and his brothers, at the time of the exile to Babylon.",
+    "12": "After the exile to Babylon, Jechoniah became the father of Shealtiel. Shealtiel became the father of Zerubbabel.",
+    "13": "Zerubbabel became the father of Abiud. Abiud became the father of Eliakim. Eliakim became the father of Azor.",
+    "14": "Azor became the father of Zadok. Zadok became the father of Achim. Achim became the father of Eliud.",
+    "15": "Eliud became the father of Eleazar. Eleazar became the father of Matthan. Matthan became the father of Jacob.",
+    "16": "Jacob became the father of Joseph, the husband of Mary, from whom was born Jesus, who is called Christ.",
+    "17": "So all the generations from Abraham to David are fourteen generations; from David to the exile to Babylon fourteen generations; and from the carrying away to Babylon to the Christ, fourteen generations.",
+    "18": "Now the birth of Jesus Christ was like this: After his mother, Mary, was engaged to Joseph, before they came together, she was found pregnant by the Holy Spirit.",
+    "19": "Joseph, her husband, being a righteous man, and not willing to make her a public example, intended to put her away secretly.",
+    "20": "But when he thought about these things, behold, an angel of the Lord appeared to him in a dream, saying, “Joseph, son of David, don’t be afraid to take to yourself Mary, your wife, for that which is conceived in her is of the Holy Spirit.",
+    "21": "She shall give birth to a son. You shall name him Jesus, for it is he who shall save his people from their sins.”",
+    "22": "Now all this has happened that it might be fulfilled which was spoken by the Lord through the prophet, saying,",
+    "23": "“Behold, the virgin shall be with child, and shall give birth to a son. They shall call his name Immanuel;” which is, being interpreted, “God with us.”",
+    "24": "Joseph arose from his sleep, and did as the angel of the Lord commanded him, and took his wife to himself;",
+    "25": "and didn’t know her sexually until she had given birth to her firstborn son. He named him Jesus."
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7333333333333333
+    ],
+    "2": [
+      0.5515463917525774,
+      0.5,
+      0.461340206185567,
+      0.5
+    ],
+    "3": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "4": [
+      0.5114130434782609,
+      0.5,
+      0.5,
+      0.5114130434782609
+    ],
+    "5": [
+      0.5505494505494506,
+      0.5,
+      0.46208791208791206,
+      0.5
+    ],
+    "6": [
+      0.5272268907563025,
+      0.5619047619047619,
+      0.5662464985994398,
+      0.5495238095238095
+    ],
+    "7": [
+      0.5561797752808989,
+      0.5,
+      0.45786516853932585,
+      0.5
+    ],
+    "8": [
+      0.5554347826086957,
+      0.5,
+      0.45842391304347824,
+      0.5
+    ],
+    "9": [
+      0.5576470588235294,
+      0.5,
+      0.45676470588235296,
+      0.5
+    ],
+    "10": [
+      0.5550561797752809,
+      0.5,
+      0.45870786516853934,
+      0.5
+    ],
+    "11": [
+      0.5540540540540541,
+      0.5,
+      0.45945945945945943,
+      0.5
+    ],
+    "12": [
+      0.5526881720430108,
+      0.5,
+      0.4604838709677419,
+      0.5
+    ],
+    "13": [
+      0.5528089887640449,
+      0.5,
+      0.46039325842696627,
+      0.5
+    ],
+    "14": [
+      0.5525,
+      0.5,
+      0.460625,
+      0.5
+    ],
+    "15": [
+      0.551685393258427,
+      0.5,
+      0.46123595505617976,
+      0.5
+    ],
+    "16": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7333333333333333
+    ],
+    "17": [
+      0.58562874251497,
+      0.5677083333333334,
+      0.5,
+      0.5991704091816368
+    ],
+    "18": [
+      0.8857142857142857,
+      0.8357142857142856,
+      0.5857142857142856,
+      0.9142857142857141
+    ],
+    "19": [
+      0.5024725274725275,
+      0.7358974358974358,
+      0.5884615384615385,
+      0.6499084249084248
+    ],
+    "20": [
+      0.8662818832543604,
+      0.8126146788990827,
+      0.5744858352656518,
+      0.8857798165137615
+    ],
+    "21": [
+      0.6840169133192388,
+      0.6393939393939393,
+      0.4874418604651163,
+      0.6951515151515151
+    ],
+    "22": [
+      0.6672727272727271,
+      0.6457371467483827,
+      0.5084576098059244,
+      0.6951515151515151
+    ],
+    "23": [
+      0.5853618421052631,
+      0.5677083333333334,
+      0.5,
+      0.5989035087719299
+    ],
+    "24": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "25": [
+      0.679655870445344,
+      0.6474358974358974,
+      0.5,
+      0.7091430499325235
+    ]
+  }
+}

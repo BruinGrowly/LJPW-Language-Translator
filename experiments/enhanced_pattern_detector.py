@@ -1,14 +1,18 @@
 """
 Enhanced Pattern Detection for Pure Meaning Translation
 Refines semantic field signature detection with advanced linguistic analysis.
+Phase 2: Integrated with Context and Multi-Layer Combination.
 """
 
-import json
 import numpy as np
 import re
-from collections import Counter, defaultdict
+from typing import Dict, List, Optional, Any, Set
 
-# Natural Equilibrium
+# Import Phase 2 modules
+from context_integrator import ContextIntegrator
+from multi_layer_combiner import MultiLayerCombiner
+
+# Natural Equilibrium Constants
 PHI_INV = 1 / ((1 + np.sqrt(5)) / 2)
 SQRT2_M1 = np.sqrt(2) - 1
 E_M2 = np.e - 2
@@ -20,44 +24,49 @@ class EnhancedPatternDetector:
     """Advanced pattern detection for semantic field signatures."""
     
     def __init__(self):
+        # Phase 2: Initialize context and combination modules
+        self.context_integrator = ContextIntegrator()
+        self.multi_layer_combiner = MultiLayerCombiner()
+        
         # Phonetic feature mappings
-        self.soft_phonemes = set('aeiouywh')
-        self.harsh_phonemes = set('kgtdpb')
-        self.liquid_phonemes = set('lrmn')
-        self.fricative_phonemes = set('fvszsh')
+        # Phonetic feature mappings
+        self.soft_phonemes: Set[str] = set('aeiouywh')
+        self.harsh_phonemes: Set[str] = set('kgtdpb')
+        self.liquid_phonemes: Set[str] = set('lrmn')
+        self.fricative_phonemes: Set[str] = set('fvszsh')
         
         # Semantic markers (language-agnostic patterns)
-        self.divine_markers = {
+        self.divine_markers: Set[str] = {
             'god', 'yesu', 'jesus', 'christ', 'keriso', 'lord', 'taumi',
             'holy', 'sacred', 'divine', 'spirit', 'aruwa', 'vivivire'
         }
         
-        self.power_markers = {
+        self.power_markers: Set[str] = {
             'king', 'kingdom', 'vibadana', 'rule', 'reign', 'authority',
             'power', 'force', 'strength', 'might'
         }
         
-        self.wisdom_markers = {
+        self.wisdom_markers: Set[str] = {
             'teach', 'learn', 'know', 'understand', 'wise', 'wisdom',
             'truth', 'knowledge', 'haraman'
         }
         
-        self.love_markers = {
+        self.love_markers: Set[str] = {
             'love', 'compassion', 'mercy', 'grace', 'kindness',
             'gentle', 'tender', 'care', 'nuwabo'
         }
         
-        self.justice_markers = {
+        self.justice_markers: Set[str] = {
             'just', 'justice', 'right', 'law', 'order', 'fair',
             'raugagayo', 'righteous'
         }
         
-        self.negative_markers = {
+        self.negative_markers: Set[str] = {
             'sin', 'wrong', 'evil', 'bad', 'apoapoe', 'ghoha',
             'error', 'fault', 'transgression'
         }
     
-    def analyze_phonetic_profile(self, text):
+    def analyze_phonetic_profile(self, text: str) -> Dict[str, Any]:
         """Analyze phonetic characteristics of text."""
         text_lower = text.lower()
         total_chars = len([c for c in text_lower if c.isalpha()])
@@ -83,7 +92,7 @@ class EnhancedPatternDetector:
             ], key=lambda x: x[1])[0]
         }
     
-    def analyze_morphological_structure(self, text):
+    def analyze_morphological_structure(self, text: str) -> Dict[str, Any]:
         """Analyze word structure and morphology."""
         words = text.split()
         
@@ -116,7 +125,7 @@ class EnhancedPatternDetector:
             'complexity': 'high' if avg_word_length > 8 else 'moderate' if avg_word_length > 5 else 'low'
         }
     
-    def detect_semantic_markers(self, text, context=None):
+    def detect_semantic_markers(self, text: str, context: Optional[str] = None) -> Dict[str, Any]:
         """Detect semantic category markers."""
         text_lower = text.lower()
         context_lower = context.lower() if context else ""
@@ -142,7 +151,7 @@ class EnhancedPatternDetector:
         
         return {'markers': markers_found, 'dominant': None, 'confidence': 0.0}
     
-    def calculate_field_signature(self, text, context=None):
+    def calculate_field_signature(self, text: str, context: Optional[str] = None) -> Dict[str, Any]:
         """Calculate enhanced semantic field signature."""
         # Initialize signature
         signature = {
@@ -239,6 +248,15 @@ class EnhancedPatternDetector:
                 signature['confidence'] += 0.4
                 signature['evidence'].append(f"Negative markers (strength: {marker_strength:.2f})")
         
+        # Check for Synergy (Divine + Power -> Kingdom/Glory -> High W)
+        if markers['markers']['divine'] > 0 and markers['markers']['power'] > 0:
+            signature['W'] += 0.20
+            signature['J'] += 0.10   # Boost Justice (Rule/Law)
+            signature['L'] += 0.10   # Boost Love (Benevolence)
+            signature['P'] -= 0.05   # Reduce Power (Authority > Force) - Tuned for Unison w/ Love
+            signature['confidence'] += 0.2
+            signature['evidence'].append("Synergy: Divine + Power -> Kingly Authority")
+        
         # Normalize to [0, 1]
         signature['L'] = np.clip(signature['L'], 0, 1)
         signature['J'] = np.clip(signature['J'], 0, 1)
@@ -267,75 +285,175 @@ class EnhancedPatternDetector:
         elif cw < -0.2:
             emergent.append('Hard')
         
-        if lp > 0.2:
-            emergent.append('Passionate')
-        elif lp < -0.2:
-            emergent.append('Measured')
-        
         signature['emergent_dimension'] = ', '.join(emergent) if emergent else 'Balanced'
         
+        # Normalize confidence
+        signature['confidence'] = np.clip(signature['confidence'], 0, 1)
+        
         return signature
-
-
-def test_enhanced_detector():
-    """Test the enhanced pattern detector."""
-    print("="*70)
-    print("ENHANCED PATTERN DETECTION TEST")
-    print("="*70)
     
-    detector = EnhancedPatternDetector()
-    
-    test_cases = [
-        {
-            'text': 'Tuyeghana Ahiahina',
-            'context': 'Good news/Gospel',
-            'expected': 'Divine message, soft, high wisdom'
-        },
-        {
-            'text': 'Aruwa Vivivireinei',
-            'context': 'Holy Spirit',
-            'expected': 'Divine, spiritual, very high L+W, low P'
-        },
-        {
-            'text': 'vibadana vouna',
-            'context': 'Kingdom',
-            'expected': 'Power, justice, governance'
-        },
-        {
-            'text': 'apoapoe',
-            'context': 'sin/wrong',
-            'expected': 'Low L+J, negative'
-        },
-        {
-            'text': 'God God Taumi',
-            'context': 'Lord God',
-            'expected': 'Divine, reduplication emphasis'
+    def calculate_field_signature_v2(self, text: str, context: Optional[str] = None) -> Dict[str, Any]:
+        """
+        Calculate enhanced semantic field signature with Phase 2 improvements.
+        Uses context integration and multi-layer combination.
+        """
+        # Step 1: Analyze phrase structure and context
+        phrase_analysis = self.context_integrator.analyze_phrase_structure(text)
+        flow_analysis = self.context_integrator.calculate_semantic_flow(text)
+        
+        # Step 2: Get base signatures from each layer
+        # Phonetic layer
+        phonetic = self.analyze_phonetic_profile(text)
+        phonetic_sig = {'L': 0.5, 'J': 0.5, 'P': 0.5, 'W': 0.5}
+        phonetic_conf = 0.0
+        
+        if phonetic:
+            if phonetic['soft_ratio'] > 0.5:
+                phonetic_sig['L'] += 0.20 * phonetic['soft_ratio']
+                phonetic_sig['P'] -= 0.15 * phonetic['soft_ratio']
+                phonetic_conf += 0.3
+            if phonetic['harsh_ratio'] > 0.25:
+                phonetic_sig['P'] += 0.20 * phonetic['harsh_ratio']
+                phonetic_sig['J'] += 0.15 * phonetic['harsh_ratio']
+                phonetic_conf += 0.3
+            if phonetic['liquid_ratio'] > 0.2:
+                phonetic_sig['L'] += 0.10 * phonetic['liquid_ratio']
+                phonetic_sig['W'] += 0.10 * phonetic['liquid_ratio']
+                phonetic_conf += 0.2
+        
+        # Morphological layer
+        morphology = self.analyze_morphological_structure(text)
+        morphological_sig = {'L': 0.5, 'J': 0.5, 'P': 0.5, 'W': 0.5}
+        morphological_conf = 0.0
+        
+        if morphology:
+            if morphology['reduplication']:
+                morphological_sig['W'] += 0.15
+                morphological_sig['J'] += 0.10
+                morphological_conf += 0.4
+            if morphology['complexity'] == 'high':
+                morphological_sig['W'] += 0.15
+                morphological_conf += 0.3
+            if morphology['compound_ratio'] > 0.3:
+                morphological_sig['W'] += 0.10
+                morphological_conf += 0.2
+        
+        # Semantic layer
+        markers = self.detect_semantic_markers(text, context)
+        semantic_sig = {'L': 0.5, 'J': 0.5, 'P': 0.5, 'W': 0.5}
+        semantic_conf = markers.get('confidence', 0.0)
+        
+        if markers['dominant']:
+            marker_strength = markers['confidence']
+            
+            if markers['dominant'] == 'divine':
+                semantic_sig['L'] += 0.30 * marker_strength
+                semantic_sig['J'] += 0.25 * marker_strength
+                semantic_sig['W'] += 0.35 * marker_strength
+            elif markers['dominant'] == 'power':
+                semantic_sig['P'] += 0.35 * marker_strength
+                semantic_sig['J'] += 0.25 * marker_strength
+                semantic_sig['W'] += 0.20 * marker_strength
+            elif markers['dominant'] == 'wisdom':
+                semantic_sig['W'] += 0.40 * marker_strength
+                semantic_sig['J'] += 0.20 * marker_strength
+            elif markers['dominant'] == 'love':
+                semantic_sig['L'] += 0.40 * marker_strength
+                semantic_sig['P'] -= 0.15 * marker_strength
+                semantic_sig['W'] += 0.20 * marker_strength
+            elif markers['dominant'] == 'justice':
+                semantic_sig['J'] += 0.40 * marker_strength
+                semantic_sig['W'] += 0.25 * marker_strength
+                semantic_sig['P'] += 0.15 * marker_strength
+            elif markers['dominant'] == 'negative':
+                semantic_sig['L'] -= 0.30 * marker_strength
+                semantic_sig['J'] -= 0.30 * marker_strength
+        
+        # Context layer
+        context_integration = self.context_integrator.integrate_context_into_signature(
+            base_signature=semantic_sig.copy(),
+            phrase_analysis=phrase_analysis,
+            flow_analysis=flow_analysis
+        )
+        
+        context_sig = context_integration['signature']
+        context_conf = context_integration['context_confidence']
+        
+        # Step 3: Combine all layers with adaptive weighting
+        layer_confidences = {
+            'phonetic': phonetic_conf,
+            'morphological': morphological_conf,
+            'semantic': semantic_conf,
+            'context': context_conf
         }
-    ]
-    
-    print("\n")
-    for i, test in enumerate(test_cases, 1):
-        print(f"Test {i}: '{test['text']}'")
-        print(f"Context: {test['context']}")
-        print(f"Expected: {test['expected']}\n")
         
-        signature = detector.calculate_field_signature(test['text'], test['context'])
+        combined = self.multi_layer_combiner.combine_signatures(
+            phonetic_sig=phonetic_sig,
+            morphological_sig=morphological_sig,
+            semantic_sig=semantic_sig,
+            context_sig=context_sig,
+            layer_confidences=layer_confidences
+        )
         
-        print(f"Detected Signature:")
-        print(f"  L={signature['L']:.3f}, J={signature['J']:.3f}, "
-              f"P={signature['P']:.3f}, W={signature['W']:.3f}")
-        print(f"  Confidence: {signature['confidence']:.2f}")
-        print(f"  Equilibrium distance: {signature['equilibrium_distance']:.3f}")
-        print(f"  Emergent: {signature['emergent_dimension']}")
-        print(f"\nEvidence:")
-        for evidence in signature['evidence']:
-            print(f"  - {evidence}")
-        print(f"\n{'-'*70}\n")
-    
-    print("="*70)
-    print("ENHANCED DETECTION COMPLETE")
-    print("="*70)
+        # Step 4: Build comprehensive result
+        result = {
+            'L': combined['signature']['L'],
+            'J': combined['signature']['J'],
+            'P': combined['signature']['P'],
+            'W': combined['signature']['W'],
+            'confidence': combined['confidence'],
+            'evidence': [],
+            'phase2_metadata': {
+                'phrase_analysis': phrase_analysis,
+                'flow_analysis': flow_analysis,
+                'layer_weights': combined['weights'],
+                'layer_confidences': layer_confidences
+            }
+        }
+        
+        # Collect evidence
+        if phonetic_conf > 0:
+            result['evidence'].append(f"Phonetic: conf={phonetic_conf:.2f}")
+        if morphological_conf > 0:
+            result['evidence'].append(f"Morphological: conf={morphological_conf:.2f}")
+        if semantic_conf > 0:
+            result['evidence'].append(f"Semantic: {markers['dominant']} (conf={semantic_conf:.2f})")
+        if context_conf > 0:
+            result['evidence'].extend(context_integration['evidence'])
+        
+        return result
 
 
 if __name__ == "__main__":
-    test_enhanced_detector()
+    detector = EnhancedPatternDetector()
+    print("EnhancedPatternDetector (Phase 2) instantiated successfully.")
+    
+    # Test Phase 2 features
+    print("\n" + "="*70)
+    print("PHASE 2 ENHANCED DETECTION TEST")
+    print("="*70)
+    
+    test_cases = [
+        ("Kingdom of God", "Divine rule"),
+        ("Holy Spirit", "Divine presence"),
+        ("The king rules with justice", None),
+        ("Simple word", None)
+    ]
+    
+    for text, context in test_cases:
+        print(f"\n\nText: '{text}'")
+        if context:
+            print(f"Context: '{context}'")
+        
+        # Compare v1 and v2
+        sig_v1 = detector.calculate_field_signature(text, context)
+        sig_v2 = detector.calculate_field_signature_v2(text, context)
+        
+        print("\nV1 Signature:")
+        print(f"  L={sig_v1['L']:.3f}, J={sig_v1['J']:.3f}, P={sig_v1['P']:.3f}, W={sig_v1['W']:.3f}")
+        print(f"  Confidence: {sig_v1['confidence']:.2f}")
+        
+        print("\nV2 Signature (Phase 2):")
+        print(f"  L={sig_v2['L']:.3f}, J={sig_v2['J']:.3f}, P={sig_v2['P']:.3f}, W={sig_v2['W']:.3f}")
+        print(f"  Confidence: {sig_v2['confidence']:.2f}")
+        print(f"  Weights: {sig_v2['phase2_metadata']['layer_weights']}")

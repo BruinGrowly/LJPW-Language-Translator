@@ -1,0 +1,333 @@
+{
+  "book": "Matthew",
+  "chapter": 25,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 46,
+  "verses": {
+    "1": "“Then the Kingdom of Heaven will be like ten virgins, who took their lamps, and went out to meet the bridegroom.",
+    "2": "Five of them were foolish, and five were wise.",
+    "3": "Those who were foolish, when they took their lamps, took no oil with them,",
+    "4": "but the wise took oil in their vessels with their lamps.",
+    "5": "Now while the bridegroom delayed, they all slumbered and slept.",
+    "6": "But at midnight there was a cry, ‘Behold! The bridegroom is coming! Come out to meet him!’",
+    "7": "Then all those virgins arose, and trimmed their lamps.",
+    "8": "The foolish said to the wise, ‘Give us some of your oil, for our lamps are going out.’",
+    "9": "But the wise answered, saying, ‘What if there isn’t enough for us and you? You go rather to those who sell, and buy for yourselves.’",
+    "10": "While they went away to buy, the bridegroom came, and those who were ready went in with him to the wedding feast, and the door was shut.",
+    "11": "Afterward the other virgins also came, saying, ‘Lord, Lord, open to us.’",
+    "12": "But he answered, ‘Most certainly I tell you, I don’t know you.’",
+    "13": "Watch therefore, for you don’t know the day nor the hour in which the Son of Man is coming.",
+    "14": "“For it is like a man, going into another country, who called his own servants, and entrusted his goods to them.",
+    "15": "To one he gave five talents, to another two, to another one; to each according to his own ability. Then he went on his journey.",
+    "16": "Immediately he who received the five talents went and traded with them, and made another five talents.",
+    "17": "In the same way, he also who got the two gained another two.",
+    "18": "But he who received the one talent went away and dug in the earth, and hid his lord’s money.",
+    "19": "“Now after a long time the lord of those servants came, and reconciled accounts with them.",
+    "20": "He who received the five talents came and brought another five talents, saying, ‘Lord, you delivered to me five talents. Behold, I have gained another five talents in addition to them.’",
+    "21": "“His lord said to him, ‘Well done, good and faithful servant. You have been faithful over a few things, I will set you over many things. Enter into the joy of your lord.’",
+    "22": "“He also who got the two talents came and said, ‘Lord, you delivered to me two talents. Behold, I have gained another two talents in addition to them.’",
+    "23": "“His lord said to him, ‘Well done, good and faithful servant. You have been faithful over a few things, I will set you over many things. Enter into the joy of your lord.’",
+    "24": "“He also who had received the one talent came and said, ‘Lord, I knew you that you are a hard man, reaping where you didn’t sow, and gathering where you didn’t scatter.",
+    "25": "I was afraid, and went away and hid your talent in the earth. Behold, you have what is yours.’",
+    "26": "“But his lord answered him, ‘You wicked and slothful servant. You knew that I reap where I didn’t sow, and gather where I didn’t scatter.",
+    "27": "You ought therefore to have deposited my money with the bankers, and at my coming I should have received back my own with interest.",
+    "28": "Take away therefore the talent from him, and give it to him who has the ten talents.",
+    "29": "For to everyone who has will be given, and he will have abundance, but from him who doesn’t have, even that which he has will be taken away.",
+    "30": "Throw out the unprofitable servant into the outer darkness, where there will be weeping and gnashing of teeth.’",
+    "31": "“But when the Son of Man comes in his glory, and all the holy angels with him, then he will sit on the throne of his glory.",
+    "32": "Before him all the nations will be gathered, and he will separate them one from another, as a shepherd separates the sheep from the goats.",
+    "33": "He will set the sheep on his right hand, but the goats on the left.",
+    "34": "Then the King will tell those on his right hand, ‘Come, blessed of my Father, inherit the Kingdom prepared for you from the foundation of the world;",
+    "35": "for I was hungry, and you gave me food to eat. I was thirsty, and you gave me drink. I was a stranger, and you took me in.",
+    "36": "I was naked, and you clothed me. I was sick, and you visited me. I was in prison, and you came to me.’",
+    "37": "“Then the righteous will answer him, saying, ‘Lord, when did we see you hungry, and feed you; or thirsty, and give you a drink?",
+    "38": "When did we see you as a stranger, and take you in; or naked, and clothe you?",
+    "39": "When did we see you sick, or in prison, and come to you?’",
+    "40": "“The King will answer them, ‘Most certainly I tell you, because you did it to one of the least of these my brothers, you did it to me.’",
+    "41": "Then he will say also to those on the left hand, ‘Depart from me, you cursed, into the eternal fire which is prepared for the devil and his angels;",
+    "42": "for I was hungry, and you didn’t give me food to eat; I was thirsty, and you gave me no drink;",
+    "43": "I was a stranger, and you didn’t take me in; naked, and you didn’t clothe me; sick, and in prison, and you didn’t visit me.’",
+    "44": "“Then they will also answer, saying, ‘Lord, when did we see you hungry, or thirsty, or a stranger, or naked, or sick, or in prison, and didn’t help you?’",
+    "45": "“Then he will answer them, saying, ‘Most certainly I tell you, because you didn’t do it to one of the least of these, you didn’t do it to me.’",
+    "46": "These will go away into eternal punishment, but the righteous into eternal life.”"
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.6014351771069621,
+      0.7823096609085092,
+      0.7699936020473448,
+      0.7771869365439423
+    ],
+    "2": [
+      0.53,
+      0.5495238095238095,
+      0.4775,
+      0.599047619047619
+    ],
+    "3": [
+      0.560344827586207,
+      0.5,
+      0.4547413793103448,
+      0.5
+    ],
+    "4": [
+      0.5262857142857142,
+      0.5495238095238095,
+      0.4802857142857143,
+      0.599047619047619
+    ],
+    "5": [
+      0.5125000000000001,
+      0.5,
+      0.5,
+      0.5125000000000001
+    ],
+    "6": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "7": [
+      0.5147727272727273,
+      0.5,
+      0.5,
+      0.5147727272727273
+    ],
+    "8": [
+      0.528125,
+      0.5495238095238095,
+      0.47890625,
+      0.599047619047619
+    ],
+    "9": [
+      0.5172173913043479,
+      0.556231884057971,
+      0.4870869565217391,
+      0.6515942028985506
+    ],
+    "10": [
+      0.5584905660377358,
+      0.5,
+      0.4561320754716981,
+      0.5
+    ],
+    "11": [
+      0.5857638888888889,
+      0.5677083333333334,
+      0.5,
+      0.5993055555555555
+    ],
+    "12": [
+      0.5430930104567969,
+      0.5438818565400844,
+      0.47325261419922954,
+      0.5951935424692717
+    ],
+    "13": [
+      0.5279183673469388,
+      0.5495238095238095,
+      0.47906122448979593,
+      0.599047619047619
+    ],
+    "14": [
+      0.5109195402298851,
+      0.5,
+      0.5,
+      0.5109195402298851
+    ],
+    "15": [
+      0.5551020408163265,
+      0.5,
+      0.4586734693877551,
+      0.5
+    ],
+    "16": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "17": [
+      0.5630434782608696,
+      0.5,
+      0.4527173913043478,
+      0.5
+    ],
+    "18": [
+      0.6025352112676057,
+      0.5619047619047619,
+      0.47881287726358146,
+      0.5866666666666667
+    ],
+    "19": [
+      0.5854166666666667,
+      0.5677083333333334,
+      0.5,
+      0.5989583333333334
+    ],
+    "20": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "21": [
+      0.6076832499264058,
+      0.5548523206751056,
+      0.47377097438916693,
+      0.5836816799136494
+    ],
+    "22": [
+      0.6004433497536946,
+      0.5619047619047619,
+      0.4803817733990148,
+      0.5866666666666667
+    ],
+    "23": [
+      0.6076832499264058,
+      0.5548523206751056,
+      0.47377097438916693,
+      0.5836816799136494
+    ],
+    "24": [
+      0.6024107142857142,
+      0.5619047619047619,
+      0.47890625,
+      0.5866666666666667
+    ],
+    "25": [
+      0.5605633802816902,
+      0.5,
+      0.4545774647887324,
+      0.5
+    ],
+    "26": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "27": [
+      0.5528301886792453,
+      0.5,
+      0.46037735849056605,
+      0.5
+    ],
+    "28": [
+      0.5265151515151515,
+      0.575,
+      0.5926136363636364,
+      0.5
+    ],
+    "29": [
+      0.5574074074074075,
+      0.5,
+      0.45694444444444443,
+      0.5
+    ],
+    "30": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "31": [
+      0.6095549203756636,
+      0.5548523206751056,
+      0.4735402204981626,
+      0.5852456785082347
+    ],
+    "32": [
+      0.5608108108108109,
+      0.5,
+      0.46216216216216216,
+      0.5103603603603604
+    ],
+    "33": [
+      0.538464247974639,
+      0.5974580251262182,
+      0.5215216625572385,
+      0.5518962075848304
+    ],
+    "34": [
+      0.501763668430335,
+      0.7301587301587301,
+      0.8222222222222221,
+      0.6858906525573192
+    ],
+    "35": [
+      0.5528089887640449,
+      0.5,
+      0.46039325842696627,
+      0.5
+    ],
+    "36": [
+      0.5534246575342466,
+      0.5,
+      0.45993150684931505,
+      0.5
+    ],
+    "37": [
+      0.5097454318288303,
+      0.8643916913946588,
+      0.6293378104013744,
+      0.75
+    ],
+    "38": [
+      0.5320802005012532,
+      0.5,
+      0.47593984962406016,
+      0.5714285714285714
+    ],
+    "39": [
+      0.5320557491289198,
+      0.5,
+      0.4759581881533101,
+      0.5714285714285714
+    ],
+    "40": [
+      0.5264780763790664,
+      0.5619047619047619,
+      0.5668081093823668,
+      0.5495238095238095
+    ],
+    "41": [
+      0.42269736842105265,
+      0.41875,
+      0.5,
+      0.5039473684210526
+    ],
+    "42": [
+      0.5507246376811594,
+      0.5,
+      0.46195652173913043,
+      0.5
+    ],
+    "43": [
+      0.5106741573033708,
+      0.5193820224719101,
+      0.5258426966292135,
+      0.5106741573033708
+    ],
+    "44": [
+      0.5917679147036945,
+      0.5741590214067279,
+      0.5,
+      0.6478841226547649
+    ],
+    "45": [
+      0.551923076923077,
+      0.5,
+      0.4610576923076923,
+      0.5
+    ],
+    "46": [
+      0.528533231474408,
+      0.7061624649859944,
+      0.5597784568372803,
+      0.634008148714031
+    ]
+  }
+}

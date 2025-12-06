@@ -17155,9 +17155,9 @@
         },
         "kingdom": {
           "coordinates": [
-            0.68,
-            0.82,
-            0.7,
+            0.71,
+            0.85,
+            0.72,
             0.92
           ],
           "definition": "Top classification",
@@ -47123,8 +47123,8 @@
             0.88
           ]
         },
-        "mise_en_scène": {
-          "name": "Mise-en-scène",
+        "mise_en_sc\u00e8ne": {
+          "name": "Mise-en-sc\u00e8ne",
           "definition": "Visual arrangement",
           "coordinates": [
             0.78,

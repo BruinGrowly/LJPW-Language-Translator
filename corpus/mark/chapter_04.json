@@ -1,0 +1,298 @@
+{
+  "book": "Mark",
+  "chapter": 4,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 41,
+  "verses": {
+    "1": "Again he began to teach by the seaside. A great multitude was gathered to him, so that he entered into a boat in the sea, and sat down. All the multitude were on the land by the sea.",
+    "2": "He taught them many things in parables, and told them in his teaching,",
+    "3": "“Listen! Behold, the farmer went out to sow,",
+    "4": "and as he sowed, some seed fell by the road, and the birds came and devoured it.",
+    "5": "Others fell on the rocky ground, where it had little soil, and immediately it sprang up, because it had no depth of soil.",
+    "6": "When the sun had risen, it was scorched; and because it had no root, it withered away.",
+    "7": "Others fell among the thorns, and the thorns grew up, and choked it, and it yielded no fruit.",
+    "8": "Others fell into the good ground, and yielded fruit, growing up and increasing. Some produced thirty times, some sixty times, and some one hundred times as much.”",
+    "9": "He said, “Whoever has ears to hear, let him hear.”",
+    "10": "When he was alone, those who were around him with the twelve asked him about the parables.",
+    "11": "He said to them, “To you is given the mystery of God’s Kingdom, but to those who are outside, all things are done in parables,",
+    "12": "that ‘seeing they may see, and not perceive; and hearing they may hear, and not understand; lest perhaps they should turn again, and their sins should be forgiven them.’ ”",
+    "13": "He said to them, “Don’t you understand this parable? How will you understand all of the parables?",
+    "14": "The farmer sows the word.",
+    "15": "The ones by the road are the ones where the word is sown; and when they have heard, immediately Satan comes, and takes away the word which has been sown in them.",
+    "16": "These in the same way are those who are sown on the rocky places, who, when they have heard the word, immediately receive it with joy.",
+    "17": "They have no root in themselves, but are short-lived. When oppression or persecution arises because of the word, immediately they stumble.",
+    "18": "Others are those who are sown among the thorns. These are those who have heard the word,",
+    "19": "and the cares of this age, and the deceitfulness of riches, and the lusts of other things entering in choke the word, and it becomes unfruitful.",
+    "20": "Those which were sown on the good ground are those who hear the word, and accept it, and bear fruit, some thirty times, some sixty times, and some one hundred times.”",
+    "21": "He said to them, “Is the lamp brought to be put under a basket or under a bed? Isn’t it put on a stand?",
+    "22": "For there is nothing hidden, except that it should be made known; neither was anything made secret, but that it should come to light.",
+    "23": "If any man has ears to hear, let him hear.”",
+    "24": "He said to them, “Take heed what you hear. With whatever measure you measure, it will be measured to you, and more will be given to you who hear.",
+    "25": "For whoever has, to him more will be given, and he who doesn’t have, even that which he has will be taken away from him.”",
+    "26": "He said, “God’s Kingdom is as if a man should cast seed on the earth,",
+    "27": "and should sleep and rise night and day, and the seed should spring up and grow, though he doesn’t know how.",
+    "28": "For the earth bears fruit: first the blade, then the ear, then the full grain in the ear.",
+    "29": "But when the fruit is ripe, immediately he puts in the sickle, because the harvest has come.”",
+    "30": "He said, “How will we liken God’s Kingdom? Or with what parable will we illustrate it?",
+    "31": "It’s like a grain of mustard seed, which, when it is sown in the earth, though it is less than all the seeds that are on the earth,",
+    "32": "yet when it is sown, grows up, and becomes greater than all the herbs, and puts out great branches, so that the birds of the sky can lodge under its shadow.”",
+    "33": "With many such parables he spoke the word to them, as they were able to hear it.",
+    "34": "Without a parable he didn’t speak to them; but privately to his own disciples he explained everything.",
+    "35": "On that day, when evening had come, he said to them, “Let’s go over to the other side.”",
+    "36": "Leaving the multitude, they took him with them, even as he was, in the boat. Other small boats were also with him.",
+    "37": "A big wind storm arose, and the waves beat into the boat, so much that the boat was already filled.",
+    "38": "He himself was in the stern, asleep on the cushion, and they woke him up, and told him, “Teacher, don’t you care that we are dying?”",
+    "39": "He awoke, and rebuked the wind, and said to the sea, “Peace! Be still!” The wind ceased, and there was a great calm.",
+    "40": "He said to them, “Why are you so afraid? How is it that you have no faith?”",
+    "41": "They were greatly afraid, and said to one another, “Who then is this, that even the wind and the sea obey him?”"
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.5404191616766467,
+      0.5560678642714572,
+      0.4890868263473054,
+      0.5830339321357285
+    ],
+    "2": [
+      0.5040178571428572,
+      0.5541666666666667,
+      0.5,
+      0.6123511904761905
+    ],
+    "3": [
+      0.5106060606060606,
+      0.5,
+      0.5,
+      0.5106060606060606
+    ],
+    "4": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "5": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "6": [
+      0.5320346320346321,
+      0.5,
+      0.47597402597402594,
+      0.5714285714285714
+    ],
+    "7": [
+      0.5111111111111112,
+      0.5,
+      0.5,
+      0.5111111111111112
+    ],
+    "8": [
+      0.42281976744186045,
+      0.41875,
+      0.5,
+      0.5040697674418605
+    ],
+    "9": [
+      0.5638888888888889,
+      0.5,
+      0.45208333333333334,
+      0.5
+    ],
+    "10": [
+      0.5349206349206349,
+      0.5,
+      0.4738095238095238,
+      0.5714285714285714
+    ],
+    "11": [
+      0.5,
+      0.75,
+      0.85,
+      0.7
+    ],
+    "12": [
+      0.5024291497975708,
+      0.6179487179487179,
+      0.5,
+      0.7383265856950066
+    ],
+    "13": [
+      0.502317720907774,
+      0.5593272171253822,
+      0.5,
+      0.6622565588282634
+    ],
+    "14": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "15": [
+      0.557936507936508,
+      0.5,
+      0.45654761904761904,
+      0.5
+    ],
+    "16": [
+      0.5619047619047619,
+      0.5,
+      0.45357142857142857,
+      0.5
+    ],
+    "17": [
+      0.5504424778761062,
+      0.5,
+      0.46216814159292036,
+      0.5
+    ],
+    "18": [
+      0.56,
+      0.5,
+      0.455,
+      0.5
+    ],
+    "19": [
+      0.6333333333333333,
+      0.5,
+      0.45,
+      0.5666666666666667
+    ],
+    "20": [
+      0.5511627906976745,
+      0.5,
+      0.46162790697674416,
+      0.5
+    ],
+    "21": [
+      0.5,
+      0.5142857142857142,
+      0.519047619047619,
+      0.5714285714285714
+    ],
+    "22": [
+      0.5,
+      0.5597124887690925,
+      0.5135849056603774,
+      0.599047619047619
+    ],
+    "23": [
+      0.5709677419354839,
+      0.5,
+      0.4564516129032258,
+      0.5129032258064516
+    ],
+    "24": [
+      0.5630630630630631,
+      0.5,
+      0.4527027027027027,
+      0.5
+    ],
+    "25": [
+      0.5582417582417583,
+      0.5,
+      0.4563186813186813,
+      0.5
+    ],
+    "26": [
+      0.5,
+      0.75,
+      0.85,
+      0.7
+    ],
+    "27": [
+      0.5,
+      0.559625850340136,
+      0.513469387755102,
+      0.599047619047619
+    ],
+    "28": [
+      0.511029411764706,
+      0.5,
+      0.5,
+      0.511029411764706
+    ],
+    "29": [
+      0.552054794520548,
+      0.5,
+      0.460958904109589,
+      0.5
+    ],
+    "30": [
+      0.5162706611570248,
+      0.7180397727272726,
+      0.7950865185950413,
+      0.6984504132231404
+    ],
+    "31": [
+      0.5525252525252525,
+      0.5,
+      0.4606060606060606,
+      0.5
+    ],
+    "32": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "33": [
+      0.5564516129032259,
+      0.5,
+      0.4576612903225806,
+      0.5
+    ],
+    "34": [
+      0.5,
+      0.5198795180722892,
+      0.5265060240963856,
+      0.5
+    ],
+    "35": [
+      0.553968253968254,
+      0.5,
+      0.4595238095238095,
+      0.5
+    ],
+    "36": [
+      0.5556818181818182,
+      0.5,
+      0.4582386363636364,
+      0.5
+    ],
+    "37": [
+      0.5506493506493507,
+      0.5,
+      0.462012987012987,
+      0.5
+    ],
+    "38": [
+      0.5125608953258723,
+      0.6178494623655914,
+      0.4905793285055958,
+      0.764731182795699
+    ],
+    "39": [
+      0.5517647058823529,
+      0.5,
+      0.4611764705882353,
+      0.5
+    ],
+    "40": [
+      0.5380952380952381,
+      0.5,
+      0.4714285714285714,
+      0.5714285714285714
+    ],
+    "41": [
+      0.5326530612244897,
+      0.5,
+      0.4755102040816327,
+      0.5714285714285714
+    ]
+  }
+}

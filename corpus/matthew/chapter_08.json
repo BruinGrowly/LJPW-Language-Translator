@@ -1,0 +1,249 @@
+{
+  "book": "Matthew",
+  "chapter": 8,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 34,
+  "verses": {
+    "1": "When he came down from the mountain, great multitudes followed him.",
+    "2": "Behold, a leper came to him and worshiped him, saying, “Lord, if you want to, you can make me clean.”",
+    "3": "Jesus stretched out his hand, and touched him, saying, “I want to. Be made clean.” Immediately his leprosy was cleansed.",
+    "4": "Jesus said to him, “See that you tell nobody, but go, show yourself to the priest, and offer the gift that Moses commanded, as a testimony to them.”",
+    "5": "When he came into Capernaum, a centurion came to him, asking him,",
+    "6": "and saying, “Lord, my servant lies in the house paralyzed, grievously tormented.”",
+    "7": "Jesus said to him, “I will come and heal him.”",
+    "8": "The centurion answered, “Lord, I’m not worthy for you to come under my roof. Just say the word, and my servant will be healed.",
+    "9": "For I am also a man under authority, having under myself soldiers. I tell this one, ‘Go,’ and he goes; and tell another, ‘Come,’ and he comes; and tell my servant, ‘Do this,’ and he does it.”",
+    "10": "When Jesus heard it, he marveled, and said to those who followed, “Most certainly I tell you, I haven’t found so great a faith, not even in Israel.",
+    "11": "I tell you that many will come from the east and the west, and will sit down with Abraham, Isaac, and Jacob in the Kingdom of Heaven,",
+    "12": "but the children of the Kingdom will be thrown out into the outer darkness. There will be weeping and gnashing of teeth.”",
+    "13": "Jesus said to the centurion, “Go your way. Let it be done for you as you have believed.” His servant was healed in that hour.",
+    "14": "When Jesus came into Peter’s house, he saw his wife’s mother lying sick with a fever.",
+    "15": "He touched her hand, and the fever left her. She got up and served him.",
+    "16": "When evening came, they brought to him many possessed with demons. He cast out the spirits with a word, and healed all who were sick;",
+    "17": "that it might be fulfilled which was spoken through Isaiah the prophet, saying, “He took our infirmities, and bore our diseases.”",
+    "18": "Now when Jesus saw great multitudes around him, he gave the order to depart to the other side.",
+    "19": "A scribe came, and said to him, “Teacher, I will follow you wherever you go.”",
+    "20": "Jesus said to him, “The foxes have holes, and the birds of the sky have nests, but the Son of Man has nowhere to lay his head.”",
+    "21": "Another of his disciples said to him, “Lord, allow me first to go and bury my father.”",
+    "22": "But Jesus said to him, “Follow me, and leave the dead to bury their own dead.”",
+    "23": "When he got into a boat, his disciples followed him.",
+    "24": "Behold, a violent storm came up on the sea, so much that the boat was covered with the waves, but he was asleep.",
+    "25": "They came to him, and woke him up, saying, “Save us, Lord! We are dying!”",
+    "26": "He said to them, “Why are you fearful, O you of little faith?” Then he got up, rebuked the wind and the sea, and there was a great calm.",
+    "27": "The men marveled, saying, “What kind of man is this, that even the wind and the sea obey him?”",
+    "28": "When he came to the other side, into the country of the Gergesenes, two people possessed by demons met him there, coming out of the tombs, exceedingly fierce, so that nobody could pass that way.",
+    "29": "Behold, they cried out, saying, “What do we have to do with you, Jesus, Son of God? Have you come here to torment us before the time?”",
+    "30": "Now there was a herd of many pigs feeding far away from them.",
+    "31": "The demons begged him, saying, “If you cast us out, permit us to go away into the herd of pigs.”",
+    "32": "He said to them, “Go!” They came out, and went into the herd of pigs: and behold, the whole herd of pigs rushed down the cliff into the sea, and died in the water.",
+    "33": "Those who fed them fled, and went away into the city, and told everything, including what happened to those who were possessed with demons.",
+    "34": "Behold, all the city came out to meet Jesus. When they saw him, they begged that he would depart from their borders."
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.5477272727272727,
+      0.5,
+      0.4713636363636364,
+      0.5720454545454545
+    ],
+    "2": [
+      0.6096989394457749,
+      0.5548523206751056,
+      0.47298152582962716,
+      0.5846447713536322
+    ],
+    "3": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "4": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "5": [
+      0.5286053130929792,
+      0.5651881720430109,
+      0.5739721695129666,
+      0.5939911448450349
+    ],
+    "6": [
+      0.5859375,
+      0.5677083333333334,
+      0.5,
+      0.5994791666666668
+    ],
+    "7": [
+      0.6103567318757193,
+      0.5548523206751056,
+      0.4720368239355581,
+      0.5840429612581512
+    ],
+    "8": [
+      0.6798076923076922,
+      0.6474358974358974,
+      0.5,
+      0.7092948717948717
+    ],
+    "9": [
+      0.5046532846715328,
+      0.5677083333333334,
+      0.5947916666666667,
+      0.5588199513381995
+    ],
+    "10": [
+      0.6005590062111801,
+      0.5702898550724638,
+      0.48784161490683225,
+      0.637536231884058
+    ],
+    "11": [
+      0.6081320457883894,
+      0.7633542226201133,
+      0.7427126520702412,
+      0.759879821412533
+    ],
+    "12": [
+      0.5046781599237633,
+      0.6376230904733027,
+      0.6920875566721534,
+      0.6077593924167605
+    ],
+    "13": [
+      0.6035187969924812,
+      0.5619047619047619,
+      0.4780751879699248,
+      0.5866666666666667
+    ],
+    "14": [
+      0.6014229249011858,
+      0.5702898550724638,
+      0.48719367588932805,
+      0.637536231884058
+    ],
+    "15": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "16": [
+      0.6007453416149068,
+      0.5702898550724638,
+      0.48770186335403726,
+      0.637536231884058
+    ],
+    "17": [
+      0.5269625520110957,
+      0.5619047619047619,
+      0.5664447526583449,
+      0.5495238095238095
+    ],
+    "18": [
+      0.684290909090909,
+      0.6393939393939393,
+      0.4872363636363636,
+      0.6951515151515151
+    ],
+    "19": [
+      0.5297744360902256,
+      0.5495238095238095,
+      0.4776691729323308,
+      0.599047619047619
+    ],
+    "20": [
+      0.6013533834586466,
+      0.5619047619047619,
+      0.47969924812030074,
+      0.5866666666666667
+    ],
+    "21": [
+      0.5852884615384615,
+      0.5677083333333334,
+      0.5,
+      0.5988301282051283
+    ],
+    "22": [
+      0.6008866995073892,
+      0.5619047619047619,
+      0.48004926108374385,
+      0.5866666666666667
+    ],
+    "23": [
+      0.5306620209059234,
+      0.5,
+      0.4770034843205575,
+      0.5714285714285714
+    ],
+    "24": [
+      0.5534883720930233,
+      0.5,
+      0.45988372093023255,
+      0.5
+    ],
+    "25": [
+      0.6025210084033614,
+      0.5619047619047619,
+      0.4788235294117647,
+      0.5866666666666667
+    ],
+    "26": [
+      0.532,
+      0.5,
+      0.476,
+      0.5714285714285714
+    ],
+    "27": [
+      0.5293877551020408,
+      0.5,
+      0.4779591836734694,
+      0.5714285714285714
+    ],
+    "28": [
+      0.5,
+      0.5,
+      0.5,
+      0.6
+    ],
+    "29": [
+      0.8389586160108549,
+      0.7744092039800995,
+      0.5901373812754409,
+      0.843594527363184
+    ],
+    "30": [
+      0.5625000000000001,
+      0.5,
+      0.4609375,
+      0.5104166666666667
+    ],
+    "31": [
+      0.5507042253521127,
+      0.5190140845070422,
+      0.4873239436619718,
+      0.5
+    ],
+    "32": [
+      0.5520661157024793,
+      0.5,
+      0.4609504132231405,
+      0.5
+    ],
+    "33": [
+      0.5517857142857143,
+      0.5,
+      0.46116071428571426,
+      0.5
+    ],
+    "34": [
+      0.684175824175824,
+      0.6393939393939393,
+      0.4873226773226773,
+      0.6951515151515151
+    ]
+  }
+}

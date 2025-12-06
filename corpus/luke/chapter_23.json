@@ -1,0 +1,403 @@
+{
+  "book": "Luke",
+  "chapter": 23,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 56,
+  "verses": {
+    "1": "The whole company of them rose up and brought him before Pilate.",
+    "2": "They began to accuse him, saying, “We found this man perverting the nation, forbidding paying taxes to Caesar, and saying that he himself is Christ, a king.”",
+    "3": "Pilate asked him, “Are you the King of the Jews?” He answered him, “So you say.”",
+    "4": "Pilate said to the chief priests and the multitudes, “I find no basis for a charge against this man.”",
+    "5": "But they insisted, saying, “He stirs up the people, teaching throughout all Judea, beginning from Galilee even to this place.”",
+    "6": "But when Pilate heard Galilee mentioned, he asked if the man was a Galilean.",
+    "7": "When he found out that he was in Herod’s jurisdiction, he sent him to Herod, who was also in Jerusalem during those days.",
+    "8": "Now when Herod saw Jesus, he was exceedingly glad, for he had wanted to see him for a long time, because he had heard many things about him. He hoped to see some miracle done by him.",
+    "9": "He questioned him with many words, but he gave no answers.",
+    "10": "The chief priests and the scribes stood, vehemently accusing him.",
+    "11": "Herod with his soldiers humiliated him and mocked him. Dressing him in luxurious clothing, they sent him back to Pilate.",
+    "12": "Herod and Pilate became friends with each other that very day, for before that they were enemies with each other.",
+    "13": "Pilate called together the chief priests, the rulers, and the people,",
+    "14": "and said to them, “You brought this man to me as one that perverts the people, and behold, having examined him before you, I found no basis for a charge against this man concerning those things of which you accuse him.",
+    "15": "Neither has Herod, for I sent you to him, and see, nothing worthy of death has been done by him.",
+    "16": "I will therefore chastise him and release him.”",
+    "17": "Now he had to release one prisoner to them at the feast.",
+    "18": "But they all cried out together, saying, “Away with this man! Release to us Barabbas!”—",
+    "19": "one who was thrown into prison for a certain revolt in the city, and for murder.",
+    "20": "Then Pilate spoke to them again, wanting to release Jesus,",
+    "21": "but they shouted, saying, “Crucify! Crucify him!”",
+    "22": "He said to them the third time, “Why? What evil has this man done? I have found no capital crime in him. I will therefore chastise him and release him.”",
+    "23": "But they were urgent with loud voices, asking that he might be crucified. Their voices and the voices of the chief priests prevailed.",
+    "24": "Pilate decreed that what they asked for should be done.",
+    "25": "He released him who had been thrown into prison for insurrection and murder, for whom they asked, but he delivered Jesus up to their will.",
+    "26": "When they led him away, they grabbed one Simon of Cyrene, coming from the country, and laid on him the cross, to carry it after Jesus.",
+    "27": "A great multitude of the people followed him, including women who also mourned and lamented him.",
+    "28": "But Jesus, turning to them, said, “Daughters of Jerusalem, don’t weep for me, but weep for yourselves and for your children.",
+    "29": "For behold, the days are coming in which they will say, ‘Blessed are the barren, the wombs that never bore, and the breasts that never nursed.’",
+    "30": "Then they will begin to tell the mountains, ‘Fall on us!’ and tell the hills, ‘Cover us.’",
+    "31": "For if they do these things in the green tree, what will be done in the dry?”",
+    "32": "There were also others, two criminals, led with him to be put to death.",
+    "33": "When they came to the place that is called “The Skull”, they crucified him there with the criminals, one on the right and the other on the left.",
+    "34": "Jesus said, “Father, forgive them, for they don’t know what they are doing.” Dividing his garments among them, they cast lots.",
+    "35": "The people stood watching. The rulers with them also scoffed at him, saying, “He saved others. Let him save himself, if this is the Christ of God, his chosen one!”",
+    "36": "The soldiers also mocked him, coming to him and offering him vinegar,",
+    "37": "and saying, “If you are the King of the Jews, save yourself!”",
+    "38": "An inscription was also written over him in letters of Greek, Latin, and Hebrew: “THIS IS THE KING OF THE JEWS.”",
+    "39": "One of the criminals who was hanged insulted him, saying, “If you are the Christ, save yourself and us!”",
+    "40": "But the other answered, and rebuking him said, “Don’t you even fear God, seeing you are under the same condemnation?",
+    "41": "And we indeed justly, for we receive the due reward for our deeds, but this man has done nothing wrong.”",
+    "42": "He said to Jesus, “Lord, remember me when you come into your Kingdom.”",
+    "43": "Jesus said to him, “Assuredly I tell you, today you will be with me in Paradise.”",
+    "44": "It was now about the sixth hour, and darkness came over the whole land until the ninth hour.",
+    "45": "The sun was darkened, and the veil of the temple was torn in two.",
+    "46": "Jesus, crying with a loud voice, said, “Father, into your hands I commit my spirit!” Having said this, he breathed his last.",
+    "47": "When the centurion saw what was done, he glorified God, saying, “Certainly this was a righteous man.”",
+    "48": "All the multitudes that came together to see this, when they saw the things that were done, returned home beating their breasts.",
+    "49": "All his acquaintances and the women who followed with him from Galilee stood at a distance, watching these things.",
+    "50": "Behold, a man named Joseph, who was a member of the council, a good and righteous man",
+    "51": "(he had not consented to their counsel and deed), from Arimathaea, a city of the Jews, who was also waiting for God’s Kingdom:",
+    "52": "this man went to Pilate, and asked for Jesus’ body.",
+    "53": "He took it down, and wrapped it in a linen cloth, and laid him in a tomb that was cut in stone, where no one had ever been laid.",
+    "54": "It was the day of the Preparation, and the Sabbath was drawing near.",
+    "55": "The women, who had come with him out of Galilee, followed after, and saw the tomb, and how his body was laid.",
+    "56": "They returned and prepared spices and ointments. On the Sabbath they rested according to the commandment."
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.551923076923077,
+      0.5,
+      0.4610576923076923,
+      0.5
+    ],
+    "2": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7333333333333333
+    ],
+    "3": [
+      0.5186727688787185,
+      0.5702898550724638,
+      0.5844012204424103,
+      0.5953623188405797
+    ],
+    "4": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "5": [
+      0.5,
+      0.5666666666666667,
+      0.5,
+      0.6333333333333333
+    ],
+    "6": [
+      0.5647540983606557,
+      0.5,
+      0.4594262295081967,
+      0.510655737704918
+    ],
+    "7": [
+      0.5312781954887218,
+      0.5,
+      0.47654135338345865,
+      0.5714285714285714
+    ],
+    "8": [
+      0.6027355623100304,
+      0.5619047619047619,
+      0.4786626139817629,
+      0.5866666666666667
+    ],
+    "9": [
+      0.5543478260869565,
+      0.5,
+      0.4592391304347826,
+      0.5
+    ],
+    "10": [
+      0.4,
+      0.4,
+      0.5,
+      0.5
+    ],
+    "11": [
+      0.4225765306122449,
+      0.41875,
+      0.5,
+      0.5038265306122449
+    ],
+    "12": [
+      0.5565217391304348,
+      0.5,
+      0.4576086956521739,
+      0.5
+    ],
+    "13": [
+      0.5,
+      0.5833333333333334,
+      0.6166666666666667,
+      0.5666666666666667
+    ],
+    "14": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "15": [
+      0.5561643835616439,
+      0.5,
+      0.4578767123287671,
+      0.5
+    ],
+    "16": [
+      0.5671052631578948,
+      0.5,
+      0.4585526315789474,
+      0.5118421052631579
+    ],
+    "17": [
+      0.5545454545454546,
+      0.5,
+      0.4590909090909091,
+      0.5
+    ],
+    "18": [
+      0.5530303030303031,
+      0.5,
+      0.4602272727272727,
+      0.5
+    ],
+    "19": [
+      0.5134920634920636,
+      0.5,
+      0.5,
+      0.5134920634920636
+    ],
+    "20": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "21": [
+      0.5513513513513514,
+      0.5,
+      0.4614864864864865,
+      0.5
+    ],
+    "22": [
+      0.43292353823088453,
+      0.41565217391304343,
+      0.48704647676161916,
+      0.5391304347826087
+    ],
+    "23": [
+      0.5,
+      0.6666666666666666,
+      0.7333333333333333,
+      0.6333333333333333
+    ],
+    "24": [
+      0.5511111111111111,
+      0.5216666666666667,
+      0.4905555555555555,
+      0.5
+    ],
+    "25": [
+      0.6080054738282586,
+      0.5548523206751056,
+      0.4741361614779337,
+      0.584490819933858
+    ],
+    "26": [
+      0.5914255469301342,
+      0.5741590214067279,
+      0.5,
+      0.6475417548812045
+    ],
+    "27": [
+      0.5132911392405064,
+      0.5,
+      0.5,
+      0.5132911392405064
+    ],
+    "28": [
+      0.58515625,
+      0.5677083333333334,
+      0.5,
+      0.5986979166666667
+    ],
+    "29": [
+      0.5103603603603604,
+      0.5,
+      0.5,
+      0.5103603603603604
+    ],
+    "30": [
+      0.5138461538461538,
+      0.5,
+      0.5,
+      0.5138461538461538
+    ],
+    "31": [
+      0.5295566502463054,
+      0.5,
+      0.4778325123152709,
+      0.5714285714285714
+    ],
+    "32": [
+      0.5527272727272727,
+      0.5,
+      0.46045454545454545,
+      0.5
+    ],
+    "33": [
+      0.5162111801242235,
+      0.6124637681159419,
+      0.5300155279503106,
+      0.6094202898550725
+    ],
+    "34": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7333333333333333
+    ],
+    "35": [
+      0.8,
+      0.75,
+      0.5,
+      0.85
+    ],
+    "36": [
+      0.5125000000000001,
+      0.5,
+      0.5,
+      0.5125000000000001
+    ],
+    "37": [
+      0.5274285714285715,
+      0.5619047619047619,
+      0.5660952380952381,
+      0.5495238095238095
+    ],
+    "38": [
+      0.5039244186046512,
+      0.5677083333333334,
+      0.5947916666666667,
+      0.5580910852713178
+    ],
+    "39": [
+      0.6012857142857143,
+      0.5619047619047619,
+      0.47975,
+      0.5866666666666667
+    ],
+    "40": [
+      0.6871549182524792,
+      0.6392276422764227,
+      0.48751675154114177,
+      0.72579513981953
+    ],
+    "41": [
+      0.5,
+      0.7666666666666666,
+      0.6,
+      0.6666666666666666
+    ],
+    "42": [
+      0.7718002860840542,
+      0.7093862815884475,
+      0.48758599550439335,
+      0.7971255364076015
+    ],
+    "43": [
+      0.6029508196721312,
+      0.5619047619047619,
+      0.47850117096018735,
+      0.5866666666666667
+    ],
+    "44": [
+      0.5623287671232877,
+      0.5,
+      0.460958904109589,
+      0.5102739726027398
+    ],
+    "45": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "46": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7333333333333333
+    ],
+    "47": [
+      0.5096908687976561,
+      0.8643916913946588,
+      0.6293787326747549,
+      0.75
+    ],
+    "48": [
+      0.5509615384615385,
+      0.5,
+      0.4617788461538461,
+      0.5
+    ],
+    "49": [
+      0.5510638297872341,
+      0.5,
+      0.46170212765957447,
+      0.5
+    ],
+    "50": [
+      0.5281894576012223,
+      0.7061624649859944,
+      0.5597784568372803,
+      0.6336643748408454
+    ],
+    "51": [
+      0.5115684268513419,
+      0.7213740458015268,
+      0.8012473439836311,
+      0.6770992366412214
+    ],
+    "52": [
+      0.5742857142857143,
+      0.5717948717948718,
+      0.5131868131868131,
+      0.5866666666666667
+    ],
+    "53": [
+      0.5619791666666667,
+      0.5,
+      0.46171875,
+      0.5109375
+    ],
+    "54": [
+      0.5518518518518519,
+      0.5194444444444445,
+      0.48703703703703705,
+      0.5
+    ],
+    "55": [
+      0.5578313253012048,
+      0.5,
+      0.4566265060240964,
+      0.5
+    ],
+    "56": [
+      0.5107954545454546,
+      0.5204545454545455,
+      0.5272727272727273,
+      0.5107954545454546
+    ]
+  }
+}

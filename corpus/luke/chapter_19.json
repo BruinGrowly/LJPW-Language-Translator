@@ -1,0 +1,347 @@
+{
+  "book": "Luke",
+  "chapter": 19,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 48,
+  "verses": {
+    "1": "He entered and was passing through Jericho.",
+    "2": "There was a man named Zacchaeus. He was a chief tax collector, and he was rich.",
+    "3": "He was trying to see who Jesus was, and couldn’t because of the crowd, because he was short.",
+    "4": "He ran on ahead, and climbed up into a sycamore tree to see him, for he was going to pass that way.",
+    "5": "When Jesus came to the place, he looked up and saw him, and said to him, “Zacchaeus, hurry and come down, for today I must stay at your house.”",
+    "6": "He hurried, came down, and received him joyfully.",
+    "7": "When they saw it, they all murmured, saying, “He has gone in to lodge with a man who is a sinner.”",
+    "8": "Zacchaeus stood and said to the Lord, “Behold, Lord, half of my goods I give to the poor. If I have wrongfully exacted anything of anyone, I restore four times as much.”",
+    "9": "Jesus said to him, “Today, salvation has come to this house, because he also is a son of Abraham.",
+    "10": "For the Son of Man came to seek and to save that which was lost.”",
+    "11": "As they heard these things, he went on and told a parable, because he was near Jerusalem, and they supposed that God’s Kingdom would be revealed immediately.",
+    "12": "He said therefore, “A certain nobleman went into a far country to receive for himself a kingdom and to return.",
+    "13": "He called ten servants of his and gave them ten mina coins, and told them, ‘Conduct business until I come.’",
+    "14": "But his citizens hated him, and sent an envoy after him, saying, ‘We don’t want this man to reign over us.’",
+    "15": "“When he had come back again, having received the kingdom, he commanded these servants, to whom he had given the money, to be called to him, that he might know what they had gained by conducting business.",
+    "16": "The first came before him, saying, ‘Lord, your mina has made ten more minas.’",
+    "17": "“He said to him, ‘Well done, you good servant! Because you were found faithful with very little, you shall have authority over ten cities.’",
+    "18": "“The second came, saying, ‘Your mina, Lord, has made five minas.’",
+    "19": "“So he said to him, ‘And you are to be over five cities.’",
+    "20": "Another came, saying, ‘Lord, behold, your mina, which I kept laid away in a handkerchief,",
+    "21": "for I feared you, because you are an exacting man. You take up that which you didn’t lay down, and reap that which you didn’t sow.’",
+    "22": "“He said to him, ‘Out of your own mouth I will judge you, you wicked servant! You knew that I am an exacting man, taking up that which I didn’t lay down, and reaping that which I didn’t sow.",
+    "23": "Then why didn’t you deposit my money in the bank, and at my coming, I might have earned interest on it?’",
+    "24": "He said to those who stood by, ‘Take the mina away from him and give it to him who has the ten minas.’",
+    "25": "“They said to him, ‘Lord, he has ten minas!’",
+    "26": "‘For I tell you that to everyone who has, will more be given; but from him who doesn’t have, even that which he has will be taken away from him.",
+    "27": "But bring those enemies of mine who didn’t want me to reign over them here, and kill them before me.’ ”",
+    "28": "Having said these things, he went on ahead, going up to Jerusalem.",
+    "29": "When he came near to Bethsphage and Bethany, at the mountain that is called Olivet, he sent two of his disciples,",
+    "30": "saying, “Go your way into the village on the other side, in which, as you enter, you will find a colt tied, which no man had ever sat upon. Untie it and bring it.",
+    "31": "If anyone asks you, ‘Why are you untying it?’ say to him: ‘The Lord needs it.’ ”",
+    "32": "Those who were sent went away, and found things just as he had told them.",
+    "33": "As they were untying the colt, its owners said to them, “Why are you untying the colt?”",
+    "34": "They said, “The Lord needs it.”",
+    "35": "Then they brought it to Jesus. They threw their cloaks on the colt, and sat Jesus on them.",
+    "36": "As he went, they spread their cloaks on the road.",
+    "37": "As he was now getting near, at the descent of the Mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works which they had seen,",
+    "38": "saying, “Blessed is the King who comes in the name of the Lord! Peace in heaven, and glory in the highest!”",
+    "39": "Some of the Pharisees from the multitude said to him, “Teacher, rebuke your disciples!”",
+    "40": "He answered them, “I tell you that if these were silent, the stones would cry out.”",
+    "41": "When he came near, he saw the city and wept over it,",
+    "42": "saying, “If you, even you, had known today the things which belong to your peace! But now, they are hidden from your eyes.",
+    "43": "For the days will come on you, when your enemies will throw up a barricade against you, surround you, hem you in on every side,",
+    "44": "and will dash you and your children within you to the ground. They will not leave in you one stone on another, because you didn’t know the time of your visitation.”",
+    "45": "He entered into the temple, and began to drive out those who bought and sold in it,",
+    "46": "saying to them, “It is written, ‘My house is a house of prayer,’ but you have made it a ‘den of robbers’!”",
+    "47": "He was teaching daily in the temple, but the chief priests, the scribes, and the leading men among the people sought to destroy him.",
+    "48": "They couldn’t find what they might do, for all the people hung on to every word that he said."
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.4,
+      0.4,
+      0.5,
+      0.5
+    ],
+    "2": [
+      0.5540983606557377,
+      0.5,
+      0.4594262295081967,
+      0.5
+    ],
+    "3": [
+      0.6018108651911469,
+      0.5619047619047619,
+      0.47935613682092554,
+      0.5866666666666667
+    ],
+    "4": [
+      0.5533333333333333,
+      0.5,
+      0.45999999999999996,
+      0.5
+    ],
+    "5": [
+      0.6013165379926858,
+      0.5702898550724638,
+      0.48727346607070293,
+      0.637536231884058
+    ],
+    "6": [
+      0.5653846153846155,
+      0.5,
+      0.4596153846153846,
+      0.5115384615384616
+    ],
+    "7": [
+      0.4514112903225807,
+      0.4217741935483872,
+      0.4814012096774194,
+      0.5411290322580646
+    ],
+    "8": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7333333333333333
+    ],
+    "9": [
+      0.6027799227799228,
+      0.5619047619047619,
+      0.4786293436293436,
+      0.5866666666666667
+    ],
+    "10": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "11": [
+      0.5,
+      0.75,
+      0.85,
+      0.7
+    ],
+    "12": [
+      0.5030157342657342,
+      0.6474358974358974,
+      0.7064102564102563,
+      0.6209644522144522
+    ],
+    "13": [
+      0.4230421686746988,
+      0.41875,
+      0.5,
+      0.5042921686746988
+    ],
+    "14": [
+      0.5,
+      0.5833333333333334,
+      0.6166666666666667,
+      0.5666666666666667
+    ],
+    "15": [
+      0.5116637428286948,
+      0.7213740458015268,
+      0.8011758570006164,
+      0.6770992366412214
+    ],
+    "16": [
+      0.5864224137931034,
+      0.5677083333333334,
+      0.5,
+      0.5999640804597701
+    ],
+    "17": [
+      0.529047619047619,
+      0.5619047619047619,
+      0.5648809523809524,
+      0.5495238095238095
+    ],
+    "18": [
+      0.5856382978723405,
+      0.5677083333333334,
+      0.5,
+      0.5991799645390071
+    ],
+    "19": [
+      0.5575,
+      0.5,
+      0.456875,
+      0.5
+    ],
+    "20": [
+      0.6110573343261356,
+      0.5548523206751056,
+      0.4713514519731944,
+      0.5838297344254157
+    ],
+    "21": [
+      0.5575757575757576,
+      0.5,
+      0.4568181818181818,
+      0.5
+    ],
+    "22": [
+      0.527887323943662,
+      0.5619047619047619,
+      0.5657511737089203,
+      0.5495238095238095
+    ],
+    "23": [
+      0.5023690628266172,
+      0.5741590214067279,
+      0.603822629969419,
+      0.6029806836217242
+    ],
+    "24": [
+      0.5578947368421053,
+      0.5,
+      0.45657894736842103,
+      0.5
+    ],
+    "25": [
+      0.6017142857142858,
+      0.5619047619047619,
+      0.4794285714285714,
+      0.5866666666666667
+    ],
+    "26": [
+      0.5568807339449542,
+      0.5,
+      0.4573394495412844,
+      0.5
+    ],
+    "27": [
+      0.5048076923076923,
+      0.5677083333333334,
+      0.5947916666666667,
+      0.558974358974359
+    ],
+    "28": [
+      0.551923076923077,
+      0.5,
+      0.4610576923076923,
+      0.5
+    ],
+    "29": [
+      0.5292063492063492,
+      0.5,
+      0.47809523809523813,
+      0.5714285714285714
+    ],
+    "30": [
+      0.5272727272727273,
+      0.575,
+      0.5920454545454545,
+      0.5
+    ],
+    "31": [
+      0.6025612648221343,
+      0.5702898550724638,
+      0.48633992094861656,
+      0.637536231884058
+    ],
+    "32": [
+      0.5270676691729324,
+      0.599047619047619,
+      0.516842105263158,
+      0.5619047619047619
+    ],
+    "33": [
+      0.5311688311688312,
+      0.5,
+      0.4766233766233766,
+      0.5714285714285714
+    ],
+    "34": [
+      0.5742857142857143,
+      0.5724242424242424,
+      0.514025974025974,
+      0.5866666666666667
+    ],
+    "35": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "36": [
+      0.5526315789473685,
+      0.5,
+      0.4605263157894737,
+      0.5
+    ],
+    "37": [
+      0.6842577675489067,
+      0.6393939393939393,
+      0.48726121979286535,
+      0.6951515151515151
+    ],
+    "38": [
+      0.837790215588723,
+      0.8149875621890548,
+      0.7127487562189055,
+      0.843594527363184
+    ],
+    "39": [
+      0.5260869565217391,
+      0.5495238095238095,
+      0.48043478260869565,
+      0.599047619047619
+    ],
+    "40": [
+      0.553968253968254,
+      0.5,
+      0.4595238095238095,
+      0.5
+    ],
+    "41": [
+      0.5336996336996337,
+      0.5,
+      0.4747252747252747,
+      0.5714285714285714
+    ],
+    "42": [
+      0.5168574401664933,
+      0.6005376344086022,
+      0.5526795005202914,
+      0.613978494623656
+    ],
+    "43": [
+      0.5696969696969697,
+      0.5,
+      0.45606060606060606,
+      0.5111111111111112
+    ],
+    "44": [
+      0.5450397409478952,
+      0.5438818565400844,
+      0.47138651751545485,
+      0.5946521440486704
+    ],
+    "45": [
+      0.5,
+      0.5219230769230769,
+      0.5292307692307693,
+      0.5
+    ],
+    "46": [
+      0.5273333333333333,
+      0.575,
+      0.5920000000000001,
+      0.5
+    ],
+    "47": [
+      0.5,
+      0.5666666666666667,
+      0.5,
+      0.6333333333333333
+    ],
+    "48": [
+      0.5264285714285715,
+      0.5619047619047619,
+      0.5668452380952381,
+      0.5495238095238095
+    ]
+  }
+}

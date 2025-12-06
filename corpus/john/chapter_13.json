@@ -1,0 +1,277 @@
+{
+  "book": "John",
+  "chapter": 13,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 38,
+  "verses": {
+    "1": "Now before the feast of the Passover, Jesus, knowing that his time had come that he would depart from this world to the Father, having loved his own who were in the world, he loved them to the end.",
+    "2": "During supper, the devil having already put into the heart of Judas Iscariot, Simon’s son, to betray him,",
+    "3": "Jesus, knowing that the Father had given all things into his hands, and that he came from God, and was going to God,",
+    "4": "arose from supper, and laid aside his outer garments. He took a towel and wrapped a towel around his waist.",
+    "5": "Then he poured water into the basin, and began to wash the disciples’ feet and to wipe them with the towel that was wrapped around him.",
+    "6": "Then he came to Simon Peter. He said to him, “Lord, do you wash my feet?”",
+    "7": "Jesus answered him, “You don’t know what I am doing now, but you will understand later.”",
+    "8": "Peter said to him, “You will never wash my feet!” Jesus answered him, “If I don’t wash you, you have no part with me.”",
+    "9": "Simon Peter said to him, “Lord, not my feet only, but also my hands and my head!”",
+    "10": "Jesus said to him, “Someone who has bathed only needs to have his feet washed, but is completely clean. You are clean, but not all of you.”",
+    "11": "For he knew him who would betray him, therefore he said, “You are not all clean.”",
+    "12": "So when he had washed their feet, put his outer garment back on, and sat down again, he said to them, “Do you know what I have done to you?",
+    "13": "You call me, ‘Teacher’ and ‘Lord.’ You say so correctly, for so I am.",
+    "14": "If I then, the Lord and the Teacher, have washed your feet, you also ought to wash one another’s feet.",
+    "15": "For I have given you an example, that you should also do as I have done to you.",
+    "16": "Most certainly I tell you, a servant is not greater than his lord, neither is one who is sent greater than he who sent him.",
+    "17": "If you know these things, blessed are you if you do them.",
+    "18": "I don’t speak concerning all of you. I know whom I have chosen. But that the Scripture may be fulfilled, ‘He who eats bread with me has lifted up his heel against me.’",
+    "19": "From now on, I tell you before it happens, that when it happens, you may believe that I am he.",
+    "20": "Most certainly I tell you, he who receives whomever I send, receives me; and he who receives me, receives him who sent me.”",
+    "21": "When Jesus had said this, he was troubled in spirit, and testified, “Most certainly I tell you that one of you will betray me.”",
+    "22": "The disciples looked at one another, perplexed about whom he spoke.",
+    "23": "One of his disciples, whom Jesus loved, was at the table, leaning against Jesus’ breast.",
+    "24": "Simon Peter therefore beckoned to him, and said to him, “Tell us who it is of whom he speaks.”",
+    "25": "He, leaning back, as he was, on Jesus’ breast, asked him, “Lord, who is it?”",
+    "26": "Jesus therefore answered, “It is he to whom I will give this piece of bread when I have dipped it.” So when he had dipped the piece of bread, he gave it to Judas, the son of Simon Iscariot.",
+    "27": "After the piece of bread, then Satan entered into him. Then Jesus said to him, “What you do, do quickly.”",
+    "28": "Now nobody at the table knew why he said this to him.",
+    "29": "For some thought, because Judas had the money box, that Jesus said to him, “Buy what things we need for the feast,” or that he should give something to the poor.",
+    "30": "Therefore having received that morsel, he went out immediately. It was night.",
+    "31": "When he had gone out, Jesus said, “Now the Son of Man has been glorified, and God has been glorified in him.",
+    "32": "If God has been glorified in him, God will also glorify him in himself, and he will glorify him immediately.",
+    "33": "Little children, I will be with you a little while longer. You will seek me, and as I said to the Jews, ‘Where I am going, you can’t come,’ so now I tell you.",
+    "34": "A new commandment I give to you, that you love one another. Just as I have loved you, you also love one another.",
+    "35": "By this everyone will know that you are my disciples, if you have love for one another.”",
+    "36": "Simon Peter said to him, “Lord, where are you going?” Jesus answered, “Where I am going, you can’t follow now, but you will follow afterwards.”",
+    "37": "Peter said to him, “Lord, why can’t I follow you now? I will lay down my life for you.”",
+    "38": "Jesus answered him, “Will you lay down your life for me? Most certainly I tell you, the rooster won’t crow until you have denied me three times."
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.777545355407951,
+      0.7213740458015268,
+      0.49107762466541094,
+      0.8099236641221375
+    ],
+    "2": [
+      0.4,
+      0.4,
+      0.5,
+      0.5
+    ],
+    "3": [
+      0.7656488549618322,
+      0.725763358778626,
+      0.505852417302799,
+      0.8099236641221375
+    ],
+    "4": [
+      0.5505882352941177,
+      0.5,
+      0.46205882352941174,
+      0.5
+    ],
+    "5": [
+      0.4779170630701215,
+      0.45253231854048914,
+      0.48959930606077573,
+      0.5
+    ],
+    "6": [
+      0.6018060200668895,
+      0.5702898550724638,
+      0.48690635451505015,
+      0.637536231884058
+    ],
+    "7": [
+      0.5201250067352766,
+      0.667509025270758,
+      0.4876340320060347,
+      0.8386550999515059
+    ],
+    "8": [
+      0.6039327731092436,
+      0.5619047619047619,
+      0.477764705882353,
+      0.5866666666666667
+    ],
+    "9": [
+      0.5860169491525424,
+      0.5677083333333334,
+      0.5,
+      0.5995586158192091
+    ],
+    "10": [
+      0.6019407008086253,
+      0.5619047619047619,
+      0.4792587601078167,
+      0.5866666666666667
+    ],
+    "11": [
+      0.5704918032786885,
+      0.5,
+      0.4557377049180328,
+      0.5114754098360657
+    ],
+    "12": [
+      0.5180602006688964,
+      0.556231884057971,
+      0.48645484949832773,
+      0.6515942028985506
+    ],
+    "13": [
+      0.6798076923076922,
+      0.6474358974358974,
+      0.5,
+      0.7092948717948717
+    ],
+    "14": [
+      0.6865734265734265,
+      0.6393939393939393,
+      0.4855244755244755,
+      0.6951515151515151
+    ],
+    "15": [
+      0.56,
+      0.5,
+      0.455,
+      0.5
+    ],
+    "16": [
+      0.5857421875,
+      0.5677083333333334,
+      0.5,
+      0.5992838541666667
+    ],
+    "17": [
+      0.5292207792207793,
+      0.5495238095238095,
+      0.4780844155844156,
+      0.599047619047619
+    ],
+    "18": [
+      0.5265178571428571,
+      0.5495238095238095,
+      0.48011160714285717,
+      0.599047619047619
+    ],
+    "19": [
+      0.5563380281690141,
+      0.5,
+      0.45774647887323944,
+      0.5
+    ],
+    "20": [
+      0.5557894736842105,
+      0.5,
+      0.4581578947368421,
+      0.5
+    ],
+    "21": [
+      0.68862409479921,
+      0.6473118279569893,
+      0.4911125740618829,
+      0.7352688172043012
+    ],
+    "22": [
+      0.5509090909090909,
+      0.5190909090909092,
+      0.48727272727272725,
+      0.5
+    ],
+    "23": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7333333333333333
+    ],
+    "24": [
+      0.5507042253521127,
+      0.5,
+      0.4619718309859155,
+      0.5
+    ],
+    "25": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7661800486618005
+    ],
+    "26": [
+      0.6021428571428571,
+      0.5619047619047619,
+      0.47910714285714284,
+      0.5866666666666667
+    ],
+    "27": [
+      0.6009764918625679,
+      0.5619047619047619,
+      0.47998191681735985,
+      0.5866666666666667
+    ],
+    "28": [
+      0.5585365853658537,
+      0.5,
+      0.4560975609756098,
+      0.5
+    ],
+    "29": [
+      0.6012442396313364,
+      0.5619047619047619,
+      0.4797811059907834,
+      0.5866666666666667
+    ],
+    "30": [
+      0.5523809523809524,
+      0.5,
+      0.4607142857142857,
+      0.5
+    ],
+    "31": [
+      0.6889535798583792,
+      0.6473118279569893,
+      0.490865460267506,
+      0.7352688172043012
+    ],
+    "32": [
+      0.5862645348837209,
+      0.5677083333333334,
+      0.5,
+      0.5998062015503877
+    ],
+    "33": [
+      0.5665217391304348,
+      0.5,
+      0.4582608695652174,
+      0.5108695652173914
+    ],
+    "34": [
+      0.7420577871740661,
+      0.5,
+      0.402093023255814,
+      0.6115151515151515
+    ],
+    "35": [
+      0.518498023715415,
+      0.6115151515151515,
+      0.4861264822134387,
+      0.7230303030303029
+    ],
+    "36": [
+      0.688306359699111,
+      0.6392276422764227,
+      0.48684465466149984,
+      0.7260504520933059
+    ],
+    "37": [
+      0.6080775234131114,
+      0.5651881720430109,
+      0.4815621748178981,
+      0.6328217134928895
+    ],
+    "38": [
+      0.6068044354838711,
+      0.5651881720430109,
+      0.48250288018433185,
+      0.6328028993855608
+    ]
+  }
+}

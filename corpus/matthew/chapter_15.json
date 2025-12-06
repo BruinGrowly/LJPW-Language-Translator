@@ -1,0 +1,284 @@
+{
+  "book": "Matthew",
+  "chapter": 15,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 39,
+  "verses": {
+    "1": "Then Pharisees and scribes came to Jesus from Jerusalem, saying,",
+    "2": "“Why do your disciples disobey the tradition of the elders? For they don’t wash their hands when they eat bread.”",
+    "3": "He answered them, “Why do you also disobey the commandment of God because of your tradition?",
+    "4": "For God commanded, ‘Honor your father and your mother,’ and, ‘He who speaks evil of father or mother, let him be put to death.’",
+    "5": "But you say, ‘Whoever may tell his father or his mother, “Whatever help you might otherwise have gotten from me is a gift devoted to God,”",
+    "6": "he shall not honor his father or mother.’ You have made the commandment of God void because of your tradition.",
+    "7": "You hypocrites! Well did Isaiah prophesy of you, saying,",
+    "8": "‘These people draw near to me with their mouth, and honor me with their lips; but their heart is far from me.",
+    "9": "And in vain do they worship me, teaching as doctrine rules made by men.’ ”",
+    "10": "He summoned the multitude, and said to them, “Hear, and understand.",
+    "11": "That which enters into the mouth doesn’t defile the man; but that which proceeds out of the mouth, this defiles the man.”",
+    "12": "Then the disciples came, and said to him, “Do you know that the Pharisees were offended when they heard this saying?”",
+    "13": "But he answered, “Every plant which my heavenly Father didn’t plant will be uprooted.",
+    "14": "Leave them alone. They are blind guides of the blind. If the blind guide the blind, both will fall into a pit.”",
+    "15": "Peter answered him, “Explain the parable to us.”",
+    "16": "So Jesus said, “Do you also still not understand?",
+    "17": "Don’t you understand that whatever goes into the mouth passes into the belly, and then out of the body?",
+    "18": "But the things which proceed out of the mouth come out of the heart, and they defile the man.",
+    "19": "For out of the heart come evil thoughts, murders, adulteries, sexual sins, thefts, false testimony, and blasphemies.",
+    "20": "These are the things which defile the man; but to eat with unwashed hands doesn’t defile the man.”",
+    "21": "Jesus went out from there, and withdrew into the region of Tyre and Sidon.",
+    "22": "Behold, a Canaanite woman came out from those borders, and cried, saying, “Have mercy on me, Lord, you son of David! My daughter is severely possessed by a demon!”",
+    "23": "But he answered her not a word. His disciples came and begged him, saying, “Send her away; for she cries after us.”",
+    "24": "But he answered, “I wasn’t sent to anyone but the lost sheep of the house of Israel.”",
+    "25": "But she came and worshiped him, saying, “Lord, help me.”",
+    "26": "But he answered, “It is not appropriate to take the children’s bread and throw it to the dogs.”",
+    "27": "But she said, “Yes, Lord, but even the dogs eat the crumbs which fall from their masters’ table.”",
+    "28": "Then Jesus answered her, “Woman, great is your faith! Be it done to you even as you desire.” And her daughter was healed from that hour.",
+    "29": "Jesus departed from there, and came near to the sea of Galilee; and he went up into the mountain, and sat there.",
+    "30": "Great multitudes came to him, having with them the lame, blind, mute, maimed, and many others, and they put them down at his feet. He healed them,",
+    "31": "so that the multitude wondered when they saw the mute speaking, the injured healed, the lame walking, and the blind seeing—and they glorified the God of Israel.",
+    "32": "Jesus summoned his disciples and said, “I have compassion on the multitude, because they continue with me now three days and have nothing to eat. I don’t want to send them away fasting, or they might faint on the way.”",
+    "33": "The disciples said to him, “Where should we get so many loaves in a deserted place as to satisfy so great a multitude?”",
+    "34": "Jesus said to them, “How many loaves do you have?” They said, “Seven, and a few small fish.”",
+    "35": "He commanded the multitude to sit down on the ground;",
+    "36": "and he took the seven loaves and the fish. He gave thanks and broke them, and gave to the disciples, and the disciples to the multitudes.",
+    "37": "They all ate, and were filled. They took up seven baskets full of the broken pieces that were left over.",
+    "38": "Those who ate were four thousand men, in addition to women and children.",
+    "39": "Then he sent away the multitudes, got into the boat, and came into the borders of Magdala."
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.5851415094339623,
+      0.5677083333333334,
+      0.5,
+      0.598683176100629
+    ],
+    "2": [
+      0.5308186195826645,
+      0.5,
+      0.4768860353130016,
+      0.5714285714285714
+    ],
+    "3": [
+      0.6012690951821387,
+      0.5702898550724638,
+      0.48730904817861337,
+      0.637536231884058
+    ],
+    "4": [
+      0.6823264042459088,
+      0.6288515406162465,
+      0.48280406899601946,
+      0.6851688043638507
+    ],
+    "5": [
+      0.7780623528572449,
+      0.7213740458015268,
+      0.4906898765784405,
+      0.8099236641221375
+    ],
+    "6": [
+      0.6085443037974684,
+      0.5548523206751056,
+      0.4732019562715766,
+      0.5837840429612582
+    ],
+    "7": [
+      0.56,
+      0.5,
+      0.455,
+      0.5
+    ],
+    "8": [
+      0.5636904761904763,
+      0.5,
+      0.4607142857142857,
+      0.5113095238095239
+    ],
+    "9": [
+      0.5771171941830624,
+      0.654690618762475,
+      0.716566866267465,
+      0.6820074137439407
+    ],
+    "10": [
+      0.5043269230769231,
+      0.5541666666666667,
+      0.5,
+      0.6126602564102563
+    ],
+    "11": [
+      0.5515789473684211,
+      0.5,
+      0.4613157894736842,
+      0.5
+    ],
+    "12": [
+      0.5170132325141776,
+      0.556231884057971,
+      0.4872400756143667,
+      0.6515942028985506
+    ],
+    "13": [
+      0.511029411764706,
+      0.5,
+      0.5,
+      0.511029411764706
+    ],
+    "14": [
+      0.5105882352941177,
+      0.5194117647058824,
+      0.5258823529411765,
+      0.5105882352941177
+    ],
+    "15": [
+      0.5108108108108108,
+      0.5,
+      0.5,
+      0.5108108108108108
+    ],
+    "16": [
+      0.7,
+      0.6666666666666666,
+      0.5,
+      0.7661800486618005
+    ],
+    "17": [
+      0.5,
+      0.5625309296571226,
+      0.5083987274655355,
+      0.6515942028985506
+    ],
+    "18": [
+      0.5547945205479452,
+      0.5,
+      0.4589041095890411,
+      0.5
+    ],
+    "19": [
+      0.30000000000000004,
+      0.30000000000000004,
+      0.5,
+      0.5
+    ],
+    "20": [
+      0.5532467532467533,
+      0.5,
+      0.46006493506493507,
+      0.5
+    ],
+    "21": [
+      0.5850635593220339,
+      0.5677083333333334,
+      0.5,
+      0.5986052259887006
+    ],
+    "22": [
+      0.7778412698412699,
+      0.7301587301587301,
+      0.5,
+      0.8238730158730158
+    ],
+    "23": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "24": [
+      0.553125,
+      0.5,
+      0.46015625,
+      0.5
+    ],
+    "25": [
+      0.5853658536585366,
+      0.5677083333333334,
+      0.5,
+      0.5989075203252033
+    ],
+    "26": [
+      0.5,
+      0.5236301369863013,
+      0.5315068493150685,
+      0.5
+    ],
+    "27": [
+      0.6,
+      0.5833333333333334,
+      0.5,
+      0.6166666666666667
+    ],
+    "28": [
+      0.6029670329670329,
+      0.5619047619047619,
+      0.478489010989011,
+      0.5866666666666667
+    ],
+    "29": [
+      0.5851293103448276,
+      0.5677083333333334,
+      0.5,
+      0.5986709770114943
+    ],
+    "30": [
+      0.5611607142857143,
+      0.5,
+      0.46183035714285714,
+      0.5102678571428572
+    ],
+    "31": [
+      0.6840169133192388,
+      0.6393939393939393,
+      0.4874418604651163,
+      0.6951515151515151
+    ],
+    "32": [
+      0.777434043123075,
+      0.7213740458015268,
+      0.4911611088790679,
+      0.8099236641221375
+    ],
+    "33": [
+      0.5,
+      0.5,
+      0.5,
+      0.6
+    ],
+    "34": [
+      0.6014229249011858,
+      0.5702898550724638,
+      0.48719367588932805,
+      0.637536231884058
+    ],
+    "35": [
+      0.5104651162790698,
+      0.5209302325581395,
+      0.5279069767441861,
+      0.5104651162790698
+    ],
+    "36": [
+      0.5,
+      0.5194444444444445,
+      0.5259259259259259,
+      0.5
+    ],
+    "37": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "38": [
+      0.5646551724137931,
+      0.5,
+      0.45991379310344827,
+      0.5112068965517241
+    ],
+    "39": [
+      0.5,
+      0.6093695506371563,
+      0.5509054325955736,
+      0.5619047619047619
+    ]
+  }
+}

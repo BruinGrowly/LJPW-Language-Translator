@@ -1,0 +1,200 @@
+{
+  "book": "John",
+  "chapter": 15,
+  "translation": "World English Bible",
+  "language": "English",
+  "verse_count": 27,
+  "verses": {
+    "1": "“I am the true vine, and my Father is the farmer.",
+    "2": "Every branch in me that doesn’t bear fruit, he takes away. Every branch that bears fruit, he prunes, that it may bear more fruit.",
+    "3": "You are already pruned clean because of the word which I have spoken to you.",
+    "4": "Remain in me, and I in you. As the branch can’t bear fruit by itself unless it remains in the vine, so neither can you, unless you remain in me.",
+    "5": "I am the vine. You are the branches. He who remains in me and I in him bears much fruit, for apart from me you can do nothing.",
+    "6": "If a man doesn’t remain in me, he is thrown out as a branch and is withered; and they gather them, throw them into the fire, and they are burned.",
+    "7": "If you remain in me, and my words remain in you, you will ask whatever you desire, and it will be done for you.",
+    "8": "“In this my Father is glorified, that you bear much fruit; and so you will be my disciples.",
+    "9": "Even as the Father has loved me, I also have loved you. Remain in my love.",
+    "10": "If you keep my commandments, you will remain in my love; even as I have kept my Father’s commandments, and remain in his love.",
+    "11": "I have spoken these things to you, that my joy may remain in you, and that your joy may be made full.",
+    "12": "“This is my commandment, that you love one another, even as I have loved you.",
+    "13": "Greater love has no one than this, that someone lay down his life for his friends.",
+    "14": "You are my friends, if you do whatever I command you.",
+    "15": "No longer do I call you servants, for the servant doesn’t know what his lord does. But I have called you friends, for everything that I heard from my Father, I have made known to you.",
+    "16": "You didn’t choose me, but I chose you and appointed you, that you should go and bear fruit, and that your fruit should remain; that whatever you will ask of the Father in my name, he may give it to you.",
+    "17": "“I command these things to you, that you may love one another.",
+    "18": "If the world hates you, you know that it has hated me before it hated you.",
+    "19": "If you were of the world, the world would love its own. But because you are not of the world, since I chose you out of the world, therefore the world hates you.",
+    "20": "Remember the word that I said to you: ‘A servant is not greater than his lord.’ If they persecuted me, they will also persecute you. If they kept my word, they will also keep yours.",
+    "21": "But they will do all these things to you for my name’s sake, because they don’t know him who sent me.",
+    "22": "If I had not come and spoken to them, they would not have had sin; but now they have no excuse for their sin.",
+    "23": "He who hates me, hates my Father also.",
+    "24": "If I hadn’t done among them the works which no one else did, they wouldn’t have had sin. But now they have seen and also hated both me and my Father.",
+    "25": "But this happened so that the word may be fulfilled which was written in their law, ‘They hated me without a cause.’",
+    "26": "“When the Counselor has come, whom I will send to you from the Father, the Spirit of truth, who proceeds from the Father, he will testify about me.",
+    "27": "You will also testify, because you have been with me from the beginning."
+  },
+  "ljpw_coordinates": {
+    "1": [
+      0.5125000000000001,
+      0.5,
+      0.5,
+      0.5125000000000001
+    ],
+    "2": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "3": [
+      0.559016393442623,
+      0.5,
+      0.4557377049180328,
+      0.5
+    ],
+    "4": [
+      0.5137614678899083,
+      0.5,
+      0.5,
+      0.5137614678899083
+    ],
+    "5": [
+      0.5652631578947369,
+      0.5,
+      0.4605263157894737,
+      0.5126315789473684
+    ],
+    "6": [
+      0.5631818181818182,
+      0.5,
+      0.4611363636363636,
+      0.5113636363636364
+    ],
+    "7": [
+      0.5696428571428572,
+      0.5,
+      0.45714285714285713,
+      0.5125000000000001
+    ],
+    "8": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "9": [
+      0.6329264617239301,
+      0.5,
+      0.4387093128390597,
+      0.551205545509343
+    ],
+    "10": [
+      0.6136904761904761,
+      0.5,
+      0.45937500000000003,
+      0.5595238095238095
+    ],
+    "11": [
+      0.5558441558441559,
+      0.5,
+      0.4581168831168831,
+      0.5
+    ],
+    "12": [
+      0.6317886004433956,
+      0.5,
+      0.43928341557605666,
+      0.5508331545448044
+    ],
+    "13": [
+      0.6298279779292437,
+      0.5,
+      0.4410613437195716,
+      0.5512431028886725
+    ],
+    "14": [
+      0.5585365853658537,
+      0.5,
+      0.4560975609756098,
+      0.5
+    ],
+    "15": [
+      0.6793607800650053,
+      0.6474358974358974,
+      0.5,
+      0.7088479595521848
+    ],
+    "16": [
+      0.5561290322580645,
+      0.5,
+      0.4579032258064516,
+      0.5
+    ],
+    "17": [
+      0.6279761904761905,
+      0.5,
+      0.4411607142857143,
+      0.5495238095238095
+    ],
+    "18": [
+      0.531578947368421,
+      0.5495238095238095,
+      0.4763157894736842,
+      0.599047619047619
+    ],
+    "19": [
+      0.7419216555801921,
+      0.5,
+      0.4021951219512195,
+      0.6115151515151515
+    ],
+    "20": [
+      0.6009249743062692,
+      0.5619047619047619,
+      0.48002055498458374,
+      0.5866666666666667
+    ],
+    "21": [
+      0.5267161410018553,
+      0.5495238095238095,
+      0.47996289424860855,
+      0.599047619047619
+    ],
+    "22": [
+      0.4529776247848537,
+      0.4257142857142857,
+      0.47955249569707403,
+      0.5
+    ],
+    "23": [
+      0.5620689655172414,
+      0.5,
+      0.45344827586206893,
+      0.5
+    ],
+    "24": [
+      0.4532330827067669,
+      0.4257142857142857,
+      0.4793609022556391,
+      0.5
+    ],
+    "25": [
+      0.5288226059654632,
+      0.599047619047619,
+      0.5155259026687599,
+      0.5619047619047619
+    ],
+    "26": [
+      0.8381284367635506,
+      0.8149875621890548,
+      0.6151070306362922,
+      0.843594527363184
+    ],
+    "27": [
+      0.5551724137931034,
+      0.5,
+      0.4586206896551724,
+      0.5
+    ]
+  }
+}
