@@ -108,6 +108,29 @@ class SemanticReconstructionFidelity:
         
         return metrics
     
+    def calculate_harmony(self, ljpw_coords: np.ndarray) -> float:
+        """
+        Calculate harmony index from LJPW coordinates.
+        H = 1 / (1 + ||ψ - anchor||)
+        
+        Args:
+            ljpw_coords: [L, J, P, W] coordinates
+            
+        Returns:
+            Harmony index (0 to 1)
+        """
+        # Ensure numpy array
+        ljpw_coords = np.array(ljpw_coords)
+        
+        # Anchor point (perfect harmony)
+        anchor = np.array([1.0, 1.0, 1.0, 1.0])
+        
+        # Calculate Euclidean distance from anchor
+        distance = np.linalg.norm(ljpw_coords - anchor)
+        
+        # Harmony is inverse of distance (1 at anchor, decays with distance)
+        return 1.0 / (1.0 + distance)
+    
     def measure_harmony_preservation(self, 
                                     harmony_source: float, 
                                     harmony_target: float) -> Dict[str, float]:

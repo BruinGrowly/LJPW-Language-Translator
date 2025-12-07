@@ -1,0 +1,284 @@
+{
+  "source": "Matthew 5:1-12 (Beatitudes)",
+  "method": "LJPW Framework + Learned Wedau Patterns",
+  "verses": [
+    {
+      "verse": 1,
+      "greek": "Ἰδὼν δὲ τοὺς ὄχλους ἀνέβη εἰς τὸ ὄρος· καὶ καθίσαντος αὐτοῦ προσῆλθαν αὐτῷ οἱ μαθηταὶ αὐτοῦ·",
+      "english": "Seeing the crowds, he went up on the mountain, and when he sat down, his disciples came to him.",
+      "wedau": "Yesu i inana rava anatapuhi, i nae au dobuna. Ma i maꞌae, ana tauvotaghotagho hi neꞌi awarina.",
+      "greek_voltage": 1.4824600396965009,
+      "wedau_voltage": 1.8585264579551306,
+      "voltage_change": 0.37606641825862974,
+      "voltage_change_pct": 25.367727168930678,
+      "greek_coords": [
+        0.7065036420395422,
+        0.7425771765522027,
+        0.6835587929240375,
+        0.8245404092958725
+      ],
+      "wedau_coords": [
+        1.0,
+        0.9983333333333333,
+        0.6763513513513514,
+        1.0
+      ]
+    },
+    {
+      "verse": 2,
+      "greek": "καὶ ἀνοίξας τὸ στόμα αὐτοῦ ἐδίδασκεν αὐτοὺς λέγων·",
+      "english": "And he opened his mouth and taught them, saying:",
+      "wedau": "Ma Yesu i ponana i wana-tawaneꞌi ma i viharaharamana hita, i riwa ipa:",
+      "greek_voltage": 1.4824600396965009,
+      "wedau_voltage": 1.8498403437920423,
+      "voltage_change": 0.36738030409554145,
+      "voltage_change_pct": 24.78180148253804,
+      "greek_coords": [
+        0.7065036420395422,
+        0.7425771765522027,
+        0.6835587929240375,
+        0.8245404092958725
+      ],
+      "wedau_coords": [
+        1.0,
+        1.0,
+        0.6495454545454545,
+        1.0
+      ]
+    },
+    {
+      "verse": 3,
+      "greek": "Μακάριοι οἱ πτωχοὶ τῷ πνεύματι, ὅτι αὐτῶν ἐστιν ἡ βασιλεία τῶν οὐρανῶν.",
+      "english": "Blessed are the poor in spirit, for theirs is the kingdom of heaven.",
+      "wedau": "Rava hi nuwaboyei, hita aruwa-apoapoena hi vovovoi, yamna God ana vibadana vouna hita.",
+      "greek_voltage": 1.5805532270590053,
+      "wedau_voltage": 1.8331472114861893,
+      "voltage_change": 0.25259398442718406,
+      "voltage_change_pct": 15.98136526519864,
+      "greek_coords": [
+        0.836088379705401,
+        0.7981178396072013,
+        0.5962356792144026,
+        0.8981178396072014
+      ],
+      "wedau_coords": [
+        1.0,
+        1.0,
+        0.6003571428571429,
+        1.0
+      ]
+    },
+    {
+      "verse": 4,
+      "greek": "μακάριοι οἱ πενθοῦντες, ὅτι αὐτοὶ παρακληθήσονται.",
+      "english": "Blessed are those who mourn, for they shall be comforted.",
+      "wedau": "Rava hi nuwaboyei, hita hi nuwanuwaboyei, yamna hita hi paꞌini.",
+      "greek_voltage": 1.4347924517307842,
+      "wedau_voltage": 1.569343586529023,
+      "voltage_change": 0.13455113479823888,
+      "voltage_change_pct": 9.377742030628221,
+      "greek_coords": [
+        0.6835800185013876,
+        0.7156490903484428,
+        0.6631822386679002,
+        0.7996145544249152
+      ],
+      "wedau_coords": [
+        1.0,
+        0.7333333333333333,
+        0.29117647058823526,
+        0.9166666666666666
+      ]
+    },
+    {
+      "verse": 5,
+      "greek": "μακάριοι οἱ πραεῖς, ὅτι αὐτοὶ κληρονομήσουσιν τὴν γῆν.",
+      "english": "Blessed are the meek, for they shall inherit the earth.",
+      "wedau": "Rava hi nuwaboyei, hita hi vivivireinei, yamna hita hi dobuna ana vouna.",
+      "greek_voltage": 1.4463991780586312,
+      "wedau_voltage": 1.702786980741746,
+      "voltage_change": 0.2563878026831148,
+      "voltage_change_pct": 17.72593669662068,
+      "greek_coords": [
+        0.6458119030124909,
+        0.7359417095273084,
+        0.6296105804555474,
+        0.8584741611560127
+      ],
+      "wedau_coords": [
+        1.0,
+        0.9,
+        0.2991379310344827,
+        1.0
+      ]
+    },
+    {
+      "verse": 6,
+      "greek": "μακάριοι οἱ πεινῶντες καὶ διψῶντες τὴν δικαιοσύνην, ὅτι αὐτοὶ χορτασθήσονται.",
+      "english": "Blessed are those who hunger and thirst for righteousness, for they shall be satisfied.",
+      "wedau": "Rava hi nuwaboyei, hita hi kapaꞌukapaꞌu ma tawayatawaya God ana vovonana awarina, yamna hita hi yawahana.",
+      "greek_voltage": 1.4463991780586312,
+      "wedau_voltage": 1.8675088164579456,
+      "voltage_change": 0.4211096383993145,
+      "voltage_change_pct": 29.11434442077956,
+      "greek_coords": [
+        0.6458119030124909,
+        0.7359417095273084,
+        0.6296105804555474,
+        0.8584741611560127
+      ],
+      "wedau_coords": [
+        1.0,
+        1.0,
+        0.6982758620689655,
+        1.0
+      ]
+    },
+    {
+      "verse": 7,
+      "greek": "μακάριοι οἱ ἐλεήμονες, ὅτι αὐτοὶ ἐλεηθήσονται.",
+      "english": "Blessed are the merciful, for they shall receive mercy.",
+      "wedau": "Rava hi nuwaboyei, hita hi nuwaboyei ana hita, yamna hita hi nuwaboyei ana vouna.",
+      "greek_voltage": 1.4824600396965009,
+      "wedau_voltage": 1.4863411430170996,
+      "voltage_change": 0.0038811033205987666,
+      "voltage_change_pct": 0.26180154720348026,
+      "greek_coords": [
+        0.7065036420395422,
+        0.7425771765522027,
+        0.6835587929240375,
+        0.8245404092958725
+      ],
+      "wedau_coords": [
+        1.0,
+        0.7333333333333333,
+        0.2892307692307692,
+        0.7666666666666666
+      ]
+    },
+    {
+      "verse": 8,
+      "greek": "μακάριοι οἱ καθαροὶ τῇ καρδίᾳ, ὅτι αὐτοὶ τὸν Θεὸν ὄψονται.",
+      "english": "Blessed are the pure in heart, for they shall see God.",
+      "wedau": "Rava hi nuwaboyei, hita hi vivivireina ahi urana, yamna hita hi God ina inana.",
+      "greek_voltage": 1.4463991780586312,
+      "wedau_voltage": 1.7819889228982166,
+      "voltage_change": 0.3355897448395855,
+      "voltage_change_pct": 23.2017378003503,
+      "greek_coords": [
+        0.6458119030124909,
+        0.7359417095273084,
+        0.6296105804555474,
+        0.8584741611560127
+      ],
+      "wedau_coords": [
+        1.0,
+        0.975,
+        0.4741935483870968,
+        1.0
+      ]
+    },
+    {
+      "verse": 9,
+      "greek": "μακάριοι οἱ εἰρηνοποιοί, ὅτι αὐτοὶ υἱοὶ Θεοῦ κληθήσονται.",
+      "english": "Blessed are the peacemakers, for they shall be called sons of God.",
+      "wedau": "Rava hi nuwaboyei, hita hi vovonana ahi yaruhi, yamna hita hi God ana natuna ina ghorehi.",
+      "greek_voltage": 1.5101199975842268,
+      "wedau_voltage": 1.781735267757853,
+      "voltage_change": 0.2716152701736263,
+      "voltage_change_pct": 17.986336887673524,
+      "greek_coords": [
+        0.7810066127847172,
+        0.7584741611560128,
+        0.6296105804555474,
+        0.8359417095273085
+      ],
+      "wedau_coords": [
+        1.0,
+        0.975,
+        0.47323943661971835,
+        1.0
+      ]
+    },
+    {
+      "verse": 10,
+      "greek": "μακάριοι οἱ δεδιωγμένοι ἕνεκεν δικαιοσύνης, ὅτι αὐτῶν ἐστιν ἡ βασιλεία τῶν οὐρανῶν.",
+      "english": "Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven.",
+      "wedau": "Rava hi nuwaboyei, hita hi rau-dadani God ana vovonana awarina, yamna God ana vibadana vouna hita.",
+      "greek_voltage": 1.5378728001725224,
+      "wedau_voltage": 1.8336007299729182,
+      "voltage_change": 0.29572792980039586,
+      "voltage_change_pct": 19.229674246610017,
+      "greek_coords": [
+        0.608265139116203,
+        0.7981178396072013,
+        0.8620294599018004,
+        0.7842062193126023
+      ],
+      "wedau_coords": [
+        1.0,
+        1.0,
+        0.601740506329114,
+        1.0
+      ]
+    },
+    {
+      "verse": 11,
+      "greek": "μακάριοί ἐστε ὅταν ὀνειδίσωσιν ὑμᾶς καὶ διώξωσιν καὶ εἴπωσιν πᾶν πονηρὸν καθ' ὑμῶν ψευδόμενοι ἕνεκεν ἐμοῦ.",
+      "english": "Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely on my account.",
+      "wedau": "Rava ami nuwaboyei, maranaina rava hi ami rau-gamopotahi ma hi ami rau-dadanihi ma hi ami apoapoe ina riwehi, tau awarina.",
+      "greek_voltage": 1.4463991780586312,
+      "wedau_voltage": 1.757665723718495,
+      "voltage_change": 0.3112665456598638,
+      "voltage_change_pct": 21.52009973330103,
+      "greek_coords": [
+        0.6458119030124909,
+        0.7359417095273084,
+        0.6296105804555474,
+        0.8584741611560127
+      ],
+      "wedau_coords": [
+        1.0,
+        1.0,
+        0.2989795918367347,
+        1.0
+      ]
+    },
+    {
+      "verse": 12,
+      "greek": "χαίρετε καὶ ἀγαλλιᾶσθε, ὅτι ὁ μισθὸς ὑμῶν πολὺς ἐν τοῖς οὐρανοῖς· οὕτως γὰρ ἐδίωξαν τοὺς προφήτας τοὺς πρὸ ὑμῶν.",
+      "english": "Rejoice and be glad, for your reward is great in heaven, for so they persecuted the prophets who were before you.",
+      "wedau": "Ami nuwaboyei ma ami tumaghanei, yamna ami puyona i ghe vavahagha au marei. Yamna aubaina hi peroveta hita rau-dadanihi, hita ami awarina hi maꞌae.",
+      "greek_voltage": 1.4824600396965009,
+      "wedau_voltage": 1.707772055449156,
+      "voltage_change": 0.22531201575265514,
+      "voltage_change_pct": 15.19852203225542,
+      "greek_coords": [
+        0.7065036420395422,
+        0.7425771765522027,
+        0.6835587929240375,
+        0.8245404092958725
+      ],
+      "wedau_coords": [
+        1.0,
+        0.9933333333333333,
+        0.29915966386554627,
+        0.9166666666666666
+      ]
+    }
+  ],
+  "statistics": {
+    "avg_greek_voltage": 1.4815646122972554,
+    "avg_wedau_voltage": 1.7525214366479844,
+    "avg_voltage_gain_pct": 18.312257442674134,
+    "particle_counts": {
+      "i": 62,
+      "ana": 23,
+      "ma": 5,
+      "hi": 28,
+      "yamna": 9,
+      "hita": 20,
+      "rava": 11
+    }
+  }
+}
