@@ -1,0 +1,929 @@
+{
+  "summary": {
+    "success_rate": 0.0,
+    "avg_preservation": 0.7973431809564808,
+    "avg_confidence": 0.26456962716701754
+  },
+  "results": [
+    {
+      "verse_num": 1,
+      "source_lang": "english",
+      "intermediate_lang": "spanish",
+      "source": {
+        "verse": 1,
+        "text": "The beginning of the good news about Jesus Christ, the Son of God.",
+        "coords": [
+          0.8,
+          0.75,
+          0.5,
+          0.85
+        ]
+      },
+      "intermediate": {
+        "verse": 1,
+        "text": "Principio del evangelio de Jesucristo, Hijo de Dios",
+        "coords": [
+          0.9525,
+          0.9712500000000001,
+          0.68625,
+          0.92875
+        ],
+        "distance": 0.5086198543607987,
+        "quality": "VERY_POOR",
+        "confidence": 0.19771800071748422,
+        "matched_same": true,
+        "top_candidates": [
+          {
+            "verse": 1,
+            "text": "Principio del evangelio de Jesucristo, Hijo de Dios",
+            "coords": [
+              0.9525,
+              0.9712500000000001,
+              0.68625,
+              0.92875
+            ],
+            "base_distance": 0.5086198543607987,
+            "effective_distance": 0.25430992718039935,
+            "context_boost": true
+          },
+          {
+            "verse": 4,
+            "text": "Bautizaba Juan en el desierto, y predicaba el bautismo de arrepentimiento para perdón de pecados",
+            "coords": [
+              0.755,
+              0.87,
+              0.525,
+              0.7775000000000001
+            ],
+            "base_distance": 0.20171158246367504,
+            "effective_distance": 0.26222505720277756,
+            "context_boost": true
+          },
+          {
+            "verse": 2,
+            "text": "Como está escrito en Isaías el profeta: He aquí yo envío mi mensajero delante de tu faz, el cual preparará tu camino delante de ti",
+            "coords": [
+              0.9500961538461538,
+              0.905,
+              0.5,
+              0.94
+            ],
+            "base_distance": 0.2852299167328144,
+            "effective_distance": 0.3137529084060959,
+            "context_boost": true
+          },
+          {
+            "verse": 5,
+            "text": "Y salían a él toda la provincia de Judea, y todos los de Jerusalén; y eran bautizados por él en el río Jordán, confesando sus pecados",
+            "coords": [
+              0.7399999999999999,
+              0.73,
+              0.525,
+              0.69
+            ],
+            "base_distance": 0.2537242597782089,
+            "effective_distance": 0.35521396368949243,
+            "context_boost": true
+          },
+          {
+            "verse": 8,
+            "text": "Yo a la verdad os he bautizado con agua; pero él os bautizará con Espíritu Santo",
+            "coords": [
+              0.9324999999999999,
+              0.79125,
+              0.5675,
+              0.8274999999999999
+            ],
+            "base_distance": 0.19948923059904755,
+            "effective_distance": 0.37902953813819035,
+            "context_boost": false
+          }
+        ]
+      },
+      "final": {
+        "verse": 3,
+        "text": "a voice of one calling out in the wilderness: Prepare the way of Jehovah! Make his roads straight.'",
+        "coords": [
+          0.6051282051282052,
+          0.9,
+          0.5711538461538461,
+          0.75
+        ],
+        "distance": 0.50410918325613,
+        "quality": "VERY_POOR",
+        "confidence": 0.11004448033427647,
+        "matched_original": false,
+        "top_candidates": [
+          {
+            "verse": 3,
+            "text": "a voice of one calling out in the wilderness: Prepare the way of Jehovah! Make his roads straight.'",
+            "coords": [
+              0.6051282051282052,
+              0.9,
+              0.5711538461538461,
+              0.75
+            ],
+            "base_distance": 0.50410918325613,
+            "effective_distance": 0.604931019907356,
+            "context_boost": true
+          },
+          {
+            "verse": 2,
+            "text": "Just as it is written in Isaiah the prophet: 'Look! I am sending my messenger ahead of you, who will prepare your way;",
+            "coords": [
+              1.0,
+              0.85,
+              0.3675824175824176,
+              1.0
+            ],
+            "base_distance": 0.6668735026865791,
+            "effective_distance": 0.7335608529552371,
+            "context_boost": true
+          },
+          {
+            "verse": 8,
+            "text": "I baptized you with water, but he will baptize you with holy spirit.'",
+            "coords": [
+              0.8185185185185184,
+              0.7055555555555555,
+              0.46296296296296297,
+              0.7333333333333333
+            ],
+            "base_distance": 0.6500805992618871,
+            "effective_distance": 1.2351531385975854,
+            "context_boost": false
+          },
+          {
+            "verse": 15,
+            "text": "and saying: 'The appointed time has been fulfilled, and the Kingdom of God has drawn near. Repent, and have faith in the good news.'",
+            "coords": [
+              0.6,
+              0.85,
+              0.7999999999999999,
+              0.8999999999999999
+            ],
+            "base_distance": 0.45024205295596276,
+            "effective_distance": 1.485798774754677,
+            "context_boost": false
+          },
+          {
+            "verse": 4,
+            "text": "John the Baptist appeared in the wilderness, proclaiming baptism in symbol of repentance for forgiveness of sins.",
+            "coords": [
+              0.42210526315789476,
+              0.4,
+              0.5,
+              0.5221052631578947
+            ],
+            "base_distance": 1.1591490788496202,
+            "effective_distance": 1.5068938025045062,
+            "context_boost": true
+          }
+        ]
+      },
+      "overall": {
+        "source_to_final_distance": 0.27484156574113766,
+        "preservation_rate": 0.8625792171294312,
+        "success": false,
+        "intermediate_quality": "VERY_POOR",
+        "final_quality": "VERY_POOR"
+      }
+    },
+    {
+      "verse_num": 8,
+      "source_lang": "english",
+      "intermediate_lang": "greek",
+      "source": {
+        "verse": 8,
+        "text": "I baptized you with water, but he will baptize you with holy spirit.'",
+        "coords": [
+          0.8185185185185184,
+          0.7055555555555555,
+          0.46296296296296297,
+          0.7333333333333333
+        ]
+      },
+      "intermediate": {
+        "verse": 7,
+        "text": "καὶ ἐκήρυσσεν λέγων Ἔρχεται ὁ ἰσχυρότερός μου ὀπίσω μου οὗ οὐκ εἰμὶ ἱκανὸς κύψας λῦσαι τὸν ἱμάντα τῶν ὑποδημάτων αὐτοῦ",
+        "coords": [
+          0.6333333333333333,
+          0.75,
+          0.45,
+          0.6666666666666666
+        ],
+        "distance": 0.2197816599539784,
+        "quality": "ACCEPTABLE",
+        "confidence": 0.21003249564708018,
+        "matched_same": false,
+        "top_candidates": [
+          {
+            "verse": 7,
+            "text": "καὶ ἐκήρυσσεν λέγων Ἔρχεται ὁ ἰσχυρότερός μου ὀπίσω μου οὗ οὐκ εἰμὶ ἱκανὸς κύψας λῦσαι τὸν ἱμάντα τῶν ὑποδημάτων αὐτοῦ",
+            "coords": [
+              0.6333333333333333,
+              0.75,
+              0.45,
+              0.6666666666666666
+            ],
+            "base_distance": 0.2197816599539784,
+            "effective_distance": 0.24175982594937626,
+            "context_boost": true
+          },
+          {
+            "verse": 8,
+            "text": "ἐγὼ μὲν ἐβάπτισα ὑμᾶς ἐν ὕδατι αὐτὸς δὲ βαπτίσει ὑμᾶς ἐν πνεύματι ἁγίῳ",
+            "coords": [
+              0.5,
+              0.6,
+              0.5,
+              0.5
+            ],
+            "base_distance": 0.49826795337525775,
+            "effective_distance": 0.24913397668762888,
+            "context_boost": true
+          },
+          {
+            "verse": 12,
+            "text": "Καὶ εὐθὺς τὸ πνεῦμα αὐτὸν ἐκβάλλει εἰς τὴν ἔρημον",
+            "coords": [
+              0.78,
+              0.7399999999999999,
+              0.57,
+              0.815
+            ],
+            "base_distance": 0.25361917286011637,
+            "effective_distance": 0.3550668420041629,
+            "context_boost": true
+          },
+          {
+            "verse": 2,
+            "text": "ὡς γέγραπται ἐν τοῖς προφήταις Ἰδού ἐγὼ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου ὃς κατασκευάσει τὴν ὁδόν σου ἔμπροσθέν σου",
+            "coords": [
+              0.7666666666666666,
+              0.6,
+              0.4,
+              0.6333333333333333
+            ],
+            "base_distance": 0.24469550799385972,
+            "effective_distance": 0.41598236358956153,
+            "context_boost": false
+          },
+          {
+            "verse": 9,
+            "text": "Καὶ ἐγένετο ἐν ἐκείναις ταῖς ἡμέραις ἦλθεν Ἰησοῦς ἀπὸ Ναζαρὲτ τῆς Γαλιλαίας καὶ ἐβαπτίσθη ὑπὸ Ἰωάννου εἰς τὸν Ἰορδάνην",
+            "coords": [
+              0.5,
+              0.75,
+              0.5,
+              0.6
+            ],
+            "base_distance": 0.38765872451694083,
+            "effective_distance": 0.42642459696863494,
+            "context_boost": true
+          }
+        ]
+      },
+      "final": {
+        "verse": 7,
+        "text": "And he was preaching: 'Someone stronger than I am is coming after me, and I am not worthy to stoop down and untie the laces of his sandals.",
+        "coords": [
+          0.5222222222222223,
+          0.5,
+          0.5,
+          0.5222222222222223
+        ],
+        "distance": 0.418228554090691,
+        "quality": "VERY_POOR",
+        "confidence": 0.3542558464602109,
+        "matched_original": false,
+        "top_candidates": [
+          {
+            "verse": 7,
+            "text": "And he was preaching: 'Someone stronger than I am is coming after me, and I am not worthy to stoop down and untie the laces of his sandals.",
+            "coords": [
+              0.5222222222222223,
+              0.5,
+              0.5,
+              0.5222222222222223
+            ],
+            "base_distance": 0.418228554090691,
+            "effective_distance": 0.2091142770453455,
+            "context_boost": true
+          },
+          {
+            "verse": 9,
+            "text": "In the course of those days, Jesus came from Nazareth of Galilee and was baptized by John in the Jordan.",
+            "coords": [
+              0.6,
+              0.5833333333333334,
+              0.5,
+              0.6166666666666667
+            ],
+            "base_distance": 0.25235006549544525,
+            "effective_distance": 0.3028200785945343,
+            "context_boost": true
+          },
+          {
+            "verse": 10,
+            "text": "And immediately on coming up out of the water, he saw the heavens being parted and the spirit descending on him like a dove.",
+            "coords": [
+              0.6,
+              0.5833333333333334,
+              0.5,
+              0.6166666666666667
+            ],
+            "base_distance": 0.25235006549544525,
+            "effective_distance": 0.32805508514407883,
+            "context_boost": true
+          },
+          {
+            "verse": 12,
+            "text": "And immediately the spirit impelled him to go into the wilderness.",
+            "coords": [
+              0.6236363636363637,
+              0.5833333333333334,
+              0.5,
+              0.6403030303030304
+            ],
+            "base_distance": 0.24207915779958208,
+            "effective_distance": 0.3631187366993731,
+            "context_boost": true
+          },
+          {
+            "verse": 6,
+            "text": "Now John was clothed with camel hair and wore a leather belt around his waist, and he ate locusts and wild honey.",
+            "coords": [
+              0.6088888888888889,
+              0.5,
+              0.41833333333333333,
+              0.5
+            ],
+            "base_distance": 0.4156123698535796,
+            "effective_distance": 0.4571736068389376,
+            "context_boost": true
+          }
+        ]
+      },
+      "overall": {
+        "source_to_final_distance": 0.4195047377154474,
+        "preservation_rate": 0.7902476311422764,
+        "success": false,
+        "intermediate_quality": "ACCEPTABLE",
+        "final_quality": "VERY_POOR"
+      }
+    },
+    {
+      "verse_num": 15,
+      "source_lang": "english",
+      "intermediate_lang": "chinese",
+      "source": {
+        "verse": 15,
+        "text": "and saying: 'The appointed time has been fulfilled, and the Kingdom of God has drawn near. Repent, and have faith in the good news.'",
+        "coords": [
+          0.6,
+          0.85,
+          0.7999999999999999,
+          0.8999999999999999
+        ]
+      },
+      "intermediate": {
+        "verse": 7,
+        "text": "他传道说：有一位在我以后来的，能力比我更大，我就是弯腰给他解鞋带也是不配的",
+        "coords": [
+          0.6499999999999999,
+          0.8850000000000001,
+          0.81,
+          0.932
+        ],
+        "distance": 0.08528921385497723,
+        "quality": "GOOD",
+        "confidence": 0.2677013679918217,
+        "matched_same": false,
+        "top_candidates": [
+          {
+            "verse": 7,
+            "text": "他传道说：有一位在我以后来的，能力比我更大，我就是弯腰给他解鞋带也是不配的",
+            "coords": [
+              0.6499999999999999,
+              0.8850000000000001,
+              0.81,
+              0.932
+            ],
+            "base_distance": 0.08528921385497723,
+            "effective_distance": 0.1791073490954522,
+            "context_boost": false
+          },
+          {
+            "verse": 15,
+            "text": "说：日期满了，神的国近了。你们当悔改，信福音",
+            "coords": [
+              0.7847328,
+              0.8716880000000001,
+              0.627968,
+              0.9714848
+            ],
+            "base_distance": 0.4059542340006322,
+            "effective_distance": 0.2029771170003161,
+            "context_boost": true
+          },
+          {
+            "verse": 27,
+            "text": "众人都惊讶，以致彼此对问说：这是什么事？是个新道理啊！他用权柄吩咐污鬼，连污鬼也听从了他",
+            "coords": [
+              0.6510227272727271,
+              0.8166666666666667,
+              0.7533333333333334,
+              0.9053333333333333
+            ],
+            "base_distance": 0.11513560521070766,
+            "effective_distance": 0.3338932551110523,
+            "context_boost": false
+          },
+          {
+            "verse": 20,
+            "text": "耶稣随即招呼他们，他们就把父亲西庇太和雇工人留在船上，跟从耶稣去了",
+            "coords": [
+              0.7813636363636364,
+              0.7683333333333334,
+              0.7100000000000001,
+              0.8986666666666667
+            ],
+            "base_distance": 0.2767094680457326,
+            "effective_distance": 0.4150642020685989,
+            "context_boost": true
+          },
+          {
+            "verse": 14,
+            "text": "约翰下监以后，耶稣来到加利利，宣传神的福音",
+            "coords": [
+              0.8632000000000001,
+              0.8576666666666667,
+              0.6799999999999999,
+              1.0
+            ],
+            "base_distance": 0.38661812482661045,
+            "effective_distance": 0.42527993730927155,
+            "context_boost": true
+          }
+        ]
+      },
+      "final": {
+        "verse": 7,
+        "text": "And he was preaching: 'Someone stronger than I am is coming after me, and I am not worthy to stoop down and untie the laces of his sandals.",
+        "coords": [
+          0.5222222222222223,
+          0.5,
+          0.5,
+          0.5222222222222223
+        ],
+        "distance": 1.014417331084667,
+        "quality": "VERY_POOR",
+        "confidence": 0.1774677471675032,
+        "matched_original": false,
+        "top_candidates": [
+          {
+            "verse": 7,
+            "text": "And he was preaching: 'Someone stronger than I am is coming after me, and I am not worthy to stoop down and untie the laces of his sandals.",
+            "coords": [
+              0.5222222222222223,
+              0.5,
+              0.5,
+              0.5222222222222223
+            ],
+            "base_distance": 1.014417331084667,
+            "effective_distance": 0.5072086655423335,
+            "context_boost": true
+          },
+          {
+            "verse": 3,
+            "text": "a voice of one calling out in the wilderness: Prepare the way of Jehovah! Make his roads straight.'",
+            "coords": [
+              0.6051282051282052,
+              0.9,
+              0.5711538461538461,
+              0.75
+            ],
+            "base_distance": 0.5523700469824726,
+            "effective_distance": 0.7733180657754616,
+            "context_boost": true
+          },
+          {
+            "verse": 8,
+            "text": "I baptized you with water, but he will baptize you with holy spirit.'",
+            "coords": [
+              0.8185185185185184,
+              0.7055555555555555,
+              0.46296296296296297,
+              0.7333333333333333
+            ],
+            "base_distance": 0.8083067691108359,
+            "effective_distance": 0.8891374460219196,
+            "context_boost": true
+          },
+          {
+            "verse": 9,
+            "text": "In the course of those days, Jesus came from Nazareth of Galilee and was baptized by John in the Jordan.",
+            "coords": [
+              0.6,
+              0.5833333333333334,
+              0.5,
+              0.6166666666666667
+            ],
+            "base_distance": 0.8743132701980708,
+            "effective_distance": 1.049175924237685,
+            "context_boost": true
+          },
+          {
+            "verse": 10,
+            "text": "And immediately on coming up out of the water, he saw the heavens being parted and the spirit descending on him like a dove.",
+            "coords": [
+              0.6,
+              0.5833333333333334,
+              0.5,
+              0.6166666666666667
+            ],
+            "base_distance": 0.8743132701980708,
+            "effective_distance": 1.136607251257492,
+            "context_boost": true
+          }
+        ]
+      },
+      "overall": {
+        "source_to_final_distance": 0.6010536016852118,
+        "preservation_rate": 0.6994731991573941,
+        "success": false,
+        "intermediate_quality": "GOOD",
+        "final_quality": "VERY_POOR"
+      }
+    },
+    {
+      "verse_num": 24,
+      "source_lang": "spanish",
+      "intermediate_lang": "chinese",
+      "source": {
+        "verse": 24,
+        "text": "diciendo: ¡Ah! ¿qué tienes con nosotros, Jesús nazareno? ¿Has venido para destruirnos? Sé quién eres, el Santo de Dios",
+        "coords": [
+          0.9800000000000001,
+          0.8925000000000001,
+          0.5525,
+          0.9725
+        ]
+      },
+      "intermediate": {
+        "verse": 24,
+        "text": "拿撒勒人耶稣，我们与你有什么相干？你来灭我们吗？我知道你是谁，乃是神的圣者",
+        "coords": [
+          0.7980962162162163,
+          0.8806000000000002,
+          0.6392,
+          0.93808
+        ],
+        "distance": 0.25702436529414396,
+        "quality": "POOR",
+        "confidence": 0.5580199286191969,
+        "matched_same": true,
+        "top_candidates": [
+          {
+            "verse": 24,
+            "text": "拿撒勒人耶稣，我们与你有什么相干？你来灭我们吗？我知道你是谁，乃是神的圣者",
+            "coords": [
+              0.7980962162162163,
+              0.8806000000000002,
+              0.6392,
+              0.93808
+            ],
+            "base_distance": 0.25702436529414396,
+            "effective_distance": 0.12851218264707198,
+            "context_boost": true
+          },
+          {
+            "verse": 19,
+            "text": "耶稣稍往前走，又见西庇太的儿子雅各和雅各的兄弟约翰在船上补网",
+            "coords": [
+              0.8300000000000001,
+              0.9030000000000001,
+              0.632,
+              0.9400000000000001
+            ],
+            "base_distance": 0.22437443036139393,
+            "effective_distance": 0.3365616455420909,
+            "context_boost": true
+          },
+          {
+            "verse": 21,
+            "text": "到了迦百农，耶稣就在安息日进了会堂教训人",
+            "coords": [
+              0.7022499999999999,
+              0.6916666666666667,
+              0.63,
+              1.0
+            ],
+            "base_distance": 0.41356514836775676,
+            "effective_distance": 0.5376346928780839,
+            "context_boost": true
+          },
+          {
+            "verse": 15,
+            "text": "说：日期满了，神的国近了。你们当悔改，信福音",
+            "coords": [
+              0.7847328,
+              0.8716880000000001,
+              0.627968,
+              0.9714848
+            ],
+            "base_distance": 0.2482846751272418,
+            "effective_distance": 0.5710547527926562,
+            "context_boost": false
+          },
+          {
+            "verse": 20,
+            "text": "耶稣随即招呼他们，他们就把父亲西庇太和雇工人留在船上，跟从耶稣去了",
+            "coords": [
+              0.7813636363636364,
+              0.7683333333333334,
+              0.7100000000000001,
+              0.8986666666666667
+            ],
+            "base_distance": 0.4207164219952147,
+            "effective_distance": 0.5890029907933005,
+            "context_boost": true
+          }
+        ]
+      },
+      "final": {
+        "verse": 23,
+        "text": "Pero había en la sinagoga de ellos un hombre con espíritu inmundo, que dio voces",
+        "coords": [
+          0.9307692307692307,
+          0.7483333333333334,
+          0.55,
+          0.8524358974358974
+        ],
+        "distance": 0.30902734126996895,
+        "quality": "POOR",
+        "confidence": 0.16003170145591783,
+        "matched_original": false,
+        "top_candidates": [
+          {
+            "verse": 23,
+            "text": "Pero había en la sinagoga de ellos un hombre con espíritu inmundo, que dio voces",
+            "coords": [
+              0.9307692307692307,
+              0.7483333333333334,
+              0.55,
+              0.8524358974358974
+            ],
+            "base_distance": 0.30902734126996895,
+            "effective_distance": 0.33993007539696585,
+            "context_boost": true
+          },
+          {
+            "verse": 19,
+            "text": "Pasando de allí un poco más adelante, vio a Jacobo hijo de Zebedeo, y a Juan su hermano, también ellos en la barca, que remendaban las redes",
+            "coords": [
+              0.8159090909090908,
+              0.8366666666666667,
+              0.61,
+              0.7692424242424243
+            ],
+            "base_distance": 0.26669941333190544,
+            "effective_distance": 0.4000491199978582,
+            "context_boost": true
+          },
+          {
+            "verse": 27,
+            "text": "Y todos se asombraron, de tal manera que discutían entre sí, diciendo: ¿Qué es esto? ¿Qué nueva doctrina es esta, que con autoridad manda aun a los espíritus inmundos, y le obedecen?",
+            "coords": [
+              0.97,
+              0.7733333333333333,
+              0.525,
+              0.9416666666666667
+            ],
+            "base_distance": 0.31810656724378755,
+            "effective_distance": 0.4135385374169238,
+            "context_boost": true
+          },
+          {
+            "verse": 26,
+            "text": "Y el espíritu inmundo, sacudiéndole con violencia, y clamando a gran voz, salió de él",
+            "coords": [
+              0.8825,
+              0.6816666666666666,
+              0.55,
+              0.7958333333333334
+            ],
+            "base_distance": 0.3890477757227222,
+            "effective_distance": 0.4668573308672666,
+            "context_boost": true
+          },
+          {
+            "verse": 15,
+            "text": "diciendo: El tiempo se ha cumplido, y el reino de Dios se ha acercado; arrepentíos, y creed en el evangelio",
+            "coords": [
+              0.9525,
+              0.93375,
+              0.7029017857142856,
+              0.9425
+            ],
+            "base_distance": 0.2118732507526716,
+            "effective_distance": 0.48730847673114464,
+            "context_boost": false
+          }
+        ]
+      },
+      "overall": {
+        "source_to_final_distance": 0.19398282176871848,
+        "preservation_rate": 0.9030085891156407,
+        "success": false,
+        "intermediate_quality": "POOR",
+        "final_quality": "POOR"
+      }
+    },
+    {
+      "verse_num": 11,
+      "source_lang": "greek",
+      "intermediate_lang": "english",
+      "source": {
+        "verse": 11,
+        "text": "καὶ φωνὴ ἐγένετο ἐκ τῶν οὐρανῶν Σὺ εἶ ὁ υἱός μου ὁ ἀγαπητός ἐν ᾧ εὐδόκησα",
+        "coords": [
+          0.7849999999999999,
+          1.0,
+          0.639,
+          0.9
+        ]
+      },
+      "intermediate": {
+        "verse": 11,
+        "text": "And a voice came out of the heavens: 'You are my Son, the beloved; I have approved you.'",
+        "coords": [
+          0.7502564102564102,
+          0.5,
+          0.36230769230769233,
+          0.5666666666666667
+        ],
+        "distance": 0.9899200218061304,
+        "quality": "VERY_POOR",
+        "confidence": 0.08937634285950463,
+        "matched_same": true,
+        "top_candidates": [
+          {
+            "verse": 11,
+            "text": "And a voice came out of the heavens: 'You are my Son, the beloved; I have approved you.'",
+            "coords": [
+              0.7502564102564102,
+              0.5,
+              0.36230769230769233,
+              0.5666666666666667
+            ],
+            "base_distance": 0.9899200218061304,
+            "effective_distance": 0.4949600109030652,
+            "context_boost": true
+          },
+          {
+            "verse": 14,
+            "text": "Now after John was arrested, Jesus went into Galilee, preaching the good news of God",
+            "coords": [
+              0.8,
+              0.75,
+              0.5,
+              0.85
+            ],
+            "base_distance": 0.43446403763717895,
+            "effective_distance": 0.5648032489283327,
+            "context_boost": true
+          },
+          {
+            "verse": 15,
+            "text": "and saying: 'The appointed time has been fulfilled, and the Kingdom of God has drawn near. Repent, and have faith in the good news.'",
+            "coords": [
+              0.6,
+              0.85,
+              0.7999999999999999,
+              0.8999999999999999
+            ],
+            "base_distance": 0.41944487122862745,
+            "effective_distance": 0.5872228197200784,
+            "context_boost": true
+          },
+          {
+            "verse": 3,
+            "text": "a voice of one calling out in the wilderness: Prepare the way of Jehovah! Make his roads straight.'",
+            "coords": [
+              0.6051282051282052,
+              0.9,
+              0.5711538461538461,
+              0.75
+            ],
+            "base_distance": 0.34393497198927725,
+            "effective_distance": 0.7222634411774822,
+            "context_boost": false
+          },
+          {
+            "verse": 8,
+            "text": "I baptized you with water, but he will baptize you with holy spirit.'",
+            "coords": [
+              0.8185185185185184,
+              0.7055555555555555,
+              0.46296296296296297,
+              0.7333333333333333
+            ],
+            "base_distance": 0.5780125187911477,
+            "effective_distance": 0.751416274428492,
+            "context_boost": true
+          }
+        ]
+      },
+      "final": {
+        "verse": 2,
+        "text": "ὡς γέγραπται ἐν τοῖς προφήταις Ἰδού ἐγὼ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου ὃς κατασκευάσει τὴν ὁδόν σου ἔμπροσθέν σου",
+        "coords": [
+          0.7666666666666666,
+          0.6,
+          0.4,
+          0.6333333333333333
+        ],
+        "distance": 0.1812515841369028,
+        "quality": "ACCEPTABLE",
+        "confidence": 0.00391198686946584,
+        "matched_original": false,
+        "top_candidates": [
+          {
+            "verse": 2,
+            "text": "ὡς γέγραπται ἐν τοῖς προφήταις Ἰδού ἐγὼ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου ὃς κατασκευάσει τὴν ὁδόν σου ἔμπροσθέν σου",
+            "coords": [
+              0.7666666666666666,
+              0.6,
+              0.4,
+              0.6333333333333333
+            ],
+            "base_distance": 0.1812515841369028,
+            "effective_distance": 0.41687864351487636,
+            "context_boost": false
+          },
+          {
+            "verse": 17,
+            "text": "καὶ εἶπεν αὐτοῖς ὁ Ἰησοῦς Δεῦτε ὀπίσω μου καὶ ποιήσω ὑμᾶς γενέσθαι ἁλιεῖς ἀνθρώπων",
+            "coords": [
+              0.6333333333333333,
+              0.6,
+              0.45,
+              0.5666666666666667
+            ],
+            "base_distance": 0.2476504981435919,
+            "effective_distance": 0.42100584684410625,
+            "context_boost": false
+          },
+          {
+            "verse": 8,
+            "text": "ἐγὼ μὲν ἐβάπτισα ὑμᾶς ἐν ὕδατι αὐτὸς δὲ βαπτίσει ὑμᾶς ἐν πνεύματι ἁγίῳ",
+            "coords": [
+              0.5,
+              0.6,
+              0.5,
+              0.5
+            ],
+            "base_distance": 0.4066509034355601,
+            "effective_distance": 0.5286461744662282,
+            "context_boost": true
+          },
+          {
+            "verse": 7,
+            "text": "καὶ ἐκήρυσσεν λέγων Ἔρχεται ὁ ἰσχυρότερός μου ὀπίσω μου οὗ οὐκ εἰμὶ ἱκανὸς κύψας λῦσαι τὸν ἱμάντα τῶν ὑποδημάτων αὐτοῦ",
+            "coords": [
+              0.6333333333333333,
+              0.75,
+              0.45,
+              0.6666666666666666
+            ],
+            "base_distance": 0.41539832598455334,
+            "effective_distance": 0.5815576563783746,
+            "context_boost": true
+          },
+          {
+            "verse": 9,
+            "text": "Καὶ ἐγένετο ἐν ἐκείναις ταῖς ἡμέραις ἦλθεν Ἰησοῦς ἀπὸ Ναζαρὲτ τῆς Γαλιλαίας καὶ ἐβαπτίσθη ὑπὸ Ἰωάννου εἰς τὸν Ἰορδάνην",
+            "coords": [
+              0.5,
+              0.75,
+              0.5,
+              0.6
+            ],
+            "base_distance": 0.49657824888425917,
+            "effective_distance": 0.595893898661111,
+            "context_boost": true
+          }
+        ]
+      },
+      "overall": {
+        "source_to_final_distance": 0.5371854635246772,
+        "preservation_rate": 0.7314072682376613,
+        "success": false,
+        "intermediate_quality": "VERY_POOR",
+        "final_quality": "ACCEPTABLE"
+      }
+    }
+  ]
+}

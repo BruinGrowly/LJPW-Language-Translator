@@ -1,0 +1,259 @@
+{
+  "summary": {
+    "success_rate": 0.0,
+    "avg_preservation": 0.8713784060661244,
+    "avg_confidence": 0.3929857519507884
+  },
+  "results": [
+    {
+      "verse_num": 1,
+      "source_lang": "english",
+      "intermediate_lang": "spanish",
+      "source": {
+        "verse": 1,
+        "text": "The beginning of the good news about Jesus Christ, the Son of God.",
+        "coords": [
+          0.8,
+          0.75,
+          0.5,
+          0.85
+        ]
+      },
+      "intermediate": {
+        "verse": 1,
+        "text": "Principio del evangelio de Jesucristo, Hijo de Dios",
+        "coords": [
+          0.7471890782968013,
+          0.7309107048529686,
+          0.5646039830723872,
+          0.7805203452651011
+        ],
+        "distance": 0.17595803597976992,
+        "quality": "ACCEPTABLE",
+        "confidence": 0.5138678950395645,
+        "matched_same": true
+      },
+      "final": {
+        "verse": 3,
+        "text": "a voice of one calling out in the wilderness: Prepare the way of Jehovah! Make his roads straight.'",
+        "coords": [
+          0.6051282051282052,
+          0.9,
+          0.5711538461538461,
+          0.75
+        ],
+        "distance": 0.26602229413952355,
+        "quality": "POOR",
+        "confidence": 0.22724115520622198,
+        "matched_original": false
+      },
+      "overall": {
+        "source_to_final_distance": 0.27484156574113766,
+        "preservation_rate": 0.8625792171294312,
+        "success": false,
+        "intermediate_quality": "ACCEPTABLE",
+        "final_quality": "POOR"
+      }
+    },
+    {
+      "verse_num": 8,
+      "source_lang": "english",
+      "intermediate_lang": "greek",
+      "source": {
+        "verse": 8,
+        "text": "I baptized you with water, but he will baptize you with holy spirit.'",
+        "coords": [
+          0.8185185185185184,
+          0.7055555555555555,
+          0.46296296296296297,
+          0.7333333333333333
+        ]
+      },
+      "intermediate": {
+        "verse": 8,
+        "text": "ἐγὼ μὲν ἐβάπτισα ὑμᾶς ἐν ὕδατι αὐτὸς δὲ βαπτίσει ὑμᾶς ἐν πνεύματι ἁγίῳ",
+        "coords": [
+          0.5963766644983959,
+          0.5659190549257737,
+          0.48090273430507857,
+          0.5719554454061258
+        ],
+        "distance": 0.3770714937423973,
+        "quality": "POOR",
+        "confidence": 0.3218722941720151,
+        "matched_same": true
+      },
+      "final": {
+        "verse": 9,
+        "text": "In the course of those days, Jesus came from Nazareth of Galilee and was baptized by John in the Jordan.",
+        "coords": [
+          0.6,
+          0.5833333333333334,
+          0.5,
+          0.6166666666666667
+        ],
+        "distance": 0.08051344741326058,
+        "quality": "GOOD",
+        "confidence": 0.38442706758233836,
+        "matched_original": false
+      },
+      "overall": {
+        "source_to_final_distance": 0.2786960131829307,
+        "preservation_rate": 0.8606519934085346,
+        "success": false,
+        "intermediate_quality": "POOR",
+        "final_quality": "GOOD"
+      }
+    },
+    {
+      "verse_num": 15,
+      "source_lang": "english",
+      "intermediate_lang": "chinese",
+      "source": {
+        "verse": 15,
+        "text": "and saying: 'The appointed time has been fulfilled, and the Kingdom of God has drawn near. Repent, and have faith in the good news.'",
+        "coords": [
+          0.6,
+          0.85,
+          0.7999999999999999,
+          0.8999999999999999
+        ]
+      },
+      "intermediate": {
+        "verse": 15,
+        "text": "说：日期满了，神的国近了。你们当悔改，信福音",
+        "coords": [
+          0.6650476943645881,
+          0.6526155345448736,
+          0.4991164078239947,
+          0.6596311247908915
+        ],
+        "distance": 0.7497980381803372,
+        "quality": "VERY_POOR",
+        "confidence": 0.2773335076664649,
+        "matched_same": true
+      },
+      "final": {
+        "verse": 12,
+        "text": "And immediately the spirit impelled him to go into the wilderness.",
+        "coords": [
+          0.6236363636363637,
+          0.5833333333333334,
+          0.5,
+          0.6403030303030304
+        ],
+        "distance": 0.10329862094618353,
+        "quality": "GOOD",
+        "confidence": 0.3568995448696385,
+        "matched_original": false
+      },
+      "overall": {
+        "source_to_final_distance": 0.4786567714624438,
+        "preservation_rate": 0.7606716142687782,
+        "success": false,
+        "intermediate_quality": "VERY_POOR",
+        "final_quality": "GOOD"
+      }
+    },
+    {
+      "verse_num": 24,
+      "source_lang": "spanish",
+      "intermediate_lang": "chinese",
+      "source": {
+        "verse": 24,
+        "text": "diciendo: ¡Ah! ¿qué tienes con nosotros, Jesús nazareno? ¿Has venido para destruirnos? Sé quién eres, el Santo de Dios",
+        "coords": [
+          0.7613197575033777,
+          0.6955799257075839,
+          0.5004901771199741,
+          0.807110059100768
+        ]
+      },
+      "intermediate": {
+        "verse": 24,
+        "text": "拿撒勒人耶稣，我们与你有什么相干？你来灭我们吗？我知道你是谁，乃是神的圣者",
+        "coords": [
+          0.6692329152016572,
+          0.6556360763643994,
+          0.5013520262006002,
+          0.6416434098444379
+        ],
+        "distance": 0.26978250213145843,
+        "quality": "POOR",
+        "confidence": 0.5502229281389888,
+        "matched_same": true
+      },
+      "final": {
+        "verse": 20,
+        "text": "Y luego los llamó; y dejando a su padre Zebedeo en la barca con los jornaleros, le siguieron",
+        "coords": [
+          0.6857918930517889,
+          0.6092157989077543,
+          0.523259566149803,
+          0.6554810451729136
+        ],
+        "distance": 0.07916106722215327,
+        "quality": "EXCELLENT",
+        "confidence": 0.38152307188027856,
+        "matched_original": false
+      },
+      "overall": {
+        "source_to_final_distance": 0.19150201995811889,
+        "preservation_rate": 0.9042489900209405,
+        "success": false,
+        "intermediate_quality": "POOR",
+        "final_quality": "EXCELLENT"
+      }
+    },
+    {
+      "verse_num": 11,
+      "source_lang": "greek",
+      "intermediate_lang": "english",
+      "source": {
+        "verse": 11,
+        "text": "καὶ φωνὴ ἐγένετο ἐκ τῶν οὐρανῶν Σὺ εἶ ὁ υἱός μου ὁ ἀγαπητός ἐν ᾧ εὐδόκησα",
+        "coords": [
+          0.7096355316551116,
+          0.6344464659934976,
+          0.544763436286752,
+          0.7143622759376231
+        ]
+      },
+      "intermediate": {
+        "verse": 12,
+        "text": "And immediately the spirit impelled him to go into the wilderness.",
+        "coords": [
+          0.6236363636363637,
+          0.5833333333333334,
+          0.5,
+          0.6403030303030304
+        ],
+        "distance": 0.17935124182702908,
+        "quality": "ACCEPTABLE",
+        "confidence": 0.30163213473690864,
+        "matched_same": false
+      },
+      "final": {
+        "verse": 12,
+        "text": "Καὶ εὐθὺς τὸ πνεῦμα αὐτὸν ἐκβάλλει εἰς τὴν ἔρημον",
+        "coords": [
+          0.7076485339856956,
+          0.589903648799477,
+          0.5130628000512449,
+          0.6841008244496798
+        ],
+        "distance": 0.11013447539881263,
+        "quality": "GOOD",
+        "confidence": 0.4923702353227427,
+        "matched_original": false
+      },
+      "overall": {
+        "source_to_final_distance": 0.06251956899412611,
+        "preservation_rate": 0.968740215502937,
+        "success": false,
+        "intermediate_quality": "ACCEPTABLE",
+        "final_quality": "GOOD"
+      }
+    }
+  ]
+}
