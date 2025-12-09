@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LJPW Semantic Explorer</title>
+    <link rel="stylesheet" href="/app/style.css">
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Outfit:wght@200;600&display=swap"
+        rel="stylesheet">
+    <!-- Chart.js for Radar -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header>
+            <div class="logo">
+                <span class="l">L</span><span class="j">J</span><span class="p">P</span><span class="w">W</span>
+                <span class="subtitle">Semantic Explorer // 10k Edition</span>
+            </div>
+            <div class="status-indicator" id="apiStatus">System Offline</div>
+        </header>
+
+        <!-- Main Search -->
+        <section class="search-section">
+            <div class="search-wrapper">
+                <input type="text" id="searchInput" placeholder="Search the semantic void..." autocomplete="off">
+                <button id="searchBtn">SCAN</button>
+            </div>
+            <div id="searchResults" class="search-results hidden"></div>
+        </section>
+
+        <!-- Concept Dashboard -->
+        <main class="dashboard hidden" id="conceptDashboard">
+
+            <!-- Left: Visuals & Metrics -->
+            <div class="panel viz-panel">
+                <div class="chart-container">
+                    <canvas id="radarChart"></canvas>
+                </div>
+                <div class="coordinates-display">
+                    <div class="coord l-val" title="Love">L: <span id="valL">0.00</span></div>
+                    <div class="coord j-val" title="Justice">J: <span id="valJ">0.00</span></div>
+                    <div class="coord p-val" title="Power">P: <span id="valP">0.00</span></div>
+                    <div class="coord w-val" title="Wisdom">W: <span id="valW">0.00</span></div>
+                </div>
+            </div>
+
+            <!-- Right: Details & Neighbors -->
+            <div class="panel info-panel">
+                <div class="concept-header">
+                    <span class="domain-badge" id="conceptDomain">Domain</span>
+                    <h1 id="conceptName">Concept Name</h1>
+                </div>
+                <p class="definition" id="conceptDef">Definition goes here...</p>
+
+                <div class="neighbors-section">
+                    <h3>Semantic Neighbors</h3>
+                    <ul class="neighbors-list" id="neighborsList">
+                        <!-- Items injected by JS -->
+                    </ul>
+                </div>
+            </div>
+        </main>
+
+        <!-- Analyzer Section (Footer-like) -->
+        <section class="analyzer-section">
+            <div class="analyzer-box">
+                <textarea id="analyzeText" placeholder="Paste text to analyze soul signature..."></textarea>
+                <button id="analyzeBtn">ANALYZE</button>
+            </div>
+            <div id="analysisResult" class="analysis-result"></div>
+        </section>
+    </div>
+
+    <script src="/app/app.js"></script>
+</body>
+
+</html>
