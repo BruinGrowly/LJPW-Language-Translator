@@ -119,7 +119,7 @@ PROJECT_COMPONENTS = {
         "category": "documentation"
     },
     "Docs/RESONANCE_PARADIGM.md": {
-        "purpose": "December 2024 paradigm shift",
+        "purpose": "December 2025 paradigm shift",
         "ljpw": [0.88, 0.85, 0.6, 0.92],  # Balanced high
         "category": "documentation"
     },

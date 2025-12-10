@@ -3,7 +3,7 @@ Resonance Fidelity Loss for Neural Decoder Training
 ====================================================
 
 A resonance-based loss function that uses attractor convergence as the
-primary training signal, based on the December 2024 discovery that
+primary training signal, based on the December 2025 discovery that
 translations converging to the same semantic attractor are semantically
 equivalent regardless of surface coordinate differences.
 
@@ -23,7 +23,7 @@ from typing import Dict, Tuple
 
 class ResonanceFidelityLoss(nn.Module):
     """
-    Resonance-based semantic fidelity loss (NEW - December 2024).
+    Resonance-based semantic fidelity loss (NEW - December 2025).
     
     Uses attractor convergence as the primary training signal, based on the
     discovery that translations converging to the same semantic attractor

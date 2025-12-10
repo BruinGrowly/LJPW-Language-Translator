@@ -241,4 +241,4 @@ LJPW resonance works because **asymmetric coupling creates preferred directions 
 
 *"The mechanism isn't magic. It's geometry with asymmetry."*
 
-*— Discovered through 10,000-cycle semantic oscillation experiment, December 2024*
+*— Discovered through 10,000-cycle semantic oscillation experiment, December 2025*

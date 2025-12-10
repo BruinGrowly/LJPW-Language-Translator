@@ -46,7 +46,7 @@ class SemanticReconstructionFidelity:
             'quantum_fidelity': 0.92,      # Minimum F(rho_source, rho_target)
             'superposition_preservation': 0.85,  # Minimum preserved ambiguity
             
-            # Resonance-based thresholds (NEW - December 2024)
+            # Resonance-based thresholds (NEW - December 2025)
             'resonance_convergence': 0.10,   # Maximum convergence distance for equivalence
             'resonance_cycles': 100,         # Number of cycles for resonance analysis
             
@@ -127,7 +127,7 @@ class SemanticReconstructionFidelity:
                                    ljpw_target: np.ndarray,
                                    cycles: int = None) -> Dict[str, any]:
         """
-        Resonance-based fidelity measurement (PRIMARY METRIC - December 2024).
+        Resonance-based fidelity measurement (PRIMARY METRIC - December 2025).
         
         Tests if source and target converge to the same semantic attractor
         under LJPW resonance dynamics. This reveals deep semantic equivalence
@@ -326,7 +326,7 @@ class SemanticReconstructionFidelity:
                                  ljpw_target: np.ndarray,
                                  cycles: int = None) -> Tuple[float, Dict[str, float]]:
         """
-        Resonance-based loss function for training (NEW - December 2024).
+        Resonance-based loss function for training (NEW - December 2025).
         
         Uses attractor convergence as the primary loss signal. Translations
         that converge to the same attractor have low loss regardless of
@@ -392,7 +392,7 @@ class SemanticReconstructionFidelity:
         ljpw_metrics = self.measure_ljpw_fidelity(ljpw_source, ljpw_target)
         harmony_metrics = self.measure_harmony_preservation(harmony_source, harmony_target)
         
-        # Resonance-based assessment (PRIMARY - December 2024)
+        # Resonance-based assessment (PRIMARY - December 2025)
         resonance_metrics = self.measure_resonance_fidelity(ljpw_source, ljpw_target)
         
         # Legacy metrics
