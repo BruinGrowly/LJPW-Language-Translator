@@ -1,0 +1,730 @@
+{
+  "book": "Matthew",
+  "chapter": 5,
+  "source_language": "English",
+  "target_language": "Wedau",
+  "translation_method": "LJPW-Guided Pure Meaning Translation",
+  "timestamp": "2025-12-10T20:04:15.688717",
+  "verses": {
+    "1": {
+      "verse_ref": "Matthew 5:1",
+      "english": "Seeing the multitudes, he went up onto the mountain. When he had sat down, his disciples came to him.",
+      "wedau": "inana  [multitudes] tauna nae au [onto]  dobuna maranaina tauna ana [sat] au ana tauvotaghotagho neꞌi da tauna",
+      "ljpw": [
+        0.5265822784810127,
+        0.575,
+        0.5925632911392406,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5925632911392406,
+      "harmony": 0.5246714275350133,
+      "translation_notes": "Primary dimension: Power (0.59)"
+    },
+    "2": {
+      "verse_ref": "Matthew 5:2",
+      "english": "He opened his mouth and taught them, saying,",
+      "wedau": "tauna wana-tawaneꞌi ana [mouth] ma viharaharamana hita riwa ipa",
+      "ljpw": [
+        0.5542857142857143,
+        0.5192857142857144,
+        0.485,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5542857142857143,
+      "harmony": 0.5070744661628128,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "3": {
+      "verse_ref": "Matthew 5:3",
+      "english": "“Blessed are the poor in spirit, for theirs is the Kingdom of Heaven.",
+      "wedau": "I [“blessed]   apoapoena au aruwa yamna hita   vibadana ana marei",
+      "ljpw": [
+        0.5857142857142856,
+        0.8571428571428571,
+        0.8928571428571428,
+        0.8285714285714285
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.8928571428571428,
+      "harmony": 0.6744882127235805,
+      "translation_notes": "Primary dimension: Power (0.89); Strong secondary: Justice"
+    },
+    "4": {
+      "verse_ref": "Matthew 5:4",
+      "english": "Blessed are those who mourn, for they shall be comforted.",
+      "wedau": "nuwaboyei  raketana aiyai nuwanuwaboyei yamna tauhi ina  paꞌini",
+      "ljpw": [
+        0.5108695652173914,
+        0.5,
+        0.5,
+        0.5108695652173914
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5108695652173914,
+      "harmony": 0.5027171470014083,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "5": {
+      "verse_ref": "Matthew 5:5",
+      "english": "Blessed are the gentle, for they shall inherit the earth.",
+      "wedau": "nuwaboyei   [gentle] yamna tauhi ina ana vouna  dobuna",
+      "ljpw": [
+        0.612409420289855,
+        0.5,
+        0.45937500000000003,
+        0.5582427536231884
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.612409420289855,
+      "harmony": 0.5148926284527808,
+      "translation_notes": "Primary dimension: Love (0.61)"
+    },
+    "6": {
+      "verse_ref": "Matthew 5:6",
+      "english": "Blessed are those who hunger and thirst after righteousness, for they shall be filled.",
+      "wedau": "nuwaboyei  raketana aiyai kapaꞌukapaꞌu ma tawayatawaya muriyai vovonana yamna tauhi ina  yawahana",
+      "ljpw": [
+        0.5,
+        0.7666666666666666,
+        0.6,
+        0.6666666666666666
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7666666666666666,
+      "harmony": 0.5686167523443388,
+      "translation_notes": "Primary dimension: Justice (0.77); Strong secondary: Wisdom"
+    },
+    "7": {
+      "verse_ref": "Matthew 5:7",
+      "english": "Blessed are the merciful, for they shall obtain mercy.",
+      "wedau": "nuwaboyei   nuwaboyei yamna tauhi ina ana vouna nuwaboyei",
+      "ljpw": [
+        0.6130208333333333,
+        0.5,
+        0.45937500000000003,
+        0.5588541666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6130208333333333,
+      "harmony": 0.5150352902171426,
+      "translation_notes": "Primary dimension: Love (0.61)"
+    },
+    "8": {
+      "verse_ref": "Matthew 5:8",
+      "english": "Blessed are the pure in heart, for they shall see God.",
+      "wedau": "nuwaboyei   vivivireina au urana yamna tauhi ina inana God",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "9": {
+      "verse_ref": "Matthew 5:9",
+      "english": "Blessed are the peacemakers, for they shall be called children of God.",
+      "wedau": "nuwaboyei   vovonana yaruhi yamna tauhi ina  ghorehi natunatuna ana Tamatei God",
+      "ljpw": [
+        0.8113576697087135,
+        0.7633808392715755,
+        0.6239904988123515,
+        0.7648414385131475
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.8113576697087135,
+      "harmony": 0.6506621393117537,
+      "translation_notes": "Primary dimension: Love (0.81); Strong secondary: Wisdom"
+    },
+    "10": {
+      "verse_ref": "Matthew 5:10",
+      "english": "Blessed are those who have been persecuted for righteousness’ sake, for theirs is the Kingdom of Heaven.",
+      "wedau": "I nuwaboyei  raketana aiyai ana  rau-dadani yamna [righteousness’] [sake] yamna hita   vibadana ana marei",
+      "ljpw": [
+        0.5857142857142856,
+        0.8571428571428571,
+        0.8928571428571428,
+        0.8285714285714285
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.8928571428571428,
+      "harmony": 0.6744882127235805,
+      "translation_notes": "Primary dimension: Power (0.89); Strong secondary: Justice"
+    },
+    "11": {
+      "verse_ref": "Matthew 5:11",
+      "english": "“Blessed are you when people reproach you, persecute you, and say all kinds of evil against you falsely, for my sake.",
+      "wedau": "[“blessed]  omi maranaina rava [reproach] omi [persecute] omi ma riwa anatapuhi [kinds] ana [evil] awarina omi apoapoe ina riwehi yamna au [sake]",
+      "ljpw": [
+        0.4525465838509317,
+        0.4257142857142857,
+        0.47987577639751555,
+        0.5
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5,
+      "harmony": 0.48253268004482525,
+      "translation_notes": "Primary dimension: Wisdom (0.50); Low harmony verse (distinctive emphasis)"
+    },
+    "12": {
+      "verse_ref": "Matthew 5:12",
+      "english": "Rejoice, and be exceedingly glad, for great is your reward in heaven. For that is how they persecuted the prophets who were before you.",
+      "wedau": "tumaghanei ma  [exceedingly] nuwaboyei yamna ghe vavahagha  ami puyona au marei yamna raketana  aiwaꞌi tauhi rau-dadani  peroveta aiyai  naona omi",
+      "ljpw": [
+        0.5537037037037037,
+        0.5,
+        0.4597222222222222,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5537037037037037,
+      "harmony": 0.5011199426235411,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "13": {
+      "verse_ref": "Matthew 5:13",
+      "english": "“You are the salt of the earth, but if the salt has lost its flavor, with what will it be salted? It is then good for nothing, but to be cast out and trodden under the feet of men.",
+      "wedau": "[“you]   [salt] ana  dobuna tuna tora  [salt] ana [lost] tauna [flavor] maitehi aiwaꞌi ina tauna  [salted?] tauna  maratagogi [good] yamna [nothing] tuna da  [cast] hopu ma [trodden] au  [feet] ana rava",
+      "ljpw": [
+        0.5,
+        0.5110294117647058,
+        0.5147058823529411,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.512023542475887,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "14": {
+      "verse_ref": "Matthew 5:14",
+      "english": "You are the light of the world. A city located on a hill can’t be hidden.",
+      "wedau": "omi   [light] ana  dobuna  meyagaihi [located] au  [hill] [can’t]  [hidden]",
+      "ljpw": [
+        0.5527272727272727,
+        0.5,
+        0.46045454545454545,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5527272727272727,
+      "harmony": 0.5011096350524583,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "15": {
+      "verse_ref": "Matthew 5:15",
+      "english": "Neither do you light a lamp, and put it under a measuring basket, but on a stand; and it shines to all who are in the house.",
+      "wedau": "[neither] rura omi [light]  [lamp] ma terei tauna au  [measuring] [basket] tuna au  [stand;] ma tauna [shines] da anatapuhi aiyai  au  numa",
+      "ljpw": [
+        0.5101063829787235,
+        0.5,
+        0.5,
+        0.5101063829787235
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5101063829787235,
+      "harmony": 0.5025263995722558,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "16": {
+      "verse_ref": "Matthew 5:16",
+      "english": "Even so, let your light shine before men; that they may see your good works, and glorify your Father who is in heaven.",
+      "wedau": "ma yamna ita ami [light] [shine] naona [men;] raketana tauhi ita inana ami [good] [works] ma [glorify] ami Tamatei aiyai  au marei",
+      "ljpw": [
+        0.5554347826086957,
+        0.5,
+        0.45842391304347824,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5554347826086957,
+      "harmony": 0.5011372948497544,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "17": {
+      "verse_ref": "Matthew 5:17",
+      "english": "“Don’t think that I came to destroy the law or the prophets. I didn’t come to destroy, but to fulfill.",
+      "wedau": "[“don’t] [think] raketana tau neꞌi da rau-iviꞌapoapoyeꞌai  [law] bo  peroveta tau [didn’t] neꞌi da rau-iviꞌapoapoyeꞌai tuna da [fulfill]",
+      "ljpw": [
+        0.5,
+        0.6105689548546691,
+        0.552504638218924,
+        0.5619047619047619
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.6105689548546691,
+      "harmony": 0.528827780039962,
+      "translation_notes": "Primary dimension: Justice (0.61)"
+    },
+    "18": {
+      "verse_ref": "Matthew 5:18",
+      "english": "For most certainly, I tell you, until heaven and earth pass away, not even one smallest letter or one tiny pen stroke shall in any way pass away from the law, until all things are accomplished.",
+      "wedau": "yamna anatapuhi [certainly] tau riwehi omi [until] marei ma dobuna [pass] [away] egha ma [one] [smallest] [letter] bo [one] [tiny] [pen] [stroke] ina au ghehauna parata [pass] [away] au  [law] [until] anatapuhi [things]  [accomplished]",
+      "ljpw": [
+        0.5049019607843137,
+        0.6083333333333333,
+        0.540625,
+        0.5726102941176471
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.6083333333333333,
+      "harmony": 0.5290828845811657,
+      "translation_notes": "Primary dimension: Justice (0.61)"
+    },
+    "19": {
+      "verse_ref": "Matthew 5:19",
+      "english": "Whoever, therefore, shall break one of these least commandments, and teach others to do so, shall be called least in the Kingdom of Heaven; but whoever shall do and teach them shall be called great in the Kingdom of Heaven.",
+      "wedau": "I [whoever] [therefore] ina [break] [one] ana ina [least] [commandments] ma [teach] ghehauna da rura yamna ina  ghorehi [least] au  vibadana ana [heaven;] tuna [whoever] ina rura ma [teach] hita ina  ghorehi ghe vavahagha au  vibadana ana marei",
+      "ljpw": [
+        0.5826924091364667,
+        0.8403755868544601,
+        0.874413145539906,
+        0.8141478081974995
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.874413145539906,
+      "harmony": 0.6666939255082974,
+      "translation_notes": "Primary dimension: Power (0.87); Strong secondary: Justice"
+    },
+    "20": {
+      "verse_ref": "Matthew 5:20",
+      "english": "For I tell you that unless your righteousness exceeds that of the scribes and Pharisees, there is no way you will enter into the Kingdom of Heaven.",
+      "wedau": "I yamna tau riwehi omi raketana [unless] ami vovonana [exceeds] raketana ana  tauviharaharamanahi ma [pharisees] kampa  egha parata omi ina rui au  vibadana ana marei",
+      "ljpw": [
+        0.5868707115873872,
+        0.8325688073394496,
+        0.860535039703955,
+        0.8059633027522937
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.860535039703955,
+      "harmony": 0.664109243117064,
+      "translation_notes": "Primary dimension: Power (0.86); Strong secondary: Justice"
+    },
+    "21": {
+      "verse_ref": "Matthew 5:21",
+      "english": "“You have heard that it was said to the ancient ones, ‘You shall not murder;’ and ‘Whoever murders will be in danger of the judgment.’",
+      "wedau": "[“you] ana [heard] raketana tauna  riwa da  [ancient] au [‘you] ina egha [murder;’] ma [‘whoever] [murders] ina  au [danger] ana  [judgment’]",
+      "ljpw": [
+        0.5107843137254903,
+        0.5,
+        0.5,
+        0.5107843137254903
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5107843137254903,
+      "harmony": 0.5026958398588612,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "22": {
+      "verse_ref": "Matthew 5:22",
+      "english": "But I tell you that everyone who is angry with his brother without a cause will be in danger of the judgment. Whoever says to his brother, ‘Raca!’ will be in danger of the council. Whoever says, ‘You fool!’ will be in danger of the fire of Gehenna.",
+      "wedau": "tuna tau riwehi omi raketana anatapuhi aiyai  [angry] maitehi ana tevera [without]  [cause] ina  au [danger] ana  [judgment] [whoever] riwa da ana tevera [‘raca!’] ina  au [danger] ana  [council] [whoever] riwa [‘you] [fool!’] ina  au [danger] ana  [fire] ana [gehenna]",
+      "ljpw": [
+        0.5536842105263158,
+        0.5,
+        0.45973684210526317,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5536842105263158,
+      "harmony": 0.501119740514031,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "23": {
+      "verse_ref": "Matthew 5:23",
+      "english": "“If therefore you are offering your gift at the altar, and there remember that your brother has anything against you,",
+      "wedau": "[“if] [therefore] omi  puyona ami [gift] au  [altar] ma kampa [remember] raketana ami tevera ana [anything] awarina omi",
+      "ljpw": [
+        0.5631578947368421,
+        0.5,
+        0.4605263157894737,
+        0.5105263157894737
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5631578947368421,
+      "harmony": 0.503620960099005,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "24": {
+      "verse_ref": "Matthew 5:24",
+      "english": "leave your gift there before the altar, and go your way. First be reconciled to your brother, and then come and offer your gift.",
+      "wedau": "[leave] ami [gift] kampa naona  [altar] ma nae ami parata naona  [reconciled] da ami tevera ma maratagogi neꞌi ma [offer] ami [gift]",
+      "ljpw": [
+        0.5103960396039604,
+        0.5,
+        0.5,
+        0.5103960396039604
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5103960396039604,
+      "harmony": 0.5025987962907636,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "25": {
+      "verse_ref": "Matthew 5:25",
+      "english": "Agree with your adversary quickly, while you are with him on the way; lest perhaps the prosecutor deliver you to the judge, and the judge deliver you to the officer, and you be cast into prison.",
+      "wedau": "[agree] maitehi ami [adversary] [quickly] [while] omi  maitehi tauna au  [way;] [lest] [perhaps]  [prosecutor] [deliver] omi da  [judge] ma  [judge] [deliver] omi da  [officer] ma omi  [cast] au deri",
+      "ljpw": [
+        0.5545454545454546,
+        0.5,
+        0.4590909090909091,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5545454545454546,
+      "harmony": 0.501128527515227,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "26": {
+      "verse_ref": "Matthew 5:26",
+      "english": "Most certainly I tell you, you shall by no means get out of there, until you have paid the last penny.",
+      "wedau": "anatapuhi [certainly] tau riwehi omi omi ina au egha [means] varahai hopu ana kampa [until] omi ana [paid]  muriyai [penny]",
+      "ljpw": [
+        0.5626582278481013,
+        0.5,
+        0.4610759493670886,
+        0.5107594936708861
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5626582278481013,
+      "harmony": 0.503670395730258,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "27": {
+      "verse_ref": "Matthew 5:27",
+      "english": "“You have heard that it was said, ‘You shall not commit adultery;’",
+      "wedau": "[“you] ana [heard] raketana tauna  riwa [‘you] ina egha [commit] [adultery;’]",
+      "ljpw": [
+        0.556,
+        0.5,
+        0.45799999999999996,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.556,
+      "harmony": 0.5011427052501658,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "28": {
+      "verse_ref": "Matthew 5:28",
+      "english": "but I tell you that everyone who gazes at a woman to lust after her has committed adultery with her already in his heart.",
+      "wedau": "tuna tau riwehi omi raketana anatapuhi aiyai [gazes] au  vaivine da [lust] muriyai ana ana [committed] [adultery] maitehi ana [already] au ana urana",
+      "ljpw": [
+        0.554639175257732,
+        0.5,
+        0.459020618556701,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.554639175257732,
+      "harmony": 0.5011294661162916,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "29": {
+      "verse_ref": "Matthew 5:29",
+      "english": "If your right eye causes you to stumble, pluck it out and throw it away from you. For it is more profitable for you that one of your members should perish, than for your whole body to be cast into Gehenna.",
+      "wedau": "tora ami [right] [eye] [causes] omi da [stumble] [pluck] tauna hopu ma [throw] tauna [away] au omi yamna tauna  ghe vavahagha [profitable] yamna omi raketana [one] ana ami [members] ina [perish] da yamna ami [whole] [body] da  [cast] au [gehenna]",
+      "ljpw": [
+        0.5271517302573203,
+        0.599047619047619,
+        0.5167790594498669,
+        0.5619047619047619
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.5263499256004759,
+      "translation_notes": "Primary dimension: Justice (0.60)"
+    },
+    "30": {
+      "verse_ref": "Matthew 5:30",
+      "english": "If your right hand causes you to stumble, cut it off, and throw it away from you. For it is more profitable for you that one of your members should perish, than for your whole body to be cast into Gehenna.",
+      "wedau": "tora ami [right] nimana [causes] omi da [stumble] [cut] tauna [off] ma [throw] tauna [away] au omi yamna tauna  ghe vavahagha [profitable] yamna omi raketana [one] ana ami [members] ina [perish] da yamna ami [whole] [body] da  [cast] au [gehenna]",
+      "ljpw": [
+        0.5266785714285714,
+        0.599047619047619,
+        0.5171339285714286,
+        0.5619047619047619
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.5263337859501475,
+      "translation_notes": "Primary dimension: Justice (0.60)"
+    },
+    "31": {
+      "verse_ref": "Matthew 5:31",
+      "english": "“It was also said, ‘Whoever shall put away his wife, let him give her a writing of divorce,’",
+      "wedau": "[“it]  maitehi riwa [‘whoever] ina terei [away] ana [wife] ita tauna verei ana  [writing] ana [divorce’]",
+      "ljpw": [
+        0.5565217391304348,
+        0.5,
+        0.4576086956521739,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5565217391304348,
+      "harmony": 0.501147587889292,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "32": {
+      "verse_ref": "Matthew 5:32",
+      "english": "but I tell you that whoever puts away his wife, except for the cause of sexual immorality, makes her an adulteress; and whoever marries her when she is put away commits adultery.",
+      "wedau": "tuna tau riwehi omi raketana [whoever] terei [away] ana [wife] [except] yamna  [cause] ana [sexual] [immorality] rura ana [an] [adulteress;] ma [whoever] [marries] ana maranaina tauna  terei [away] [commits] [adultery]",
+      "ljpw": [
+        0.5538461538461539,
+        0.5,
+        0.4596153846153846,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5538461538461539,
+      "harmony": 0.5011214150413471,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "33": {
+      "verse_ref": "Matthew 5:33",
+      "english": "“Again you have heard that it was said to the ancient ones, ‘You shall not make false vows, but shall perform to the Lord your vows,’",
+      "wedau": "[“again] omi ana [heard] raketana tauna  riwa da  [ancient] au [‘you] ina egha rura [false] [vows] tuna ina [perform] da  Guyau ami [vows’]",
+      "ljpw": [
+        0.6010084033613445,
+        0.5619047619047619,
+        0.4799579831932773,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6010084033613445,
+      "harmony": 0.5290518030523053,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "34": {
+      "verse_ref": "Matthew 5:34",
+      "english": "but I tell you, don’t swear at all: neither by heaven, for it is the throne of God;",
+      "wedau": "tuna tau riwehi omi [don’t] [swear] au [all:] [neither] au marei yamna tauna   [throne] ana [god;]",
+      "ljpw": [
+        0.6004215456674473,
+        0.5619047619047619,
+        0.4803981264637002,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6004215456674473,
+      "harmony": 0.5290500651068876,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "35": {
+      "verse_ref": "Matthew 5:35",
+      "english": "nor by the earth, for it is the footstool of his feet; nor by Jerusalem, for it is the city of the great King.",
+      "wedau": "[nor] au  dobuna yamna tauna   [footstool] ana ana [feet;] [nor] au jerusalem yamna tauna   meyagaihi ana  ghe vavahagha kingi",
+      "ljpw": [
+        0.5,
+        0.5833333333333334,
+        0.6166666666666667,
+        0.5666666666666667
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.534524006175688,
+      "translation_notes": "Primary dimension: Power (0.62)"
+    },
+    "36": {
+      "verse_ref": "Matthew 5:36",
+      "english": "Neither shall you swear by your head, for you can’t make one hair white or black.",
+      "wedau": "[neither] ina omi [swear] au ami [head] yamna omi [can’t] rura [one] aparana [white] bo [black]",
+      "ljpw": [
+        0.5690476190476191,
+        0.5,
+        0.45595238095238094,
+        0.5103174603174604
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5690476190476191,
+      "harmony": 0.5036146056827134,
+      "translation_notes": "Primary dimension: Love (0.57)"
+    },
+    "37": {
+      "verse_ref": "Matthew 5:37",
+      "english": "But let your ‘Yes’ be ‘Yes’ and your ‘No’ be ‘No.’ Whatever is more than these is of the evil one.",
+      "wedau": "tuna ita ami [‘yes’]  [‘yes’] ma ami [‘no’]  [‘no’] [whatever]  ghe vavahagha da ina  ana  [evil] [one]",
+      "ljpw": [
+        0.45445378151260507,
+        0.4257142857142857,
+        0.47844537815126054,
+        0.5
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5,
+      "harmony": 0.4825972410748458,
+      "translation_notes": "Primary dimension: Wisdom (0.50); Low harmony verse (distinctive emphasis)"
+    },
+    "38": {
+      "verse_ref": "Matthew 5:38",
+      "english": "“You have heard that it was said, ‘An eye for an eye, and a tooth for a tooth.’",
+      "wedau": "[“you] ana [heard] raketana tauna  riwa [‘an] [eye] yamna [an] [eye] ma  [tooth] yamna  [tooth’]",
+      "ljpw": [
+        0.5625,
+        0.5,
+        0.453125,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5625,
+      "harmony": 0.5011958856587216,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "39": {
+      "verse_ref": "Matthew 5:39",
+      "english": "But I tell you, don’t resist him who is evil; but whoever strikes you on your right cheek, turn to him the other also.",
+      "wedau": "tuna tau riwehi omi [don’t] [resist] tauna aiyai  [evil;] tuna [whoever] [strikes] omi au ami [right] [cheek] [turn] da tauna  ghehauna maitehi",
+      "ljpw": [
+        0.5174545454545454,
+        0.7230303030303029,
+        0.5705454545454545,
+        0.6393939393939393
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7230303030303029,
+      "harmony": 0.5586729932195663,
+      "translation_notes": "Primary dimension: Justice (0.72); Strong secondary: Wisdom"
+    },
+    "40": {
+      "verse_ref": "Matthew 5:40",
+      "english": "If anyone sues you to take away your coat, let him have your cloak also.",
+      "wedau": "tora [anyone] [sues] omi da varahai [away] ami [coat] ita tauna ana ami [cloak] maitehi",
+      "ljpw": [
+        0.5625,
+        0.5,
+        0.453125,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5625,
+      "harmony": 0.5011958856587216,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "41": {
+      "verse_ref": "Matthew 5:41",
+      "english": "Whoever compels you to go one mile, go with him two.",
+      "wedau": "[whoever] [compels] omi da nae [one] [mile] nae maitehi tauna [two]",
+      "ljpw": [
+        0.5342857142857143,
+        0.5,
+        0.4742857142857143,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094823331329918,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "42": {
+      "verse_ref": "Matthew 5:42",
+      "english": "Give to him who asks you, and don’t turn away him who desires to borrow from you.",
+      "wedau": "verei da tauna aiyai rau-baghei omi ma [don’t] [turn] [away] tauna aiyai [desires] da [borrow] au omi",
+      "ljpw": [
+        0.5282258064516129,
+        0.575,
+        0.5913306451612903,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5913306451612903,
+      "harmony": 0.5247546321644007,
+      "translation_notes": "Primary dimension: Power (0.59)"
+    },
+    "43": {
+      "verse_ref": "Matthew 5:43",
+      "english": "“You have heard that it was said, ‘You shall love your neighbor and hate your enemy.’",
+      "wedau": "[“you] ana [heard] raketana tauna  riwa [‘you] ina [love] ami [neighbor] ma [hate] ami [enemy’]",
+      "ljpw": [
+        0.6306959706959707,
+        0.5,
+        0.4391208791208791,
+        0.5495238095238095
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6306959706959707,
+      "harmony": 0.5126269307457437,
+      "translation_notes": "Primary dimension: Love (0.63)"
+    },
+    "44": {
+      "verse_ref": "Matthew 5:44",
+      "english": "But I tell you, love your enemies, bless those who curse you, do good to those who hate you, and pray for those who mistreat you and persecute you,",
+      "wedau": "tuna tau riwehi omi [love] ami [enemies] [bless] raketana aiyai [curse] omi rura [good] da raketana aiyai [hate] omi ma [pray] yamna raketana aiyai [mistreat] omi ma [persecute] omi",
+      "ljpw": [
+        0.6292731829573934,
+        0.5,
+        0.440187969924812,
+        0.5495238095238095
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6292731829573934,
+      "harmony": 0.5126466912887335,
+      "translation_notes": "Primary dimension: Love (0.63)"
+    },
+    "45": {
+      "verse_ref": "Matthew 5:45",
+      "english": "that you may be children of your Father who is in heaven. For he makes his sun to rise on the evil and the good, and sends rain on the just and the unjust.",
+      "wedau": "raketana omi ita  natunatuna ana ami Tamatei aiyai  au marei yamna tauna rura ana [sun] da [rise] au  [evil] ma  [good] ma vivohi [rain] au  tagotagogi ma  [unjust]",
+      "ljpw": [
+        0.5167761650114591,
+        0.7230303030303029,
+        0.5710542398777692,
+        0.6393939393939393
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7230303030303029,
+      "harmony": 0.5586298514001475,
+      "translation_notes": "Primary dimension: Justice (0.72); Strong secondary: Wisdom"
+    },
+    "46": {
+      "verse_ref": "Matthew 5:46",
+      "english": "For if you love those who love you, what reward do you have? Don’t even the tax collectors do the same?",
+      "wedau": "yamna tora omi [love] raketana aiyai [love] omi aiwaꞌi puyona rura omi [have?] [don’t] ma  [tax] [collectors] rura  [same?]",
+      "ljpw": [
+        0.630295358649789,
+        0.5,
+        0.44445239405613646,
+        0.5953623188405797
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.630295358649789,
+      "harmony": 0.5189824269242848,
+      "translation_notes": "Primary dimension: Love (0.63)"
+    },
+    "47": {
+      "verse_ref": "Matthew 5:47",
+      "english": "If you only greet your friends, what more do you do than others? Don’t even the tax collectors do the same?",
+      "wedau": "tora omi tagotagogi [greet] ami [friends] aiwaꞌi ghe vavahagha rura omi rura da [others?] [don’t] ma  [tax] [collectors] rura  [same?]",
+      "ljpw": [
+        0.5289156626506024,
+        0.5,
+        0.4783132530120482,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.509372891642216,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "48": {
+      "verse_ref": "Matthew 5:48",
+      "english": "Therefore you shall be perfect, just as your Father in heaven is perfect.",
+      "wedau": "[therefore] omi ina  [perfect] tagotagogi  ami Tamatei au marei  [perfect]",
+      "ljpw": [
+        0.5,
+        0.6333333333333333,
+        0.55,
+        0.5833333333333334
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.6333333333333333,
+      "harmony": 0.5341599669741636,
+      "translation_notes": "Primary dimension: Justice (0.63)"
+    }
+  }
+}

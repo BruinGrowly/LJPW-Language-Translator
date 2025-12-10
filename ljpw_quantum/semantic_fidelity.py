@@ -7,8 +7,15 @@ Provides verified thresholds and loss functions for training.
 """
 
 import numpy as np
-from typing import Dict, Tuple, List
+from typing import Dict, Tuple, List, Optional
 from scipy.spatial.distance import mahalanobis
+
+# Import resonance engine for attractor-based quality assessment
+try:
+    from ljpw_quantum.resonance_engine import ResonanceEngine
+    RESONANCE_AVAILABLE = True
+except ImportError:
+    RESONANCE_AVAILABLE = False
 
 class SemanticReconstructionFidelity:
     """
@@ -36,13 +43,20 @@ class SemanticReconstructionFidelity:
             'entanglement_difference': 0.15,  # Maximum |ΔS| for correlated passages
             
             # Quantum fidelity measures
-            'quantum_fidelity': 0.92,      # Minimum F(ρ_source, ρ_target)
+            'quantum_fidelity': 0.92,      # Minimum F(rho_source, rho_target)
             'superposition_preservation': 0.85,  # Minimum preserved ambiguity
+            
+            # Resonance-based thresholds (NEW - December 2024)
+            'resonance_convergence': 0.10,   # Maximum convergence distance for equivalence
+            'resonance_cycles': 100,         # Number of cycles for resonance analysis
             
             # Additional constraints
             'ambiguity_ensemble_threshold': 0.30,  # Use ensemble if ambiguity > 0.3
-            'golden_ratio_deviation': 0.05  # φ relationship preservation
+            'golden_ratio_deviation': 0.05  # phi relationship preservation
         }
+        
+        # Initialize resonance engine if available
+        self.resonance_engine = ResonanceEngine() if RESONANCE_AVAILABLE else None
         
         # Success criteria (stricter than failure thresholds)
         self.success_criteria = {
@@ -107,6 +121,56 @@ class SemanticReconstructionFidelity:
         metrics['overall_fidelity'] = 1.0 - metrics['weighted_euclidean']
         
         return metrics
+    
+    def measure_resonance_fidelity(self,
+                                   ljpw_source: np.ndarray,
+                                   ljpw_target: np.ndarray,
+                                   cycles: int = None) -> Dict[str, any]:
+        """
+        Resonance-based fidelity measurement (PRIMARY METRIC - December 2024).
+        
+        Tests if source and target converge to the same semantic attractor
+        under LJPW resonance dynamics. This reveals deep semantic equivalence
+        that euclidean distance misses.
+        
+        Args:
+            ljpw_source: Source LJPW coordinates [L, J, P, W]
+            ljpw_target: Target LJPW coordinates [L, J, P, W]
+            cycles: Number of resonance cycles (default: from thresholds)
+            
+        Returns:
+            Dictionary with resonance fidelity metrics
+        """
+        if not self.resonance_engine:
+            return {
+                'resonance_available': False,
+                'error': 'Resonance engine not available'
+            }
+        
+        cycles = cycles or self.thresholds['resonance_cycles']
+        
+        # Run resonance analysis
+        analysis = self.resonance_engine.analyze_translation_pair(
+            ljpw_source.tolist() if isinstance(ljpw_source, np.ndarray) else ljpw_source,
+            ljpw_target.tolist() if isinstance(ljpw_target, np.ndarray) else ljpw_target,
+            cycles=cycles
+        )
+        
+        # Extract key metrics
+        convergence = analysis['convergence_distance']
+        same_attractor = analysis['same_deficit']
+        
+        return {
+            'resonance_available': True,
+            'convergence_distance': convergence,
+            'same_attractor': same_attractor,
+            'resonance_quality': analysis['quality_assessment'],
+            'passes_resonance': convergence < self.thresholds['resonance_convergence'],
+            'source_final_state': analysis['source_result'].final_state,
+            'target_final_state': analysis['target_result'].final_state,
+            'source_final_harmony': analysis['source_result'].final_harmony,
+            'target_final_harmony': analysis['target_result'].final_harmony
+        }
     
     def calculate_harmony(self, ljpw_coords: np.ndarray) -> float:
         """
@@ -257,6 +321,62 @@ class SemanticReconstructionFidelity:
         
         return total_loss, losses
     
+    def calculate_resonance_loss(self,
+                                 ljpw_source: np.ndarray,
+                                 ljpw_target: np.ndarray,
+                                 cycles: int = None) -> Tuple[float, Dict[str, float]]:
+        """
+        Resonance-based loss function for training (NEW - December 2024).
+        
+        Uses attractor convergence as the primary loss signal. Translations
+        that converge to the same attractor have low loss regardless of
+        surface coordinate differences.
+        
+        Args:
+            ljpw_source: Source LJPW coordinates
+            ljpw_target: Target LJPW coordinates
+            cycles: Number of resonance cycles
+            
+        Returns:
+            (total_loss, loss_components)
+        """
+        losses = {}
+        
+        # 1. Resonance convergence loss (PRIMARY)
+        resonance_metrics = self.measure_resonance_fidelity(ljpw_source, ljpw_target, cycles)
+        
+        if resonance_metrics.get('resonance_available', False):
+            # Low convergence distance = low loss
+            losses['resonance_convergence'] = resonance_metrics['convergence_distance']
+            
+            # Same attractor bonus (0 if same, 0.5 penalty if different)
+            losses['attractor_mismatch'] = 0.0 if resonance_metrics['same_attractor'] else 0.5
+            
+            # Harmony difference in final states
+            h_diff = abs(resonance_metrics['source_final_harmony'] - 
+                        resonance_metrics['target_final_harmony'])
+            losses['final_harmony_diff'] = h_diff
+        else:
+            # Fallback to euclidean if resonance not available
+            losses['resonance_convergence'] = np.linalg.norm(ljpw_source - ljpw_target)
+            losses['attractor_mismatch'] = 0.0
+            losses['final_harmony_diff'] = 0.0
+        
+        # 2. Surface coordination loss (secondary, for gradient signal)
+        losses['surface_distance'] = np.linalg.norm(ljpw_source - ljpw_target) * 0.1
+        
+        # Total loss (resonance-weighted)
+        weights = {
+            'resonance_convergence': 0.50,  # Primary metric
+            'attractor_mismatch': 0.30,     # Same basin?
+            'final_harmony_diff': 0.10,     # Harmony preservation
+            'surface_distance': 0.10        # Gradient helper
+        }
+        
+        total_loss = sum(losses[k] * weights[k] for k in losses)
+        
+        return total_loss, losses
+    
     def evaluate_translation_quality(self,
                                     ljpw_source: np.ndarray,
                                     ljpw_target: np.ndarray,
@@ -272,49 +392,81 @@ class SemanticReconstructionFidelity:
         ljpw_metrics = self.measure_ljpw_fidelity(ljpw_source, ljpw_target)
         harmony_metrics = self.measure_harmony_preservation(harmony_source, harmony_target)
         
-        # Overall assessment
+        # Resonance-based assessment (PRIMARY - December 2024)
+        resonance_metrics = self.measure_resonance_fidelity(ljpw_source, ljpw_target)
+        
+        # Legacy metrics
         euclidean_dist = ljpw_metrics['euclidean_distance']
         harmony_drift = harmony_metrics['delta_H']
         
-        # Determine quality level
-        if (euclidean_dist < self.success_criteria['euclidean_distance'] and
-            harmony_drift < self.success_criteria['harmony_drift']):
-            quality = 'EXCELLENT'
-            passes = True
-        elif (euclidean_dist < self.thresholds['ljpw_euclidean'] and
-              harmony_drift < self.thresholds['harmony_drift']):
-            quality = 'GOOD'
-            passes = True
-        elif (euclidean_dist < self.failure_thresholds['euclidean_distance'] and
-              harmony_drift < self.failure_thresholds['harmony_drift']):
-            quality = 'ACCEPTABLE'
-            passes = True
+        # Determine quality level using RESONANCE as primary
+        if resonance_metrics.get('resonance_available', False):
+            # Resonance-based quality (NEW paradigm)
+            if resonance_metrics['passes_resonance'] and resonance_metrics['same_attractor']:
+                quality = 'EXCELLENT (Resonance-verified)'
+                passes = True
+            elif resonance_metrics['convergence_distance'] < 0.2:
+                quality = 'GOOD (Resonance-verified)'
+                passes = True
+            elif euclidean_dist < self.thresholds['ljpw_euclidean']:
+                quality = 'ACCEPTABLE (Legacy metric)'
+                passes = True
+            else:
+                quality = 'FAILED'
+                passes = False
         else:
-            quality = 'FAILED'
-            passes = False
+            # Fallback to legacy euclidean metrics
+            if (euclidean_dist < self.success_criteria['euclidean_distance'] and
+                harmony_drift < self.success_criteria['harmony_drift']):
+                quality = 'EXCELLENT (Legacy)'
+                passes = True
+            elif (euclidean_dist < self.thresholds['ljpw_euclidean'] and
+                  harmony_drift < self.thresholds['harmony_drift']):
+                quality = 'GOOD (Legacy)'
+                passes = True
+            elif (euclidean_dist < self.failure_thresholds['euclidean_distance'] and
+                  harmony_drift < self.failure_thresholds['harmony_drift']):
+                quality = 'ACCEPTABLE (Legacy)'
+                passes = True
+            else:
+                quality = 'FAILED'
+                passes = False
         
         return {
             'quality_level': quality,
             'passes': passes,
+            'resonance_metrics': resonance_metrics,
             'ljpw_metrics': ljpw_metrics,
             'harmony_metrics': harmony_metrics,
             'euclidean_distance': euclidean_dist,
             'harmony_drift': harmony_drift,
             'overall_fidelity': ljpw_metrics['overall_fidelity'],
-            'recommendations': self._generate_recommendations(euclidean_dist, harmony_drift)
+            'recommendations': self._generate_recommendations(
+                euclidean_dist, harmony_drift, resonance_metrics
+            )
         }
     
-    def _generate_recommendations(self, euclidean_dist: float, harmony_drift: float) -> List[str]:
+    def _generate_recommendations(self, euclidean_dist: float, harmony_drift: float,
+                                   resonance_metrics: Dict = None) -> List[str]:
         """Generate recommendations based on metrics."""
         recommendations = []
         
+        # Resonance-based recommendations (primary)
+        if resonance_metrics and resonance_metrics.get('resonance_available', False):
+            if resonance_metrics['passes_resonance'] and resonance_metrics['same_attractor']:
+                recommendations.append("Resonance-verified: Translations converge to same semantic attractor")
+            elif not resonance_metrics['same_attractor']:
+                recommendations.append("WARNING: Translations converge to different attractors - semantic drift detected")
+            
+            if resonance_metrics['convergence_distance'] > self.thresholds['resonance_convergence']:
+                recommendations.append(f"Resonance convergence high ({resonance_metrics['convergence_distance']:.3f})")
+        
+        # Legacy recommendations
         if euclidean_dist > self.thresholds['ljpw_euclidean']:
-            recommendations.append(f"LJPW distance too high ({euclidean_dist:.3f} > {self.thresholds['ljpw_euclidean']})")
-            recommendations.append("Recommendation: Retrain decoder with higher LJPW loss weight")
+            recommendations.append(f"Legacy: LJPW distance high ({euclidean_dist:.3f} > {self.thresholds['ljpw_euclidean']})")
         
         if harmony_drift > self.thresholds['harmony_drift']:
-            recommendations.append(f"Harmony drift too high ({harmony_drift:.3f} > {self.thresholds['harmony_drift']})")
-            recommendations.append("Recommendation: Add harmony preservation term to loss function")
+            recommendations.append(f"Legacy: Harmony drift high ({harmony_drift:.3f} > {self.thresholds['harmony_drift']})")
         
         if not recommendations:
             recommendations.append("Translation quality meets all thresholds")

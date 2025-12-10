@@ -1,0 +1,700 @@
+{
+  "book": "Matthew",
+  "chapter": 25,
+  "source_language": "English",
+  "target_language": "Wedau",
+  "translation_method": "LJPW-Guided Pure Meaning Translation",
+  "timestamp": "2025-12-10T20:04:15.776822",
+  "verses": {
+    "1": {
+      "verse_ref": "Matthew 25:1",
+      "english": "“Then the Kingdom of Heaven will be like ten virgins, who took their lamps, and went out to meet the bridegroom.",
+      "wedau": "[“then]  vibadana ana marei ina  [like] [ten] [virgins] aiyai varahai ahi [lamps] ma nae hopu da [meet]  [bridegroom]",
+      "ljpw": [
+        0.6014351771069621,
+        0.7823096609085092,
+        0.7699936020473448,
+        0.7771869365439423
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7823096609085092,
+      "harmony": 0.6428015009137328,
+      "translation_notes": "Primary dimension: Justice (0.78); Strong secondary: Wisdom"
+    },
+    "2": {
+      "verse_ref": "Matthew 25:2",
+      "english": "Five of them were foolish, and five were wise.",
+      "wedau": "[five] ana hita  [foolish] ma [five]  [wise]",
+      "ljpw": [
+        0.53,
+        0.5495238095238095,
+        0.4775,
+        0.599047619047619
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.5191930627025123,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "3": {
+      "verse_ref": "Matthew 25:3",
+      "english": "Those who were foolish, when they took their lamps, took no oil with them,",
+      "wedau": "raketana aiyai  [foolish] maranaina tauhi varahai ahi [lamps] varahai egha [oil] maitehi hita",
+      "ljpw": [
+        0.560344827586207,
+        0.5,
+        0.4547413793103448,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.560344827586207,
+      "harmony": 0.5011800965942156,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "4": {
+      "verse_ref": "Matthew 25:4",
+      "english": "but the wise took oil in their vessels with their lamps.",
+      "wedau": "tuna  [wise] varahai [oil] au ahi [vessels] maitehi ahi [lamps]",
+      "ljpw": [
+        0.5262857142857142,
+        0.5495238095238095,
+        0.4802857142857143,
+        0.599047619047619
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.5191054896689897,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "5": {
+      "verse_ref": "Matthew 25:5",
+      "english": "Now while the bridegroom delayed, they all slumbered and slept.",
+      "wedau": "ina marana [while]  [bridegroom] [delayed] tauhi anatapuhi [slumbered] ma [slept]",
+      "ljpw": [
+        0.5125000000000001,
+        0.5,
+        0.5,
+        0.5125000000000001
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5125000000000001,
+      "harmony": 0.5031246276381162,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "6": {
+      "verse_ref": "Matthew 25:6",
+      "english": "But at midnight there was a cry, ‘Behold! The bridegroom is coming! Come out to meet him!’",
+      "wedau": "tuna au [midnight] kampa   [cry] [‘behold!]  [bridegroom]  [coming!] neꞌi hopu da [meet] [him!’]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "7": {
+      "verse_ref": "Matthew 25:7",
+      "english": "Then all those virgins arose, and trimmed their lamps.",
+      "wedau": "maratagogi anatapuhi raketana [virgins] [arose] ma [trimmed] ahi [lamps]",
+      "ljpw": [
+        0.5147727272727273,
+        0.5,
+        0.5,
+        0.5147727272727273
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5147727272727273,
+      "harmony": 0.503692565320569,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "8": {
+      "verse_ref": "Matthew 25:8",
+      "english": "The foolish said to the wise, ‘Give us some of your oil, for our lamps are going out.’",
+      "wedau": "[foolish] riwa da  [wise] [‘give] ita ghehauhi ana ami [oil] yamna ahi [lamps]  nae [out’]",
+      "ljpw": [
+        0.528125,
+        0.5495238095238095,
+        0.47890625,
+        0.599047619047619
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.5191496316124211,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "9": {
+      "verse_ref": "Matthew 25:9",
+      "english": "But the wise answered, saying, ‘What if there isn’t enough for us and you? You go rather to those who sell, and buy for yourselves.’",
+      "wedau": "tuna  [wise] [answered] riwa ipa [‘what] tora kampa [isn’t] [enough] yamna ita ma [you?] omi nae [rather] da raketana aiyai [sell] ma [buy] yamna [yourselves’]",
+      "ljpw": [
+        0.5172173913043479,
+        0.556231884057971,
+        0.4870869565217391,
+        0.6515942028985506
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6515942028985506,
+      "harmony": 0.5256288736414693,
+      "translation_notes": "Primary dimension: Wisdom (0.65)"
+    },
+    "10": {
+      "verse_ref": "Matthew 25:10",
+      "english": "While they went away to buy, the bridegroom came, and those who were ready went in with him to the wedding feast, and the door was shut.",
+      "wedau": "[while] tauhi nae [away] da [buy]  [bridegroom] neꞌi ma raketana aiyai  [ready] nae au maitehi tauna da  [wedding] [feast] ma  naona  [shut]",
+      "ljpw": [
+        0.5584905660377358,
+        0.5,
+        0.4561320754716981,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5584905660377358,
+      "harmony": 0.5011650479785537,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "11": {
+      "verse_ref": "Matthew 25:11",
+      "english": "Afterward the other virgins also came, saying, ‘Lord, Lord, open to us.’",
+      "wedau": "[afterward]  ghehauna [virgins] maitehi neꞌi riwa ipa [‘lord] Guyau [open] da [us’]",
+      "ljpw": [
+        0.5857638888888889,
+        0.5677083333333334,
+        0.5,
+        0.5993055555555555
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5993055555555555,
+      "harmony": 0.5327820952255675,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "12": {
+      "verse_ref": "Matthew 25:12",
+      "english": "But he answered, ‘Most certainly I tell you, I don’t know you.’",
+      "wedau": "tuna tauna [answered] [‘most] [certainly] tau riwehi omi tau [don’t] haramaneꞌi [you’]",
+      "ljpw": [
+        0.5430930104567969,
+        0.5438818565400844,
+        0.47325261419922954,
+        0.5951935424692717
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5951935424692717,
+      "harmony": 0.5191143529888927,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "13": {
+      "verse_ref": "Matthew 25:13",
+      "english": "Watch therefore, for you don’t know the day nor the hour in which the Son of Man is coming.",
+      "wedau": "[watch] [therefore] yamna omi [don’t] haramaneꞌi  mara [nor]  [hour] au aiyai  natuna ana oroto  naenae",
+      "ljpw": [
+        0.5279183673469388,
+        0.5495238095238095,
+        0.47906122448979593,
+        0.599047619047619
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.5191447484569648,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "14": {
+      "verse_ref": "Matthew 25:14",
+      "english": "“For it is like a man, going into another country, who called his own servants, and entrusted his goods to them.",
+      "wedau": "[“for] tauna  [like]  oroto nae au [another] [country] aiyai ghorehi ana ana taunoya ma [entrusted] ana [goods] da hita",
+      "ljpw": [
+        0.5109195402298851,
+        0.5,
+        0.5,
+        0.5109195402298851
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5109195402298851,
+      "harmony": 0.5027296373528326,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "15": {
+      "verse_ref": "Matthew 25:15",
+      "english": "To one he gave five talents, to another two, to another one; to each according to his own ability. Then he went on his journey.",
+      "wedau": "da [one] tauna verei [five] [talents] da [another] [two] da [another] [one;] da tagotagogi [according] da ana ana [ability] maratagogi tauna nae au ana [journey]",
+      "ljpw": [
+        0.5551020408163265,
+        0.5,
+        0.4586734693877551,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5551020408163265,
+      "harmony": 0.5011340509838531,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "16": {
+      "verse_ref": "Matthew 25:16",
+      "english": "Immediately he who received the five talents went and traded with them, and made another five talents.",
+      "wedau": "maratagogi tauna aiyai [received]  [five] [talents] nae ma [traded] maitehi hita ma rura [another] [five] [talents]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "17": {
+      "verse_ref": "Matthew 25:17",
+      "english": "In the same way, he also who got the two gained another two.",
+      "wedau": "au  tagotagogi parata tauna maitehi aiyai varahai  [two] [gained] [another] [two]",
+      "ljpw": [
+        0.5630434782608696,
+        0.5,
+        0.4527173913043478,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5630434782608696,
+      "harmony": 0.5011995783458615,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "18": {
+      "verse_ref": "Matthew 25:18",
+      "english": "But he who received the one talent went away and dug in the earth, and hid his lord’s money.",
+      "wedau": "tuna tauna aiyai [received]  [one] [talent] nae [away] ma [dug] au  dobuna ma [hid] ana [lord’s] [money]",
+      "ljpw": [
+        0.6025352112676057,
+        0.5619047619047619,
+        0.47881287726358146,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6025352112676057,
+      "harmony": 0.5290555319486532,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "19": {
+      "verse_ref": "Matthew 25:19",
+      "english": "“Now after a long time the lord of those servants came, and reconciled accounts with them.",
+      "wedau": "[“now] muriyai  [long] mara  Guyau ana raketana taunoya neꞌi ma [reconciled] [accounts] maitehi hita",
+      "ljpw": [
+        0.5854166666666667,
+        0.5677083333333334,
+        0.5,
+        0.5989583333333334
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5989583333333334,
+      "harmony": 0.5326904968187018,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "20": {
+      "verse_ref": "Matthew 25:20",
+      "english": "He who received the five talents came and brought another five talents, saying, ‘Lord, you delivered to me five talents. Behold, I have gained another five talents in addition to them.’",
+      "wedau": "tauna aiyai [received]  [five] [talents] neꞌi ma neiyahi [another] [five] [talents] riwa ipa [‘lord] omi [delivered] da tau [five] [talents] [behold] tau ana [gained] [another] [five] [talents] au [addition] da [them’]",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "21": {
+      "verse_ref": "Matthew 25:21",
+      "english": "“His lord said to him, ‘Well done, good and faithful servant. You have been faithful over a few things, I will set you over many things. Enter into the joy of your lord.’",
+      "wedau": "[“his] Guyau riwa da tauna [‘well] [done] [good] ma [faithful] [servant] omi ana  [faithful] au  ghehauhi [things] tau ina [set] omi au anatapuhi [things] rui au  [joy] ana ami [lord’]",
+      "ljpw": [
+        0.6076832499264058,
+        0.5548523206751056,
+        0.47377097438916693,
+        0.5836816799136494
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6076832499264058,
+      "harmony": 0.5275052265231416,
+      "translation_notes": "Primary dimension: Love (0.61)"
+    },
+    "22": {
+      "verse_ref": "Matthew 25:22",
+      "english": "“He also who got the two talents came and said, ‘Lord, you delivered to me two talents. Behold, I have gained another two talents in addition to them.’",
+      "wedau": "[“he] maitehi aiyai varahai  [two] [talents] neꞌi ma riwa [‘lord] omi [delivered] da tau [two] [talents] [behold] tau ana [gained] [another] [two] [talents] au [addition] da [them’]",
+      "ljpw": [
+        0.6004433497536946,
+        0.5619047619047619,
+        0.4803817733990148,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6004433497536946,
+      "harmony": 0.5290501327044671,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "23": {
+      "verse_ref": "Matthew 25:23",
+      "english": "“His lord said to him, ‘Well done, good and faithful servant. You have been faithful over a few things, I will set you over many things. Enter into the joy of your lord.’",
+      "wedau": "[“his] Guyau riwa da tauna [‘well] [done] [good] ma [faithful] [servant] omi ana  [faithful] au  ghehauhi [things] tau ina [set] omi au anatapuhi [things] rui au  [joy] ana ami [lord’]",
+      "ljpw": [
+        0.6076832499264058,
+        0.5548523206751056,
+        0.47377097438916693,
+        0.5836816799136494
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6076832499264058,
+      "harmony": 0.5275052265231416,
+      "translation_notes": "Primary dimension: Love (0.61)"
+    },
+    "24": {
+      "verse_ref": "Matthew 25:24",
+      "english": "“He also who had received the one talent came and said, ‘Lord, I knew you that you are a hard man, reaping where you didn’t sow, and gathering where you didn’t scatter.",
+      "wedau": "[“he] maitehi aiyai ana [received]  [one] [talent] neꞌi ma riwa [‘lord] tau haramaneꞌi omi raketana omi   [hard] oroto [reaping] aiwaꞌi omi [didn’t] [sow] ma [gathering] aiwaꞌi omi [didn’t] [scatter]",
+      "ljpw": [
+        0.6024107142857142,
+        0.5619047619047619,
+        0.47890625,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6024107142857142,
+      "harmony": 0.5290552707748472,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "25": {
+      "verse_ref": "Matthew 25:25",
+      "english": "I was afraid, and went away and hid your talent in the earth. Behold, you have what is yours.’",
+      "wedau": "tau  [afraid] ma nae [away] ma [hid] ami [talent] au  dobuna [behold] omi ana aiwaꞌi  [yours’]",
+      "ljpw": [
+        0.5605633802816902,
+        0.5,
+        0.4545774647887324,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5605633802816902,
+      "harmony": 0.5011817810994843,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "26": {
+      "verse_ref": "Matthew 25:26",
+      "english": "“But his lord answered him, ‘You wicked and slothful servant. You knew that I reap where I didn’t sow, and gather where I didn’t scatter.",
+      "wedau": "[“but] ana Guyau [answered] tauna [‘you] [wicked] ma [slothful] [servant] omi haramaneꞌi raketana tau [reap] aiwaꞌi tau [didn’t] [sow] ma [gather] aiwaꞌi tau [didn’t] [scatter]",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "27": {
+      "verse_ref": "Matthew 25:27",
+      "english": "You ought therefore to have deposited my money with the bankers, and at my coming I should have received back my own with interest.",
+      "wedau": "omi [ought] [therefore] da ana [deposited] au [money] maitehi  [bankers] ma au au naenae tau ina ana [received] [back] au ana maitehi [interest]",
+      "ljpw": [
+        0.5528301886792453,
+        0.5,
+        0.46037735849056605,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5528301886792453,
+      "harmony": 0.5011107391467197,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "28": {
+      "verse_ref": "Matthew 25:28",
+      "english": "Take away therefore the talent from him, and give it to him who has the ten talents.",
+      "wedau": "varahai [away] [therefore]  [talent] au tauna ma verei tauna da tauna aiyai ana  [ten] [talents]",
+      "ljpw": [
+        0.5265151515151515,
+        0.575,
+        0.5926136363636364,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5926136363636364,
+      "harmony": 0.5246680030823901,
+      "translation_notes": "Primary dimension: Power (0.59)"
+    },
+    "29": {
+      "verse_ref": "Matthew 25:29",
+      "english": "For to everyone who has will be given, and he will have abundance, but from him who doesn’t have, even that which he has will be taken away.",
+      "wedau": "yamna da anatapuhi aiyai ana ina  verei ma tauna ina ana [abundance] tuna au tauna aiyai [doesn’t] ana ma raketana aiyai tauna ana ina  varahai [away]",
+      "ljpw": [
+        0.5574074074074075,
+        0.5,
+        0.45694444444444443,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5574074074074075,
+      "harmony": 0.5011556310397008,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "30": {
+      "verse_ref": "Matthew 25:30",
+      "english": "Throw out the unprofitable servant into the outer darkness, where there will be weeping and gnashing of teeth.’",
+      "wedau": "[throw] hopu  [unprofitable] [servant] au  [outer] [darkness] aiwaꞌi kampa ina  [weeping] ma [gnashing] ana [teeth’]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "31": {
+      "verse_ref": "Matthew 25:31",
+      "english": "“But when the Son of Man comes in his glory, and all the holy angels with him, then he will sit on the throne of his glory.",
+      "wedau": "[“but] maranaina  natuna ana oroto neꞌi au ana [glory] ma anatapuhi  [holy] aneya maitehi tauna maratagogi tauna ina [sit] au  [throne] ana ana [glory]",
+      "ljpw": [
+        0.6095549203756636,
+        0.5548523206751056,
+        0.4735402204981626,
+        0.5852456785082347
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6095549203756636,
+      "harmony": 0.5278975601043612,
+      "translation_notes": "Primary dimension: Love (0.61)"
+    },
+    "32": {
+      "verse_ref": "Matthew 25:32",
+      "english": "Before him all the nations will be gathered, and he will separate them one from another, as a shepherd separates the sheep from the goats.",
+      "wedau": "naona tauna anatapuhi  [nations] ina  tagogiyehi ma tauna ina [separate] hita [one] au [another]   [shepherd] [separates]  [sheep] au  [goats]",
+      "ljpw": [
+        0.5608108108108109,
+        0.5,
+        0.46216216216216216,
+        0.5103603603603604
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5608108108108109,
+      "harmony": 0.5035622640048443,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "33": {
+      "verse_ref": "Matthew 25:33",
+      "english": "He will set the sheep on his right hand, but the goats on the left.",
+      "wedau": "tauna ina [set]  [sheep] au ana [right] nimana tuna  [goats] au  voterei",
+      "ljpw": [
+        0.538464247974639,
+        0.5974580251262182,
+        0.5215216625572385,
+        0.5518962075848304
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.5974580251262182,
+      "harmony": 0.5271195037485958,
+      "translation_notes": "Primary dimension: Justice (0.60)"
+    },
+    "34": {
+      "verse_ref": "Matthew 25:34",
+      "english": "Then the King will tell those on his right hand, ‘Come, blessed of my Father, inherit the Kingdom prepared for you from the foundation of the world;",
+      "wedau": "I maratagogi  kingi ina riwehi raketana au ana [right] nimana [‘come] nuwaboyei ana au Tamatei ana vouna  vibadana [prepared] yamna omi au  [foundation] ana  [world;]",
+      "ljpw": [
+        0.501763668430335,
+        0.7301587301587301,
+        0.8222222222222221,
+        0.6858906525573192
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.8222222222222221,
+      "harmony": 0.5981555084975727,
+      "translation_notes": "Primary dimension: Power (0.82); Strong secondary: Justice"
+    },
+    "35": {
+      "verse_ref": "Matthew 25:35",
+      "english": "for I was hungry, and you gave me food to eat. I was thirsty, and you gave me drink. I was a stranger, and you took me in.",
+      "wedau": "yamna tau  [hungry] ma omi verei tau [food] da [eat] tau  [thirsty] ma omi verei tau [drink] tau   [stranger] ma omi varahai tau au",
+      "ljpw": [
+        0.5528089887640449,
+        0.5,
+        0.46039325842696627,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5528089887640449,
+      "harmony": 0.5011105120521473,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "36": {
+      "verse_ref": "Matthew 25:36",
+      "english": "I was naked, and you clothed me. I was sick, and you visited me. I was in prison, and you came to me.’",
+      "wedau": "tau  [naked] ma omi [clothed] tau tau  doridoriahi ma omi [visited] tau tau  au deri ma omi neꞌi da [me’]",
+      "ljpw": [
+        0.5534246575342466,
+        0.5,
+        0.45993150684931505,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5534246575342466,
+      "harmony": 0.5011170351703095,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "37": {
+      "verse_ref": "Matthew 25:37",
+      "english": "“Then the righteous will answer him, saying, ‘Lord, when did we see you hungry, and feed you; or thirsty, and give you a drink?",
+      "wedau": "[“then]  [righteous] ina [answer] tauna riwa ipa [‘lord] maranaina rura ita inana omi [hungry] ma [feed] [you;] bo [thirsty] ma verei omi  [drink?]",
+      "ljpw": [
+        0.5097454318288303,
+        0.8643916913946588,
+        0.6293378104013744,
+        0.75
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.8643916913946588,
+      "harmony": 0.596224000370411,
+      "translation_notes": "Primary dimension: Justice (0.86); Strong secondary: Wisdom"
+    },
+    "38": {
+      "verse_ref": "Matthew 25:38",
+      "english": "When did we see you as a stranger, and take you in; or naked, and clothe you?",
+      "wedau": "maranaina rura ita inana omi   [stranger] ma varahai omi [in;] bo [naked] ma [clothe] [you?]",
+      "ljpw": [
+        0.5320802005012532,
+        0.5,
+        0.47593984962406016,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.509438842908673,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "39": {
+      "verse_ref": "Matthew 25:39",
+      "english": "When did we see you sick, or in prison, and come to you?’",
+      "wedau": "maranaina rura ita inana omi doridoriahi bo au deri ma neꞌi da [you?’]",
+      "ljpw": [
+        0.5320557491289198,
+        0.5,
+        0.4759581881533101,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094383493586205,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "40": {
+      "verse_ref": "Matthew 25:40",
+      "english": "“The King will answer them, ‘Most certainly I tell you, because you did it to one of the least of these my brothers, you did it to me.’",
+      "wedau": "[“the] kingi ina [answer] hita [‘most] [certainly] tau riwehi omi yamna omi rura tauna da [one] ana  [least] ana ina au tevera omi rura tauna da [me’]",
+      "ljpw": [
+        0.5264780763790664,
+        0.5619047619047619,
+        0.5668081093823668,
+        0.5495238095238095
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5668081093823668,
+      "harmony": 0.5268193233604828,
+      "translation_notes": "Primary dimension: Power (0.57)"
+    },
+    "41": {
+      "verse_ref": "Matthew 25:41",
+      "english": "Then he will say also to those on the left hand, ‘Depart from me, you cursed, into the eternal fire which is prepared for the devil and his angels;",
+      "wedau": "maratagogi tauna ina riwa maitehi da raketana au  voterei nimana [‘depart] au tau omi [cursed] au  [eternal] [fire] aiyai  [prepared] yamna  [devil] ma ana [angels;]",
+      "ljpw": [
+        0.42269736842105265,
+        0.41875,
+        0.5,
+        0.5039473684210526
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5039473684210526,
+      "harmony": 0.48068385634493227,
+      "translation_notes": "Primary dimension: Wisdom (0.50); Low harmony verse (distinctive emphasis)"
+    },
+    "42": {
+      "verse_ref": "Matthew 25:42",
+      "english": "for I was hungry, and you didn’t give me food to eat; I was thirsty, and you gave me no drink;",
+      "wedau": "yamna tau  [hungry] ma omi [didn’t] verei tau [food] da [eat;] tau  [thirsty] ma omi verei tau egha [drink;]",
+      "ljpw": [
+        0.5507246376811594,
+        0.5,
+        0.46195652173913043,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5507246376811594,
+      "harmony": 0.5010873217320045,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "43": {
+      "verse_ref": "Matthew 25:43",
+      "english": "I was a stranger, and you didn’t take me in; naked, and you didn’t clothe me; sick, and in prison, and you didn’t visit me.’",
+      "wedau": "tau   [stranger] ma omi [didn’t] varahai tau [in;] [naked] ma omi [didn’t] [clothe] [me;] doridoriahi ma au deri ma omi [didn’t] [visit] [me’]",
+      "ljpw": [
+        0.5106741573033708,
+        0.5193820224719101,
+        0.5258426966292135,
+        0.5106741573033708
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5258426966292135,
+      "harmony": 0.508440625917828,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "44": {
+      "verse_ref": "Matthew 25:44",
+      "english": "“Then they will also answer, saying, ‘Lord, when did we see you hungry, or thirsty, or a stranger, or naked, or sick, or in prison, and didn’t help you?’",
+      "wedau": "[“then] tauhi ina maitehi [answer] riwa ipa [‘lord] maranaina rura ita inana omi [hungry] bo [thirsty] bo  [stranger] bo [naked] bo doridoriahi bo au deri ma [didn’t] [help] [you?’]",
+      "ljpw": [
+        0.5917679147036945,
+        0.5741590214067279,
+        0.5,
+        0.6478841226547649
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6478841226547649,
+      "harmony": 0.5406300200795208,
+      "translation_notes": "Primary dimension: Wisdom (0.65)"
+    },
+    "45": {
+      "verse_ref": "Matthew 25:45",
+      "english": "“Then he will answer them, saying, ‘Most certainly I tell you, because you didn’t do it to one of the least of these, you didn’t do it to me.’",
+      "wedau": "[“then] tauna ina [answer] hita riwa ipa [‘most] [certainly] tau riwehi omi yamna omi [didn’t] rura tauna da [one] ana  [least] ana ina omi [didn’t] rura tauna da [me’]",
+      "ljpw": [
+        0.551923076923077,
+        0.5,
+        0.4610576923076923,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.551923076923077,
+      "harmony": 0.5011008641427924,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "46": {
+      "verse_ref": "Matthew 25:46",
+      "english": "These will go away into eternal punishment, but the righteous into eternal life.”",
+      "wedau": "ina ina nae [away] au [eternal] [punishment] tuna  [righteous] au [eternal] [life”]",
+      "ljpw": [
+        0.528533231474408,
+        0.7061624649859944,
+        0.5597784568372803,
+        0.634008148714031
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7061624649859944,
+      "harmony": 0.5562583568743736,
+      "translation_notes": "Primary dimension: Justice (0.71); Strong secondary: Wisdom"
+    }
+  }
+}

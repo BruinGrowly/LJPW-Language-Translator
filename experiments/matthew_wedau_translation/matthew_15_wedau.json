@@ -1,0 +1,595 @@
+{
+  "book": "Matthew",
+  "chapter": 15,
+  "source_language": "English",
+  "target_language": "Wedau",
+  "translation_method": "LJPW-Guided Pure Meaning Translation",
+  "timestamp": "2025-12-10T20:04:15.730562",
+  "verses": {
+    "1": {
+      "verse_ref": "Matthew 15:1",
+      "english": "Then Pharisees and scribes came to Jesus from Jerusalem, saying,",
+      "wedau": "maratagogi [pharisees] ma tauviharaharamanahi neꞌi da Yesu au jerusalem riwa ipa",
+      "ljpw": [
+        0.5851415094339623,
+        0.5677083333333334,
+        0.5,
+        0.598683176100629
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.598683176100629,
+      "harmony": 0.5326179003222293,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "2": {
+      "verse_ref": "Matthew 15:2",
+      "english": "“Why do your disciples disobey the tradition of the elders? For they don’t wash their hands when they eat bread.”",
+      "wedau": "[“why] rura ami tauvotaghotagho [disobey]  [tradition] ana  [elders?] yamna tauhi [don’t] [wash] ahi nimana maranaina tauhi [eat] [bread”]",
+      "ljpw": [
+        0.5308186195826645,
+        0.5,
+        0.4768860353130016,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094130519040079,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "3": {
+      "verse_ref": "Matthew 15:3",
+      "english": "He answered them, “Why do you also disobey the commandment of God because of your tradition?",
+      "wedau": "tauna [answered] hita [“why] rura omi maitehi [disobey]  [commandment] ana God yamna ana ami [tradition?]",
+      "ljpw": [
+        0.6012690951821387,
+        0.5702898550724638,
+        0.48730904817861337,
+        0.637536231884058
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.637536231884058,
+      "harmony": 0.5379256127072615,
+      "translation_notes": "Primary dimension: Wisdom (0.64); Strong secondary: Love"
+    },
+    "4": {
+      "verse_ref": "Matthew 15:4",
+      "english": "For God commanded, ‘Honor your father and your mother,’ and, ‘He who speaks evil of father or mother, let him be put to death.’",
+      "wedau": "yamna God ririweiya [‘honor] ami Tamatei ma ami [mother’] ma [‘he] aiyai pa [evil] ana Tamatei bo hinana ita tauna  terei da [death’]",
+      "ljpw": [
+        0.6823264042459088,
+        0.6288515406162465,
+        0.48280406899601946,
+        0.6851688043638507
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6851688043638507,
+      "harmony": 0.5624309150202488,
+      "translation_notes": "Primary dimension: Wisdom (0.69); Strong secondary: Love"
+    },
+    "5": {
+      "verse_ref": "Matthew 15:5",
+      "english": "But you say, ‘Whoever may tell his father or his mother, “Whatever help you might otherwise have gotten from me is a gift devoted to God,”",
+      "wedau": "tuna omi riwa [‘whoever] ita riwehi ana Tamatei bo ana hinana [“whatever] [help] omi ita [otherwise] ana [gotten] au tau   [gift] [devoted] da [god”]",
+      "ljpw": [
+        0.7780623528572449,
+        0.7213740458015268,
+        0.4906898765784405,
+        0.8099236641221375
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.8099236641221375,
+      "harmony": 0.6060847498400957,
+      "translation_notes": "Primary dimension: Wisdom (0.81); Strong secondary: Love"
+    },
+    "6": {
+      "verse_ref": "Matthew 15:6",
+      "english": "he shall not honor his father or mother.’ You have made the commandment of God void because of your tradition.",
+      "wedau": "tauna ina egha [honor] ana Tamatei bo [mother’] omi ana rura  [commandment] ana God [void] yamna ana ami [tradition]",
+      "ljpw": [
+        0.6085443037974684,
+        0.5548523206751056,
+        0.4732019562715766,
+        0.5837840429612582
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6085443037974684,
+      "harmony": 0.5275302213721168,
+      "translation_notes": "Primary dimension: Love (0.61)"
+    },
+    "7": {
+      "verse_ref": "Matthew 15:7",
+      "english": "You hypocrites! Well did Isaiah prophesy of you, saying,",
+      "wedau": "omi [hypocrites!] ahiahina rura aisaiya [prophesy] ana omi riwa ipa",
+      "ljpw": [
+        0.56,
+        0.5,
+        0.455,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.56,
+      "harmony": 0.5011774005632909,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "8": {
+      "verse_ref": "Matthew 15:8",
+      "english": "‘These people draw near to me with their mouth, and honor me with their lips; but their heart is far from me.",
+      "wedau": "[‘these] rava [draw] turiyai da tau maitehi ahi [mouth] ma [honor] tau maitehi ahi [lips;] tuna ahi urana  [far] au tau",
+      "ljpw": [
+        0.5636904761904763,
+        0.5,
+        0.4607142857142857,
+        0.5113095238095239
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5636904761904763,
+      "harmony": 0.5038055924436015,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "9": {
+      "verse_ref": "Matthew 15:9",
+      "english": "And in vain do they worship me, teaching as doctrine rules made by men.’ ”",
+      "wedau": "I ma au [vain] rura tauhi [worship] tau viharaharamana  [doctrine] [rules] rura au [men’] [”]",
+      "ljpw": [
+        0.5771171941830624,
+        0.654690618762475,
+        0.716566866267465,
+        0.6820074137439407
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.716566866267465,
+      "harmony": 0.5908505671552492,
+      "translation_notes": "Primary dimension: Power (0.72); Strong secondary: Wisdom"
+    },
+    "10": {
+      "verse_ref": "Matthew 15:10",
+      "english": "He summoned the multitude, and said to them, “Hear, and understand.",
+      "wedau": "tauna [summoned]  [multitude] ma riwa da hita [“hear] ma [understand]",
+      "ljpw": [
+        0.5043269230769231,
+        0.5541666666666667,
+        0.5,
+        0.6126602564102563
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6126602564102563,
+      "harmony": 0.521115049369883,
+      "translation_notes": "Primary dimension: Wisdom (0.61)"
+    },
+    "11": {
+      "verse_ref": "Matthew 15:11",
+      "english": "That which enters into the mouth doesn’t defile the man; but that which proceeds out of the mouth, this defiles the man.”",
+      "wedau": "raketana aiyai rui au  [mouth] [doesn’t] [defile]  [man;] tuna raketana aiyai [proceeds] hopu ana  [mouth] ina [defiles]  [man”]",
+      "ljpw": [
+        0.5515789473684211,
+        0.5,
+        0.4613157894736842,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5515789473684211,
+      "harmony": 0.5010970332416411,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "12": {
+      "verse_ref": "Matthew 15:12",
+      "english": "Then the disciples came, and said to him, “Do you know that the Pharisees were offended when they heard this saying?”",
+      "wedau": "maratagogi  tauvotaghotagho neꞌi ma riwa da tauna [“do] omi haramaneꞌi raketana  [pharisees]  [offended] maranaina tauhi [heard] ina [saying?”]",
+      "ljpw": [
+        0.5170132325141776,
+        0.556231884057971,
+        0.4872400756143667,
+        0.6515942028985506
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6515942028985506,
+      "harmony": 0.5256227326005282,
+      "translation_notes": "Primary dimension: Wisdom (0.65)"
+    },
+    "13": {
+      "verse_ref": "Matthew 15:13",
+      "english": "But he answered, “Every plant which my heavenly Father didn’t plant will be uprooted.",
+      "wedau": "tuna tauna [answered] [“every] [plant] aiyai au marei Tamatei [didn’t] [plant] ina  [uprooted]",
+      "ljpw": [
+        0.511029411764706,
+        0.5,
+        0.5,
+        0.511029411764706
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.511029411764706,
+      "harmony": 0.5027570976465427,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "14": {
+      "verse_ref": "Matthew 15:14",
+      "english": "Leave them alone. They are blind guides of the blind. If the blind guide the blind, both will fall into a pit.”",
+      "wedau": "[leave] hita [alone] tauhi  [blind] [guides] ana  [blind] tora  [blind] [guide]  [blind] ruwagha ina [fall] au  [pit”]",
+      "ljpw": [
+        0.5105882352941177,
+        0.5194117647058824,
+        0.5258823529411765,
+        0.5105882352941177
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5258823529411765,
+      "harmony": 0.5084269902200886,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "15": {
+      "verse_ref": "Matthew 15:15",
+      "english": "Peter answered him, “Explain the parable to us.”",
+      "wedau": "[peter] [answered] tauna [“explain]  [parable] da [us”]",
+      "ljpw": [
+        0.5108108108108108,
+        0.5,
+        0.5,
+        0.5108108108108108
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5108108108108108,
+      "harmony": 0.5027024623588654,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "16": {
+      "verse_ref": "Matthew 15:16",
+      "english": "So Jesus said, “Do you also still not understand?",
+      "wedau": "yamna Yesu riwa [“do] omi maitehi [still] egha [understand?]",
+      "ljpw": [
+        0.7,
+        0.6666666666666666,
+        0.5,
+        0.7661800486618005
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7661800486618005,
+      "harmony": 0.584390643134162,
+      "translation_notes": "Primary dimension: Wisdom (0.77); Strong secondary: Love"
+    },
+    "17": {
+      "verse_ref": "Matthew 15:17",
+      "english": "Don’t you understand that whatever goes into the mouth passes into the belly, and then out of the body?",
+      "wedau": "[don’t] omi [understand] raketana [whatever] nae au  [mouth] [passes] au  [belly] ma maratagogi hopu ana  [body?]",
+      "ljpw": [
+        0.5,
+        0.5625309296571226,
+        0.5083987274655355,
+        0.6515942028985506
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6515942028985506,
+      "harmony": 0.5271746810063639,
+      "translation_notes": "Primary dimension: Wisdom (0.65)"
+    },
+    "18": {
+      "verse_ref": "Matthew 15:18",
+      "english": "But the things which proceed out of the mouth come out of the heart, and they defile the man.",
+      "wedau": "tuna  [things] aiyai [proceed] hopu ana  [mouth] neꞌi hopu ana  urana ma tauhi [defile]  oroto",
+      "ljpw": [
+        0.5547945205479452,
+        0.5,
+        0.4589041095890411,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5547945205479452,
+      "harmony": 0.5011310142696774,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "19": {
+      "verse_ref": "Matthew 15:19",
+      "english": "For out of the heart come evil thoughts, murders, adulteries, sexual sins, thefts, false testimony, and blasphemies.",
+      "wedau": "yamna hopu ana  urana neꞌi [evil] [thoughts] [murders] [adulteries] [sexual] ghohaꞌapoapoe [thefts] [false] inavi heghehi ma [blasphemies]",
+      "ljpw": [
+        0.30000000000000004,
+        0.30000000000000004,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5,
+      "harmony": 0.45115105429092484,
+      "translation_notes": "Primary dimension: Power (0.50); Low harmony verse (distinctive emphasis)"
+    },
+    "20": {
+      "verse_ref": "Matthew 15:20",
+      "english": "These are the things which defile the man; but to eat with unwashed hands doesn’t defile the man.”",
+      "wedau": "ina   [things] aiyai [defile]  [man;] tuna da [eat] maitehi [unwashed] nimana [doesn’t] [defile]  [man”]",
+      "ljpw": [
+        0.5532467532467533,
+        0.5,
+        0.46006493506493507,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5532467532467533,
+      "harmony": 0.5011151655555804,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "21": {
+      "verse_ref": "Matthew 15:21",
+      "english": "Jesus went out from there, and withdrew into the region of Tyre and Sidon.",
+      "wedau": "Yesu nae hopu au kampa ma [withdrew] au  [region] ana [tyre] ma [sidon]",
+      "ljpw": [
+        0.5850635593220339,
+        0.5677083333333334,
+        0.5,
+        0.5986052259887006
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5986052259887006,
+      "harmony": 0.5325973327911959,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "22": {
+      "verse_ref": "Matthew 15:22",
+      "english": "Behold, a Canaanite woman came out from those borders, and cried, saying, “Have mercy on me, Lord, you son of David! My daughter is severely possessed by a demon!”",
+      "wedau": "[behold]  [canaanite] vaivine neꞌi hopu au raketana [borders] ma [cried] riwa ipa [“have] nuwaboyei au tau Guyau omi natuna ana [david!] au natuna  [severely] [possessed] au  [demon!”]",
+      "ljpw": [
+        0.7778412698412699,
+        0.7301587301587301,
+        0.5,
+        0.8238730158730158
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.8238730158730158,
+      "harmony": 0.6116312441785237,
+      "translation_notes": "Primary dimension: Wisdom (0.82); Strong secondary: Love"
+    },
+    "23": {
+      "verse_ref": "Matthew 15:23",
+      "english": "But he answered her not a word. His disciples came and begged him, saying, “Send her away; for she cries after us.”",
+      "wedau": "tuna tauna [answered] ana egha  riwana ana tauvotaghotagho neꞌi ma [begged] tauna riwa ipa [“send] ana [away;] yamna tauna [cries] muriyai [us”]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "24": {
+      "verse_ref": "Matthew 15:24",
+      "english": "But he answered, “I wasn’t sent to anyone but the lost sheep of the house of Israel.”",
+      "wedau": "tuna tauna [answered] [“i] [wasn’t] vivohi da [anyone] tuna  [lost] [sheep] ana  numa ana [israel”]",
+      "ljpw": [
+        0.553125,
+        0.5,
+        0.46015625,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.553125,
+      "harmony": 0.5011138788645172,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "25": {
+      "verse_ref": "Matthew 15:25",
+      "english": "But she came and worshiped him, saying, “Lord, help me.”",
+      "wedau": "tuna tauna neꞌi ma [worshiped] tauna riwa ipa [“lord] [help] [me”]",
+      "ljpw": [
+        0.5853658536585366,
+        0.5677083333333334,
+        0.5,
+        0.5989075203252033
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5989075203252033,
+      "harmony": 0.5326770911000402,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "26": {
+      "verse_ref": "Matthew 15:26",
+      "english": "But he answered, “It is not appropriate to take the children’s bread and throw it to the dogs.”",
+      "wedau": "tuna tauna [answered] [“it]  egha [appropriate] da varahai  [children’s] [bread] ma [throw] tauna da  [dogs”]",
+      "ljpw": [
+        0.5,
+        0.5236301369863013,
+        0.5315068493150685,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5315068493150685,
+      "harmony": 0.5068839512939556,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "27": {
+      "verse_ref": "Matthew 15:27",
+      "english": "But she said, “Yes, Lord, but even the dogs eat the crumbs which fall from their masters’ table.”",
+      "wedau": "tuna tauna riwa [“yes] Guyau tuna ma  [dogs] [eat]  [crumbs] aiyai [fall] au ahi [masters’] [table”]",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "28": {
+      "verse_ref": "Matthew 15:28",
+      "english": "Then Jesus answered her, “Woman, great is your faith! Be it done to you even as you desire.” And her daughter was healed from that hour.",
+      "wedau": "maratagogi Yesu [answered] ana [“woman] ghe vavahagha  ami [faith!]  tauna [done] da omi ma  omi [desire”] ma ana natuna  yawahanihi au raketana [hour]",
+      "ljpw": [
+        0.6029670329670329,
+        0.5619047619047619,
+        0.478489010989011,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6029670329670329,
+      "harmony": 0.5290563788283205,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "29": {
+      "verse_ref": "Matthew 15:29",
+      "english": "Jesus departed from there, and came near to the sea of Galilee; and he went up into the mountain, and sat there.",
+      "wedau": "Yesu [departed] au kampa ma neꞌi turiyai da  topana ana [galilee;] ma tauna nae au au  dobuna ma [sat] kampa",
+      "ljpw": [
+        0.5851293103448276,
+        0.5677083333333334,
+        0.5,
+        0.5986709770114943
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5986709770114943,
+      "harmony": 0.5326146815731807,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "30": {
+      "verse_ref": "Matthew 15:30",
+      "english": "Great multitudes came to him, having with them the lame, blind, mute, maimed, and many others, and they put them down at his feet. He healed them,",
+      "wedau": "ghe vavahagha [multitudes] neꞌi da tauna [having] maitehi hita  [lame] [blind] [mute] [maimed] ma anatapuhi ghehauna ma tauhi terei hita au au ana [feet] tauna yawahanihi hita",
+      "ljpw": [
+        0.5611607142857143,
+        0.5,
+        0.46183035714285714,
+        0.5102678571428572
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5611607142857143,
+      "harmony": 0.5035442095815686,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "31": {
+      "verse_ref": "Matthew 15:31",
+      "english": "so that the multitude wondered when they saw the mute speaking, the injured healed, the lame walking, and the blind seeing—and they glorified the God of Israel.",
+      "wedau": "yamna raketana  [multitude] [wondered] maranaina tauhi inana  [mute] pa  [injured] yawahanihi  [lame] bababara ma  [blind] [seeing—and] tauhi [glorified]  God ana [israel]",
+      "ljpw": [
+        0.6840169133192388,
+        0.6393939393939393,
+        0.4874418604651163,
+        0.6951515151515151
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6951515151515151,
+      "harmony": 0.5665081603530435,
+      "translation_notes": "Primary dimension: Wisdom (0.70); Strong secondary: Love"
+    },
+    "32": {
+      "verse_ref": "Matthew 15:32",
+      "english": "Jesus summoned his disciples and said, “I have compassion on the multitude, because they continue with me now three days and have nothing to eat. I don’t want to send them away fasting, or they might faint on the way.”",
+      "wedau": "Yesu [summoned] ana tauvotaghotagho ma riwa [“i] ana [compassion] au  [multitude] yamna tauhi [continue] maitehi tau ina marana [three] maratom ma ana [nothing] da [eat] tau [don’t] [want] da vivohi hita [away] [fasting] bo tauhi ita [faint] au  [way”]",
+      "ljpw": [
+        0.777434043123075,
+        0.7213740458015268,
+        0.4911611088790679,
+        0.8099236641221375
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.8099236641221375,
+      "harmony": 0.6061414221773164,
+      "translation_notes": "Primary dimension: Wisdom (0.81); Strong secondary: Love"
+    },
+    "33": {
+      "verse_ref": "Matthew 15:33",
+      "english": "The disciples said to him, “Where should we get so many loaves in a deserted place as to satisfy so great a multitude?”",
+      "wedau": "tauvotaghotagho riwa da tauna [“where] ina ita varahai yamna anatapuhi [loaves] au  [deserted] gabu  da [satisfy] yamna ghe vavahagha  [multitude?”]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.6
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6,
+      "harmony": 0.5117866509228262,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "34": {
+      "verse_ref": "Matthew 15:34",
+      "english": "Jesus said to them, “How many loaves do you have?” They said, “Seven, and a few small fish.”",
+      "wedau": "Yesu riwa da hita [“how] anatapuhi [loaves] rura omi [have?”] tauhi riwa [“seven] ma  ghehauhi [small] [fish”]",
+      "ljpw": [
+        0.6014229249011858,
+        0.5702898550724638,
+        0.48719367588932805,
+        0.637536231884058
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.637536231884058,
+      "harmony": 0.5379263429792545,
+      "translation_notes": "Primary dimension: Wisdom (0.64); Strong secondary: Love"
+    },
+    "35": {
+      "verse_ref": "Matthew 15:35",
+      "english": "He commanded the multitude to sit down on the ground;",
+      "wedau": "tauna ririweiya  [multitude] da [sit] au au  [ground;]",
+      "ljpw": [
+        0.5104651162790698,
+        0.5209302325581395,
+        0.5279069767441861,
+        0.5104651162790698
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5279069767441861,
+      "harmony": 0.5088463576444296,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "36": {
+      "verse_ref": "Matthew 15:36",
+      "english": "and he took the seven loaves and the fish. He gave thanks and broke them, and gave to the disciples, and the disciples to the multitudes.",
+      "wedau": "ma tauna varahai  [seven] [loaves] ma  [fish] tauna verei [thanks] ma [broke] hita ma verei da  tauvotaghotagho ma  tauvotaghotagho da  [multitudes]",
+      "ljpw": [
+        0.5,
+        0.5194444444444445,
+        0.5259259259259259,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5259259259259259,
+      "harmony": 0.5056662932066233,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "37": {
+      "verse_ref": "Matthew 15:37",
+      "english": "They all ate, and were filled. They took up seven baskets full of the broken pieces that were left over.",
+      "wedau": "tauhi anatapuhi [ate] ma  yawahana tauhi varahai au [seven] [baskets] [full] ana  [broken] [pieces] raketana  voterei au",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "38": {
+      "verse_ref": "Matthew 15:38",
+      "english": "Those who ate were four thousand men, in addition to women and children.",
+      "wedau": "raketana aiyai [ate]  [four] [thousand] rava au [addition] da vaivinehi ma natunatuna",
+      "ljpw": [
+        0.5646551724137931,
+        0.5,
+        0.45991379310344827,
+        0.5112068965517241
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5646551724137931,
+      "harmony": 0.5037896842794687,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "39": {
+      "verse_ref": "Matthew 15:39",
+      "english": "Then he sent away the multitudes, got into the boat, and came into the borders of Magdala.",
+      "wedau": "maratagogi tauna vivohi [away]  [multitudes] varahai au  auwaga ma neꞌi au  [borders] ana [magdala]",
+      "ljpw": [
+        0.5,
+        0.6093695506371563,
+        0.5509054325955736,
+        0.5619047619047619
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.6093695506371563,
+      "harmony": 0.5284564584544469,
+      "translation_notes": "Primary dimension: Justice (0.61)"
+    }
+  }
+}

@@ -1,0 +1,445 @@
+{
+  "book": "Matthew",
+  "chapter": 7,
+  "source_language": "English",
+  "target_language": "Wedau",
+  "translation_method": "LJPW-Guided Pure Meaning Translation",
+  "timestamp": "2025-12-10T20:04:15.696137",
+  "verses": {
+    "1": {
+      "verse_ref": "Matthew 7:1",
+      "english": "“Don’t judge, so that you won’t be judged.",
+      "wedau": "[“don’t] [judge] yamna raketana omi [won’t]  [judged]",
+      "ljpw": [
+        0.5,
+        0.5275,
+        0.5366666666666667,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5366666666666667,
+      "harmony": 0.5080087731431037,
+      "translation_notes": "Primary dimension: Power (0.54)"
+    },
+    "2": {
+      "verse_ref": "Matthew 7:2",
+      "english": "For with whatever judgment you judge, you will be judged; and with whatever measure you measure, it will be measured to you.",
+      "wedau": "yamna maitehi [whatever] [judgment] omi [judge] omi ina  [judged;] ma maitehi [whatever] [measure] omi [measure] tauna ina  [measured] da omi",
+      "ljpw": [
+        0.5565656565656566,
+        0.5,
+        0.4575757575757576,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5565656565656566,
+      "harmony": 0.501147993997815,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "3": {
+      "verse_ref": "Matthew 7:3",
+      "english": "Why do you see the speck that is in your brother’s eye, but don’t consider the beam that is in your own eye?",
+      "wedau": "yamna rura omi inana  [speck] raketana  au ami [brother’s] [eye] tuna [don’t] [consider]  [beam] raketana  au ami ana [eye?]",
+      "ljpw": [
+        0.5320557491289198,
+        0.5,
+        0.4759581881533101,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094383493586205,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "4": {
+      "verse_ref": "Matthew 7:4",
+      "english": "Or how will you tell your brother, ‘Let me remove the speck from your eye;’ and behold, the beam is in your own eye?",
+      "wedau": "bo aiwaꞌi ina omi riwehi ami tevera [‘let] tau [remove]  [speck] au ami [eye;’] ma [behold]  [beam]  au ami ana [eye?]",
+      "ljpw": [
+        0.5512931034482759,
+        0.5,
+        0.4683189655172414,
+        0.5715517241379311
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5715517241379311,
+      "harmony": 0.5107488483523922,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "5": {
+      "verse_ref": "Matthew 7:5",
+      "english": "You hypocrite! First remove the beam out of your own eye, and then you can see clearly to remove the speck out of your brother’s eye.",
+      "wedau": "omi [hypocrite!] naona [remove]  [beam] hopu ana ami ana [eye] ma maratagogi omi ita inana [clearly] da [remove]  [speck] hopu ana ami [brother’s] [eye]",
+      "ljpw": [
+        0.5557692307692308,
+        0.5,
+        0.4581730769230769,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5557692307692308,
+      "harmony": 0.5011405114542355,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "6": {
+      "verse_ref": "Matthew 7:6",
+      "english": "“Don’t give that which is holy to the dogs, neither throw your pearls before the pigs, lest perhaps they trample them under their feet, and turn and tear you to pieces.",
+      "wedau": "[“don’t] verei raketana aiyai  [holy] da  [dogs] [neither] [throw] ami [pearls] naona  [pigs] [lest] [perhaps] tauhi [trample] hita au ahi [feet] ma [turn] ma [tear] omi da [pieces]",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "7": {
+      "verse_ref": "Matthew 7:7",
+      "english": "“Ask, and it will be given you. Seek, and you will find. Knock, and it will be opened for you.",
+      "wedau": "[“ask] ma tauna ina  verei omi [seek] ma omi ina [find] [knock] ma tauna ina  wana-tawaneꞌi yamna omi",
+      "ljpw": [
+        0.5102941176470589,
+        0.5,
+        0.5,
+        0.5102941176470589
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5102941176470589,
+      "harmony": 0.5025733220509513,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "8": {
+      "verse_ref": "Matthew 7:8",
+      "english": "For everyone who asks receives. He who seeks finds. To him who knocks it will be opened.",
+      "wedau": "yamna anatapuhi aiyai rau-baghei [receives] tauna aiyai [seeks] [finds] da tauna aiyai [knocks] tauna ina  wana-tawaneꞌi",
+      "ljpw": [
+        0.5521739130434783,
+        0.5,
+        0.4608695652173913,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5521739130434783,
+      "harmony": 0.5011036271549504,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "9": {
+      "verse_ref": "Matthew 7:9",
+      "english": "Or who is there among you, who, if his son asks him for bread, will give him a stone?",
+      "wedau": "bo aiyai  kampa [among] omi aiyai tora ana natuna rau-baghei tauna yamna [bread] ina verei tauna  [stone?]",
+      "ljpw": [
+        0.5317460317460317,
+        0.5,
+        0.47619047619047616,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094320761005536,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "10": {
+      "verse_ref": "Matthew 7:10",
+      "english": "Or if he asks for a fish, who will give him a serpent?",
+      "wedau": "bo tora tauna rau-baghei yamna  [fish] aiyai ina verei tauna  [serpent?]",
+      "ljpw": [
+        0.53,
+        0.5,
+        0.47750000000000004,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5093959609186882,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "11": {
+      "verse_ref": "Matthew 7:11",
+      "english": "If you then, being evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him!",
+      "wedau": "tora omi maratagogi  [evil] haramaneꞌi aiwaꞌi da verei [good] [gifts] da ami natunatuna aiwaꞌi [much] ghe vavahagha ina ami Tamatei aiyai  au marei verei [good] [things] da raketana aiyai rau-baghei [him!]",
+      "ljpw": [
+        0.518241430700447,
+        0.6115151515151515,
+        0.48631892697466467,
+        0.7230303030303029
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7230303030303029,
+      "harmony": 0.5403529475355275,
+      "translation_notes": "Primary dimension: Wisdom (0.72)"
+    },
+    "12": {
+      "verse_ref": "Matthew 7:12",
+      "english": "Therefore whatever you desire for men to do to you, you shall also do to them; for this is the law and the prophets.",
+      "wedau": "[therefore] [whatever] omi [desire] yamna rava da rura da omi omi ina maitehi rura da [them;] yamna ina   [law] ma  peroveta",
+      "ljpw": [
+        0.528,
+        0.599047619047619,
+        0.5161428571428572,
+        0.5619047619047619
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.5263785958700035,
+      "translation_notes": "Primary dimension: Justice (0.60)"
+    },
+    "13": {
+      "verse_ref": "Matthew 7:13",
+      "english": "“Enter in by the narrow gate; for wide is the gate and broad is the way that leads to destruction, and many are those who enter in by it.",
+      "wedau": "[“enter] au au  [narrow] [gate;] yamna [wide]   [gate] ma [broad]   parata raketana [leads] da [destruction] ma anatapuhi  raketana aiyai rui au au tauna",
+      "ljpw": [
+        0.5514285714285715,
+        0.5,
+        0.4614285714285714,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5514285714285715,
+      "harmony": 0.5010953446197021,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "14": {
+      "verse_ref": "Matthew 7:14",
+      "english": "How narrow is the gate, and restricted is the way that leads to life! Few are those who find it.",
+      "wedau": "aiwaꞌi [narrow]   [gate] ma [restricted]   parata raketana [leads] da [life!] ghehauhi  raketana aiyai [find] tauna",
+      "ljpw": [
+        0.5308880308880308,
+        0.5,
+        0.4768339768339768,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094144881904594,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "15": {
+      "verse_ref": "Matthew 7:15",
+      "english": "“Beware of false prophets, who come to you in sheep’s clothing, but inwardly are ravening wolves.",
+      "wedau": "[“beware] ana [false] peroveta aiyai neꞌi da omi au [sheep’s] [clothing] tuna [inwardly]  [ravening] [wolves]",
+      "ljpw": [
+        0.5506493506493507,
+        0.5,
+        0.462012987012987,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5506493506493507,
+      "harmony": 0.5010864521415772,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "16": {
+      "verse_ref": "Matthew 7:16",
+      "english": "By their fruits you will know them. Do you gather grapes from thorns, or figs from thistles?",
+      "wedau": "au ahi [fruits] omi ina haramaneꞌi hita rura omi [gather] [grapes] au [thorns] bo [figs] au [thistles?]",
+      "ljpw": [
+        0.5024129697122032,
+        0.5593272171253822,
+        0.5,
+        0.6623518076326924
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6623518076326924,
+      "harmony": 0.5269650696472662,
+      "translation_notes": "Primary dimension: Wisdom (0.66)"
+    },
+    "17": {
+      "verse_ref": "Matthew 7:17",
+      "english": "Even so, every good tree produces good fruit; but the corrupt tree produces evil fruit.",
+      "wedau": "ma yamna anatapuhi [good] [tree] [produces] [good] [fruit;] tuna  [corrupt] [tree] [produces] [evil] [fruit]",
+      "ljpw": [
+        0.4,
+        0.4,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5,
+      "harmony": 0.47516409872148213,
+      "translation_notes": "Primary dimension: Power (0.50); Low harmony verse (distinctive emphasis)"
+    },
+    "18": {
+      "verse_ref": "Matthew 7:18",
+      "english": "A good tree can’t produce evil fruit, neither can a corrupt tree produce good fruit.",
+      "wedau": "[good] [tree] [can’t] [produce] [evil] [fruit] [neither] ita  [corrupt] [tree] [produce] [good] [fruit]",
+      "ljpw": [
+        0.4,
+        0.4,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5,
+      "harmony": 0.47516409872148213,
+      "translation_notes": "Primary dimension: Power (0.50); Low harmony verse (distinctive emphasis)"
+    },
+    "19": {
+      "verse_ref": "Matthew 7:19",
+      "english": "Every tree that doesn’t grow good fruit is cut down, and thrown into the fire.",
+      "wedau": "anatapuhi [tree] raketana [doesn’t] [grow] [good] [fruit]  [cut] au ma [thrown] au  [fire]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "20": {
+      "verse_ref": "Matthew 7:20",
+      "english": "Therefore by their fruits you will know them.",
+      "wedau": "[therefore] au ahi [fruits] omi ina haramaneꞌi hita",
+      "ljpw": [
+        0.544338008894971,
+        0.5438818565400844,
+        0.47228874444064317,
+        0.5951533812293306
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5951533812293306,
+      "harmony": 0.5191270470735465,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "21": {
+      "verse_ref": "Matthew 7:21",
+      "english": "Not everyone who says to me, ‘Lord, Lord,’ will enter into the Kingdom of Heaven; but he who does the will of my Father who is in heaven.",
+      "wedau": "I egha anatapuhi aiyai riwa da tau [‘lord] [lord’] ina rui au  vibadana ana [heaven;] tuna tauna aiyai rura  ina ana au Tamatei aiyai  au marei",
+      "ljpw": [
+        0.5901427249047424,
+        0.8215077605321508,
+        0.8455212795729017,
+        0.797918326049986
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.8455212795729017,
+      "harmony": 0.6603547418581578,
+      "translation_notes": "Primary dimension: Power (0.85); Strong secondary: Justice"
+    },
+    "22": {
+      "verse_ref": "Matthew 7:22",
+      "english": "Many will tell me in that day, ‘Lord, Lord, didn’t we prophesy in your name, in your name cast out demons, and in your name do many mighty works?’",
+      "wedau": "anatapuhi ina riwehi tau au raketana mara [‘lord] Guyau [didn’t] ita [prophesy] au ami wava au ami wava [cast] hopu aruwa-apoapoehi ma au ami wava rura anatapuhi [mighty] [works?’]",
+      "ljpw": [
+        0.6863308909549903,
+        0.6532438478747202,
+        0.49999999999999994,
+        0.7471810028118135
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7471810028118135,
+      "harmony": 0.5781158157312052,
+      "translation_notes": "Primary dimension: Wisdom (0.75); Strong secondary: Love"
+    },
+    "23": {
+      "verse_ref": "Matthew 7:23",
+      "english": "Then I will tell them, ‘I never knew you. Depart from me, you who work iniquity.’",
+      "wedau": "maratagogi tau ina riwehi hita [‘i] [never] haramaneꞌi omi [depart] au tau omi aiyai [work] [iniquity’]",
+      "ljpw": [
+        0.5675,
+        0.5,
+        0.45875,
+        0.5125000000000001
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5675,
+      "harmony": 0.5041086943670833,
+      "translation_notes": "Primary dimension: Love (0.57)"
+    },
+    "24": {
+      "verse_ref": "Matthew 7:24",
+      "english": "“Everyone therefore who hears these words of mine, and does them, I will liken him to a wise man, who built his house on a rock.",
+      "wedau": "[“everyone] [therefore] aiyai [hears] ina riwehi ana [mine] ma rura hita tau ina [liken] tauna da  [wise] oroto aiyai [built] ana numa au  [rock]",
+      "ljpw": [
+        0.5460346163781968,
+        0.5438818565400844,
+        0.47070524412296566,
+        0.5947386549556533
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5947386549556533,
+      "harmony": 0.5190592109624963,
+      "translation_notes": "Primary dimension: Wisdom (0.59)"
+    },
+    "25": {
+      "verse_ref": "Matthew 7:25",
+      "english": "The rain came down, the floods came, and the winds blew, and beat on that house; and it didn’t fall, for it was founded on the rock.",
+      "wedau": "[rain] neꞌi au  [floods] neꞌi ma  [winds] [blew] ma [beat] au raketana [house;] ma tauna [didn’t] [fall] yamna tauna  tuhaghai au  [rock]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "26": {
+      "verse_ref": "Matthew 7:26",
+      "english": "Everyone who hears these words of mine, and doesn’t do them will be like a foolish man, who built his house on the sand.",
+      "wedau": "anatapuhi aiyai [hears] ina riwehi ana [mine] ma [doesn’t] rura hita ina  [like]  [foolish] oroto aiyai [built] ana numa au  [sand]",
+      "ljpw": [
+        0.5548387096774193,
+        0.5,
+        0.4588709677419355,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5548387096774193,
+      "harmony": 0.5011314529192146,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "27": {
+      "verse_ref": "Matthew 7:27",
+      "english": "The rain came down, the floods came, and the winds blew, and beat on that house; and it fell—and great was its fall.”",
+      "wedau": "[rain] neꞌi au  [floods] neꞌi ma  [winds] [blew] ma [beat] au raketana [house;] ma tauna [fell—and] ghe vavahagha  tauna [fall”]",
+      "ljpw": [
+        0.5102272727272728,
+        0.5,
+        0.5,
+        0.5102272727272728
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5102272727272728,
+      "harmony": 0.5025566148524319,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "28": {
+      "verse_ref": "Matthew 7:28",
+      "english": "When Jesus had finished saying these things, the multitudes were astonished at his teaching,",
+      "wedau": "maranaina Yesu ana [finished] riwa ipa ina [things]  [multitudes]  [astonished] au ana viharaharamana",
+      "ljpw": [
+        0.688839547549225,
+        0.6473118279569893,
+        0.4909509844993717,
+        0.7352688172043012
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7352688172043012,
+      "harmony": 0.5740840663130182,
+      "translation_notes": "Primary dimension: Wisdom (0.74); Strong secondary: Love"
+    },
+    "29": {
+      "verse_ref": "Matthew 7:29",
+      "english": "for he taught them with authority, and not like the scribes.",
+      "wedau": "yamna tauna viharaharamana hita maitehi rewapana ma egha [like]  tauviharaharamanahi",
+      "ljpw": [
+        0.5267857142857143,
+        0.5619047619047619,
+        0.566577380952381,
+        0.5495238095238095
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.566577380952381,
+      "harmony": 0.5268334298726753,
+      "translation_notes": "Primary dimension: Power (0.57)"
+    }
+  }
+}

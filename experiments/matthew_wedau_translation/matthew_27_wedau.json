@@ -1,0 +1,1000 @@
+{
+  "book": "Matthew",
+  "chapter": 27,
+  "source_language": "English",
+  "target_language": "Wedau",
+  "translation_method": "LJPW-Guided Pure Meaning Translation",
+  "timestamp": "2025-12-10T20:04:15.794933",
+  "verses": {
+    "1": {
+      "verse_ref": "Matthew 27:1",
+      "english": "Now when morning had come, all the chief priests and the elders of the people took counsel against Jesus to put him to death:",
+      "wedau": "ina marana maranaina maratomtom ana neꞌi anatapuhi  [chief] pirisina ma  [elders] ana  rava varahai [counsel] awarina Yesu da terei tauna da [death:]",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "2": {
+      "verse_ref": "Matthew 27:2",
+      "english": "and they bound him, and led him away, and delivered him up to Pontius Pilate, the governor.",
+      "wedau": "ma tauhi [bound] tauna ma [led] tauna [away] ma [delivered] tauna au da [pontius] [pilate]  [governor]",
+      "ljpw": [
+        0.5612676056338028,
+        0.5,
+        0.4619718309859155,
+        0.5105633802816901
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5612676056338028,
+      "harmony": 0.5036130780865699,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "3": {
+      "verse_ref": "Matthew 27:3",
+      "english": "Then Judas, who betrayed him, when he saw that Jesus was condemned, felt remorse, and brought back the thirty pieces of silver to the chief priests and elders,",
+      "wedau": "maratagogi [judas] aiyai [betrayed] tauna maranaina tauna inana raketana Yesu  [condemned] [felt] [remorse] ma neiyahi [back]  [thirty] [pieces] ana [silver] da  [chief] pirisina ma [elders]",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "4": {
+      "verse_ref": "Matthew 27:4",
+      "english": "saying, “I have sinned in that I betrayed innocent blood.” But they said, “What is that to us? You see to it.”",
+      "wedau": "riwa ipa [“i] ana [sinned] au raketana tau [betrayed] [innocent] [blood”] tuna tauhi riwa [“what]  raketana da [us?] omi inana da [it”]",
+      "ljpw": [
+        0.4324782608695652,
+        0.41565217391304343,
+        0.4873804347826087,
+        0.5391304347826087
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5391304347826087,
+      "harmony": 0.4837672873954342,
+      "translation_notes": "Primary dimension: Wisdom (0.54); Low harmony verse (distinctive emphasis)"
+    },
+    "5": {
+      "verse_ref": "Matthew 27:5",
+      "english": "He threw down the pieces of silver in the sanctuary, and departed. He went away and hanged himself.",
+      "wedau": "tauna [threw] au  [pieces] ana [silver] au  [sanctuary] ma [departed] tauna nae [away] ma [hanged] [himself]",
+      "ljpw": [
+        0.5518987341772152,
+        0.5,
+        0.4610759493670886,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5518987341772152,
+      "harmony": 0.5011005946857334,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "6": {
+      "verse_ref": "Matthew 27:6",
+      "english": "The chief priests took the pieces of silver, and said, “It’s not lawful to put them into the treasury, since it is the price of blood.”",
+      "wedau": "[chief] pirisina varahai  [pieces] ana [silver] ma riwa [“it’s] egha [lawful] da terei hita au  [treasury] [since] tauna   [price] ana [blood”]",
+      "ljpw": [
+        0.5,
+        0.7666666666666666,
+        0.6,
+        0.6666666666666666
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7666666666666666,
+      "harmony": 0.5686167523443388,
+      "translation_notes": "Primary dimension: Justice (0.77); Strong secondary: Wisdom"
+    },
+    "7": {
+      "verse_ref": "Matthew 27:7",
+      "english": "They took counsel, and bought the potter’s field with them, to bury strangers in.",
+      "wedau": "tauhi varahai [counsel] ma [bought]  [potter’s] [field] maitehi hita da [bury] [strangers] au",
+      "ljpw": [
+        0.5,
+        0.52109375,
+        0.5281250000000001,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5281250000000001,
+      "harmony": 0.506146210976887,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "8": {
+      "verse_ref": "Matthew 27:8",
+      "english": "Therefore that field was called “The Field of Blood” to this day.",
+      "wedau": "[therefore] raketana [field]  ghorehi [“the] [field] ana [blood”] da ina mara",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "9": {
+      "verse_ref": "Matthew 27:9",
+      "english": "Then that which was spoken through Jeremiah the prophet was fulfilled, saying, “They took the thirty pieces of silver, the price of him upon whom a price had been set, whom some of the children of Israel priced,",
+      "wedau": "maratagogi raketana aiyai  [spoken] au [jeremiah]  peroveta  ririweiya riwa ipa [“they] varahai  [thirty] [pieces] ana [silver]  [price] ana tauna [upon] aiyai  [price] ana  [set] aiyai ghehauhi ana  natunatuna ana [israel] [priced]",
+      "ljpw": [
+        0.5517857142857143,
+        0.5,
+        0.46116071428571426,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5517857142857143,
+      "harmony": 0.501099340583763,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "10": {
+      "verse_ref": "Matthew 27:10",
+      "english": "and they gave them for the potter’s field, as the Lord commanded me.”",
+      "wedau": "ma tauhi verei hita yamna  [potter’s] [field]   Guyau ririweiya [me”]",
+      "ljpw": [
+        0.5851415094339623,
+        0.5677083333333334,
+        0.5,
+        0.598683176100629
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.598683176100629,
+      "harmony": 0.5326179003222293,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "11": {
+      "verse_ref": "Matthew 27:11",
+      "english": "Now Jesus stood before the governor: and the governor asked him, saying, “Are you the King of the Jews?” Jesus said to him, “So you say.”",
+      "wedau": "ina marana Yesu [stood] naona  [governor:] ma  [governor] rau-baghei tauna riwa ipa [“are] omi  kingi ana  [jews?”] Yesu riwa da tauna [“so] omi [say”]",
+      "ljpw": [
+        0.688842504743833,
+        0.6473118279569893,
+        0.4909487666034156,
+        0.7352688172043012
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7352688172043012,
+      "harmony": 0.5740839735311608,
+      "translation_notes": "Primary dimension: Wisdom (0.74); Strong secondary: Love"
+    },
+    "12": {
+      "verse_ref": "Matthew 27:12",
+      "english": "When he was accused by the chief priests and elders, he answered nothing.",
+      "wedau": "maranaina tauna  [accused] au  [chief] pirisina ma [elders] tauna [answered] [nothing]",
+      "ljpw": [
+        0.5290556900726392,
+        0.5,
+        0.4782082324455206,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5093758983164334,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "13": {
+      "verse_ref": "Matthew 27:13",
+      "english": "Then Pilate said to him, “Don’t you hear how many things they testify against you?”",
+      "wedau": "maratagogi [pilate] riwa da tauna [“don’t] omi [hear] aiwaꞌi anatapuhi [things] tauhi [testify] awarina [you?”]",
+      "ljpw": [
+        0.5321428571428571,
+        0.5,
+        0.4758928571428571,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094401064902786,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "14": {
+      "verse_ref": "Matthew 27:14",
+      "english": "He gave him no answer, not even one word, so that the governor marveled greatly.",
+      "wedau": "tauna verei tauna egha [answer] egha ma [one] riwana yamna raketana  [governor] [marveled] ghe vavahagha",
+      "ljpw": [
+        0.5126984126984128,
+        0.5,
+        0.5,
+        0.5126984126984128
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5126984126984128,
+      "harmony": 0.5031742126951044,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "15": {
+      "verse_ref": "Matthew 27:15",
+      "english": "Now at the feast the governor was accustomed to release to the multitude one prisoner, whom they desired.",
+      "wedau": "ina marana au  [feast]  [governor]  [accustomed] da [release] da  [multitude] [one] [prisoner] aiyai tauhi [desired]",
+      "ljpw": [
+        0.5511627906976745,
+        0.5,
+        0.46162790697674416,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5511627906976745,
+      "harmony": 0.5010923383420042,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "16": {
+      "verse_ref": "Matthew 27:16",
+      "english": "They had then a notable prisoner, called Barabbas.",
+      "wedau": "tauhi ana maratagogi  [notable] [prisoner] ghorehi [barabbas]",
+      "ljpw": [
+        0.5109756097560976,
+        0.5,
+        0.5,
+        0.5109756097560976
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5109756097560976,
+      "harmony": 0.5027436508802415,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "17": {
+      "verse_ref": "Matthew 27:17",
+      "english": "When therefore they were gathered together, Pilate said to them, “Whom do you want me to release to you? Barabbas, or Jesus, who is called Christ?”",
+      "wedau": "maranaina [therefore] tauhi  tagogiyehi [together] [pilate] riwa da hita [“whom] rura omi [want] tau da [release] da [you?] [barabbas] bo Yesu aiyai  ghorehi [christ?”]",
+      "ljpw": [
+        0.689609507640068,
+        0.6473118279569893,
+        0.49037351443123944,
+        0.7352688172043012
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7352688172043012,
+      "harmony": 0.5740597061314213,
+      "translation_notes": "Primary dimension: Wisdom (0.74); Strong secondary: Love"
+    },
+    "18": {
+      "verse_ref": "Matthew 27:18",
+      "english": "For he knew that because of envy they had delivered him up.",
+      "wedau": "yamna tauna haramaneꞌi raketana yamna ana [envy] tauhi ana [delivered] tauna au",
+      "ljpw": [
+        0.5553191489361703,
+        0.5,
+        0.4585106382978723,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5553191489361703,
+      "harmony": 0.501136172487373,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "19": {
+      "verse_ref": "Matthew 27:19",
+      "english": "While he was sitting on the judgment seat, his wife sent to him, saying, “Have nothing to do with that righteous man, for I have suffered many things today in a dream because of him.”",
+      "wedau": "[while] tauna  [sitting] au  [judgment] [seat] ana [wife] vivohi da tauna riwa ipa [“have] [nothing] da rura maitehi raketana [righteous] oroto yamna tau ana [suffered] anatapuhi [things] [today] au  [dream] yamna ana [him”]",
+      "ljpw": [
+        0.5170550576184378,
+        0.7230303030303029,
+        0.5708450704225351,
+        0.6393939393939393
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7230303030303029,
+      "harmony": 0.5586476203278108,
+      "translation_notes": "Primary dimension: Justice (0.72); Strong secondary: Wisdom"
+    },
+    "20": {
+      "verse_ref": "Matthew 27:20",
+      "english": "Now the chief priests and the elders persuaded the multitudes to ask for Barabbas, and destroy Jesus.",
+      "wedau": "ina marana  [chief] pirisina ma  [elders] [persuaded]  [multitudes] da rau-baghei yamna [barabbas] ma rau-iviꞌapoapoyeꞌai Yesu",
+      "ljpw": [
+        0.5742857142857143,
+        0.5716637980493402,
+        0.5130120481927711,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5866666666666667,
+      "harmony": 0.5321874631729391,
+      "translation_notes": "Primary dimension: Wisdom (0.59)"
+    },
+    "21": {
+      "verse_ref": "Matthew 27:21",
+      "english": "But the governor answered them, “Which of the two do you want me to release to you?” They said, “Barabbas!”",
+      "wedau": "tuna  [governor] [answered] hita [“which] ana  [two] rura omi [want] tau da [release] da [you?”] tauhi riwa [“barabbas!”]",
+      "ljpw": [
+        0.5321428571428571,
+        0.5,
+        0.4758928571428571,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094401064902786,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "22": {
+      "verse_ref": "Matthew 27:22",
+      "english": "Pilate said to them, “What then shall I do to Jesus, who is called Christ?” They all said to him, “Let him be crucified!”",
+      "wedau": "[pilate] riwa da hita [“what] maratagogi ina tau rura da Yesu aiyai  ghorehi [christ?”] tauhi anatapuhi riwa da tauna [“let] tauna  [crucified!”]",
+      "ljpw": [
+        0.6885175788329105,
+        0.6473118279569893,
+        0.4911924610366075,
+        0.7352688172043012
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7352688172043012,
+      "harmony": 0.5740941321482596,
+      "translation_notes": "Primary dimension: Wisdom (0.74); Strong secondary: Love"
+    },
+    "23": {
+      "verse_ref": "Matthew 27:23",
+      "english": "But the governor said, “Why? What evil has he done?” But they cried out exceedingly, saying, “Let him be crucified!”",
+      "wedau": "tuna  [governor] riwa [“why?] aiwaꞌi [evil] ana tauna [done?”] tuna tauhi [cried] hopu [exceedingly] riwa ipa [“let] tauna  [crucified!”]",
+      "ljpw": [
+        0.4322038980509745,
+        0.41565217391304343,
+        0.4875862068965517,
+        0.5391304347826087
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5391304347826087,
+      "harmony": 0.48375626021543416,
+      "translation_notes": "Primary dimension: Wisdom (0.54); Low harmony verse (distinctive emphasis)"
+    },
+    "24": {
+      "verse_ref": "Matthew 27:24",
+      "english": "So when Pilate saw that nothing was being gained, but rather that a disturbance was starting, he took water, and washed his hands before the multitude, saying, “I am innocent of the blood of this righteous person. You see to it.”",
+      "wedau": "yamna maranaina [pilate] inana raketana [nothing]   [gained] tuna [rather] raketana  [disturbance]  [starting] tauna varahai waira ma [washed] ana nimana naona  [multitude] riwa ipa [“i] [am] [innocent] ana  [blood] ana ina [righteous] [person] omi inana da [it”]",
+      "ljpw": [
+        0.5165454545454545,
+        0.7230303030303029,
+        0.5712272727272726,
+        0.6393939393939393
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7230303030303029,
+      "harmony": 0.5586151178208075,
+      "translation_notes": "Primary dimension: Justice (0.72); Strong secondary: Wisdom"
+    },
+    "25": {
+      "verse_ref": "Matthew 27:25",
+      "english": "All the people answered, “May his blood be on us, and on our children!”",
+      "wedau": "anatapuhi  rava [answered] [“may] ana [blood]  au ita ma au ahi [children!”]",
+      "ljpw": [
+        0.5132075471698113,
+        0.5,
+        0.5,
+        0.5132075471698113
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5132075471698113,
+      "harmony": 0.5033014471386215,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "26": {
+      "verse_ref": "Matthew 27:26",
+      "english": "Then he released to them Barabbas, but Jesus he flogged and delivered to be crucified.",
+      "wedau": "maratagogi tauna [released] da hita [barabbas] tuna Yesu tauna [flogged] ma [delivered] da  [crucified]",
+      "ljpw": [
+        0.5742857142857143,
+        0.5718231292517006,
+        0.5132244897959184,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5866666666666667,
+      "harmony": 0.5322427862379213,
+      "translation_notes": "Primary dimension: Wisdom (0.59)"
+    },
+    "27": {
+      "verse_ref": "Matthew 27:27",
+      "english": "Then the governor’s soldiers took Jesus into the Praetorium, and gathered the whole garrison together against him.",
+      "wedau": "maratagogi  [governor’s] [soldiers] varahai Yesu au  [praetorium] ma tagogiyehi  [whole] [garrison] [together] awarina tauna",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "28": {
+      "verse_ref": "Matthew 27:28",
+      "english": "They stripped him, and put a scarlet robe on him.",
+      "wedau": "tauhi [stripped] tauna ma terei  [scarlet] [robe] au tauna",
+      "ljpw": [
+        0.5105263157894737,
+        0.5197368421052632,
+        0.5263157894736842,
+        0.5105263157894737
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5263157894736842,
+      "harmony": 0.5085074833471129,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "29": {
+      "verse_ref": "Matthew 27:29",
+      "english": "They braided a crown of thorns and put it on his head, and a reed in his right hand; and they kneeled down before him, and mocked him, saying, “Hail, King of the Jews!”",
+      "wedau": "I tauhi [braided]  [crown] ana [thorns] ma terei tauna au ana [head] ma  [reed] au ana [right] [hand;] ma tauhi [kneeled] au naona tauna ma [mocked] tauna riwa ipa [“hail] kingi ana  [jews!”]",
+      "ljpw": [
+        0.5,
+        0.6666666666666666,
+        0.7333333333333333,
+        0.6333333333333333
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.7333333333333333,
+      "harmony": 0.5705246475944284,
+      "translation_notes": "Primary dimension: Power (0.73); Strong secondary: Justice"
+    },
+    "30": {
+      "verse_ref": "Matthew 27:30",
+      "english": "They spat on him, and took the reed and struck him on the head.",
+      "wedau": "tauhi [spat] au tauna ma varahai  [reed] ma [struck] tauna au  [head]",
+      "ljpw": [
+        0.5,
+        0.5203125000000001,
+        0.5270833333333333,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5270833333333333,
+      "harmony": 0.5059188999932152,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "31": {
+      "verse_ref": "Matthew 27:31",
+      "english": "When they had mocked him, they took the robe off him, and put his clothes on him, and led him away to crucify him.",
+      "wedau": "maranaina tauhi ana [mocked] tauna tauhi varahai  [robe] [off] tauna ma terei ana [clothes] au tauna ma [led] tauna [away] da [crucify] tauna",
+      "ljpw": [
+        0.5315270935960591,
+        0.5,
+        0.47635467980295565,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094276173757706,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "32": {
+      "verse_ref": "Matthew 27:32",
+      "english": "As they came out, they found a man of Cyrene, Simon by name, and they compelled him to go with them, that he might carry his cross.",
+      "wedau": "tauhi neꞌi hopu tauhi tuhaghai  oroto ana [cyrene] simon au wava ma tauhi [compelled] tauna da nae maitehi hita raketana tauna ita [carry] ana [cross]",
+      "ljpw": [
+        0.5262285714285715,
+        0.5619047619047619,
+        0.5669952380952381,
+        0.5495238095238095
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5669952380952381,
+      "harmony": 0.5268078500787897,
+      "translation_notes": "Primary dimension: Power (0.57)"
+    },
+    "33": {
+      "verse_ref": "Matthew 27:33",
+      "english": "When they came to a place called “Golgotha”, that is to say, “The place of a skull,”",
+      "wedau": "maranaina tauhi neꞌi da  gabu ghorehi [“golgotha”] raketana  da riwa [“the] gabu ana  [skull”]",
+      "ljpw": [
+        0.52903981264637,
+        0.5,
+        0.4782201405152225,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5093755578069618,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "34": {
+      "verse_ref": "Matthew 27:34",
+      "english": "they gave him sour wine to drink mixed with gall. When he had tasted it, he would not drink.",
+      "wedau": "tauhi verei tauna [sour] [wine] da [drink] [mixed] maitehi [gall] maranaina tauna ana [tasted] tauna tauna ina egha [drink]",
+      "ljpw": [
+        0.5521126760563381,
+        0.5,
+        0.4609154929577465,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5521126760563381,
+      "harmony": 0.5011029548989004,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "35": {
+      "verse_ref": "Matthew 27:35",
+      "english": "When they had crucified him, they divided his clothing among them, casting lots,",
+      "wedau": "maranaina tauhi ana [crucified] tauna tauhi [divided] ana [clothing] [among] hita yetayei [lots]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.6
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6,
+      "harmony": 0.5117866509228262,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "36": {
+      "verse_ref": "Matthew 27:36",
+      "english": "and they sat and watched him there.",
+      "wedau": "ma tauhi [sat] ma [watched] tauna kampa",
+      "ljpw": [
+        0.5535714285714286,
+        0.5,
+        0.45982142857142855,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5535714285714286,
+      "harmony": 0.5011185682326622,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "37": {
+      "verse_ref": "Matthew 27:37",
+      "english": "They set up over his head the accusation against him written, “THIS IS JESUS, THE KING OF THE JEWS.”",
+      "wedau": "tauhi [set] au au ana [head]  [accusation] awarina tauna [written] [“this]  Yesu  kingi ana  [jews”]",
+      "ljpw": [
+        0.6842739079102714,
+        0.6393939393939393,
+        0.4872491145218418,
+        0.6951515151515151
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6951515151515151,
+      "harmony": 0.5665007625428206,
+      "translation_notes": "Primary dimension: Wisdom (0.70); Strong secondary: Love"
+    },
+    "38": {
+      "verse_ref": "Matthew 27:38",
+      "english": "Then there were two robbers crucified with him, one on his right hand and one on the left.",
+      "wedau": "maratagogi kampa  [two] [robbers] [crucified] maitehi tauna [one] au ana [right] nimana ma [one] au  voterei",
+      "ljpw": [
+        0.5428418612943484,
+        0.5877637130801688,
+        0.5061954002495989,
+        0.5620728590955013
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.5877637130801688,
+      "harmony": 0.525616643048574,
+      "translation_notes": "Primary dimension: Justice (0.59)"
+    },
+    "39": {
+      "verse_ref": "Matthew 27:39",
+      "english": "Those who passed by blasphemed him, wagging their heads,",
+      "wedau": "raketana aiyai [passed] au [blasphemed] tauna [wagging] ahi [heads]",
+      "ljpw": [
+        0.5521739130434783,
+        0.5195652173913043,
+        0.48695652173913045,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5521739130434783,
+      "harmony": 0.5071264592631022,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "40": {
+      "verse_ref": "Matthew 27:40",
+      "english": "and saying, “You who destroy the temple, and build it in three days, save yourself! If you are the Son of God, come down from the cross!”",
+      "wedau": "ma riwa ipa [“you] aiyai rau-iviꞌapoapoyeꞌai  [temple] ma [build] tauna au [three] maratom [save] [yourself!] tora omi   natuna ana God neꞌi au au  [cross!”]",
+      "ljpw": [
+        0.7796873608265786,
+        0.724388379204893,
+        0.6119087913066714,
+        0.7842125382262998
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7842125382262998,
+      "harmony": 0.6380940774898436,
+      "translation_notes": "Primary dimension: Wisdom (0.78); Strong secondary: Love"
+    },
+    "41": {
+      "verse_ref": "Matthew 27:41",
+      "english": "Likewise the chief priests also mocking, with the scribes, the Pharisees, and the elders, said,",
+      "wedau": "I [likewise]  [chief] pirisina maitehi [mocking] maitehi  tauviharaharamanahi  [pharisees] ma  [elders] riwa",
+      "ljpw": [
+        0.5,
+        0.6666666666666666,
+        0.7333333333333333,
+        0.6333333333333333
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.7333333333333333,
+      "harmony": 0.5705246475944284,
+      "translation_notes": "Primary dimension: Power (0.73); Strong secondary: Justice"
+    },
+    "42": {
+      "verse_ref": "Matthew 27:42",
+      "english": "“He saved others, but he can’t save himself. If he is the King of Israel, let him come down from the cross now, and we will believe in him.",
+      "wedau": "[“he] [saved] ghehauna tuna tauna [can’t] [save] [himself] tora tauna   kingi ana [israel] ita tauna neꞌi au au  [cross] ina marana ma ita ina tumaghanei au tauna",
+      "ljpw": [
+        0.5037860576923077,
+        0.5677083333333334,
+        0.5947916666666667,
+        0.5579527243589744
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5947916666666667,
+      "harmony": 0.5290055788990455,
+      "translation_notes": "Primary dimension: Power (0.59)"
+    },
+    "43": {
+      "verse_ref": "Matthew 27:43",
+      "english": "He trusts in God. Let God deliver him now, if he wants him; for he said, ‘I am the Son of God.’ ”",
+      "wedau": "tauna [trusts] au God ita God [deliver] tauna ina marana tora tauna [wants] [him;] yamna tauna riwa [‘i] [am]  natuna ana [god’] [”]",
+      "ljpw": [
+        0.8002557544757033,
+        0.7502131287297529,
+        0.6335038363171356,
+        0.81692242114237
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.81692242114237,
+      "harmony": 0.6580079509402168,
+      "translation_notes": "Primary dimension: Wisdom (0.82); Strong secondary: Love"
+    },
+    "44": {
+      "verse_ref": "Matthew 27:44",
+      "english": "The robbers also who were crucified with him cast on him the same reproach.",
+      "wedau": "[robbers] maitehi aiyai  [crucified] maitehi tauna [cast] au tauna  tagotagogi [reproach]",
+      "ljpw": [
+        0.5540983606557377,
+        0.5,
+        0.4594262295081967,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5540983606557377,
+      "harmony": 0.5011240023715314,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "45": {
+      "verse_ref": "Matthew 27:45",
+      "english": "Now from the sixth hour there was darkness over all the land until the ninth hour.",
+      "wedau": "ina marana au  [sixth] [hour] kampa  [darkness] au anatapuhi  [land] [until]  [ninth] [hour]",
+      "ljpw": [
+        0.5128787878787879,
+        0.5,
+        0.5,
+        0.5128787878787879
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5128787878787879,
+      "harmony": 0.5032192895151151,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "46": {
+      "verse_ref": "Matthew 27:46",
+      "english": "About the ninth hour Jesus cried with a loud voice, saying, “Eli, Eli, lima sabachthani?” That is, “My God, my God, why have you forsaken me?”",
+      "wedau": "awarina  [ninth] [hour] Yesu [cried] maitehi  [loud] ponana riwa ipa [“eli] [eli] [lima] [sabachthani?”] raketana  [“my] God au God yamna ana omi [forsaken] [me?”]",
+      "ljpw": [
+        0.689727047146402,
+        0.6473118279569893,
+        0.4902853598014889,
+        0.7352688172043012
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7352688172043012,
+      "harmony": 0.5740559515884721,
+      "translation_notes": "Primary dimension: Wisdom (0.74); Strong secondary: Love"
+    },
+    "47": {
+      "verse_ref": "Matthew 27:47",
+      "english": "Some of them who stood there, when they heard it, said, “This man is calling Elijah.”",
+      "wedau": "ghehauhi ana hita aiyai [stood] kampa maranaina tauhi [heard] tauna riwa [“this] oroto  ghorehi [elijah”]",
+      "ljpw": [
+        0.5546875,
+        0.5,
+        0.458984375,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5546875,
+      "harmony": 0.5011299487323635,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "48": {
+      "verse_ref": "Matthew 27:48",
+      "english": "Immediately one of them ran, and took a sponge, and filled it with vinegar, and put it on a reed, and gave him a drink.",
+      "wedau": "maratagogi [one] ana hita [ran] ma varahai  [sponge] ma yawahana tauna maitehi [vinegar] ma terei tauna au  [reed] ma verei tauna  [drink]",
+      "ljpw": [
+        0.5116666666666667,
+        0.5,
+        0.5,
+        0.5116666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5116666666666667,
+      "harmony": 0.5029163642584473,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "49": {
+      "verse_ref": "Matthew 27:49",
+      "english": "The rest said, “Let him be. Let’s see whether Elijah comes to save him.”",
+      "wedau": "[rest] riwa [“let] tauna  [let’s] inana [whether] [elijah] neꞌi da [save] [him”]",
+      "ljpw": [
+        0.5528301886792453,
+        0.5,
+        0.46037735849056605,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5528301886792453,
+      "harmony": 0.5011107391467197,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "50": {
+      "verse_ref": "Matthew 27:50",
+      "english": "Jesus cried again with a loud voice, and yielded up his spirit.",
+      "wedau": "Yesu [cried] vouna maitehi  [loud] ponana ma [yielded] au ana aruwa",
+      "ljpw": [
+        0.684290909090909,
+        0.6393939393939393,
+        0.4872363636363636,
+        0.6951515151515151
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6951515151515151,
+      "harmony": 0.5665002716376476,
+      "translation_notes": "Primary dimension: Wisdom (0.70); Strong secondary: Love"
+    },
+    "51": {
+      "verse_ref": "Matthew 27:51",
+      "english": "Behold, the veil of the temple was torn in two from the top to the bottom. The earth quaked and the rocks were split.",
+      "wedau": "[behold]  [veil] ana  [temple]  [torn] au [two] au  [top] da  [bottom]  dobuna [quaked] ma  [rocks]  [split]",
+      "ljpw": [
+        0.5,
+        0.5206043956043956,
+        0.5274725274725275,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5274725274725275,
+      "harmony": 0.5060038333241805,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "52": {
+      "verse_ref": "Matthew 27:52",
+      "english": "The tombs were opened, and many bodies of the saints who had fallen asleep were raised;",
+      "wedau": "[tombs]  wana-tawaneꞌi ma anatapuhi [bodies] ana  [saints] aiyai ana [fallen] [asleep]  [raised;]",
+      "ljpw": [
+        0.5514285714285715,
+        0.5,
+        0.4614285714285714,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5514285714285715,
+      "harmony": 0.5010953446197021,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "53": {
+      "verse_ref": "Matthew 27:53",
+      "english": "and coming out of the tombs after his resurrection, they entered into the holy city and appeared to many.",
+      "wedau": "ma naenae hopu ana  [tombs] muriyai ana [resurrection] tauhi rui au  [holy] meyagaihi ma [appeared] da anatapuhi",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "54": {
+      "verse_ref": "Matthew 27:54",
+      "english": "Now the centurion, and those who were with him watching Jesus, when they saw the earthquake, and the things that were done, feared exceedingly, saying, “Truly this was the Son of God.”",
+      "wedau": "ina marana  [centurion] ma raketana aiyai  maitehi tauna [watching] Yesu maranaina tauhi inana  [earthquake] ma  [things] raketana  [done] [feared] [exceedingly] riwa ipa [“truly] ina   natuna ana [god”]",
+      "ljpw": [
+        0.8385027985074627,
+        0.7744092039800995,
+        0.590479244402985,
+        0.843594527363184
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.843594527363184,
+      "harmony": 0.6584191192726472,
+      "translation_notes": "Primary dimension: Wisdom (0.84); Strong secondary: Love"
+    },
+    "55": {
+      "verse_ref": "Matthew 27:55",
+      "english": "Many women were there watching from afar, who had followed Jesus from Galilee, serving him.",
+      "wedau": "anatapuhi vaivinehi  kampa [watching] au [afar] aiyai ana taghotaghoi Yesu au galili [serving] tauna",
+      "ljpw": [
+        0.6096989394457749,
+        0.5548523206751056,
+        0.47367430721861103,
+        0.5855684798722773
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6096989394457749,
+      "harmony": 0.527978802441021,
+      "translation_notes": "Primary dimension: Love (0.61)"
+    },
+    "56": {
+      "verse_ref": "Matthew 27:56",
+      "english": "Among them were Mary Magdalene, Mary the mother of James and Joses, and the mother of the sons of Zebedee.",
+      "wedau": "[among] hita  Mary [magdalene] Mary  hinana ana james ma [joses] ma  hinana ana  natuna ana zebedi",
+      "ljpw": [
+        0.5113095238095239,
+        0.5,
+        0.5,
+        0.5113095238095239
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5113095238095239,
+      "harmony": 0.5028271056058484,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "57": {
+      "verse_ref": "Matthew 27:57",
+      "english": "When evening had come, a rich man from Arimathaea, named Joseph, who himself was also Jesus’ disciple came.",
+      "wedau": "maranaina madegha ana neꞌi  [rich] oroto au [arimathaea] [named] Joseph aiyai [himself]  maitehi [jesus’] [disciple] neꞌi",
+      "ljpw": [
+        0.6053795066413663,
+        0.5651881720430109,
+        0.4830929791271348,
+        0.63216476913346
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.63216476913346,
+      "harmony": 0.5363497914000733,
+      "translation_notes": "Primary dimension: Wisdom (0.63); Strong secondary: Love"
+    },
+    "58": {
+      "verse_ref": "Matthew 27:58",
+      "english": "This man went to Pilate, and asked for Jesus’ body. Then Pilate commanded the body to be given up.",
+      "wedau": "ina oroto nae da [pilate] ma rau-baghei yamna [jesus’] [body] maratagogi [pilate] ririweiya  [body] da  verei au",
+      "ljpw": [
+        0.5742857142857143,
+        0.5730701754385965,
+        0.5148872180451127,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5866666666666667,
+      "harmony": 0.5326758222754843,
+      "translation_notes": "Primary dimension: Wisdom (0.59)"
+    },
+    "59": {
+      "verse_ref": "Matthew 27:59",
+      "english": "Joseph took the body, and wrapped it in a clean linen cloth,",
+      "wedau": "Joseph varahai  [body] ma [wrapped] tauna au  ahiahiniu [linen] [cloth]",
+      "ljpw": [
+        0.5,
+        0.5191489361702127,
+        0.5255319148936171,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5255319148936171,
+      "harmony": 0.5055802902704423,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "60": {
+      "verse_ref": "Matthew 27:60",
+      "english": "and laid it in his own new tomb, which he had cut out in the rock, and he rolled a great stone against the door of the tomb, and departed.",
+      "wedau": "ma [laid] tauna au ana ana vouna [tomb] aiyai tauna ana [cut] hopu au  [rock] ma tauna [rolled]  ghe vavahagha [stone] awarina  naona ana  [tomb] ma [departed]",
+      "ljpw": [
+        0.5,
+        0.5192857142857144,
+        0.5257142857142857,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5257142857142857,
+      "harmony": 0.505620097912792,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "61": {
+      "verse_ref": "Matthew 27:61",
+      "english": "Mary Magdalene was there, and the other Mary, sitting opposite the tomb.",
+      "wedau": "Mary [magdalene]  kampa ma  ghehauna Mary [sitting] [opposite]  [tomb]",
+      "ljpw": [
+        0.5103448275862069,
+        0.519396551724138,
+        0.5258620689655172,
+        0.5103448275862069
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5258620689655172,
+      "harmony": 0.5083587672652852,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "62": {
+      "verse_ref": "Matthew 27:62",
+      "english": "Now on the next day, which was the day after the Preparation Day, the chief priests and the Pharisees were gathered together to Pilate,",
+      "wedau": "ina marana au  [next] mara aiyai   mara muriyai  [preparation] mara  [chief] pirisina ma  [pharisees]  tagogiyehi [together] da [pilate]",
+      "ljpw": [
+        0.5541284403669725,
+        0.5,
+        0.45940366972477065,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5541284403669725,
+      "harmony": 0.5011243092823733,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "63": {
+      "verse_ref": "Matthew 27:63",
+      "english": "saying, “Sir, we remember what that deceiver said while he was still alive: ‘After three days I will rise again.’",
+      "wedau": "riwa ipa [“sir] ita [remember] aiwaꞌi raketana [deceiver] riwa [while] tauna  [still] [alive:] [‘after] [three] maratom tau ina [rise] [again’]",
+      "ljpw": [
+        0.5270114942528736,
+        0.575,
+        0.5922413793103449,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5922413793103449,
+      "harmony": 0.5246932753759658,
+      "translation_notes": "Primary dimension: Power (0.59)"
+    },
+    "64": {
+      "verse_ref": "Matthew 27:64",
+      "english": "Command therefore that the tomb be made secure until the third day, lest perhaps his disciples come at night and steal him away, and tell the people, ‘He is risen from the dead;’ and the last deception will be worse than the first.”",
+      "wedau": "[command] [therefore] raketana  [tomb]  rura [secure] [until]  [third] mara [lest] [perhaps] ana tauvotaghotagho neꞌi au diedie ma [steal] tauna [away] ma riwehi  rava [‘he]  [risen] au  [dead;’] ma  muriyai [deception] ina  [worse] da  [first”]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "65": {
+      "verse_ref": "Matthew 27:65",
+      "english": "Pilate said to them, “You have a guard. Go, make it as secure as you can.”",
+      "wedau": "[pilate] riwa da hita [“you] ana  [guard] nae rura tauna  [secure]  omi [can”]",
+      "ljpw": [
+        0.5566037735849056,
+        0.5,
+        0.45754716981132076,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5566037735849056,
+      "harmony": 0.5011483458540738,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "66": {
+      "verse_ref": "Matthew 27:66",
+      "english": "So they went with the guard and made the tomb secure, sealing the stone.",
+      "wedau": "yamna tauhi nae maitehi  [guard] ma rura  [tomb] [secure] [sealing]  [stone]",
+      "ljpw": [
+        0.5508771929824562,
+        0.5,
+        0.4618421052631579,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5508771929824562,
+      "harmony": 0.5010890769671921,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    }
+  }
+}

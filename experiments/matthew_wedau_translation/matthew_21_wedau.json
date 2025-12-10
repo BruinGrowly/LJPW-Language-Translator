@@ -1,0 +1,700 @@
+{
+  "book": "Matthew",
+  "chapter": 21,
+  "source_language": "English",
+  "target_language": "Wedau",
+  "translation_method": "LJPW-Guided Pure Meaning Translation",
+  "timestamp": "2025-12-10T20:04:15.755132",
+  "verses": {
+    "1": {
+      "verse_ref": "Matthew 21:1",
+      "english": "When they came near to Jerusalem, and came to Bethsphage, to the Mount of Olives, then Jesus sent two disciples,",
+      "wedau": "maranaina tauhi neꞌi turiyai da jerusalem ma neꞌi da [bethsphage] da  [mount] ana [olives] maratagogi Yesu vivohi [two] tauvotaghotagho",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6630584192439863
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6630584192439863,
+      "harmony": 0.5449741131137927,
+      "translation_notes": "Primary dimension: Wisdom (0.66)"
+    },
+    "2": {
+      "verse_ref": "Matthew 21:2",
+      "english": "saying to them, “Go into the village that is opposite you, and immediately you will find a donkey tied, and a colt with her. Untie them, and bring them to me.",
+      "wedau": "riwa ipa da hita [“go] au  [village] raketana  [opposite] omi ma maratagogi omi ina [find]  [donkey] [tied] ma  [colt] maitehi ana [untie] hita ma [bring] hita da tau",
+      "ljpw": [
+        0.5256198347107438,
+        0.575,
+        0.5932851239669422,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5932851239669422,
+      "harmony": 0.524622133181308,
+      "translation_notes": "Primary dimension: Power (0.59)"
+    },
+    "3": {
+      "verse_ref": "Matthew 21:3",
+      "english": "If anyone says anything to you, you shall say, ‘The Lord needs them,’ and immediately he will send them.”",
+      "wedau": "tora [anyone] riwa [anything] da omi omi ina riwa [‘the] Guyau [needs] [them’] ma maratagogi tauna ina vivohi [them”]",
+      "ljpw": [
+        0.6102531645569621,
+        0.5548523206751056,
+        0.4724446202531646,
+        0.5844831223628693
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6102531645569621,
+      "harmony": 0.5277040177730719,
+      "translation_notes": "Primary dimension: Love (0.61)"
+    },
+    "4": {
+      "verse_ref": "Matthew 21:4",
+      "english": "All this was done, that it might be fulfilled which was spoken through the prophet, saying,",
+      "wedau": "anatapuhi ina  [done] raketana tauna ita  ririweiya aiyai  [spoken] au  peroveta riwa ipa",
+      "ljpw": [
+        0.5,
+        0.5833333333333334,
+        0.6166666666666667,
+        0.5666666666666667
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.534524006175688,
+      "translation_notes": "Primary dimension: Power (0.62)"
+    },
+    "5": {
+      "verse_ref": "Matthew 21:5",
+      "english": "“Tell the daughter of Zion, behold, your King comes to you, humble, and riding on a donkey, on a colt, the foal of a donkey.”",
+      "wedau": "[“tell]  natuna ana [zion] [behold] ami kingi neꞌi da omi [humble] ma [riding] au  [donkey] au  [colt]  [foal] ana  [donkey”]",
+      "ljpw": [
+        0.5038722826086957,
+        0.5677083333333334,
+        0.5947916666666667,
+        0.5580389492753624
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5947916666666667,
+      "harmony": 0.5290310076287095,
+      "translation_notes": "Primary dimension: Power (0.59)"
+    },
+    "6": {
+      "verse_ref": "Matthew 21:6",
+      "english": "The disciples went, and did just as Jesus commanded them,",
+      "wedau": "tauvotaghotagho nae ma rura tagotagogi  Yesu ririweiya hita",
+      "ljpw": [
+        0.7,
+        0.6666666666666666,
+        0.5,
+        0.7333333333333333
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7333333333333333,
+      "harmony": 0.5805011589293861,
+      "translation_notes": "Primary dimension: Wisdom (0.73); Strong secondary: Love"
+    },
+    "7": {
+      "verse_ref": "Matthew 21:7",
+      "english": "and brought the donkey and the colt, and laid their clothes on them; and he sat on them.",
+      "wedau": "ma neiyahi  [donkey] ma  [colt] ma [laid] ahi [clothes] au [them;] ma tauna [sat] au hita",
+      "ljpw": [
+        0.5102941176470589,
+        0.5198529411764706,
+        0.5264705882352941,
+        0.5102941176470589
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5264705882352941,
+      "harmony": 0.508481188115946,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "8": {
+      "verse_ref": "Matthew 21:8",
+      "english": "A very great multitude spread their clothes on the road. Others cut branches from the trees, and spread them on the road.",
+      "wedau": "ghe ghe vavahagha [multitude] howai ahi [clothes] au  [road] ghehauna [cut] [branches] au  [trees] ma howai hita au  [road]",
+      "ljpw": [
+        0.5103092783505155,
+        0.5,
+        0.5,
+        0.5103092783505155
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5103092783505155,
+      "harmony": 0.5025771113050851,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "9": {
+      "verse_ref": "Matthew 21:9",
+      "english": "The multitudes who went in front of him, and those who followed, kept shouting, “Hosanna to the son of David! Blessed is he who comes in the name of the Lord! Hosanna in the highest!”",
+      "wedau": "[multitudes] aiyai nae au [front] ana tauna ma raketana aiyai taghotaghoi [kept] [shouting] [“hosanna] da  natuna ana [david!] nuwaboyei  tauna aiyai neꞌi au  wava ana  [lord!] [hosanna] au  [highest!”]",
+      "ljpw": [
+        0.7799531524497364,
+        0.7842507645259938,
+        0.6715718329104041,
+        0.8141437308868502
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.8141437308868502,
+      "harmony": 0.6723988942556846,
+      "translation_notes": "Primary dimension: Wisdom (0.81); Strong secondary: Justice"
+    },
+    "10": {
+      "verse_ref": "Matthew 21:10",
+      "english": "When he had come into Jerusalem, all the city was stirred up, saying, “Who is this?”",
+      "wedau": "maranaina tauna ana neꞌi au jerusalem anatapuhi  meyagaihi  [stirred] au riwa ipa [“who]  [this?”]",
+      "ljpw": [
+        0.5308390022675737,
+        0.5,
+        0.47687074829931975,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094134738793445,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "11": {
+      "verse_ref": "Matthew 21:11",
+      "english": "The multitudes said, “This is the prophet, Jesus, from Nazareth of Galilee.”",
+      "wedau": "[multitudes] riwa [“this]   peroveta Yesu au [nazareth] ana [galilee”]",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "12": {
+      "verse_ref": "Matthew 21:12",
+      "english": "Jesus entered into the temple of God, and drove out all of those who sold and bought in the temple, and overthrew the money changers’ tables and the seats of those who sold the doves.",
+      "wedau": "Yesu rui au  [temple] ana God ma pari-tawanana hopu anatapuhi ana raketana aiyai [sold] ma [bought] au  [temple] ma [overthrew]  [money] [changers’] [tables] ma  [seats] ana raketana aiyai [sold]  gabubu",
+      "ljpw": [
+        0.7,
+        0.6666666666666666,
+        0.5,
+        0.7333333333333333
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7333333333333333,
+      "harmony": 0.5805011589293861,
+      "translation_notes": "Primary dimension: Wisdom (0.73); Strong secondary: Love"
+    },
+    "13": {
+      "verse_ref": "Matthew 21:13",
+      "english": "He said to them, “It is written, ‘My house shall be called a house of prayer,’ but you have made it a den of robbers!”",
+      "wedau": "tauna riwa da hita [“it]  [written] [‘my] numa ina  ghorehi  numa ana [prayer’] tuna omi ana rura tauna  [den] ana [robbers!”]",
+      "ljpw": [
+        0.5534883720930233,
+        0.5,
+        0.45988372093023255,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5534883720930233,
+      "harmony": 0.5011177017262961,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "14": {
+      "verse_ref": "Matthew 21:14",
+      "english": "The blind and the lame came to him in the temple, and he healed them.",
+      "wedau": "[blind] ma  [lame] neꞌi da tauna au  [temple] ma tauna yawahanihi hita",
+      "ljpw": [
+        0.5632075471698114,
+        0.5,
+        0.46179245283018866,
+        0.5122641509433963
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5632075471698114,
+      "harmony": 0.5040212511807074,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "15": {
+      "verse_ref": "Matthew 21:15",
+      "english": "But when the chief priests and the scribes saw the wonderful things that he did, and the children who were crying in the temple and saying, “Hosanna to the son of David!” they were indignant,",
+      "wedau": "tuna maranaina  [chief] pirisina ma  tauviharaharamanahi inana  [wonderful] [things] raketana tauna rura ma  natunatuna aiyai  [crying] au  [temple] ma riwa ipa [“hosanna] da  natuna ana [david!”] tauhi  [indignant]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "16": {
+      "verse_ref": "Matthew 21:16",
+      "english": "and said to him, “Do you hear what these are saying?” Jesus said to them, “Yes. Did you never read, ‘Out of the mouth of babes and nursing babies you have perfected praise?’ ”",
+      "wedau": "ma riwa da tauna [“do] omi [hear] aiwaꞌi ina  [saying?”] Yesu riwa da hita [“yes] rura omi [never] [read] [‘out] ana  [mouth] ana [babes] ma [nursing] [babies] omi ana [perfected] [praise?’] [”]",
+      "ljpw": [
+        0.6892803970223326,
+        0.6473118279569893,
+        0.49062034739454097,
+        0.7352688172043012
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7352688172043012,
+      "harmony": 0.5740701684095737,
+      "translation_notes": "Primary dimension: Wisdom (0.74); Strong secondary: Love"
+    },
+    "17": {
+      "verse_ref": "Matthew 21:17",
+      "english": "He left them, and went out of the city to Bethany, and camped there.",
+      "wedau": "tauna voterei hita ma nae hopu ana  meyagaihi da [bethany] ma [camped] kampa",
+      "ljpw": [
+        0.5,
+        0.5201923076923077,
+        0.5269230769230769,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5269230769230769,
+      "harmony": 0.505883926090499,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "18": {
+      "verse_ref": "Matthew 21:18",
+      "english": "Now in the morning, as he returned to the city, he was hungry.",
+      "wedau": "ina marana au  maratomtom  tauna [returned] da  meyagaihi tauna  [hungry]",
+      "ljpw": [
+        0.5648936170212766,
+        0.5,
+        0.4601063829787234,
+        0.5117021276595745
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5648936170212766,
+      "harmony": 0.5039056211778614,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "19": {
+      "verse_ref": "Matthew 21:19",
+      "english": "Seeing a fig tree by the road, he came to it, and found nothing on it but leaves. He said to it, “Let there be no fruit from you forever!” Immediately the fig tree withered away.",
+      "wedau": "inana  [fig] [tree] au  [road] tauna neꞌi da tauna ma tuhaghai [nothing] au tauna tuna [leaves] tauna riwa da tauna [“let] kampa  egha [fruit] au omi [forever!”] maratagogi  [fig] [tree] [withered] [away]",
+      "ljpw": [
+        0.5262962962962963,
+        0.575,
+        0.5927777777777778,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5927777777777778,
+      "harmony": 0.5246568240605979,
+      "translation_notes": "Primary dimension: Power (0.59)"
+    },
+    "20": {
+      "verse_ref": "Matthew 21:20",
+      "english": "When the disciples saw it, they marveled, saying, “How did the fig tree immediately wither away?”",
+      "wedau": "maranaina  tauvotaghotagho inana tauna tauhi [marveled] riwa ipa [“how] rura  [fig] [tree] maratagogi [wither] [away?”]",
+      "ljpw": [
+        0.5323308270676692,
+        0.5,
+        0.47575187969924815,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.509443887391171,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "21": {
+      "verse_ref": "Matthew 21:21",
+      "english": "Jesus answered them, “Most certainly I tell you, if you have faith, and don’t doubt, you will not only do what was done to the fig tree, but even if you told this mountain, ‘Be taken up and cast into the sea,’ it would be done.",
+      "wedau": "Yesu [answered] hita [“most] [certainly] tau riwehi omi tora omi ana [faith] ma [don’t] [doubt] omi ina egha tagotagogi rura aiwaꞌi  [done] da  [fig] [tree] tuna ma tora omi riwehi ina dobuna [‘be] varahai au ma [cast] au  [sea’] tauna ina  [done]",
+      "ljpw": [
+        0.6006050420168068,
+        0.5619047619047619,
+        0.48026050420168065,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6006050420168068,
+      "harmony": 0.5290506266997551,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "22": {
+      "verse_ref": "Matthew 21:22",
+      "english": "All things, whatever you ask in prayer, believing, you will receive.”",
+      "wedau": "anatapuhi [things] [whatever] omi rau-baghei au [prayer] [believing] omi ina [receive”]",
+      "ljpw": [
+        0.5648148148148149,
+        0.5,
+        0.4597222222222222,
+        0.5111111111111112
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5648148148148149,
+      "harmony": 0.5037688601854047,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "23": {
+      "verse_ref": "Matthew 21:23",
+      "english": "When he had come into the temple, the chief priests and the elders of the people came to him as he was teaching, and said, “By what authority do you do these things? Who gave you this authority?”",
+      "wedau": "maranaina tauna ana neꞌi au  [temple]  [chief] pirisina ma  [elders] ana  rava neꞌi da tauna  tauna  viharaharamana ma riwa [“by] aiwaꞌi rewapana rura omi rura ina [things?] aiyai verei omi ina [authority?”]",
+      "ljpw": [
+        0.5132279427472762,
+        0.6473118279569893,
+        0.6963156020793277,
+        0.6468817204301075
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.6963156020793277,
+      "harmony": 0.5680432618660188,
+      "translation_notes": "Primary dimension: Power (0.70); Strong secondary: Justice"
+    },
+    "24": {
+      "verse_ref": "Matthew 21:24",
+      "english": "Jesus answered them, “I also will ask you one question, which if you tell me, I likewise will tell you by what authority I do these things.",
+      "wedau": "Yesu [answered] hita [“i] maitehi ina rau-baghei omi [one] [question] aiyai tora omi riwehi tau tau [likewise] ina riwehi omi au aiwaꞌi rewapana tau rura ina [things]",
+      "ljpw": [
+        0.7787955894826125,
+        0.7213740458015268,
+        0.4901399491094148,
+        0.8099236641221375
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.8099236641221375,
+      "harmony": 0.6060182030908181,
+      "translation_notes": "Primary dimension: Wisdom (0.81); Strong secondary: Love"
+    },
+    "25": {
+      "verse_ref": "Matthew 21:25",
+      "english": "The baptism of John, where was it from? From heaven or from men?” They reasoned with themselves, saying, “If we say, ‘From heaven,’ he will ask us, ‘Why then did you not believe him?’",
+      "wedau": "[baptism] ana john aiwaꞌi  tauna [from?] au marei bo au [men?”] tauhi [reasoned] maitehi [themselves] riwa ipa [“if] ita riwa [‘from] [heaven’] tauna ina rau-baghei ita [‘why] maratagogi rura omi egha tumaghanei [him?’]",
+      "ljpw": [
+        0.5304761904761905,
+        0.5,
+        0.47714285714285715,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094059367769884,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "26": {
+      "verse_ref": "Matthew 21:26",
+      "english": "But if we say, ‘From men,’ we fear the multitude, for all hold John as a prophet.”",
+      "wedau": "tuna tora ita riwa [‘from] [men’] ita [fear]  [multitude] yamna anatapuhi [hold] john   [prophet”]",
+      "ljpw": [
+        0.5110169491525424,
+        0.5,
+        0.5,
+        0.5110169491525424
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5110169491525424,
+      "harmony": 0.502753982862153,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "27": {
+      "verse_ref": "Matthew 21:27",
+      "english": "They answered Jesus, and said, “We don’t know.” He also said to them, “Neither will I tell you by what authority I do these things.",
+      "wedau": "tauhi [answered] Yesu ma riwa [“we] [don’t] [know”] tauna maitehi riwa da hita [“neither] ina tau riwehi omi au aiwaꞌi rewapana tau rura ina [things]",
+      "ljpw": [
+        0.7782676429350367,
+        0.7213740458015268,
+        0.4905359090200966,
+        0.8099236641221375
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.8099236641221375,
+      "harmony": 0.6060661627259548,
+      "translation_notes": "Primary dimension: Wisdom (0.81); Strong secondary: Love"
+    },
+    "28": {
+      "verse_ref": "Matthew 21:28",
+      "english": "But what do you think? A man had two sons, and he came to the first, and said, ‘Son, go work today in my vineyard.’",
+      "wedau": "tuna aiwaꞌi rura omi [think?]  oroto ana [two] natuna ma tauna neꞌi da  naona ma riwa [‘son] nae [work] [today] au au [vineyard’]",
+      "ljpw": [
+        0.5289156626506024,
+        0.5,
+        0.4783132530120482,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.509372891642216,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "29": {
+      "verse_ref": "Matthew 21:29",
+      "english": "He answered, ‘I will not,’ but afterward he changed his mind, and went.",
+      "wedau": "tauna [answered] [‘i] ina [not’] tuna [afterward] tauna [changed] ana [mind] ma nae",
+      "ljpw": [
+        0.5113207547169811,
+        0.5,
+        0.5,
+        0.5113207547169811
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5113207547169811,
+      "harmony": 0.5028299125074694,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "30": {
+      "verse_ref": "Matthew 21:30",
+      "english": "He came to the second, and said the same thing. He answered, ‘I’m going, sir,’ but he didn’t go.",
+      "wedau": "tauna neꞌi da  [second] ma riwa  tagotagogi [thing] tauna [answered] [‘i’m] nae [sir’] tuna tauna [didn’t] nae",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "31": {
+      "verse_ref": "Matthew 21:31",
+      "english": "Which of the two did the will of his father?” They said to him, “The first.” Jesus said to them, “Most certainly I tell you that the tax collectors and the prostitutes are entering into God’s Kingdom before you.",
+      "wedau": "aiyai ana  [two] rura  ina ana ana [father?”] tauhi riwa da tauna [“the] [first”] Yesu riwa da hita [“most] [certainly] tau riwehi omi raketana  [tax] [collectors] ma  [prostitutes]  rui au [god’s] vibadana naona omi",
+      "ljpw": [
+        0.8,
+        0.75,
+        0.5,
+        0.8744299674267101
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.8744299674267101,
+      "harmony": 0.6223353350295059,
+      "translation_notes": "Primary dimension: Wisdom (0.87); Strong secondary: Love"
+    },
+    "32": {
+      "verse_ref": "Matthew 21:32",
+      "english": "For John came to you in the way of righteousness, and you didn’t believe him, but the tax collectors and the prostitutes believed him. When you saw it, you didn’t even repent afterward, that you might believe him.",
+      "wedau": "yamna john neꞌi da omi au  parata ana vovonana ma omi [didn’t] tumaghanei tauna tuna  [tax] [collectors] ma  [prostitutes] [believed] tauna maranaina omi inana tauna omi [didn’t] ma wanavira-meyemi [afterward] raketana omi ita tumaghanei tauna",
+      "ljpw": [
+        0.5118593238822247,
+        0.8541984732824428,
+        0.6239299345692476,
+        0.7213740458015268
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.8541984732824428,
+      "harmony": 0.5910830631062503,
+      "translation_notes": "Primary dimension: Justice (0.85)"
+    },
+    "33": {
+      "verse_ref": "Matthew 21:33",
+      "english": "“Hear another parable. There was a man who was a master of a household, who planted a vineyard, set a hedge about it, dug a wine press in it, built a tower, leased it out to farmers, and went into another country.",
+      "wedau": "[“hear] [another] [parable] kampa   oroto aiyai   [master] ana  [household] aiyai [planted]  [vineyard] [set]  [hedge] awarina tauna [dug]  [wine] [press] au tauna [built]  [tower] [leased] tauna hopu da [farmers] ma nae au [another] [country]",
+      "ljpw": [
+        0.5533742331288344,
+        0.5,
+        0.45996932515337424,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5533742331288344,
+      "harmony": 0.5011165065188783,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "34": {
+      "verse_ref": "Matthew 21:34",
+      "english": "When the season for the fruit came near, he sent his servants to the farmers, to receive his fruit.",
+      "wedau": "maranaina  [season] yamna  [fruit] neꞌi turiyai tauna vivohi ana taunoya da  [farmers] da [receive] ana [fruit]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.6
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6,
+      "harmony": 0.5117866509228262,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "35": {
+      "verse_ref": "Matthew 21:35",
+      "english": "The farmers took his servants, beat one, killed another, and stoned another.",
+      "wedau": "[farmers] varahai ana taunoya [beat] [one] [killed] [another] ma [stoned] [another]",
+      "ljpw": [
+        0.5114754098360657,
+        0.5,
+        0.5,
+        0.5114754098360657
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5114754098360657,
+      "harmony": 0.5028685647541439,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "36": {
+      "verse_ref": "Matthew 21:36",
+      "english": "Again, he sent other servants more than the first: and they treated them the same way.",
+      "wedau": "vouna tauna vivohi ghehauna taunoya ghe vavahagha da  [first:] ma tauhi [treated] hita  tagotagogi parata",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "37": {
+      "verse_ref": "Matthew 21:37",
+      "english": "But afterward he sent to them his son, saying, ‘They will respect my son.’",
+      "wedau": "tuna [afterward] tauna vivohi da hita ana natuna riwa ipa [‘they] ina [respect] au [son’]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "38": {
+      "verse_ref": "Matthew 21:38",
+      "english": "But the farmers, when they saw the son, said among themselves, ‘This is the heir. Come, let’s kill him, and seize his inheritance.’",
+      "wedau": "tuna  [farmers] maranaina tauhi inana  natuna riwa [among] [themselves] [‘this]   [heir] neꞌi [let’s] [kill] tauna ma [seize] ana [inheritance’]",
+      "ljpw": [
+        0.5505050505050505,
+        0.5,
+        0.4621212121212121,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5505050505050505,
+      "harmony": 0.501084779200808,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "39": {
+      "verse_ref": "Matthew 21:39",
+      "english": "So they took him, and threw him out of the vineyard, and killed him.",
+      "wedau": "yamna tauhi varahai tauna ma [threw] tauna hopu ana  [vineyard] ma [killed] tauna",
+      "ljpw": [
+        0.5538461538461539,
+        0.5,
+        0.4596153846153846,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5538461538461539,
+      "harmony": 0.5011214150413471,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "40": {
+      "verse_ref": "Matthew 21:40",
+      "english": "When therefore the lord of the vineyard comes, what will he do to those farmers?”",
+      "wedau": "maranaina [therefore]  Guyau ana  [vineyard] neꞌi aiwaꞌi ina tauna rura da raketana [farmers?”]",
+      "ljpw": [
+        0.6057837701612904,
+        0.5651881720430109,
+        0.48264868951612916,
+        0.6319766465053764
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6319766465053764,
+      "harmony": 0.5363033699811213,
+      "translation_notes": "Primary dimension: Wisdom (0.63); Strong secondary: Love"
+    },
+    "41": {
+      "verse_ref": "Matthew 21:41",
+      "english": "They told him, “He will miserably destroy those miserable men, and will lease out the vineyard to other farmers, who will give him the fruit in its season.”",
+      "wedau": "tauhi riwehi tauna [“he] ina [miserably] rau-iviꞌapoapoyeꞌai raketana [miserable] rava ma ina [lease] hopu  [vineyard] da ghehauna [farmers] aiyai ina verei tauna  [fruit] au tauna [season”]",
+      "ljpw": [
+        0.5630081300813008,
+        0.5,
+        0.4615853658536585,
+        0.5117886178861789
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5630081300813008,
+      "harmony": 0.5039101255658179,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "42": {
+      "verse_ref": "Matthew 21:42",
+      "english": "Jesus said to them, “Did you never read in the Scriptures, ‘The stone which the builders rejected was made the head of the corner. This was from the Lord. It is marvelous in our eyes?’",
+      "wedau": "Yesu riwa da hita [“did] omi [never] [read] au  [scriptures] [‘the] [stone] aiyai  [builders] [rejected]  rura  [head] ana  [corner] ina  au  Guyau tauna  [marvelous] au ahi [eyes?’]",
+      "ljpw": [
+        0.7,
+        0.6666666666666666,
+        0.5,
+        0.7661800486618005
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7661800486618005,
+      "harmony": 0.584390643134162,
+      "translation_notes": "Primary dimension: Wisdom (0.77); Strong secondary: Love"
+    },
+    "43": {
+      "verse_ref": "Matthew 21:43",
+      "english": "“Therefore I tell you, God’s Kingdom will be taken away from you, and will be given to a nation producing its fruit.",
+      "wedau": "I [“therefore] tau riwehi omi [god’s] vibadana ina  varahai [away] au omi ma ina  verei da  [nation] [producing] tauna [fruit]",
+      "ljpw": [
+        0.501763668430335,
+        0.7301587301587301,
+        0.8222222222222221,
+        0.6858906525573192
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.8222222222222221,
+      "harmony": 0.5981555084975727,
+      "translation_notes": "Primary dimension: Power (0.82); Strong secondary: Justice"
+    },
+    "44": {
+      "verse_ref": "Matthew 21:44",
+      "english": "He who falls on this stone will be broken to pieces, but on whomever it will fall, it will scatter him as dust.”",
+      "wedau": "tauna aiyai [falls] au ina [stone] ina  [broken] da [pieces] tuna au [whomever] tauna ina [fall] tauna ina [scatter] tauna  [dust”]",
+      "ljpw": [
+        0.511046511627907,
+        0.5,
+        0.5,
+        0.511046511627907
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.511046511627907,
+      "harmony": 0.5027613714172429,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "45": {
+      "verse_ref": "Matthew 21:45",
+      "english": "When the chief priests and the Pharisees heard his parables, they perceived that he spoke about them.",
+      "wedau": "maranaina  [chief] pirisina ma  [pharisees] [heard] ana [parables] tauhi [perceived] raketana tauna [spoke] awarina hita",
+      "ljpw": [
+        0.5302925989672977,
+        0.5,
+        0.4772805507745267,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094021018771333,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "46": {
+      "verse_ref": "Matthew 21:46",
+      "english": "When they sought to seize him, they feared the multitudes, because they considered him to be a prophet.",
+      "wedau": "maranaina tauhi [sought] da [seize] tauna tauhi [feared]  [multitudes] yamna tauhi [considered] tauna da   peroveta",
+      "ljpw": [
+        0.5316695352839931,
+        0.5,
+        0.4762478485370052,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094305205091012,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    }
+  }
+}

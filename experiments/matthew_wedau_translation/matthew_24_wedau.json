@@ -1,0 +1,775 @@
+{
+  "book": "Matthew",
+  "chapter": 24,
+  "source_language": "English",
+  "target_language": "Wedau",
+  "translation_method": "LJPW-Guided Pure Meaning Translation",
+  "timestamp": "2025-12-10T20:04:15.770640",
+  "verses": {
+    "1": {
+      "verse_ref": "Matthew 24:1",
+      "english": "Jesus went out from the temple, and was going on his way. His disciples came to him to show him the buildings of the temple.",
+      "wedau": "Yesu nae hopu au  [temple] ma  nae au ana parata ana tauvotaghotagho neꞌi da tauna da atataiyana tauna  [buildings] ana  [temple]",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "2": {
+      "verse_ref": "Matthew 24:2",
+      "english": "But he answered them, “You see all of these things, don’t you? Most certainly I tell you, there will not be left here one stone on another, that will not be thrown down.”",
+      "wedau": "tuna tauna [answered] hita [“you] inana anatapuhi ana ina [things] [don’t] [you?] anatapuhi [certainly] tau riwehi omi kampa ina egha  voterei ina [one] [stone] au [another] raketana ina egha  [thrown] [down”]",
+      "ljpw": [
+        0.547093023255814,
+        0.5,
+        0.4712209302325582,
+        0.5712209302325582
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5712209302325582,
+      "harmony": 0.5106137106630104,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "3": {
+      "verse_ref": "Matthew 24:3",
+      "english": "As he sat on the Mount of Olives, the disciples came to him privately, saying, “Tell us, when will these things be? What is the sign of your coming, and of the end of the age?”",
+      "wedau": "tauna [sat] au  [mount] ana [olives]  tauvotaghotagho neꞌi da tauna [privately] riwa ipa [“tell] ita maranaina ina ina [things] [be?] aiwaꞌi   [sign] ana ami naenae ma ana  [end] ana  [age?”]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.6
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6,
+      "harmony": 0.5117866509228262,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "4": {
+      "verse_ref": "Matthew 24:4",
+      "english": "Jesus answered them, “Be careful that no one leads you astray.",
+      "wedau": "Yesu [answered] hita [“be] [careful] raketana egha [one] [leads] omi [astray]",
+      "ljpw": [
+        0.6839703153988868,
+        0.6393939393939393,
+        0.4874768089053803,
+        0.6951515151515151
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6951515151515151,
+      "harmony": 0.5665094971233726,
+      "translation_notes": "Primary dimension: Wisdom (0.70); Strong secondary: Love"
+    },
+    "5": {
+      "verse_ref": "Matthew 24:5",
+      "english": "For many will come in my name, saying, ‘I am the Christ,’ and will lead many astray.",
+      "wedau": "yamna anatapuhi ina neꞌi au au wava riwa ipa [‘i] [am]  [christ’] ma ina [lead] anatapuhi [astray]",
+      "ljpw": [
+        0.5872983870967742,
+        0.5677083333333334,
+        0.5,
+        0.6008400537634409
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6008400537634409,
+      "harmony": 0.5331867460477441,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "6": {
+      "verse_ref": "Matthew 24:6",
+      "english": "You will hear of wars and rumors of wars. See that you aren’t troubled, for all this must happen, but the end is not yet.",
+      "wedau": "omi ina [hear] ana [wars] ma [rumors] ana [wars] inana raketana omi [aren’t] [troubled] yamna anatapuhi ina ina [happen] tuna  [end]  egha [yet]",
+      "ljpw": [
+        0.5108695652173914,
+        0.5,
+        0.5,
+        0.5108695652173914
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5108695652173914,
+      "harmony": 0.5027171470014083,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "7": {
+      "verse_ref": "Matthew 24:7",
+      "english": "For nation will rise against nation, and kingdom against kingdom; and there will be famines, plagues, and earthquakes in various places.",
+      "wedau": "I yamna [nation] ina [rise] awarina [nation] ma vibadana awarina [kingdom;] ma kampa ina  [famines] [plagues] ma [earthquakes] au [various] gabu",
+      "ljpw": [
+        0.5028066528066528,
+        0.6474358974358974,
+        0.7064102564102563,
+        0.6207553707553707
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.7064102564102563,
+      "harmony": 0.5631963002660288,
+      "translation_notes": "Primary dimension: Power (0.71); Strong secondary: Justice"
+    },
+    "8": {
+      "verse_ref": "Matthew 24:8",
+      "english": "But all these things are the beginning of birth pains.",
+      "wedau": "tuna anatapuhi ina [things]   weꞌi ana [birth] [pains]",
+      "ljpw": [
+        0.5102272727272728,
+        0.5204545454545455,
+        0.5272727272727273,
+        0.5102272727272728
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5272727272727273,
+      "harmony": 0.5086425040913928,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "9": {
+      "verse_ref": "Matthew 24:9",
+      "english": "Then they will deliver you up to oppression, and will kill you. You will be hated by all of the nations for my name’s sake.",
+      "wedau": "maratagogi tauhi ina [deliver] omi au da [oppression] ma ina [kill] omi omi ina  [hated] au anatapuhi ana  [nations] yamna au [name’s] [sake]",
+      "ljpw": [
+        0.5631578947368422,
+        0.5,
+        0.4613157894736842,
+        0.5115789473684211
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5631578947368422,
+      "harmony": 0.5038631576300894,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "10": {
+      "verse_ref": "Matthew 24:10",
+      "english": "Then many will stumble, and will deliver up one another, and will hate one another.",
+      "wedau": "maratagogi anatapuhi ina [stumble] ma ina [deliver] au [one] [another] ma ina [hate] [one] [another]",
+      "ljpw": [
+        0.515909090909091,
+        0.5,
+        0.5,
+        0.515909090909091
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.515909090909091,
+      "harmony": 0.5039765015709992,
+      "translation_notes": "Primary dimension: Love (0.52)"
+    },
+    "11": {
+      "verse_ref": "Matthew 24:11",
+      "english": "Many false prophets will arise, and will lead many astray.",
+      "wedau": "anatapuhi [false] peroveta ina [arise] ma ina [lead] anatapuhi [astray]",
+      "ljpw": [
+        0.5148936170212767,
+        0.5,
+        0.5,
+        0.5148936170212767
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5148936170212767,
+      "harmony": 0.5037227723968696,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "12": {
+      "verse_ref": "Matthew 24:12",
+      "english": "Because iniquity will be multiplied, the love of many will grow cold.",
+      "wedau": "yamna [iniquity] ina  [multiplied]  [love] ana anatapuhi ina [grow] [cold]",
+      "ljpw": [
+        0.6126860119047619,
+        0.5,
+        0.45937500000000003,
+        0.5585193452380952
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6126860119047619,
+      "harmony": 0.5149571721071522,
+      "translation_notes": "Primary dimension: Love (0.61)"
+    },
+    "13": {
+      "verse_ref": "Matthew 24:13",
+      "english": "But he who endures to the end will be saved.",
+      "wedau": "tuna tauna aiyai [endures] da  [end] ina  [saved]",
+      "ljpw": [
+        0.5529411764705883,
+        0.5,
+        0.4602941176470588,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5529411764705883,
+      "harmony": 0.5011119251692628,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "14": {
+      "verse_ref": "Matthew 24:14",
+      "english": "This Good News of the Kingdom will be preached in the whole world for a testimony to all the nations, and then the end will come.",
+      "wedau": "I ina [good] vouna ana  vibadana ina  rau-guguyei au  [whole] dobuna yamna  inavi heghehi da anatapuhi  [nations] ma maratagogi  [end] ina neꞌi",
+      "ljpw": [
+        0.5026018099547511,
+        0.6474358974358974,
+        0.7064102564102563,
+        0.620550527903469
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.7064102564102563,
+      "harmony": 0.5631228801385553,
+      "translation_notes": "Primary dimension: Power (0.71); Strong secondary: Justice"
+    },
+    "15": {
+      "verse_ref": "Matthew 24:15",
+      "english": "“When, therefore, you see the abomination of desolation, which was spoken of through Daniel the prophet, standing in the holy place (let the reader understand),",
+      "wedau": "[“when] [therefore] omi inana  [abomination] ana [desolation] aiyai  [spoken] ana au [daniel]  peroveta [standing] au  [holy] gabu [(let]  [reader] [understand)]",
+      "ljpw": [
+        0.684403409090909,
+        0.6393939393939393,
+        0.4871519886363636,
+        0.6951515151515151
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6951515151515151,
+      "harmony": 0.5664970184989633,
+      "translation_notes": "Primary dimension: Wisdom (0.70); Strong secondary: Love"
+    },
+    "16": {
+      "verse_ref": "Matthew 24:16",
+      "english": "then let those who are in Judea flee to the mountains.",
+      "wedau": "maratagogi ita raketana aiyai  au judiya [flee] da  dobuna",
+      "ljpw": [
+        0.5558139534883721,
+        0.5,
+        0.45813953488372094,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5558139534883721,
+      "harmony": 0.5011409382454725,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "17": {
+      "verse_ref": "Matthew 24:17",
+      "english": "Let him who is on the housetop not go down to take out the things that are in his house.",
+      "wedau": "ita tauna aiyai  au  [housetop] egha nae au da varahai hopu  [things] raketana  au ana numa",
+      "ljpw": [
+        0.5573529411764706,
+        0.5,
+        0.45698529411764705,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5573529411764706,
+      "harmony": 0.5011551453168561,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "18": {
+      "verse_ref": "Matthew 24:18",
+      "english": "Let him who is in the field not return back to get his clothes.",
+      "wedau": "ita tauna aiyai  au  [field] egha [return] [back] da varahai ana [clothes]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "19": {
+      "verse_ref": "Matthew 24:19",
+      "english": "But woe to those who are with child and to nursing mothers in those days!",
+      "wedau": "tuna [woe] da raketana aiyai  maitehi ghoraghora ma da [nursing] hinana au raketana [days!]",
+      "ljpw": [
+        0.45320197044334976,
+        0.4257142857142857,
+        0.47938423645320194,
+        0.5
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5,
+      "harmony": 0.48255500105965354,
+      "translation_notes": "Primary dimension: Wisdom (0.50); Low harmony verse (distinctive emphasis)"
+    },
+    "20": {
+      "verse_ref": "Matthew 24:20",
+      "english": "Pray that your flight will not be in the winter, nor on a Sabbath,",
+      "wedau": "[pray] raketana ami [flight] ina egha  au  [winter] [nor] au  sabate",
+      "ljpw": [
+        0.511764705882353,
+        0.5,
+        0.5,
+        0.511764705882353
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.511764705882353,
+      "harmony": 0.5029408663338976,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "21": {
+      "verse_ref": "Matthew 24:21",
+      "english": "for then there will be great suffering, such as has not been from the beginning of the world until now, no, nor ever will be.",
+      "wedau": "yamna maratagogi kampa ina  ghe vavahagha [suffering] [such]  ana egha  au  weꞌi ana  dobuna [until] ina marana egha [nor] [ever] ina",
+      "ljpw": [
+        0.5134020618556702,
+        0.5,
+        0.5,
+        0.5134020618556702
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5134020618556702,
+      "harmony": 0.5033500559785501,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "22": {
+      "verse_ref": "Matthew 24:22",
+      "english": "Unless those days had been shortened, no flesh would have been saved. But for the sake of the chosen ones, those days will be shortened.",
+      "wedau": "[unless] raketana maratom ana  [shortened] egha [flesh] ina ana  [saved] tuna yamna  [sake] ana  [chosen] au raketana maratom ina  [shortened]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "23": {
+      "verse_ref": "Matthew 24:23",
+      "english": "“Then if any man tells you, ‘Behold, here is the Christ,’ or, ‘There,’ don’t believe it.",
+      "wedau": "[“then] tora ghehauna oroto riwehi omi [‘behold] ina   [christ’] bo [‘there’] [don’t] tumaghanei tauna",
+      "ljpw": [
+        0.6078439510271841,
+        0.5548523206751056,
+        0.47394687694542437,
+        0.5840769177561044
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6078439510271841,
+      "harmony": 0.5276046910763111,
+      "translation_notes": "Primary dimension: Love (0.61)"
+    },
+    "24": {
+      "verse_ref": "Matthew 24:24",
+      "english": "For there will arise false christs, and false prophets, and they will show great signs and wonders, so as to lead astray, if possible, even the chosen ones.",
+      "wedau": "yamna kampa ina [arise] [false] Keriso ma [false] peroveta ma tauhi ina atataiyana ghe vavahagha [signs] ma [wonders] yamna  da [lead] [astray] tora [possible] ma  [chosen] au",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "25": {
+      "verse_ref": "Matthew 24:25",
+      "english": "“Behold, I have told you beforehand.",
+      "wedau": "[“behold] tau ana riwehi omi [beforehand]",
+      "ljpw": [
+        0.5571428571428572,
+        0.5,
+        0.45714285714285713,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5571428571428572,
+      "harmony": 0.5011532608765227,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "26": {
+      "verse_ref": "Matthew 24:26",
+      "english": "If therefore they tell you, ‘Behold, he is in the wilderness,’ don’t go out; or ‘Behold, he is in the inner rooms,’ don’t believe it.",
+      "wedau": "tora [therefore] tauhi riwehi omi [‘behold] tauna  au  [wilderness’] [don’t] nae [out;] bo [‘behold] tauna  au  [inner] [rooms’] [don’t] tumaghanei tauna",
+      "ljpw": [
+        0.5625000000000001,
+        0.5,
+        0.4609375,
+        0.5104166666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5625000000000001,
+      "harmony": 0.5035901994372788,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "27": {
+      "verse_ref": "Matthew 24:27",
+      "english": "For as the lightning flashes from the east, and is seen even to the west, so will the coming of the Son of Man be.",
+      "wedau": "yamna   [lightning] [flashes] au  [east] ma  inana ma da  [west] yamna ina  naenae ana  natuna ana oroto",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "28": {
+      "verse_ref": "Matthew 24:28",
+      "english": "For wherever the carcass is, that is where the vultures gather together.",
+      "wedau": "yamna [wherever]  [carcass]  raketana  aiwaꞌi  [vultures] [gather] [together]",
+      "ljpw": [
+        0.5508474576271186,
+        0.5,
+        0.461864406779661,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5508474576271186,
+      "harmony": 0.5010887355626839,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "29": {
+      "verse_ref": "Matthew 24:29",
+      "english": "But immediately after the suffering of those days, the sun will be darkened, the moon will not give its light, the stars will fall from the sky, and the powers of the heavens will be shaken;",
+      "wedau": "tuna maratagogi muriyai  [suffering] ana raketana maratom  [sun] ina  [darkened]  [moon] ina egha verei tauna [light]  [stars] ina [fall] au  [sky] ma  [powers] ana  marei ina  [shaken;]",
+      "ljpw": [
+        0.5,
+        0.5833333333333334,
+        0.6166666666666667,
+        0.5666666666666667
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.534524006175688,
+      "translation_notes": "Primary dimension: Power (0.62)"
+    },
+    "30": {
+      "verse_ref": "Matthew 24:30",
+      "english": "and then the sign of the Son of Man will appear in the sky. Then all the tribes of the earth will mourn, and they will see the Son of Man coming on the clouds of the sky with power and great glory.",
+      "wedau": "ma maratagogi  [sign] ana  natuna ana oroto ina [appear] au  [sky] maratagogi anatapuhi  [tribes] ana  dobuna ina nuwanuwaboyei ma tauhi ina inana  natuna ana oroto naenae au  [clouds] ana  [sky] maitehi [power] ma ghe vavahagha [glory]",
+      "ljpw": [
+        0.5043174342105263,
+        0.5677083333333334,
+        0.5947916666666667,
+        0.5584841008771929
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5947916666666667,
+      "harmony": 0.529162293798637,
+      "translation_notes": "Primary dimension: Power (0.59)"
+    },
+    "31": {
+      "verse_ref": "Matthew 24:31",
+      "english": "He will send out his angels with a great sound of a trumpet, and they will gather together his chosen ones from the four winds, from one end of the sky to the other.",
+      "wedau": "tauna ina vivohi hopu ana aneya maitehi  ghe vavahagha [sound] ana  [trumpet] ma tauhi ina [gather] [together] ana [chosen] au au  [four] [winds] au [one] [end] ana  [sky] da  ghehauna",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "32": {
+      "verse_ref": "Matthew 24:32",
+      "english": "“Now from the fig tree learn this parable. When its branch has now become tender, and produces its leaves, you know that the summer is near.",
+      "wedau": "[“now] au  [fig] [tree] [learn] ina [parable] maranaina tauna [branch] ana ina marana [become] [tender] ma [produces] tauna [leaves] omi haramaneꞌi raketana  [summer]  turiyai",
+      "ljpw": [
+        0.5018037518037518,
+        0.684126984126984,
+        0.5,
+        0.87005772005772
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.87005772005772,
+      "harmony": 0.560497192432915,
+      "translation_notes": "Primary dimension: Wisdom (0.87)"
+    },
+    "33": {
+      "verse_ref": "Matthew 24:33",
+      "english": "Even so you also, when you see all these things, know that it is near, even at the doors.",
+      "wedau": "ma yamna omi maitehi maranaina omi inana anatapuhi ina [things] haramaneꞌi raketana tauna  turiyai ma au  naona",
+      "ljpw": [
+        0.5284008528784648,
+        0.5495238095238095,
+        0.4786993603411514,
+        0.599047619047619
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.5191561206184279,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "34": {
+      "verse_ref": "Matthew 24:34",
+      "english": "Most certainly I tell you, this generation will not pass away, until all these things are accomplished.",
+      "wedau": "anatapuhi [certainly] tau riwehi omi ina [generation] ina egha [pass] [away] [until] anatapuhi ina [things]  [accomplished]",
+      "ljpw": [
+        0.511904761904762,
+        0.5,
+        0.5,
+        0.511904761904762
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.511904761904762,
+      "harmony": 0.5029758690708631,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "35": {
+      "verse_ref": "Matthew 24:35",
+      "english": "Heaven and earth will pass away, but my words will not pass away.",
+      "wedau": "marei ma dobuna ina [pass] [away] tuna au riwehi ina egha [pass] [away]",
+      "ljpw": [
+        0.5529411764705883,
+        0.5,
+        0.4602941176470588,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5529411764705883,
+      "harmony": 0.5011119251692628,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "36": {
+      "verse_ref": "Matthew 24:36",
+      "english": "But no one knows of that day and hour, not even the angels of heaven, but my Father only.",
+      "wedau": "tuna egha [one] haramaneꞌi ana raketana mara ma [hour] egha ma  aneya ana marei tuna au Tamatei tagotagogi",
+      "ljpw": [
+        0.5038602941176471,
+        0.5541666666666667,
+        0.5,
+        0.6121936274509804
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6121936274509804,
+      "harmony": 0.5209932821646427,
+      "translation_notes": "Primary dimension: Wisdom (0.61)"
+    },
+    "37": {
+      "verse_ref": "Matthew 24:37",
+      "english": "“As the days of Noah were, so will the coming of the Son of Man be.",
+      "wedau": "[“as]  maratom ana [noah]  yamna ina  naenae ana  natuna ana oroto",
+      "ljpw": [
+        0.553061224489796,
+        0.5,
+        0.46020408163265303,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.553061224489796,
+      "harmony": 0.5011132025571281,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "38": {
+      "verse_ref": "Matthew 24:38",
+      "english": "For as in those days which were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noah entered into the ship,",
+      "wedau": "yamna  au raketana maratom aiyai  naona  [flood] tauhi  [eating] ma [drinking] [marrying] ma [giving] au [marriage] [until]  mara raketana [noah] rui au  [ship]",
+      "ljpw": [
+        0.5419204905063292,
+        0.5548523206751056,
+        0.5507598233122364,
+        0.5510911128691983
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.5548523206751056,
+      "harmony": 0.5261113946041305,
+      "translation_notes": "Primary dimension: Justice (0.55)"
+    },
+    "39": {
+      "verse_ref": "Matthew 24:39",
+      "english": "and they didn’t know until the flood came, and took them all away, so will the coming of the Son of Man be.",
+      "wedau": "ma tauhi [didn’t] haramaneꞌi [until]  [flood] neꞌi ma varahai hita anatapuhi [away] yamna ina  naenae ana  natuna ana oroto",
+      "ljpw": [
+        0.5041666666666667,
+        0.5541666666666667,
+        0.5,
+        0.6124999999999999
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6124999999999999,
+      "harmony": 0.521073231717507,
+      "translation_notes": "Primary dimension: Wisdom (0.61)"
+    },
+    "40": {
+      "verse_ref": "Matthew 24:40",
+      "english": "Then two men will be in the field: one will be taken and one will be left.",
+      "wedau": "maratagogi [two] rava ina  au  [field:] [one] ina  varahai ma [one] ina  voterei",
+      "ljpw": [
+        0.5142857142857143,
+        0.5,
+        0.5,
+        0.5142857142857143
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5142857142857143,
+      "harmony": 0.5035708714194713,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "41": {
+      "verse_ref": "Matthew 24:41",
+      "english": "Two women will be grinding at the mill: one will be taken and one will be left.",
+      "wedau": "[two] vaivinehi ina  [grinding] au  [mill:] [one] ina  varahai ma [one] ina  voterei",
+      "ljpw": [
+        0.5155737704918033,
+        0.5,
+        0.5,
+        0.5155737704918033
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5155737704918033,
+      "harmony": 0.5038927195305902,
+      "translation_notes": "Primary dimension: Love (0.52)"
+    },
+    "42": {
+      "verse_ref": "Matthew 24:42",
+      "english": "Watch therefore, for you don’t know in what hour your Lord comes.",
+      "wedau": "[watch] [therefore] yamna omi [don’t] haramaneꞌi au aiwaꞌi [hour] ami Guyau neꞌi",
+      "ljpw": [
+        0.6844290657439447,
+        0.6288515406162465,
+        0.4813148788927336,
+        0.6852858790575054
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6852858790575054,
+      "harmony": 0.5624029806999193,
+      "translation_notes": "Primary dimension: Wisdom (0.69); Strong secondary: Love"
+    },
+    "43": {
+      "verse_ref": "Matthew 24:43",
+      "english": "But know this, that if the master of the house had known in what watch of the night the thief was coming, he would have watched, and would not have allowed his house to be broken into.",
+      "wedau": "tuna haramaneꞌi ina raketana tora  [master] ana  numa ana haramaneꞌi au aiwaꞌi [watch] ana  diedie  [thief]  naenae tauna ina ana [watched] ma ina egha ana [allowed] ana numa da  [broken] au",
+      "ljpw": [
+        0.5285714285714286,
+        0.5495238095238095,
+        0.4785714285714286,
+        0.599047619047619
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.5191601159968379,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "44": {
+      "verse_ref": "Matthew 24:44",
+      "english": "Therefore also be ready, for in an hour that you don’t expect, the Son of Man will come.",
+      "wedau": "[therefore] maitehi  [ready] yamna au [an] [hour] raketana omi [don’t] [expect]  natuna ana oroto ina neꞌi",
+      "ljpw": [
+        0.5619402985074627,
+        0.5,
+        0.46194029850746265,
+        0.5111940298507462
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5619402985074627,
+      "harmony": 0.5037640614276291,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "45": {
+      "verse_ref": "Matthew 24:45",
+      "english": "“Who then is the faithful and wise servant, whom his lord has set over his household, to give them their food in due season?",
+      "wedau": "[“who] maratagogi   [faithful] ma [wise] [servant] aiyai ana Guyau ana [set] au ana [household] da verei hita ahi [food] au [due] [season?]",
+      "ljpw": [
+        0.6894645826405056,
+        0.6473118279569893,
+        0.49048220818091126,
+        0.7352688172043012
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7352688172043012,
+      "harmony": 0.5740643223921318,
+      "translation_notes": "Primary dimension: Wisdom (0.74); Strong secondary: Love"
+    },
+    "46": {
+      "verse_ref": "Matthew 24:46",
+      "english": "Blessed is that servant whom his lord finds doing so when he comes.",
+      "wedau": "nuwaboyei  raketana [servant] aiyai ana Guyau [finds] rura yamna maranaina tauna neꞌi",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "47": {
+      "verse_ref": "Matthew 24:47",
+      "english": "Most certainly I tell you that he will set him over all that he has.",
+      "wedau": "anatapuhi [certainly] tau riwehi omi raketana tauna ina [set] tauna au anatapuhi raketana tauna ana",
+      "ljpw": [
+        0.5641509433962264,
+        0.5,
+        0.46037735849056605,
+        0.5113207547169811
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5641509433962264,
+      "harmony": 0.5038119147746911,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "48": {
+      "verse_ref": "Matthew 24:48",
+      "english": "But if that evil servant should say in his heart, ‘My lord is delaying his coming,’",
+      "wedau": "tuna tora raketana [evil] [servant] ina riwa au ana urana [‘my] Guyau  [delaying] ana [coming’]",
+      "ljpw": [
+        0.6792668269230768,
+        0.6474358974358974,
+        0.5,
+        0.7087540064102563
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7087540064102563,
+      "harmony": 0.5715384526213455,
+      "translation_notes": "Primary dimension: Wisdom (0.71); Strong secondary: Love"
+    },
+    "49": {
+      "verse_ref": "Matthew 24:49",
+      "english": "and begins to beat his fellow servants, and eat and drink with the drunkards,",
+      "wedau": "ma [begins] da [beat] ana [fellow] taunoya ma [eat] ma [drink] maitehi  [drunkards]",
+      "ljpw": [
+        0.510483870967742,
+        0.5205645161290323,
+        0.5274193548387097,
+        0.510483870967742
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5274193548387097,
+      "harmony": 0.5087425251232311,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "50": {
+      "verse_ref": "Matthew 24:50",
+      "english": "the lord of that servant will come in a day when he doesn’t expect it, and in an hour when he doesn’t know it,",
+      "wedau": "Guyau ana raketana [servant] ina neꞌi au  mara maranaina tauna [doesn’t] [expect] tauna ma au [an] [hour] maranaina tauna [doesn’t] haramaneꞌi tauna",
+      "ljpw": [
+        0.6822314467955857,
+        0.6288515406162465,
+        0.4827781715095677,
+        0.6850393169315919
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6850393169315919,
+      "harmony": 0.5623966275845353,
+      "translation_notes": "Primary dimension: Wisdom (0.69); Strong secondary: Love"
+    },
+    "51": {
+      "verse_ref": "Matthew 24:51",
+      "english": "and will cut him in pieces, and appoint his portion with the hypocrites. That is where the weeping and grinding of teeth will be.",
+      "wedau": "ma ina [cut] tauna au [pieces] ma [appoint] ana [portion] maitehi  [hypocrites] raketana  aiwaꞌi  [weeping] ma [grinding] ana [teeth] ina",
+      "ljpw": [
+        0.550485436893204,
+        0.5,
+        0.4621359223300971,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.550485436893204,
+      "harmony": 0.5010845511791402,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    }
+  }
+}

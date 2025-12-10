@@ -1,0 +1,310 @@
+{
+  "book": "Matthew",
+  "chapter": 28,
+  "source_language": "English",
+  "target_language": "Wedau",
+  "translation_method": "LJPW-Guided Pure Meaning Translation",
+  "timestamp": "2025-12-10T20:04:15.801101",
+  "verses": {
+    "1": {
+      "verse_ref": "Matthew 28:1",
+      "english": "Now after the Sabbath, as it began to dawn on the first day of the week, Mary Magdalene and the other Mary came to see the tomb.",
+      "wedau": "ina marana muriyai  sabate  tauna [began] da [dawn] au  naona mara ana  [week] Mary [magdalene] ma  ghehauna Mary neꞌi da inana  [tomb]",
+      "ljpw": [
+        0.5505050505050505,
+        0.5,
+        0.4621212121212121,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5505050505050505,
+      "harmony": 0.501084779200808,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "2": {
+      "verse_ref": "Matthew 28:2",
+      "english": "Behold, there was a great earthquake, for an angel of the Lord descended from the sky, and came and rolled away the stone from the door, and sat on it.",
+      "wedau": "[behold] kampa   ghe vavahagha [earthquake] yamna [an] [angel] ana  Guyau ghaꞌiraꞌi au  [sky] ma neꞌi ma [rolled] [away]  [stone] au  naona ma [sat] au tauna",
+      "ljpw": [
+        0.5852564102564103,
+        0.5677083333333334,
+        0.5,
+        0.598798076923077
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.598798076923077,
+      "harmony": 0.5326482163161006,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "3": {
+      "verse_ref": "Matthew 28:3",
+      "english": "His appearance was like lightning, and his clothing white as snow.",
+      "wedau": "ana [appearance]  [like] [lightning] ma ana [clothing] [white]  [snow]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "4": {
+      "verse_ref": "Matthew 28:4",
+      "english": "For fear of him, the guards shook, and became like dead men.",
+      "wedau": "yamna [fear] ana tauna  [guards] [shook] ma [became] [like] [dead] rava",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "5": {
+      "verse_ref": "Matthew 28:5",
+      "english": "The angel answered the women, “Don’t be afraid, for I know that you seek Jesus, who has been crucified.",
+      "wedau": "[angel] [answered]  vaivinehi [“don’t]  [afraid] yamna tau haramaneꞌi raketana omi [seek] Yesu aiyai ana  [crucified]",
+      "ljpw": [
+        0.6846720368239354,
+        0.6393939393939393,
+        0.48695051783659377,
+        0.6951515151515151
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6951515151515151,
+      "harmony": 0.5664892174312695,
+      "translation_notes": "Primary dimension: Wisdom (0.70); Strong secondary: Love"
+    },
+    "6": {
+      "verse_ref": "Matthew 28:6",
+      "english": "He is not here, for he has risen, just like he said. Come, see the place where the Lord was lying.",
+      "wedau": "tauna  egha ina yamna tauna ana [risen] tagotagogi [like] tauna riwa neꞌi inana  gabu aiwaꞌi  Guyau  enoeno",
+      "ljpw": [
+        0.6852054794520547,
+        0.6393939393939393,
+        0.48655043586550434,
+        0.6951515151515151
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6951515151515151,
+      "harmony": 0.5664735872371582,
+      "translation_notes": "Primary dimension: Wisdom (0.70); Strong secondary: Love"
+    },
+    "7": {
+      "verse_ref": "Matthew 28:7",
+      "english": "Go quickly and tell his disciples, ‘He has risen from the dead, and behold, he goes before you into Galilee; there you will see him.’ Behold, I have told you.”",
+      "wedau": "nae [quickly] ma riwehi ana tauvotaghotagho [‘he] ana [risen] au  [dead] ma [behold] tauna nae naona omi au [galilee;] kampa omi ina inana [him’] [behold] tau ana riwehi [you”]",
+      "ljpw": [
+        0.5270833333333333,
+        0.575,
+        0.5921875000000001,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5921875000000001,
+      "harmony": 0.5246969239302652,
+      "translation_notes": "Primary dimension: Power (0.59)"
+    },
+    "8": {
+      "verse_ref": "Matthew 28:8",
+      "english": "They departed quickly from the tomb with fear and great joy, and ran to bring his disciples word.",
+      "wedau": "tauhi [departed] [quickly] au  [tomb] maitehi [fear] ma ghe vavahagha [joy] ma [ran] da [bring] ana tauvotaghotagho riwana",
+      "ljpw": [
+        0.5,
+        0.5192307692307693,
+        0.5256410256410257,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5256410256410257,
+      "harmony": 0.5056041069261087,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "9": {
+      "verse_ref": "Matthew 28:9",
+      "english": "As they went to tell his disciples, behold, Jesus met them, saying, “Rejoice!” They came and took hold of his feet, and worshiped him.",
+      "wedau": "tauhi nae da riwehi ana tauvotaghotagho [behold] Yesu [met] hita riwa ipa [“rejoice!”] tauhi neꞌi ma varahai [hold] ana ana [feet] ma [worshiped] tauna",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "10": {
+      "verse_ref": "Matthew 28:10",
+      "english": "Then Jesus said to them, “Don’t be afraid. Go tell my brothers that they should go into Galilee, and there they will see me.”",
+      "wedau": "maratagogi Yesu riwa da hita [“don’t]  [afraid] nae riwehi au tevera raketana tauhi ina nae au galili ma kampa tauhi ina inana [me”]",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "11": {
+      "verse_ref": "Matthew 28:11",
+      "english": "Now while they were going, behold, some of the guards came into the city, and told the chief priests all the things that had happened.",
+      "wedau": "ina marana [while] tauhi  nae [behold] ghehauhi ana  [guards] neꞌi au  meyagaihi ma riwehi  [chief] pirisina anatapuhi  [things] raketana ana [happened]",
+      "ljpw": [
+        0.5509433962264151,
+        0.5,
+        0.46179245283018866,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5509433962264151,
+      "harmony": 0.5010898358273143,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "12": {
+      "verse_ref": "Matthew 28:12",
+      "english": "When they were assembled with the elders, and had taken counsel, they gave a large amount of silver to the soldiers,",
+      "wedau": "maranaina tauhi  [assembled] maitehi  [elders] ma ana varahai [counsel] tauhi verei  [large] [amount] ana [silver] da  [soldiers]",
+      "ljpw": [
+        0.528878648233487,
+        0.5,
+        0.4783410138248848,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5093720955001154,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "13": {
+      "verse_ref": "Matthew 28:13",
+      "english": "saying, “Say that his disciples came by night, and stole him away while we slept.",
+      "wedau": "riwa ipa [“say] raketana ana tauvotaghotagho neꞌi au diedie ma [stole] tauna [away] [while] ita [slept]",
+      "ljpw": [
+        0.5261904761904762,
+        0.575,
+        0.5928571428571429,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5928571428571429,
+      "harmony": 0.5246514110151529,
+      "translation_notes": "Primary dimension: Power (0.59)"
+    },
+    "14": {
+      "verse_ref": "Matthew 28:14",
+      "english": "If this comes to the governor’s ears, we will persuade him and make you free of worry.”",
+      "wedau": "tora ina neꞌi da  [governor’s] [ears] ita ina [persuade] tauna ma rura omi [free] ana [worry”]",
+      "ljpw": [
+        0.5626865671641791,
+        0.5,
+        0.46082089552238803,
+        0.5104477611940299
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5626865671641791,
+      "harmony": 0.5035989378891725,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "15": {
+      "verse_ref": "Matthew 28:15",
+      "english": "So they took the money and did as they were told. This saying was spread abroad among the Jews, and continues until today.",
+      "wedau": "yamna tauhi varahai  [money] ma rura  tauhi  riwehi ina riwa ipa  howai [abroad] [among]  [jews] ma [continues] [until] [today]",
+      "ljpw": [
+        0.5505154639175258,
+        0.5,
+        0.46211340206185564,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5505154639175258,
+      "harmony": 0.5010849002024241,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "16": {
+      "verse_ref": "Matthew 28:16",
+      "english": "But the eleven disciples went into Galilee, to the mountain where Jesus had sent them.",
+      "wedau": "tuna  [eleven] tauvotaghotagho nae au galili da  dobuna aiwaꞌi Yesu ana vivohi hita",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "17": {
+      "verse_ref": "Matthew 28:17",
+      "english": "When they saw him, they bowed down to him, but some doubted.",
+      "wedau": "maranaina tauhi inana tauna tauhi [bowed] au da tauna tuna ghehauhi [doubted]",
+      "ljpw": [
+        0.5483375959079284,
+        0.5161125319693095,
+        0.48523017902813304,
+        0.5588235294117647
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5588235294117647,
+      "harmony": 0.5134768146700547,
+      "translation_notes": "Primary dimension: Wisdom (0.56)"
+    },
+    "18": {
+      "verse_ref": "Matthew 28:18",
+      "english": "Jesus came to them and spoke to them, saying, “All authority has been given to me in heaven and on earth.",
+      "wedau": "Yesu neꞌi da hita ma [spoke] da hita riwa ipa [“all] rewapana ana  verei da tau au marei ma au dobuna",
+      "ljpw": [
+        0.6838383838383837,
+        0.6393939393939393,
+        0.48757575757575755,
+        0.6951515151515151
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6951515151515151,
+      "harmony": 0.5665132742444616,
+      "translation_notes": "Primary dimension: Wisdom (0.70); Strong secondary: Love"
+    },
+    "19": {
+      "verse_ref": "Matthew 28:19",
+      "english": "Go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,",
+      "wedau": "nae ma rura tauvotaghotagho ana anatapuhi [nations] bababataitohi hita au  wava ana  Tamatei ma ana  natuna ma ana  [holy] aruwa",
+      "ljpw": [
+        0.8328920570264764,
+        0.8261371350984386,
+        0.6860488798370672,
+        0.8750848608282416
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.8750848608282416,
+      "harmony": 0.7066551495348767,
+      "translation_notes": "Primary dimension: Wisdom (0.88); High harmony verse (balanced); Strong secondary: Love"
+    },
+    "20": {
+      "verse_ref": "Matthew 28:20",
+      "english": "teaching them to observe all things that I commanded you. Behold, I am with you always, even to the end of the age.” Amen.",
+      "wedau": "viharaharamana hita da [observe] anatapuhi [things] raketana tau ririweiya omi [behold] tau [am] maitehi omi [always] ma da  [end] ana  [age”] [amen]",
+      "ljpw": [
+        0.5276497695852534,
+        0.5495238095238095,
+        0.47926267281105994,
+        0.599047619047619
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.519138372203143,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    }
+  }
+}

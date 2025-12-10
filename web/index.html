@@ -28,9 +28,22 @@
 
         <!-- Main Search -->
         <section class="search-section">
+            <!-- Welcome guidance (NEW - Love dimension enhancement) -->
+            <div class="welcome-guidance" id="welcomeGuide">
+                <h2>Welcome to the LJPW Semantic Explorer! 🌟</h2>
+                <p>Type any concept to explore its meaning in 4D semantic space:</p>
+                <ul class="dimension-hints">
+                    <li><span class="l">L = Love</span> - Relational warmth & connection</li>
+                    <li><span class="j">J = Justice</span> - Fairness & structure</li>
+                    <li><span class="p">P = Power</span> - Action & agency</li>
+                    <li><span class="w">W = Wisdom</span> - Knowledge & insight</li>
+                </ul>
+                <p class="hint">💡 Try: "faith", "mercy", "kingdom", or paste any text below!</p>
+            </div>
             <div class="search-wrapper">
-                <input type="text" id="searchInput" placeholder="Search the semantic void..." autocomplete="off">
-                <button id="searchBtn">SCAN</button>
+                <input type="text" id="searchInput" placeholder="Enter a concept (e.g., faith, love, wisdom)..."
+                    autocomplete="off">
+                <button id="searchBtn">EXPLORE</button>
             </div>
             <div id="searchResults" class="search-results hidden"></div>
         </section>
@@ -70,9 +83,12 @@
 
         <!-- Analyzer Section (Footer-like) -->
         <section class="analyzer-section">
+            <h3 class="analyzer-title">✨ Analyze Your Own Text</h3>
+            <p class="analyzer-hint">Paste any sentence or paragraph to discover its semantic signature!</p>
             <div class="analyzer-box">
-                <textarea id="analyzeText" placeholder="Paste text to analyze soul signature..."></textarea>
-                <button id="analyzeBtn">ANALYZE</button>
+                <textarea id="analyzeText"
+                    placeholder="Try: 'For God so loved the world that he gave his only Son...'"></textarea>
+                <button id="analyzeBtn">ANALYZE MEANING</button>
             </div>
             <div id="analysisResult" class="analysis-result"></div>
         </section>

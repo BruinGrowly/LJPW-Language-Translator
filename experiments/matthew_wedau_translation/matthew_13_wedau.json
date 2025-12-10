@@ -1,0 +1,880 @@
+{
+  "book": "Matthew",
+  "chapter": 13,
+  "source_language": "English",
+  "target_language": "Wedau",
+  "translation_method": "LJPW-Guided Pure Meaning Translation",
+  "timestamp": "2025-12-10T20:04:15.722093",
+  "verses": {
+    "1": {
+      "verse_ref": "Matthew 13:1",
+      "english": "On that day Jesus went out of the house, and sat by the seaside.",
+      "wedau": "au raketana mara Yesu nae hopu ana  numa ma [sat] au  [seaside]",
+      "ljpw": [
+        0.6026239067055393,
+        0.5619047619047619,
+        0.4787463556851312,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6026239067055393,
+      "harmony": 0.5290557133720146,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "2": {
+      "verse_ref": "Matthew 13:2",
+      "english": "Great multitudes gathered to him, so that he entered into a boat, and sat, and all the multitude stood on the beach.",
+      "wedau": "ghe vavahagha [multitudes] tagogiyehi da tauna yamna raketana tauna rui au  auwaga ma [sat] ma anatapuhi  [multitude] [stood] au  [beach]",
+      "ljpw": [
+        0.5,
+        0.5222527472527473,
+        0.5296703296703297,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5296703296703297,
+      "harmony": 0.5064833670257255,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "3": {
+      "verse_ref": "Matthew 13:3",
+      "english": "He spoke to them many things in parables, saying, “Behold, a farmer went out to sow.",
+      "wedau": "tauna [spoke] da hita anatapuhi [things] au [parables] riwa ipa [“behold]  [farmer] nae hopu da [sow]",
+      "ljpw": [
+        0.51015625,
+        0.5,
+        0.5,
+        0.51015625
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.51015625,
+      "harmony": 0.5025388633961303,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "4": {
+      "verse_ref": "Matthew 13:4",
+      "english": "As he sowed, some seeds fell by the roadside, and the birds came and devoured them.",
+      "wedau": "tauna [sowed] ghehauhi [seeds] [fell] au  [roadside] ma  [birds] neꞌi ma [devoured] hita",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "5": {
+      "verse_ref": "Matthew 13:5",
+      "english": "Others fell on rocky ground, where they didn’t have much soil, and immediately they sprang up, because they had no depth of earth.",
+      "wedau": "ghehauna [fell] au [rocky] [ground] aiwaꞌi tauhi [didn’t] ana [much] [soil] ma maratagogi tauhi [sprang] au yamna tauhi ana egha [depth] ana dobuna",
+      "ljpw": [
+        0.550485436893204,
+        0.5,
+        0.4621359223300971,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.550485436893204,
+      "harmony": 0.5010845511791402,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "6": {
+      "verse_ref": "Matthew 13:6",
+      "english": "When the sun had risen, they were scorched. Because they had no root, they withered away.",
+      "wedau": "maranaina  [sun] ana [risen] tauhi  [scorched] yamna tauhi ana egha [root] tauhi [withered] [away]",
+      "ljpw": [
+        0.5351020408163265,
+        0.5,
+        0.4736734693877551,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094979143144216,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "7": {
+      "verse_ref": "Matthew 13:7",
+      "english": "Others fell among thorns. The thorns grew up and choked them.",
+      "wedau": "ghehauna [fell] [among] [thorns]  [thorns] [grew] au ma [choked] hita",
+      "ljpw": [
+        0.5122448979591837,
+        0.5,
+        0.5,
+        0.5122448979591837
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5122448979591837,
+      "harmony": 0.5030608745823713,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "8": {
+      "verse_ref": "Matthew 13:8",
+      "english": "Others fell on good soil, and yielded fruit: some one hundred times as much, some sixty, and some thirty.",
+      "wedau": "ghehauna [fell] au [good] [soil] ma [yielded] [fruit:] ghehauhi [one] [hundred] mara  [much] ghehauhi [sixty] ma ghehauhi [thirty]",
+      "ljpw": [
+        0.5109756097560976,
+        0.5,
+        0.5,
+        0.5109756097560976
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5109756097560976,
+      "harmony": 0.5027436508802415,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "9": {
+      "verse_ref": "Matthew 13:9",
+      "english": "He who has ears to hear, let him hear.”",
+      "wedau": "tauna aiyai ana [ears] da [hear] ita tauna [hear”]",
+      "ljpw": [
+        0.5678571428571428,
+        0.5,
+        0.44910714285714287,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5678571428571428,
+      "harmony": 0.5012272033776177,
+      "translation_notes": "Primary dimension: Love (0.57)"
+    },
+    "10": {
+      "verse_ref": "Matthew 13:10",
+      "english": "The disciples came, and said to him, “Why do you speak to them in parables?”",
+      "wedau": "tauvotaghotagho neꞌi ma riwa da tauna [“why] rura omi pa da hita au [parables?”]",
+      "ljpw": [
+        0.5290726817042606,
+        0.5,
+        0.4781954887218045,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5093762626047862,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "11": {
+      "verse_ref": "Matthew 13:11",
+      "english": "He answered them, “To you it is given to know the mysteries of the Kingdom of Heaven, but it is not given to them.",
+      "wedau": "I tauna [answered] hita [“to] omi tauna  verei da haramaneꞌi  [mysteries] ana  vibadana ana marei tuna tauna  egha verei da hita",
+      "ljpw": [
+        0.5867763366023411,
+        0.8325688073394496,
+        0.8606058209427396,
+        0.8059633027522937
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.8606058209427396,
+      "harmony": 0.6640838487109368,
+      "translation_notes": "Primary dimension: Power (0.86); Strong secondary: Justice"
+    },
+    "12": {
+      "verse_ref": "Matthew 13:12",
+      "english": "For whoever has, to him will be given, and he will have abundance, but whoever doesn’t have, from him will be taken away even that which he has.",
+      "wedau": "yamna [whoever] ana da tauna ina  verei ma tauna ina ana [abundance] tuna [whoever] [doesn’t] ana au tauna ina  varahai [away] ma raketana aiyai tauna ana",
+      "ljpw": [
+        0.5567567567567567,
+        0.5,
+        0.4574324324324324,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5567567567567567,
+      "harmony": 0.5011497522811612,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "13": {
+      "verse_ref": "Matthew 13:13",
+      "english": "Therefore I speak to them in parables, because seeing they don’t see, and hearing, they don’t hear, neither do they understand.",
+      "wedau": "[therefore] tau pa da hita au [parables] yamna inana tauhi [don’t] inana ma [hearing] tauhi [don’t] [hear] [neither] rura tauhi [understand]",
+      "ljpw": [
+        0.5262285714285715,
+        0.5495238095238095,
+        0.48032857142857144,
+        0.599047619047619
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.519104093887636,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "14": {
+      "verse_ref": "Matthew 13:14",
+      "english": "In them the prophecy of Isaiah is fulfilled, which says, ‘By hearing you will hear, and will in no way understand; Seeing you will see, and will in no way perceive:",
+      "wedau": "au hita  [prophecy] ana aisaiya  ririweiya aiyai riwa [‘by] [hearing] omi ina [hear] ma ina au egha parata [understand;] inana omi ina inana ma ina au egha parata [perceive:]",
+      "ljpw": [
+        0.5457490282069173,
+        0.5438818565400844,
+        0.47133957938801957,
+        0.5952988471377787
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5952988471377787,
+      "harmony": 0.5191851004454044,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "15": {
+      "verse_ref": "Matthew 13:15",
+      "english": "for this people’s heart has grown callous, their ears are dull of hearing, they have closed their eyes; or else perhaps they might perceive with their eyes, hear with their ears, understand with their heart, and would turn again; and I would heal them.’",
+      "wedau": "yamna ina [people’s] urana ana [grown] [callous] ahi [ears]  [dull] ana [hearing] tauhi ana [closed] ahi [eyes;] bo [else] [perhaps] tauhi ita [perceive] maitehi ahi [eyes] [hear] maitehi ahi [ears] [understand] maitehi ahi urana ma ina [turn] [again;] ma tau ina [heal] [them’]",
+      "ljpw": [
+        0.5176727272727273,
+        0.6393939393939393,
+        0.6818969696969697,
+        0.6115151515151515
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.6818969696969697,
+      "harmony": 0.5605120001984242,
+      "translation_notes": "Primary dimension: Power (0.68); Strong secondary: Justice"
+    },
+    "16": {
+      "verse_ref": "Matthew 13:16",
+      "english": "“But blessed are your eyes, for they see; and your ears, for they hear.",
+      "wedau": "[“but] nuwaboyei  ami [eyes] yamna tauhi [see;] ma ami [ears] yamna tauhi [hear]",
+      "ljpw": [
+        0.5566037735849056,
+        0.5,
+        0.45754716981132076,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5566037735849056,
+      "harmony": 0.5011483458540738,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "17": {
+      "verse_ref": "Matthew 13:17",
+      "english": "For most certainly I tell you that many prophets and righteous men desired to see the things which you see, and didn’t see them; and to hear the things which you hear, and didn’t hear them.",
+      "wedau": "yamna anatapuhi [certainly] tau riwehi omi raketana anatapuhi peroveta ma [righteous] rava [desired] da inana  [things] aiyai omi inana ma [didn’t] inana [them;] ma da [hear]  [things] aiyai omi [hear] ma [didn’t] [hear] hita",
+      "ljpw": [
+        0.5168058968058968,
+        0.7230303030303029,
+        0.5710319410319409,
+        0.6393939393939393
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7230303030303029,
+      "harmony": 0.558631747856372,
+      "translation_notes": "Primary dimension: Justice (0.72); Strong secondary: Wisdom"
+    },
+    "18": {
+      "verse_ref": "Matthew 13:18",
+      "english": "“Hear, then, the parable of the farmer.",
+      "wedau": "[“hear] maratagogi  [parable] ana  [farmer]",
+      "ljpw": [
+        0.5637931034482759,
+        0.5,
+        0.46120689655172414,
+        0.5120689655172415
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5637931034482759,
+      "harmony": 0.5039812574316723,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "19": {
+      "verse_ref": "Matthew 13:19",
+      "english": "When anyone hears the word of the Kingdom, and doesn’t understand it, the evil one comes, and snatches away that which has been sown in his heart. This is what was sown by the roadside.",
+      "wedau": "I maranaina [anyone] [hears]  riwana ana  vibadana ma [doesn’t] [understand] tauna  [evil] [one] neꞌi ma [snatches] [away] raketana aiyai ana  [sown] au ana urana ina  aiwaꞌi  [sown] au  [roadside]",
+      "ljpw": [
+        0.5094546198710733,
+        0.7277448071216618,
+        0.8117517650670214,
+        0.7044510385756677
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.8117517650670214,
+      "harmony": 0.6018761898195693,
+      "translation_notes": "Primary dimension: Power (0.81); Strong secondary: Justice"
+    },
+    "20": {
+      "verse_ref": "Matthew 13:20",
+      "english": "What was sown on the rocky places, this is he who hears the word, and immediately with joy receives it;",
+      "wedau": "aiwaꞌi  [sown] au  [rocky] gabu ina  tauna aiyai [hears]  riwana ma maratagogi maitehi [joy] [receives] [it;]",
+      "ljpw": [
+        0.5324514991181658,
+        0.5,
+        0.4756613756613757,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094463068533099,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "21": {
+      "verse_ref": "Matthew 13:21",
+      "english": "yet he has no root in himself, but endures for a while. When oppression or persecution arises because of the word, immediately he stumbles.",
+      "wedau": "[yet] tauna ana egha [root] au [himself] tuna [endures] yamna  [while] maranaina [oppression] bo [persecution] [arises] yamna ana  riwana maratagogi tauna [stumbles]",
+      "ljpw": [
+        0.5517857142857143,
+        0.5,
+        0.46116071428571426,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5517857142857143,
+      "harmony": 0.501099340583763,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "22": {
+      "verse_ref": "Matthew 13:22",
+      "english": "What was sown among the thorns, this is he who hears the word, but the cares of this age and the deceitfulness of riches choke the word, and he becomes unfruitful.",
+      "wedau": "aiwaꞌi  [sown] [among]  [thorns] ina  tauna aiyai [hears]  riwana tuna  [cares] ana ina [age] ma  [deceitfulness] ana [riches] [choke]  riwana ma tauna [becomes] [unfruitful]",
+      "ljpw": [
+        0.6287226154364678,
+        0.5,
+        0.4456319514661274,
+        0.5953623188405797
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6287226154364678,
+      "harmony": 0.5190033279023649,
+      "translation_notes": "Primary dimension: Love (0.63)"
+    },
+    "23": {
+      "verse_ref": "Matthew 13:23",
+      "english": "What was sown on the good ground, this is he who hears the word, and understands it, who most certainly bears fruit, and produces, some one hundred times as much, some sixty, and some thirty.”",
+      "wedau": "aiwaꞌi  [sown] au  [good] [ground] ina  tauna aiyai [hears]  riwana ma [understands] tauna aiyai anatapuhi [certainly] [bears] [fruit] ma [produces] ghehauhi [one] [hundred] mara  [much] ghehauhi [sixty] ma ghehauhi [thirty”]",
+      "ljpw": [
+        0.5,
+        0.5666666666666667,
+        0.5,
+        0.679725085910653
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.679725085910653,
+      "harmony": 0.5293754551770175,
+      "translation_notes": "Primary dimension: Wisdom (0.68)"
+    },
+    "24": {
+      "verse_ref": "Matthew 13:24",
+      "english": "He set another parable before them, saying, “The Kingdom of Heaven is like a man who sowed good seed in his field,",
+      "wedau": "tauna [set] [another] [parable] naona hita riwa ipa [“the] vibadana ana marei  [like]  oroto aiyai [sowed] [good] [seed] au ana [field]",
+      "ljpw": [
+        0.6062552406506792,
+        0.7744092039800995,
+        0.7557874252333836,
+        0.7682213930348258
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7744092039800995,
+      "harmony": 0.6389551465088089,
+      "translation_notes": "Primary dimension: Justice (0.77); Strong secondary: Wisdom"
+    },
+    "25": {
+      "verse_ref": "Matthew 13:25",
+      "english": "but while people slept, his enemy came and sowed darnel weeds also among the wheat, and went away.",
+      "wedau": "tuna [while] rava [slept] ana [enemy] neꞌi ma [sowed] [darnel] [weeds] maitehi [among]  [wheat] ma nae [away]",
+      "ljpw": [
+        0.5538461538461539,
+        0.5,
+        0.4596153846153846,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5538461538461539,
+      "harmony": 0.5011214150413471,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "26": {
+      "verse_ref": "Matthew 13:26",
+      "english": "But when the blade sprang up and produced fruit, then the darnel weeds appeared also.",
+      "wedau": "tuna maranaina  [blade] [sprang] au ma [produced] [fruit] maratagogi  [darnel] [weeds] [appeared] maitehi",
+      "ljpw": [
+        0.5,
+        0.5217391304347826,
+        0.5289855072463768,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5289855072463768,
+      "harmony": 0.5063339637674721,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "27": {
+      "verse_ref": "Matthew 13:27",
+      "english": "The servants of the householder came and said to him, ‘Sir, didn’t you sow good seed in your field? Where did these darnel weeds come from?’",
+      "wedau": "taunoya ana  [householder] neꞌi ma riwa da tauna [‘sir] [didn’t] omi [sow] [good] [seed] au ami [field?] aiwaꞌi rura ina [darnel] [weeds] neꞌi [from?’]",
+      "ljpw": [
+        0.5291005291005291,
+        0.5,
+        0.47817460317460314,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5093768593724103,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "28": {
+      "verse_ref": "Matthew 13:28",
+      "english": "“He said to them, ‘An enemy has done this.’ “The servants asked him, ‘Do you want us to go and gather them up?’",
+      "wedau": "[“he] riwa da hita [‘an] [enemy] ana [done] [this’] [“the] taunoya rau-baghei tauna [‘do] omi [want] ita da nae ma [gather] hita [up?’]",
+      "ljpw": [
+        0.5296564195298372,
+        0.5,
+        0.4777576853526221,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5093887043556343,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "29": {
+      "verse_ref": "Matthew 13:29",
+      "english": "“But he said, ‘No, lest perhaps while you gather up the darnel weeds, you root up the wheat with them.",
+      "wedau": "[“but] tauna riwa [‘no] [lest] [perhaps] [while] omi [gather] au  [darnel] [weeds] omi [root] au  [wheat] maitehi hita",
+      "ljpw": [
+        0.5584415584415585,
+        0.5,
+        0.45616883116883117,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5584415584415585,
+      "harmony": 0.5011646318844059,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "30": {
+      "verse_ref": "Matthew 13:30",
+      "english": "Let both grow together until the harvest, and in the harvest time I will tell the reapers, “First, gather up the darnel weeds, and bind them in bundles to burn them; but gather the wheat into my barn.” ’ ”",
+      "wedau": "ita ruwagha [grow] [together] [until]  [harvest] ma au  [harvest] mara tau ina riwehi  [reapers] [“first] [gather] au  [darnel] [weeds] ma [bind] hita au [bundles] da [burn] [them;] tuna [gather]  [wheat] au au [barn”] [’] [”]",
+      "ljpw": [
+        0.5112179487179488,
+        0.5197115384615385,
+        0.5262820512820513,
+        0.5112179487179488
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5262820512820513,
+      "harmony": 0.5086810862291175,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "31": {
+      "verse_ref": "Matthew 13:31",
+      "english": "He set another parable before them, saying, “The Kingdom of Heaven is like a grain of mustard seed, which a man took, and sowed in his field;",
+      "wedau": "tauna [set] [another] [parable] naona hita riwa ipa [“the] vibadana ana marei  [like]  [grain] ana [mustard] [seed] aiyai  oroto varahai ma [sowed] au ana [field;]",
+      "ljpw": [
+        0.6058606052307272,
+        0.7744092039800995,
+        0.7560834017983477,
+        0.7682213930348258
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7744092039800995,
+      "harmony": 0.6388950274680474,
+      "translation_notes": "Primary dimension: Justice (0.77); Strong secondary: Wisdom"
+    },
+    "32": {
+      "verse_ref": "Matthew 13:32",
+      "english": "which indeed is smaller than all seeds. But when it is grown, it is greater than the herbs, and becomes a tree, so that the birds of the air come and lodge in its branches.”",
+      "wedau": "aiyai [indeed]  [smaller] da anatapuhi [seeds] tuna maranaina tauna  [grown] tauna  [greater] da  [herbs] ma [becomes]  [tree] yamna raketana  [birds] ana  [air] neꞌi ma [lodge] au tauna [branches”]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "33": {
+      "verse_ref": "Matthew 13:33",
+      "english": "He spoke another parable to them. “The Kingdom of Heaven is like yeast, which a woman took, and hid in three measures of meal, until it was all leavened.”",
+      "wedau": "tauna [spoke] [another] [parable] da hita [“the] vibadana ana marei  [like] [yeast] aiyai  vaivine varahai ma [hid] au [three] [measures] ana [meal] [until] tauna  anatapuhi [leavened”]",
+      "ljpw": [
+        0.6086990212378596,
+        0.7633542226201133,
+        0.7422674530868747,
+        0.7598531982175144
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7633542226201133,
+      "harmony": 0.6340160589450876,
+      "translation_notes": "Primary dimension: Justice (0.76); Strong secondary: Wisdom"
+    },
+    "34": {
+      "verse_ref": "Matthew 13:34",
+      "english": "Jesus spoke all these things in parables to the multitudes; and without a parable, he didn’t speak to them,",
+      "wedau": "Yesu [spoke] anatapuhi ina [things] au [parables] da  [multitudes;] ma [without]  [parable] tauna [didn’t] pa da hita",
+      "ljpw": [
+        0.5742857142857143,
+        0.5727955182072829,
+        0.5145210084033613,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5866666666666667,
+      "harmony": 0.5325804423592826,
+      "translation_notes": "Primary dimension: Wisdom (0.59)"
+    },
+    "35": {
+      "verse_ref": "Matthew 13:35",
+      "english": "that it might be fulfilled which was spoken through the prophet, saying, “I will open my mouth in parables; I will utter things hidden from the foundation of the world.”",
+      "wedau": "raketana tauna ita  ririweiya aiyai  [spoken] au  peroveta riwa ipa [“i] ina [open] au [mouth] au [parables;] tau ina [utter] [things] [hidden] au  [foundation] ana  [world”]",
+      "ljpw": [
+        0.5037779850746269,
+        0.5677083333333334,
+        0.5947916666666667,
+        0.5579446517412935
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5947916666666667,
+      "harmony": 0.5290031982090271,
+      "translation_notes": "Primary dimension: Power (0.59)"
+    },
+    "36": {
+      "verse_ref": "Matthew 13:36",
+      "english": "Then Jesus sent the multitudes away, and went into the house. His disciples came to him, saying, “Explain to us the parable of the darnel weeds of the field.”",
+      "wedau": "maratagogi Yesu vivohi  [multitudes] [away] ma nae au  numa ana tauvotaghotagho neꞌi da tauna riwa ipa [“explain] da ita  [parable] ana  [darnel] [weeds] ana  [field”]",
+      "ljpw": [
+        0.6002090592334495,
+        0.5619047619047619,
+        0.4805574912891986,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6002090592334495,
+      "harmony": 0.529049394123984,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "37": {
+      "verse_ref": "Matthew 13:37",
+      "english": "He answered them, “He who sows the good seed is the Son of Man,",
+      "wedau": "tauna [answered] hita [“he] aiyai [sows]  [good] [seed]   natuna ana oroto",
+      "ljpw": [
+        0.5574468085106383,
+        0.5,
+        0.45691489361702126,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5574468085106383,
+      "harmony": 0.5011559816857828,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "38": {
+      "verse_ref": "Matthew 13:38",
+      "english": "the field is the world; and the good seed, these are the children of the Kingdom; and the darnel weeds are the children of the evil one.",
+      "wedau": "I  [field]   [world;] ma  [good] [seed] ina   natunatuna ana  [kingdom;] ma  [darnel] [weeds]   natunatuna ana  [evil] [one]",
+      "ljpw": [
+        0.5,
+        0.75,
+        0.85,
+        0.7
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.85,
+      "harmony": 0.6053561034430176,
+      "translation_notes": "Primary dimension: Power (0.85); Strong secondary: Justice"
+    },
+    "39": {
+      "verse_ref": "Matthew 13:39",
+      "english": "The enemy who sowed them is the devil. The harvest is the end of the age, and the reapers are angels.",
+      "wedau": "[enemy] aiyai [sowed] hita   [devil]  [harvest]   [end] ana  [age] ma  [reapers]  aneya",
+      "ljpw": [
+        0.4534065934065934,
+        0.4257142857142857,
+        0.47923076923076924,
+        0.5
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5,
+      "harmony": 0.4825619410389506,
+      "translation_notes": "Primary dimension: Wisdom (0.50); Low harmony verse (distinctive emphasis)"
+    },
+    "40": {
+      "verse_ref": "Matthew 13:40",
+      "english": "As therefore the darnel weeds are gathered up and burned with fire; so will it be at the end of this age.",
+      "wedau": "[therefore]  [darnel] [weeds]  tagogiyehi au ma [burned] maitehi [fire;] yamna ina tauna  au  [end] ana ina [age]",
+      "ljpw": [
+        0.551219512195122,
+        0.5,
+        0.4615853658536585,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.551219512195122,
+      "harmony": 0.5010929822559714,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "41": {
+      "verse_ref": "Matthew 13:41",
+      "english": "The Son of Man will send out his angels, and they will gather out of his Kingdom all things that cause stumbling, and those who do iniquity,",
+      "wedau": "I  natuna ana oroto ina vivohi hopu ana aneya ma tauhi ina [gather] hopu ana ana vibadana anatapuhi [things] raketana [cause] [stumbling] ma raketana aiyai rura [iniquity]",
+      "ljpw": [
+        0.5,
+        0.6666666666666666,
+        0.7333333333333333,
+        0.6333333333333333
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.7333333333333333,
+      "harmony": 0.5705246475944284,
+      "translation_notes": "Primary dimension: Power (0.73); Strong secondary: Justice"
+    },
+    "42": {
+      "verse_ref": "Matthew 13:42",
+      "english": "and will cast them into the furnace of fire. There will be the weeping and the gnashing of teeth.",
+      "wedau": "ma ina [cast] hita au  [furnace] ana [fire] kampa ina   [weeping] ma  [gnashing] ana [teeth]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "43": {
+      "verse_ref": "Matthew 13:43",
+      "english": "Then the righteous will shine like the sun in the Kingdom of their Father. He who has ears to hear, let him hear.",
+      "wedau": "I maratagogi  [righteous] ina [shine] [like]  [sun] au  vibadana ana ahi Tamatei tauna aiyai ana [ears] da [hear] ita tauna [hear]",
+      "ljpw": [
+        0.5130117973629424,
+        0.7213740458015268,
+        0.8001648160999306,
+        0.6770992366412214
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.8001648160999306,
+      "harmony": 0.5961297272883902,
+      "translation_notes": "Primary dimension: Power (0.80); Strong secondary: Justice"
+    },
+    "44": {
+      "verse_ref": "Matthew 13:44",
+      "english": "“Again, the Kingdom of Heaven is like treasure hidden in the field, which a man found, and hid. In his joy, he goes and sells all that he has, and buys that field.",
+      "wedau": "[“again]  vibadana ana marei  [like] [treasure] [hidden] au  [field] aiyai  oroto tuhaghai ma [hid] au ana [joy] tauna nae ma [sells] anatapuhi raketana tauna ana ma [buys] raketana [field]",
+      "ljpw": [
+        0.6059883509282854,
+        0.7744092039800995,
+        0.7559875925251789,
+        0.7682213930348258
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7744092039800995,
+      "harmony": 0.6389145046245898,
+      "translation_notes": "Primary dimension: Justice (0.77); Strong secondary: Wisdom"
+    },
+    "45": {
+      "verse_ref": "Matthew 13:45",
+      "english": "“Again, the Kingdom of Heaven is like a man who is a merchant seeking fine pearls,",
+      "wedau": "[“again]  vibadana ana marei  [like]  oroto aiyai   [merchant] [seeking] [fine] [pearls]",
+      "ljpw": [
+        0.6014515355086372,
+        0.7823096609085092,
+        0.7699936020473448,
+        0.7772032949456174
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7823096609085092,
+      "harmony": 0.6428090591158889,
+      "translation_notes": "Primary dimension: Justice (0.78); Strong secondary: Wisdom"
+    },
+    "46": {
+      "verse_ref": "Matthew 13:46",
+      "english": "who having found one pearl of great price, he went and sold all that he had, and bought it.",
+      "wedau": "aiyai [having] tuhaghai [one] [pearl] ana ghe vavahagha [price] tauna nae ma [sold] anatapuhi raketana tauna ana ma [bought] tauna",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.6
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6,
+      "harmony": 0.5117866509228262,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "47": {
+      "verse_ref": "Matthew 13:47",
+      "english": "“Again, the Kingdom of Heaven is like a dragnet, that was cast into the sea, and gathered some fish of every kind,",
+      "wedau": "[“again]  vibadana ana marei  [like]  [dragnet] raketana  [cast] au  topana ma tagogiyehi ghehauhi [fish] ana anatapuhi [kind]",
+      "ljpw": [
+        0.6063136456211812,
+        0.7995587236931432,
+        0.7864901561439239,
+        0.7928038017651051
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7995587236931432,
+      "harmony": 0.6524781345347568,
+      "translation_notes": "Primary dimension: Justice (0.80); Strong secondary: Wisdom"
+    },
+    "48": {
+      "verse_ref": "Matthew 13:48",
+      "english": "which, when it was filled, they drew up on the beach. They sat down, and gathered the good into containers, but the bad they threw away.",
+      "wedau": "aiyai maranaina tauna  yawahana tauhi [drew] au au  [beach] tauhi [sat] au ma tagogiyehi  [good] au [containers] tuna  [bad] tauhi [threw] [away]",
+      "ljpw": [
+        0.45461224489795915,
+        0.4257142857142857,
+        0.4783265306122449,
+        0.5
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5,
+      "harmony": 0.4826025512326854,
+      "translation_notes": "Primary dimension: Wisdom (0.50); Low harmony verse (distinctive emphasis)"
+    },
+    "49": {
+      "verse_ref": "Matthew 13:49",
+      "english": "So will it be in the end of the world. The angels will come and separate the wicked from among the righteous,",
+      "wedau": "yamna ina tauna  au  [end] ana  dobuna  aneya ina neꞌi ma [separate]  [wicked] au [among]  [righteous]",
+      "ljpw": [
+        0.5024150268336315,
+        0.7358974358974358,
+        0.5884615384615385,
+        0.6498509242695288
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7358974358974358,
+      "harmony": 0.5616139235582859,
+      "translation_notes": "Primary dimension: Justice (0.74); Strong secondary: Wisdom"
+    },
+    "50": {
+      "verse_ref": "Matthew 13:50",
+      "english": "and will cast them into the furnace of fire. There will be the weeping and the gnashing of teeth.”",
+      "wedau": "ma ina [cast] hita au  [furnace] ana [fire] kampa ina   [weeping] ma  [gnashing] ana [teeth”]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "51": {
+      "verse_ref": "Matthew 13:51",
+      "english": "Jesus said to them, “Have you understood all these things?” They answered him, “Yes, Lord.”",
+      "wedau": "Yesu riwa da hita [“have] omi [understood] anatapuhi ina [things?”] tauhi [answered] tauna [“yes] [lord”]",
+      "ljpw": [
+        0.6887286527514231,
+        0.6473118279569893,
+        0.491034155597723,
+        0.7352688172043012
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7352688172043012,
+      "harmony": 0.5740875412979048,
+      "translation_notes": "Primary dimension: Wisdom (0.74); Strong secondary: Love"
+    },
+    "52": {
+      "verse_ref": "Matthew 13:52",
+      "english": "He said to them, “Therefore every scribe who has been made a disciple in the Kingdom of Heaven is like a man who is a householder, who brings out of his treasure new and old things.”",
+      "wedau": "tauna riwa da hita [“therefore] anatapuhi [scribe] aiyai ana  rura  [disciple] au  vibadana ana marei  [like]  oroto aiyai   [householder] aiyai [brings] hopu ana ana [treasure] vouna ma [old] [things”]",
+      "ljpw": [
+        0.6063748160605423,
+        0.7744092039800995,
+        0.7556977436759862,
+        0.7682213930348258
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7744092039800995,
+      "harmony": 0.6389733333270359,
+      "translation_notes": "Primary dimension: Justice (0.77); Strong secondary: Wisdom"
+    },
+    "53": {
+      "verse_ref": "Matthew 13:53",
+      "english": "When Jesus had finished these parables, he departed from there.",
+      "wedau": "maranaina Yesu ana [finished] ina [parables] tauna [departed] au kampa",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6630584192439863
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6630584192439863,
+      "harmony": 0.5449741131137927,
+      "translation_notes": "Primary dimension: Wisdom (0.66)"
+    },
+    "54": {
+      "verse_ref": "Matthew 13:54",
+      "english": "Coming into his own country, he taught them in their synagogue, so that they were astonished, and said, “Where did this man get this wisdom, and these mighty works?",
+      "wedau": "naenae au ana ana [country] tauna viharaharamana hita au ahi pari numana yamna raketana tauhi  [astonished] ma riwa [“where] rura ina oroto varahai ina [wisdom] ma ina [mighty] [works?]",
+      "ljpw": [
+        0.5120630157539385,
+        0.6473118279569893,
+        0.6971892973243311,
+        0.6468817204301075
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.6971892973243311,
+      "harmony": 0.5679148430587178,
+      "translation_notes": "Primary dimension: Power (0.70); Strong secondary: Justice"
+    },
+    "55": {
+      "verse_ref": "Matthew 13:55",
+      "english": "Isn’t this the carpenter’s son? Isn’t his mother called Mary, and his brothers, James, Joses, Simon, and Judas?",
+      "wedau": "[isn’t] ina  [carpenter’s] [son?] [isn’t] ana hinana ghorehi Mary ma ana tevera james [joses] simon ma [judas?]",
+      "ljpw": [
+        0.5047619047619047,
+        0.5,
+        0.5,
+        0.5837092731829574
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5837092731829574,
+      "harmony": 0.5106170818632519,
+      "translation_notes": "Primary dimension: Wisdom (0.58)"
+    },
+    "56": {
+      "verse_ref": "Matthew 13:56",
+      "english": "Aren’t all of his sisters with us? Where then did this man get all of these things?”",
+      "wedau": "[aren’t] anatapuhi ana ana [sisters] maitehi [us?] aiwaꞌi maratagogi rura ina oroto varahai anatapuhi ana ina [things?”]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.6
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6,
+      "harmony": 0.5117866509228262,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "57": {
+      "verse_ref": "Matthew 13:57",
+      "english": "They were offended by him. But Jesus said to them, “A prophet is not without honor, except in his own country, and in his own house.”",
+      "wedau": "tauhi  [offended] au tauna tuna Yesu riwa da hita [“a] peroveta  egha [without] [honor] [except] au ana ana [country] ma au ana ana [house”]",
+      "ljpw": [
+        0.6017821782178218,
+        0.5619047619047619,
+        0.47937765205091937,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6017821782178218,
+      "harmony": 0.5290538359509201,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "58": {
+      "verse_ref": "Matthew 13:58",
+      "english": "He didn’t do many mighty works there because of their unbelief.",
+      "wedau": "tauna [didn’t] rura anatapuhi [mighty] [works] kampa yamna ana ahi [unbelief]",
+      "ljpw": [
+        0.526218487394958,
+        0.5619047619047619,
+        0.5670028011204482,
+        0.5495238095238095
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5670028011204482,
+      "harmony": 0.5268073857624651,
+      "translation_notes": "Primary dimension: Power (0.57)"
+    }
+  }
+}

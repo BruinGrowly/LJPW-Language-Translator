@@ -1,0 +1,50 @@
+[
+  {
+    "verse": "1",
+    "traditional_distances": {
+      "grk_eng": 0.07949077389918614,
+      "grk_wed": 0.16811610058205406,
+      "eng_wed": 0.22317563351230404
+    },
+    "resonance_quality": {
+      "grk_eng": "EXCELLENT - Semantically equivalent under resonance",
+      "grk_wed": "EXCELLENT - Semantically equivalent under resonance"
+    }
+  },
+  {
+    "verse": "11",
+    "traditional_distances": {
+      "grk_eng": 0.38549184062600483,
+      "grk_wed": 0.28331213427756674,
+      "eng_wed": 0.20205992877756535
+    },
+    "resonance_quality": {
+      "grk_eng": "EXCELLENT - Semantically equivalent under resonance",
+      "grk_wed": "EXCELLENT - Semantically equivalent under resonance"
+    }
+  },
+  {
+    "verse": "15",
+    "traditional_distances": {
+      "grk_eng": 0.34238527748423175,
+      "grk_wed": 0.8308018016629641,
+      "eng_wed": 0.8787973792791107
+    },
+    "resonance_quality": {
+      "grk_eng": "EXCELLENT - Semantically equivalent under resonance",
+      "grk_wed": "EXCELLENT - Semantically equivalent under resonance"
+    }
+  },
+  {
+    "verse": "41",
+    "traditional_distances": {
+      "grk_eng": 0.49298502994728494,
+      "grk_wed": 0.25260593127915015,
+      "eng_wed": 0.26751133249753933
+    },
+    "resonance_quality": {
+      "grk_eng": "EXCELLENT - Semantically equivalent under resonance",
+      "grk_wed": "EXCELLENT - Semantically equivalent under resonance"
+    }
+  }
+]

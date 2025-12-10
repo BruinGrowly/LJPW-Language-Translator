@@ -1,0 +1,355 @@
+{
+  "book": "Matthew",
+  "chapter": 2,
+  "source_language": "English",
+  "target_language": "Wedau",
+  "translation_method": "LJPW-Guided Pure Meaning Translation",
+  "timestamp": "2025-12-10T20:04:15.679571",
+  "verses": {
+    "1": {
+      "verse_ref": "Matthew 2:1",
+      "english": "Now when Jesus was born in Bethlehem of Judea in the days of King Herod, behold, wise men from the east came to Jerusalem, saying,",
+      "wedau": "ina marana maranaina Yesu  [born] au [bethlehem] ana judiya au  maratom ana kingi [herod] [behold] [wise] rava au  [east] neꞌi da jerusalem riwa ipa",
+      "ljpw": [
+        0.7773237539290526,
+        0.7213740458015268,
+        0.49124382577458464,
+        0.8099236641221375
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.8099236641221375,
+      "harmony": 0.6061513365466936,
+      "translation_notes": "Primary dimension: Wisdom (0.81); Strong secondary: Love"
+    },
+    "2": {
+      "verse_ref": "Matthew 2:2",
+      "english": "“Where is he who is born King of the Jews? For we saw his star in the east, and have come to worship him.”",
+      "wedau": "[“where]  tauna aiyai  [born] kingi ana  [jews?] yamna ita inana ana [star] au  [east] ma ana neꞌi da [worship] [him”]",
+      "ljpw": [
+        0.5176588628762542,
+        0.5702898550724638,
+        0.5851616499442587,
+        0.5953623188405797
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5953623188405797,
+      "harmony": 0.5353810612025899,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "3": {
+      "verse_ref": "Matthew 2:3",
+      "english": "When King Herod heard it, he was troubled, and all Jerusalem with him.",
+      "wedau": "maranaina kingi [herod] [heard] tauna tauna  [troubled] ma anatapuhi jerusalem maitehi tauna",
+      "ljpw": [
+        0.5281085043988271,
+        0.5651881720430109,
+        0.5740420332355818,
+        0.5935874877810362
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5935874877810362,
+      "harmony": 0.5345205783199694,
+      "translation_notes": "Primary dimension: Wisdom (0.59)"
+    },
+    "4": {
+      "verse_ref": "Matthew 2:4",
+      "english": "Gathering together all the chief priests and scribes of the people, he asked them where the Christ would be born.",
+      "wedau": "[gathering] [together] anatapuhi  [chief] pirisina ma tauviharaharamanahi ana  rava tauna rau-baghei hita aiwaꞌi  Keriso ina  [born]",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "5": {
+      "verse_ref": "Matthew 2:5",
+      "english": "They said to him, “In Bethlehem of Judea, for this is written through the prophet,",
+      "wedau": "tauhi riwa da tauna [“in] [bethlehem] ana judiya yamna ina  [written] au  peroveta",
+      "ljpw": [
+        0.553125,
+        0.5,
+        0.46015625,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.553125,
+      "harmony": 0.5011138788645172,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "6": {
+      "verse_ref": "Matthew 2:6",
+      "english": "‘You Bethlehem, land of Judah, are in no way least among the princes of Judah: for out of you shall come a governor, who shall shepherd my people, Israel.’ ”",
+      "wedau": "[‘you] [bethlehem] [land] ana [judah]  au egha parata [least] [among]  [princes] ana [judah:] yamna hopu ana omi ina neꞌi  [governor] aiyai ina [shepherd] au rava [israel’] [”]",
+      "ljpw": [
+        0.5638655462184875,
+        0.5,
+        0.4602941176470588,
+        0.5109243697478992
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5638655462184875,
+      "harmony": 0.503718359762762,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "7": {
+      "verse_ref": "Matthew 2:7",
+      "english": "Then Herod secretly called the wise men, and learned from them exactly what time the star appeared.",
+      "wedau": "maratagogi [herod] [secretly] ghorehi  [wise] rava ma [learned] au hita [exactly] aiwaꞌi mara  [star] [appeared]",
+      "ljpw": [
+        0.5027065527065527,
+        0.6179487179487179,
+        0.5,
+        0.7386039886039886
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7386039886039886,
+      "harmony": 0.5424290658085418,
+      "translation_notes": "Primary dimension: Wisdom (0.74)"
+    },
+    "8": {
+      "verse_ref": "Matthew 2:8",
+      "english": "He sent them to Bethlehem, and said, “Go and search diligently for the young child. When you have found him, bring me word, so that I also may come and worship him.”",
+      "wedau": "tauna vivohi hita da [bethlehem] ma riwa [“go] ma [search] [diligently] yamna  [young] ghoraghora maranaina omi ana tuhaghai tauna [bring] tau riwana yamna raketana tau maitehi ita neꞌi ma [worship] [him”]",
+      "ljpw": [
+        0.561904761904762,
+        0.5,
+        0.4613095238095238,
+        0.5103174603174604
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.561904761904762,
+      "harmony": 0.5035622387936465,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "9": {
+      "verse_ref": "Matthew 2:9",
+      "english": "They, having heard the king, went their way; and behold, the star, which they saw in the east, went before them, until it came and stood over where the young child was.",
+      "wedau": "tauhi [having] [heard]  kingi nae ahi [way;] ma [behold]  [star] aiyai tauhi inana au  [east] nae naona hita [until] tauna neꞌi ma [stood] au aiwaꞌi  [young] ghoraghora",
+      "ljpw": [
+        0.5283056478405316,
+        0.5619047619047619,
+        0.565437430786268,
+        0.5495238095238095
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.565437430786268,
+      "harmony": 0.5269024771172033,
+      "translation_notes": "Primary dimension: Power (0.57)"
+    },
+    "10": {
+      "verse_ref": "Matthew 2:10",
+      "english": "When they saw the star, they rejoiced with exceedingly great joy.",
+      "wedau": "maranaina tauhi inana  [star] tauhi [rejoiced] maitehi [exceedingly] ghe vavahagha [joy]",
+      "ljpw": [
+        0.532345013477089,
+        0.5,
+        0.4757412398921833,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094441721428999,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "11": {
+      "verse_ref": "Matthew 2:11",
+      "english": "They came into the house and saw the young child with Mary, his mother, and they fell down and worshiped him. Opening their treasures, they offered to him gifts: gold, frankincense, and myrrh.",
+      "wedau": "tauhi neꞌi au  numa ma inana  [young] ghoraghora maitehi Mary ana hinana ma tauhi [fell] au ma [worshiped] tauna [opening] ahi [treasures] tauhi [offered] da tauna [gifts:] [gold] [frankincense] ma [myrrh]",
+      "ljpw": [
+        0.5105263157894737,
+        0.5,
+        0.5,
+        0.5105263157894737
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5105263157894737,
+      "harmony": 0.5026313571671494,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "12": {
+      "verse_ref": "Matthew 2:12",
+      "english": "Being warned in a dream not to return to Herod, they went back to their own country another way.",
+      "wedau": "[warned] au  [dream] egha da [return] da [herod] tauhi nae [back] da ahi ana [country] [another] parata",
+      "ljpw": [
+        0.5631578947368421,
+        0.5,
+        0.46151315789473685,
+        0.5118421052631579
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5631578947368421,
+      "harmony": 0.5039237103521169,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "13": {
+      "verse_ref": "Matthew 2:13",
+      "english": "Now when they had departed, behold, an angel of the Lord appeared to Joseph in a dream, saying, “Arise and take the young child and his mother, and flee into Egypt, and stay there until I tell you, for Herod will seek the young child to destroy him.”",
+      "wedau": "ina marana maranaina tauhi ana [departed] [behold] [an] [angel] ana  Guyau [appeared] da Joseph au  [dream] riwa ipa [“arise] ma varahai  [young] ghoraghora ma ana hinana ma [flee] au [egypt] ma [stay] kampa [until] tau riwehi omi yamna [herod] ina [seek]  [young] ghoraghora da rau-iviꞌapoapoyeꞌai [him”]",
+      "ljpw": [
+        0.60039970392302,
+        0.5619047619047619,
+        0.4804145077720207,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.60039970392302,
+      "harmony": 0.5290499971584227,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "14": {
+      "verse_ref": "Matthew 2:14",
+      "english": "He arose and took the young child and his mother by night, and departed into Egypt,",
+      "wedau": "tauna [arose] ma varahai  [young] ghoraghora ma ana hinana au diedie ma [departed] au [egypt]",
+      "ljpw": [
+        0.5,
+        0.5227272727272727,
+        0.5303030303030303,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5303030303030303,
+      "harmony": 0.5066213854495861,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "15": {
+      "verse_ref": "Matthew 2:15",
+      "english": "and was there until the death of Herod; that it might be fulfilled which was spoken by the Lord through the prophet, saying, “Out of Egypt I called my son.”",
+      "wedau": "ma  kampa [until]  mate ana [herod;] raketana tauna ita  ririweiya aiyai  [spoken] au  Guyau au  peroveta riwa ipa [“out] ana [egypt] tau ghorehi au [son”]",
+      "ljpw": [
+        0.6672727272727271,
+        0.6456824442774856,
+        0.5083846731780616,
+        0.6951515151515151
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6951515151515151,
+      "harmony": 0.569619738037198,
+      "translation_notes": "Primary dimension: Wisdom (0.70); Strong secondary: Love"
+    },
+    "16": {
+      "verse_ref": "Matthew 2:16",
+      "english": "Then Herod, when he saw that he was mocked by the wise men, was exceedingly angry, and sent out, and killed all the male children who were in Bethlehem and in all the surrounding countryside, from two years old and under, according to the exact time which he had learned from the wise men.",
+      "wedau": "maratagogi [herod] maranaina tauna inana raketana tauna  [mocked] au  [wise] rava  [exceedingly] [angry] ma vivohi hopu ma [killed] anatapuhi  [male] natunatuna aiyai  au [bethlehem] ma au anatapuhi  [surrounding] [countryside] au [two] [years] [old] ma au [according] da  [exact] mara aiyai tauna ana [learned] au  [wise] rava",
+      "ljpw": [
+        0.5280393380059447,
+        0.6030812324929972,
+        0.48290888407764854,
+        0.7114136484288038
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7114136484288038,
+      "harmony": 0.5390951694991044,
+      "translation_notes": "Primary dimension: Wisdom (0.71)"
+    },
+    "17": {
+      "verse_ref": "Matthew 2:17",
+      "english": "Then that which was spoken by Jeremiah the prophet was fulfilled, saying,",
+      "wedau": "maratagogi raketana aiyai  [spoken] au [jeremiah]  peroveta  ririweiya riwa ipa",
+      "ljpw": [
+        0.5516666666666667,
+        0.5,
+        0.46125,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5516666666666667,
+      "harmony": 0.50109801416645,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "18": {
+      "verse_ref": "Matthew 2:18",
+      "english": "“A voice was heard in Ramah, lamentation, weeping and great mourning, Rachel weeping for her children; she wouldn’t be comforted, because they are no more.”",
+      "wedau": "[“a] ponana  [heard] au [ramah] [lamentation] [weeping] ma ghe vavahagha nuwanuwaboyei [rachel] [weeping] yamna ana [children;] tauna [wouldn’t]  paꞌini yamna tauhi  egha [more”]",
+      "ljpw": [
+        0.5630081300813008,
+        0.5,
+        0.4621951219512195,
+        0.5126016260162601
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5630081300813008,
+      "harmony": 0.5040971868107226,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "19": {
+      "verse_ref": "Matthew 2:19",
+      "english": "But when Herod was dead, behold, an angel of the Lord appeared in a dream to Joseph in Egypt, saying,",
+      "wedau": "tuna maranaina [herod]  [dead] [behold] [an] [angel] ana  Guyau [appeared] au  [dream] da Joseph au [egypt] riwa ipa",
+      "ljpw": [
+        0.5742857142857143,
+        0.5717948717948718,
+        0.5131868131868131,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5866666666666667,
+      "harmony": 0.532232974590759,
+      "translation_notes": "Primary dimension: Wisdom (0.59)"
+    },
+    "20": {
+      "verse_ref": "Matthew 2:20",
+      "english": "“Arise and take the young child and his mother, and go into the land of Israel, for those who sought the young child’s life are dead.”",
+      "wedau": "[“arise] ma varahai  [young] ghoraghora ma ana hinana ma nae au  [land] ana [israel] yamna raketana aiyai [sought]  [young] [child’s] yawahana  [dead”]",
+      "ljpw": [
+        0.5514563106796116,
+        0.5,
+        0.46140776699029123,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5514563106796116,
+      "harmony": 0.5010956567816255,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "21": {
+      "verse_ref": "Matthew 2:21",
+      "english": "He arose and took the young child and his mother, and came into the land of Israel.",
+      "wedau": "tauna [arose] ma varahai  [young] ghoraghora ma ana hinana ma neꞌi au  [land] ana [israel]",
+      "ljpw": [
+        0.5615384615384615,
+        0.5,
+        0.46192307692307694,
+        0.5107692307692308
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5615384615384615,
+      "harmony": 0.503662826008968,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "22": {
+      "verse_ref": "Matthew 2:22",
+      "english": "But when he heard that Archelaus was reigning over Judea in the place of his father, Herod, he was afraid to go there. Being warned in a dream, he withdrew into the region of Galilee,",
+      "wedau": "tuna maranaina tauna [heard] raketana [archelaus]  [reigning] au judiya au  gabu ana ana Tamatei [herod] tauna  [afraid] da nae kampa  [warned] au  [dream] tauna [withdrew] au  [region] ana galili",
+      "ljpw": [
+        0.5285714285714286,
+        0.5619047619047619,
+        0.5652380952380952,
+        0.5495238095238095
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5652380952380952,
+      "harmony": 0.5269144401182283,
+      "translation_notes": "Primary dimension: Power (0.57)"
+    },
+    "23": {
+      "verse_ref": "Matthew 2:23",
+      "english": "and came and lived in a city called Nazareth; that it might be fulfilled which was spoken through the prophets that he will be called a Nazarene.",
+      "wedau": "ma neꞌi ma [lived] au  meyagaihi ghorehi [nazareth;] raketana tauna ita  ririweiya aiyai  [spoken] au  peroveta raketana tauna ina  ghorehi  nasaretei",
+      "ljpw": [
+        0.5,
+        0.5833333333333334,
+        0.6166666666666667,
+        0.5666666666666667
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.534524006175688,
+      "translation_notes": "Primary dimension: Power (0.62)"
+    }
+  }
+}

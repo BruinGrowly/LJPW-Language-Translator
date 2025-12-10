@@ -1,0 +1,265 @@
+{
+  "book": "Matthew",
+  "chapter": 3,
+  "source_language": "English",
+  "target_language": "Wedau",
+  "translation_method": "LJPW-Guided Pure Meaning Translation",
+  "timestamp": "2025-12-10T20:04:15.682020",
+  "verses": {
+    "1": {
+      "verse_ref": "Matthew 3:1",
+      "english": "In those days, John the Baptizer came, preaching in the wilderness of Judea, saying,",
+      "wedau": "au raketana maratom john  [baptizer] neꞌi rau-guguyei au  mutuyuwa ana judiya riwa ipa",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "2": {
+      "verse_ref": "Matthew 3:2",
+      "english": "“Repent, for the Kingdom of Heaven is at hand!”",
+      "wedau": "[“repent] yamna  vibadana ana marei  au [hand!”]",
+      "ljpw": [
+        0.6063136456211812,
+        0.7995587236931432,
+        0.7864901561439239,
+        0.7928038017651051
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7995587236931432,
+      "harmony": 0.6524781345347568,
+      "translation_notes": "Primary dimension: Justice (0.80); Strong secondary: Wisdom"
+    },
+    "3": {
+      "verse_ref": "Matthew 3:3",
+      "english": "For this is he who was spoken of by Isaiah the prophet, saying, “The voice of one crying in the wilderness, make the way of the Lord ready! Make his paths straight!”",
+      "wedau": "yamna ina  tauna aiyai  [spoken] ana au aisaiya  peroveta riwa ipa [“the] ponana ana [one] [crying] au  mutuyuwa rura  parata ana  Guyau [ready!] rura ana [paths] [straight!”]",
+      "ljpw": [
+        0.601822272215973,
+        0.5619047619047619,
+        0.47934758155230595,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.601822272215973,
+      "harmony": 0.5290539332727792,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "4": {
+      "verse_ref": "Matthew 3:4",
+      "english": "Now John himself wore clothing made of camel’s hair, with a leather belt around his waist. His food was locusts and wild honey.",
+      "wedau": "ina marana john [himself] [wore] [clothing] rura ana [camel’s] aparana maitehi  opina tairoro [around] ana ghamoghamo ana [food]  kapaꞌu ma moduwei tawaya",
+      "ljpw": [
+        0.5524752475247525,
+        0.5,
+        0.4606435643564356,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5524752475247525,
+      "harmony": 0.5011069137111853,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "5": {
+      "verse_ref": "Matthew 3:5",
+      "english": "Then people from Jerusalem, all of Judea, and all the region around the Jordan went out to him.",
+      "wedau": "maratagogi rava au jerusalem anatapuhi ana judiya ma anatapuhi  [region] [around]  jordan nae hopu da tauna",
+      "ljpw": [
+        0.5133333333333333,
+        0.5,
+        0.5,
+        0.5133333333333333
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5133333333333333,
+      "harmony": 0.5033328809221849,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "6": {
+      "verse_ref": "Matthew 3:6",
+      "english": "They were baptized by him in the Jordan, confessing their sins.",
+      "wedau": "tauhi  babataitoi au tauna au  jordan hivi heghai ahi ghohaꞌapoapoe",
+      "ljpw": [
+        0.4,
+        0.4,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5,
+      "harmony": 0.47516409872148213,
+      "translation_notes": "Primary dimension: Power (0.50); Low harmony verse (distinctive emphasis)"
+    },
+    "7": {
+      "verse_ref": "Matthew 3:7",
+      "english": "But when he saw many of the Pharisees and Sadducees coming for his baptism, he said to them, “You offspring of vipers, who warned you to flee from the wrath to come?",
+      "wedau": "tuna maranaina tauna inana anatapuhi ana  [pharisees] ma [sadducees] naenae yamna ana [baptism] tauna riwa da hita [“you] [offspring] ana [vipers] aiyai [warned] omi da [flee] au  [wrath] da [come?]",
+      "ljpw": [
+        0.5292358803986711,
+        0.5,
+        0.4780730897009967,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5093797553319567,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "8": {
+      "verse_ref": "Matthew 3:8",
+      "english": "Therefore produce fruit worthy of repentance!",
+      "wedau": "[therefore] [produce] [fruit] tagotagogiu ana [repentance!]",
+      "ljpw": [
+        0.5102564102564103,
+        0.5,
+        0.5,
+        0.5102564102564103
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5102564102564103,
+      "harmony": 0.5025638974839433,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "9": {
+      "verse_ref": "Matthew 3:9",
+      "english": "Don’t think to yourselves, ‘We have Abraham for our father,’ for I tell you that God is able to raise up children to Abraham from these stones.",
+      "wedau": "[don’t] [think] da [yourselves] [‘we] ana Abraham yamna ahi [father’] yamna tau riwehi omi raketana God  [able] da [raise] au natunatuna da Abraham au ina [stones]",
+      "ljpw": [
+        0.6000000000000001,
+        0.6342767295597485,
+        0.5764150943396227,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.6342767295597485,
+      "harmony": 0.5594473402588035,
+      "translation_notes": "Primary dimension: Justice (0.63); Strong secondary: Wisdom"
+    },
+    "10": {
+      "verse_ref": "Matthew 3:10",
+      "english": "“Even now the ax lies at the root of the trees. Therefore every tree that doesn’t produce good fruit is cut down, and cast into the fire.",
+      "wedau": "[“even] ina marana  [ax] [lies] au  [root] ana  [trees] [therefore] anatapuhi [tree] raketana [doesn’t] [produce] [good] [fruit]  [cut] au ma [cast] au  [fire]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "11": {
+      "verse_ref": "Matthew 3:11",
+      "english": "I indeed baptize you in water for repentance, but he who comes after me is mightier than I, whose sandals I am not worthy to carry. He will baptize you in the Holy Spirit.",
+      "wedau": "tau [indeed] [baptize] omi au waira yamna [repentance] tuna tauna aiyai neꞌi muriyai tau  vavahagha da tau [whose] ghuravana tau [am] egha tagotagogiu da [carry] tauna ina [baptize] omi au  [holy] aruwa",
+      "ljpw": [
+        0.866568533479392,
+        0.8126146788990827,
+        0.5742708475968781,
+        0.8857798165137615
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.8857798165137615,
+      "harmony": 0.6679130183560505,
+      "translation_notes": "Primary dimension: Wisdom (0.89); Strong secondary: Love"
+    },
+    "12": {
+      "verse_ref": "Matthew 3:12",
+      "english": "His winnowing fork is in his hand, and he will thoroughly cleanse his threshing floor. He will gather his wheat into the barn, but the chaff he will burn up with unquenchable fire.”",
+      "wedau": "ana [winnowing] [fork]  au ana nimana ma tauna ina [thoroughly] [cleanse] ana [threshing] [floor] tauna ina [gather] ana [wheat] au  [barn] tuna  [chaff] tauna ina [burn] au maitehi [unquenchable] [fire”]",
+      "ljpw": [
+        0.5635416666666667,
+        0.5,
+        0.46041666666666664,
+        0.5107638888888889
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5635416666666667,
+      "harmony": 0.5036787894882215,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "13": {
+      "verse_ref": "Matthew 3:13",
+      "english": "Then Jesus came from Galilee to the Jordan to John, to be baptized by him.",
+      "wedau": "maratagogi Yesu neꞌi au galili da  jordan da john da  babataitoi au tauna",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "14": {
+      "verse_ref": "Matthew 3:14",
+      "english": "But John would have hindered him, saying, “I need to be baptized by you, and you come to me?”",
+      "wedau": "tuna john ina ana [hindered] tauna riwa ipa [“i] [need] da  babataitoi au omi ma omi neꞌi da [me?”]",
+      "ljpw": [
+        0.5314699792960662,
+        0.5,
+        0.4763975155279503,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094264509366379,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "15": {
+      "verse_ref": "Matthew 3:15",
+      "english": "But Jesus, answering, said to him, “Allow it now, for this is the fitting way for us to fulfill all righteousness.” Then he allowed him.",
+      "wedau": "tuna Yesu [answering] riwa da tauna [“allow] tauna ina marana yamna ina   [fitting] parata yamna ita da [fulfill] anatapuhi [righteousness”] maratagogi tauna [allowed] tauna",
+      "ljpw": [
+        0.5016025641025641,
+        0.8682539682539682,
+        0.638095238095238,
+        0.7317612942612942
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.8682539682539682,
+      "harmony": 0.59361094590306,
+      "translation_notes": "Primary dimension: Justice (0.87)"
+    },
+    "16": {
+      "verse_ref": "Matthew 3:16",
+      "english": "Jesus, when he was baptized, went up directly from the water: and behold, the heavens were opened to him. He saw the Spirit of God descending as a dove, and coming on him.",
+      "wedau": "Yesu maranaina tauna  babataitoi nae au [directly] au  [water:] ma [behold]  marei  wana-tawaneꞌi da tauna tauna inana  aruwa ana God [descending]   gabubu ma naenae au tauna",
+      "ljpw": [
+        0.8,
+        0.75,
+        0.5,
+        0.85
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.85,
+      "harmony": 0.6202041028867288,
+      "translation_notes": "Primary dimension: Wisdom (0.85); Strong secondary: Love"
+    },
+    "17": {
+      "verse_ref": "Matthew 3:17",
+      "english": "Behold, a voice out of the heavens said, “This is my beloved Son, with whom I am well pleased.”",
+      "wedau": "[behold]  ponana hopu ana  marei riwa [“this]  au [beloved] natuna maitehi aiyai tau [am] ahiahina [pleased”]",
+      "ljpw": [
+        0.6272971160295104,
+        0.5,
+        0.4416700201207243,
+        0.5495238095238095
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6272971160295104,
+      "harmony": 0.5126726903675755,
+      "translation_notes": "Primary dimension: Love (0.63)"
+    }
+  }
+}

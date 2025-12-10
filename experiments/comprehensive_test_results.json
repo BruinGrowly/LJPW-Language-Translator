@@ -1,0 +1,499 @@
+{
+  "pair_tests": {
+    "Greek-English": {
+      "pair": "Greek-English",
+      "total_verses": 45,
+      "passed_euclidean": 1,
+      "passed_resonance": 45,
+      "euclidean_mean": 0.3684618578058287,
+      "euclidean_max": 0.5637506197410189,
+      "euclidean_min": 0.07949077389918614,
+      "euclidean_std": 0.11987103428104424,
+      "convergence_mean": 0.0,
+      "dimension_analysis": {
+        "L": {
+          "mean_diff": 0.18674427908583954,
+          "max_diff": 0.4260715160421259,
+          "std": 0.08096121972179865
+        },
+        "J": {
+          "mean_diff": 0.16183733454563495,
+          "max_diff": 0.30624999999999997,
+          "std": 0.07949480760253744
+        },
+        "P": {
+          "mean_diff": 0.15968920817064497,
+          "max_diff": 0.2632465624015954,
+          "std": 0.067171686359616
+        },
+        "W": {
+          "mean_diff": 0.1968114150470279,
+          "max_diff": 0.3359417095273085,
+          "std": 0.08629543215734417
+        }
+      }
+    },
+    "Greek-Spanish": {
+      "pair": "Greek-Spanish",
+      "total_verses": 45,
+      "passed_euclidean": 0,
+      "passed_resonance": 45,
+      "euclidean_mean": 0.27578390489385274,
+      "euclidean_max": 0.38933697954196733,
+      "euclidean_min": 0.1286620130157976,
+      "euclidean_std": 0.06623973815487198,
+      "convergence_mean": 0.0,
+      "dimension_analysis": {
+        "L": {
+          "mean_diff": 0.13445565930448206,
+          "max_diff": 0.3198382925024268,
+          "std": 0.06600293489136637
+        },
+        "J": {
+          "mean_diff": 0.08852354487864661,
+          "max_diff": 0.18724489795918353,
+          "std": 0.03990307093533651
+        },
+        "P": {
+          "mean_diff": 0.16555359218156054,
+          "max_diff": 0.20000000000000007,
+          "std": 0.05101537154625454
+        },
+        "W": {
+          "mean_diff": 0.12793590923448012,
+          "max_diff": 0.17660349854227408,
+          "std": 0.04693531099528857
+        }
+      }
+    },
+    "Greek-Chinese": {
+      "pair": "Greek-Chinese",
+      "total_verses": 45,
+      "passed_euclidean": 0,
+      "passed_resonance": 45,
+      "euclidean_mean": 0.2000914259112567,
+      "euclidean_max": 0.4452266387486745,
+      "euclidean_min": 0.11595332945062531,
+      "euclidean_std": 0.051496701043857146,
+      "convergence_mean": 0.0,
+      "dimension_analysis": {
+        "L": {
+          "mean_diff": 0.0871224598342652,
+          "max_diff": 0.2716217642027149,
+          "std": 0.06761710255665959
+        },
+        "J": {
+          "mean_diff": 0.0780326344926242,
+          "max_diff": 0.28005902192242826,
+          "std": 0.04561068743884782
+        },
+        "P": {
+          "mean_diff": 0.1319703047209212,
+          "max_diff": 0.18158096699923265,
+          "std": 0.04565570777535359
+        },
+        "W": {
+          "mean_diff": 0.04134304295787071,
+          "max_diff": 0.13840640809443505,
+          "std": 0.033864647344213517
+        }
+      }
+    },
+    "Greek-Wedau": {
+      "pair": "Greek-Wedau",
+      "total_verses": 45,
+      "passed_euclidean": 0,
+      "passed_resonance": 45,
+      "euclidean_mean": 0.30731681974859143,
+      "euclidean_max": 0.8308018016629641,
+      "euclidean_min": 0.14769339262808326,
+      "euclidean_std": 0.1357291767439514,
+      "convergence_mean": 0.0,
+      "dimension_analysis": {
+        "L": {
+          "mean_diff": 0.12187850212486168,
+          "max_diff": 0.5772523797123108,
+          "std": 0.11146521431929317
+        },
+        "J": {
+          "mean_diff": 0.11590655901613639,
+          "max_diff": 0.524123016117845,
+          "std": 0.10264294700246274
+        },
+        "P": {
+          "mean_diff": 0.1799218561705093,
+          "max_diff": 0.2576261110987105,
+          "std": 0.05523577789061727
+        },
+        "W": {
+          "mean_diff": 0.1353667256029554,
+          "max_diff": 0.3359417095273085,
+          "std": 0.08871444615581378
+        }
+      }
+    },
+    "English-Spanish": {
+      "pair": "English-Spanish",
+      "total_verses": 45,
+      "passed_euclidean": 14,
+      "passed_resonance": 45,
+      "euclidean_mean": 0.15993711426327137,
+      "euclidean_max": 0.45101689253932553,
+      "euclidean_min": 0.025082470369931775,
+      "euclidean_std": 0.0871707757560229,
+      "convergence_mean": 0.0,
+      "dimension_analysis": {
+        "L": {
+          "mean_diff": 0.0651162916848993,
+          "max_diff": 0.26179985102381476,
+          "std": 0.05496915013262483
+        },
+        "J": {
+          "mean_diff": 0.08968435535298626,
+          "max_diff": 0.20625,
+          "std": 0.053420913694668115
+        },
+        "P": {
+          "mean_diff": 0.04046520050516353,
+          "max_diff": 0.3928571428571428,
+          "std": 0.07138057466052028
+        },
+        "W": {
+          "mean_diff": 0.07983153035013202,
+          "max_diff": 0.16914480077745386,
+          "std": 0.04375061155899969
+        }
+      }
+    },
+    "English-Chinese": {
+      "pair": "English-Chinese",
+      "total_verses": 45,
+      "passed_euclidean": 1,
+      "passed_resonance": 45,
+      "euclidean_mean": 0.2773831750748444,
+      "euclidean_max": 0.49272979976637354,
+      "euclidean_min": 0.02979884858262797,
+      "euclidean_std": 0.09981861671273537,
+      "convergence_mean": 0.0,
+      "dimension_analysis": {
+        "L": {
+          "mean_diff": 0.13205241985004912,
+          "max_diff": 0.275,
+          "std": 0.06367606846019287
+        },
+        "J": {
+          "mean_diff": 0.1111894095058054,
+          "max_diff": 0.245,
+          "std": 0.05972158909592672
+        },
+        "P": {
+          "mean_diff": 0.06797025844676055,
+          "max_diff": 0.3744381098563754,
+          "std": 0.06679299559449323
+        },
+        "W": {
+          "mean_diff": 0.1828267994664873,
+          "max_diff": 0.3427862307871038,
+          "std": 0.08352273275514842
+        }
+      }
+    },
+    "English-Wedau": {
+      "pair": "English-Wedau",
+      "total_verses": 45,
+      "passed_euclidean": 6,
+      "passed_resonance": 45,
+      "euclidean_mean": 0.24662814220652826,
+      "euclidean_max": 0.8787973792791107,
+      "euclidean_min": 0.00040280059837654035,
+      "euclidean_std": 0.16156681505418027,
+      "convergence_mean": 0.0,
+      "dimension_analysis": {
+        "L": {
+          "mean_diff": 0.13008339338938163,
+          "max_diff": 0.36365206414528556,
+          "std": 0.08653945739506572
+        },
+        "J": {
+          "mean_diff": 0.1256490689900064,
+          "max_diff": 0.6227917121046891,
+          "std": 0.10890204681524138
+        },
+        "P": {
+          "mean_diff": 0.04766216061990502,
+          "max_diff": 0.4039570026483875,
+          "std": 0.07974544887470694
+        },
+        "W": {
+          "mean_diff": 0.13320393638961037,
+          "max_diff": 0.3285714285714285,
+          "std": 0.09217840394359357
+        }
+      }
+    },
+    "Spanish-Chinese": {
+      "pair": "Spanish-Chinese",
+      "total_verses": 45,
+      "passed_euclidean": 9,
+      "passed_resonance": 45,
+      "euclidean_mean": 0.16089723485848947,
+      "euclidean_max": 0.2994864244938194,
+      "euclidean_min": 0.027045422093879418,
+      "euclidean_std": 0.06855326545695392,
+      "convergence_mean": 0.0,
+      "dimension_analysis": {
+        "L": {
+          "mean_diff": 0.08026050695962259,
+          "max_diff": 0.21166588166190137,
+          "std": 0.05130187843436214
+        },
+        "J": {
+          "mean_diff": 0.04273925313866108,
+          "max_diff": 0.1800590219224283,
+          "std": 0.04091306750245818
+        },
+        "P": {
+          "mean_diff": 0.044126082134370706,
+          "max_diff": 0.19694164695809246,
+          "std": 0.036045976482764475
+        },
+        "W": {
+          "mean_diff": 0.10818099048373367,
+          "max_diff": 0.1866034985422741,
+          "std": 0.05535129251545674
+        }
+      }
+    },
+    "Spanish-Wedau": {
+      "pair": "Spanish-Wedau",
+      "total_verses": 45,
+      "passed_euclidean": 17,
+      "passed_resonance": 45,
+      "euclidean_mean": 0.17932578006736963,
+      "euclidean_max": 0.8103249010898128,
+      "euclidean_min": 0.01705693148547116,
+      "euclidean_std": 0.1457526349975837,
+      "convergence_mean": 0.0,
+      "dimension_analysis": {
+        "L": {
+          "mean_diff": 0.09855064256290412,
+          "max_diff": 0.5304608428973474,
+          "std": 0.1025269884934728
+        },
+        "J": {
+          "mean_diff": 0.0906837736722575,
+          "max_diff": 0.5156488549618321,
+          "std": 0.0898722665054166
+        },
+        "P": {
+          "mean_diff": 0.015266378951162826,
+          "max_diff": 0.11891903102704499,
+          "std": 0.023180350879951118
+        },
+        "W": {
+          "mean_diff": 0.10029183365933621,
+          "max_diff": 0.3304856895056375,
+          "std": 0.07776978526520137
+        }
+      }
+    },
+    "Chinese-Wedau": {
+      "pair": "Chinese-Wedau",
+      "total_verses": 45,
+      "passed_euclidean": 14,
+      "passed_resonance": 45,
+      "euclidean_mean": 0.20074553909923118,
+      "euclidean_max": 0.8070342702317376,
+      "euclidean_min": 0.0300808585974649,
+      "euclidean_std": 0.16174874020863586,
+      "convergence_mean": 0.0,
+      "dimension_analysis": {
+        "L": {
+          "mean_diff": 0.0837754883174703,
+          "max_diff": 0.5289764402184276,
+          "std": 0.10751787621926397
+        },
+        "J": {
+          "mean_diff": 0.08533891792059461,
+          "max_diff": 0.49607863239851663,
+          "std": 0.10634271601013523
+        },
+        "P": {
+          "mean_diff": 0.05927994350466153,
+          "max_diff": 0.31586067798513745,
+          "std": 0.05334468497980618
+        },
+        "W": {
+          "mean_diff": 0.12338549966573369,
+          "max_diff": 0.3528779739063699,
+          "std": 0.0877937780952985
+        }
+      }
+    }
+  },
+  "edge_cases": {
+    "lowest_harmony": [
+      {
+        "verse": "44",
+        "language": "Wedau",
+        "harmony": 0.436876542475573,
+        "coords": [
+          0.24881913632981512,
+          0.23435114503816795,
+          0.48914900653126464,
+          0.5
+        ]
+      },
+      {
+        "verse": "15",
+        "language": "Wedau",
+        "harmony": 0.43689461436023547,
+        "coords": [
+          0.24915095809316096,
+          0.23435114503816795,
+          0.4889001402087553,
+          0.5
+        ]
+      },
+      {
+        "verse": "44",
+        "language": "English",
+        "harmony": 0.47516409872148213,
+        "coords": [
+          0.4,
+          0.4,
+          0.5,
+          0.5
+        ]
+      },
+      {
+        "verse": "4",
+        "language": "English",
+        "harmony": 0.4807291636699155,
+        "coords": [
+          0.42289473684210527,
+          0.41875,
+          0.5,
+          0.5041447368421053
+        ]
+      },
+      {
+        "verse": "13",
+        "language": "English",
+        "harmony": 0.480734197823132,
+        "coords": [
+          0.4229166666666667,
+          0.41875,
+          0.5,
+          0.5041666666666667
+        ]
+      }
+    ],
+    "highest_harmony": [
+      {
+        "verse": "2",
+        "language": "Greek",
+        "harmony": 0.6707146208752207,
+        "coords": [
+          0.836088379705401,
+          0.7981178396072013,
+          0.5962356792144026,
+          0.8981178396072014
+        ]
+      },
+      {
+        "verse": "14",
+        "language": "Greek",
+        "harmony": 0.6707146208752207,
+        "coords": [
+          0.836088379705401,
+          0.7981178396072013,
+          0.5962356792144026,
+          0.8981178396072014
+        ]
+      },
+      {
+        "verse": "24",
+        "language": "Greek",
+        "harmony": 0.6707146208752207,
+        "coords": [
+          0.836088379705401,
+          0.7981178396072013,
+          0.5962356792144026,
+          0.8981178396072014
+        ]
+      },
+      {
+        "verse": "15",
+        "language": "English",
+        "harmony": 0.6744882127235805,
+        "coords": [
+          0.5857142857142856,
+          0.8571428571428571,
+          0.8928571428571428,
+          0.8285714285714285
+        ]
+      },
+      {
+        "verse": "1",
+        "language": "English",
+        "harmony": 0.6844992970494337,
+        "coords": [
+          0.8857142857142857,
+          0.8571428571428571,
+          0.5857142857142856,
+          0.9142857142857141
+        ]
+      }
+    ],
+    "harmony_range": {
+      "min": 0.436876542475573,
+      "max": 0.6844992970494337
+    }
+  },
+  "stress_test": {
+    "verse": "15",
+    "euclidean_distance": 0.8308018016629641,
+    "cycle_results": {
+      "100": {
+        "convergence": 0.0,
+        "same_attractor": true,
+        "quality": "EXCELLENT - Semantically equivalent under resonance"
+      },
+      "1000": {
+        "convergence": 0.0,
+        "same_attractor": true,
+        "quality": "EXCELLENT - Semantically equivalent under resonance"
+      },
+      "5000": {
+        "convergence": 0.0,
+        "same_attractor": true,
+        "quality": "EXCELLENT - Semantically equivalent under resonance"
+      },
+      "10000": {
+        "convergence": 0.0,
+        "same_attractor": true,
+        "quality": "EXCELLENT - Semantically equivalent under resonance"
+      }
+    }
+  },
+  "summary": {
+    "timestamp": "2025-12-10T19:18:58.520372",
+    "languages_tested": [
+      "Greek",
+      "English",
+      "Spanish",
+      "Chinese",
+      "Wedau"
+    ],
+    "language_pairs": 10,
+    "total_verse_comparisons": 450,
+    "euclidean_passed": 62,
+    "resonance_passed": 450,
+    "euclidean_pass_rate": "13.8%",
+    "resonance_pass_rate": "100.0%",
+    "avg_euclidean": 0.23765709939292634,
+    "max_euclidean": 0.8787973792791107,
+    "conclusion": "VALIDATED"
+  }
+}

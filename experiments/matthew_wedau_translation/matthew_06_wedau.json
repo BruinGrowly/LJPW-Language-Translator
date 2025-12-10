@@ -1,0 +1,520 @@
+{
+  "book": "Matthew",
+  "chapter": 6,
+  "source_language": "English",
+  "target_language": "Wedau",
+  "translation_method": "LJPW-Guided Pure Meaning Translation",
+  "timestamp": "2025-12-10T20:04:15.692875",
+  "verses": {
+    "1": {
+      "verse_ref": "Matthew 6:1",
+      "english": "“Be careful that you don’t do your charitable giving before men, to be seen by them, or else you have no reward from your Father who is in heaven.",
+      "wedau": "[“be] [careful] raketana omi [don’t] rura ami [charitable] [giving] naona rava da  inana au hita bo [else] omi ana egha puyona au ami Tamatei aiyai  au marei",
+      "ljpw": [
+        0.6316194316866435,
+        0.5,
+        0.43941413688809233,
+        0.5508382808707666
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6316194316866435,
+      "harmony": 0.5129303216233463,
+      "translation_notes": "Primary dimension: Love (0.63)"
+    },
+    "2": {
+      "verse_ref": "Matthew 6:2",
+      "english": "Therefore when you do merciful deeds, don’t sound a trumpet before yourself, as the hypocrites do in the synagogues and in the streets, that they may get glory from men. Most certainly I tell you, they have received their reward.",
+      "wedau": "[therefore] maranaina omi rura nuwaboyei [deeds] [don’t] [sound]  [trumpet] naona [yourself]   [hypocrites] rura au  pari numana ma au  [streets] raketana tauhi ita varahai [glory] au rava anatapuhi [certainly] tau riwehi omi tauhi ana [received] ahi puyona",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "3": {
+      "verse_ref": "Matthew 6:3",
+      "english": "But when you do merciful deeds, don’t let your left hand know what your right hand does,",
+      "wedau": "tuna maranaina omi rura nuwaboyei [deeds] [don’t] ita ami voterei nimana haramaneꞌi aiwaꞌi ami [right] nimana rura",
+      "ljpw": [
+        0.516600790513834,
+        0.6115151515151515,
+        0.48754940711462447,
+        0.7230303030303029
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7230303030303029,
+      "harmony": 0.540297895049613,
+      "translation_notes": "Primary dimension: Wisdom (0.72)"
+    },
+    "4": {
+      "verse_ref": "Matthew 6:4",
+      "english": "so that your merciful deeds may be in secret, then your Father who sees in secret will reward you openly.",
+      "wedau": "yamna raketana ami nuwaboyei [deeds] ita  au [secret] maratagogi ami Tamatei aiyai inana au [secret] ina puyona omi au mutuyuwa",
+      "ljpw": [
+        0.5630952380952382,
+        0.5,
+        0.4607142857142857,
+        0.5107142857142858
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5630952380952382,
+      "harmony": 0.5036636856167866,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "5": {
+      "verse_ref": "Matthew 6:5",
+      "english": "“When you pray, you shall not be as the hypocrites, for they love to stand and pray in the synagogues and in the corners of the streets, that they may be seen by men. Most certainly, I tell you, they have received their reward.",
+      "wedau": "[“when] omi [pray] omi ina egha    [hypocrites] yamna tauhi [love] da [stand] ma [pray] au  pari numana ma au  [corners] ana  [streets] raketana tauhi ita  inana au rava anatapuhi [certainly] tau riwehi omi tauhi ana [received] ahi puyona",
+      "ljpw": [
+        0.6256385281385282,
+        0.5,
+        0.442913961038961,
+        0.5495238095238095
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6256385281385282,
+      "harmony": 0.5126932140455228,
+      "translation_notes": "Primary dimension: Love (0.63)"
+    },
+    "6": {
+      "verse_ref": "Matthew 6:6",
+      "english": "But you, when you pray, enter into your inner room, and having shut your door, pray to your Father who is in secret, and your Father who sees in secret will reward you openly.",
+      "wedau": "tuna omi maranaina omi [pray] rui au ami [inner] [room] ma [having] [shut] ami naona [pray] da ami Tamatei aiyai  au [secret] ma ami Tamatei aiyai inana au [secret] ina puyona omi au mutuyuwa",
+      "ljpw": [
+        0.567279411764706,
+        0.5,
+        0.45808823529411763,
+        0.5113970588235295
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.567279411764706,
+      "harmony": 0.5038526547687651,
+      "translation_notes": "Primary dimension: Love (0.57)"
+    },
+    "7": {
+      "verse_ref": "Matthew 6:7",
+      "english": "In praying, don’t use vain repetitions, as the Gentiles do; for they think that they will be heard for their much speaking.",
+      "wedau": "au [praying] [don’t] [use] [vain] [repetitions]   [gentiles] [do;] yamna tauhi [think] raketana tauhi ina  [heard] yamna ahi [much] pa",
+      "ljpw": [
+        0.5,
+        0.5833333333333334,
+        0.6166666666666667,
+        0.5666666666666667
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.534524006175688,
+      "translation_notes": "Primary dimension: Power (0.62)"
+    },
+    "8": {
+      "verse_ref": "Matthew 6:8",
+      "english": "Therefore don’t be like them, for your Father knows what things you need, before you ask him.",
+      "wedau": "[therefore] [don’t]  [like] hita yamna ami Tamatei haramaneꞌi aiwaꞌi [things] omi [need] naona omi rau-baghei tauna",
+      "ljpw": [
+        0.5274755381604697,
+        0.5495238095238095,
+        0.47939334637964776,
+        0.599047619047619
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.5191342187491803,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "9": {
+      "verse_ref": "Matthew 6:9",
+      "english": "Pray like this: ‘Our Father in heaven, may your name be kept holy.",
+      "wedau": "[pray] [like] [this:] [‘our] Tamatei au marei ita ami wava  [kept] [holy]",
+      "ljpw": [
+        0.611620253164557,
+        0.5548523206751056,
+        0.47129113924050636,
+        0.58431223628692
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.611620253164557,
+      "harmony": 0.5276578754908596,
+      "translation_notes": "Primary dimension: Love (0.61)"
+    },
+    "10": {
+      "verse_ref": "Matthew 6:10",
+      "english": "Let your Kingdom come. Let your will be done on earth as it is in heaven.",
+      "wedau": "ita ami vibadana neꞌi ita ami ina  [done] au dobuna  tauna  au marei",
+      "ljpw": [
+        0.529171668667467,
+        0.6288515406162465,
+        0.6627676070428171,
+        0.6087535014005602
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.6627676070428171,
+      "harmony": 0.5582391485981321,
+      "translation_notes": "Primary dimension: Power (0.66); Strong secondary: Justice"
+    },
+    "11": {
+      "verse_ref": "Matthew 6:11",
+      "english": "Give us today our daily bread.",
+      "wedau": "verei ita [today] ahi [daily] [bread]",
+      "ljpw": [
+        0.5270833333333333,
+        0.575,
+        0.5921875000000001,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5921875000000001,
+      "harmony": 0.5246969239302652,
+      "translation_notes": "Primary dimension: Power (0.59)"
+    },
+    "12": {
+      "verse_ref": "Matthew 6:12",
+      "english": "Forgive us our debts, as we also forgive our debtors.",
+      "wedau": "[forgive] ita ahi [debts]  ita maitehi [forgive] ahi [debtors]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "13": {
+      "verse_ref": "Matthew 6:13",
+      "english": "Bring us not into temptation, but deliver us from the evil one. For yours is the Kingdom, the power, and the glory forever. Amen.’",
+      "wedau": "I [bring] ita egha au [temptation] tuna [deliver] ita au  [evil] [one] yamna ami   vibadana  [power] ma  [glory] [forever] [amen’]",
+      "ljpw": [
+        0.5019047619047619,
+        0.7301587301587301,
+        0.8222222222222221,
+        0.686031746031746
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.8222222222222221,
+      "harmony": 0.5982165543458463,
+      "translation_notes": "Primary dimension: Power (0.82); Strong secondary: Justice"
+    },
+    "14": {
+      "verse_ref": "Matthew 6:14",
+      "english": "“For if you forgive men their trespasses, your heavenly Father will also forgive you.",
+      "wedau": "[“for] tora omi [forgive] rava ahi [trespasses] ami marei Tamatei ina maitehi [forgive] omi",
+      "ljpw": [
+        0.5623188405797102,
+        0.5,
+        0.4608695652173913,
+        0.5101449275362319
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5623188405797102,
+      "harmony": 0.5035261621789651,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "15": {
+      "verse_ref": "Matthew 6:15",
+      "english": "But if you don’t forgive men their trespasses, neither will your Father forgive your trespasses.",
+      "wedau": "tuna tora omi [don’t] [forgive] rava ahi [trespasses] [neither] ina ami Tamatei [forgive] ami [trespasses]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "16": {
+      "verse_ref": "Matthew 6:16",
+      "english": "“Moreover when you fast, don’t be like the hypocrites, with sad faces. For they disfigure their faces, that they may be seen by men to be fasting. Most certainly I tell you, they have received their reward.",
+      "wedau": "[“moreover] maranaina omi [fast] [don’t]  [like]  [hypocrites] maitehi [sad] [faces] yamna tauhi [disfigure] ahi [faces] raketana tauhi ita  inana au rava da  [fasting] anatapuhi [certainly] tau riwehi omi tauhi ana [received] ahi puyona",
+      "ljpw": [
+        0.5515527950310559,
+        0.5,
+        0.46133540372670806,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5515527950310559,
+      "harmony": 0.5010967402067313,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "17": {
+      "verse_ref": "Matthew 6:17",
+      "english": "But you, when you fast, anoint your head, and wash your face;",
+      "wedau": "tuna omi maranaina omi [fast] [anoint] ami [head] ma [wash] ami [face;]",
+      "ljpw": [
+        0.5630434782608696,
+        0.5,
+        0.4527173913043478,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5630434782608696,
+      "harmony": 0.5011995783458615,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "18": {
+      "verse_ref": "Matthew 6:18",
+      "english": "so that you are not seen by men to be fasting, but by your Father who is in secret, and your Father, who sees in secret, will reward you.",
+      "wedau": "yamna raketana omi  egha inana au rava da  [fasting] tuna au ami Tamatei aiyai  au [secret] ma ami Tamatei aiyai inana au [secret] ina puyona omi",
+      "ljpw": [
+        0.5528846153846154,
+        0.5,
+        0.46033653846153844,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5528846153846154,
+      "harmony": 0.5011113213591467,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "19": {
+      "verse_ref": "Matthew 6:19",
+      "english": "“Don’t lay up treasures for yourselves on the earth, where moth and rust consume, and where thieves break through and steal;",
+      "wedau": "[“don’t] [lay] au [treasures] yamna [yourselves] au  dobuna aiwaꞌi [moth] ma [rust] [consume] ma aiwaꞌi [thieves] [break] au ma [steal;]",
+      "ljpw": [
+        0.5106060606060606,
+        0.5,
+        0.5,
+        0.5106060606060606
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5106060606060606,
+      "harmony": 0.5026512882684577,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "20": {
+      "verse_ref": "Matthew 6:20",
+      "english": "but lay up for yourselves treasures in heaven, where neither moth nor rust consume, and where thieves don’t break through and steal;",
+      "wedau": "tuna [lay] au yamna [yourselves] [treasures] au marei aiwaꞌi [neither] [moth] [nor] [rust] [consume] ma aiwaꞌi [thieves] [don’t] [break] au ma [steal;]",
+      "ljpw": [
+        0.5112149532710281,
+        0.5,
+        0.5,
+        0.5112149532710281
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5112149532710281,
+      "harmony": 0.5028034698548064,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "21": {
+      "verse_ref": "Matthew 6:21",
+      "english": "for where your treasure is, there your heart will be also.",
+      "wedau": "yamna aiwaꞌi ami [treasure]  kampa ami urana ina  maitehi",
+      "ljpw": [
+        0.5706521739130435,
+        0.5,
+        0.4559782608695652,
+        0.5119565217391304
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5706521739130435,
+      "harmony": 0.5040026167516245,
+      "translation_notes": "Primary dimension: Love (0.57)"
+    },
+    "22": {
+      "verse_ref": "Matthew 6:22",
+      "english": "“The lamp of the body is the eye. If therefore your eye is sound, your whole body will be full of light.",
+      "wedau": "[“the] [lamp] ana  [body]   [eye] tora [therefore] ami [eye]  [sound] ami [whole] [body] ina  [full] ana [light]",
+      "ljpw": [
+        0.5569620253164558,
+        0.5,
+        0.4572784810126582,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5569620253164558,
+      "harmony": 0.5011516249149782,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "23": {
+      "verse_ref": "Matthew 6:23",
+      "english": "But if your eye is evil, your whole body will be full of darkness. If therefore the light that is in you is darkness, how great is the darkness!",
+      "wedau": "tuna tora ami [eye]  [evil] ami [whole] [body] ina  [full] ana [darkness] tora [therefore]  [light] raketana  au omi  [darkness] aiwaꞌi ghe vavahagha   [darkness!]",
+      "ljpw": [
+        0.4518877551020408,
+        0.4257142857142857,
+        0.48036989795918367,
+        0.5
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5,
+      "harmony": 0.48251009904868375,
+      "translation_notes": "Primary dimension: Wisdom (0.50); Low harmony verse (distinctive emphasis)"
+    },
+    "24": {
+      "verse_ref": "Matthew 6:24",
+      "english": "“No one can serve two masters, for either he will hate the one and love the other; or else he will be devoted to one and despise the other. You can’t serve both God and Mammon.",
+      "wedau": "[“no] [one] ita [serve] [two] [masters] yamna [either] tauna ina [hate]  [one] ma [love]  [other;] bo [else] tauna ina  [devoted] da [one] ma [despise]  ghehauna omi [can’t] [serve] ruwagha God ma [mammon]",
+      "ljpw": [
+        0.6825210084033613,
+        0.6288515406162465,
+        0.48260504201680676,
+        0.6850980392156862
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6850980392156862,
+      "harmony": 0.5624051249970581,
+      "translation_notes": "Primary dimension: Wisdom (0.69); Strong secondary: Love"
+    },
+    "25": {
+      "verse_ref": "Matthew 6:25",
+      "english": "Therefore I tell you, don’t be anxious for your life: what you will eat, or what you will drink; nor yet for your body, what you will wear. Isn’t life more than food, and the body more than clothing?",
+      "wedau": "[therefore] tau riwehi omi [don’t]  [anxious] yamna ami [life:] aiwaꞌi omi ina [eat] bo aiwaꞌi omi ina [drink;] [nor] [yet] yamna ami [body] aiwaꞌi omi ina [wear] [isn’t] yawahana ghe vavahagha da [food] ma  [body] ghe vavahagha da [clothing?]",
+      "ljpw": [
+        0.5496688741721855,
+        0.5,
+        0.4690811258278146,
+        0.5709437086092715
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5709437086092715,
+      "harmony": 0.5105893998086305,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "26": {
+      "verse_ref": "Matthew 6:26",
+      "english": "See the birds of the sky, that they don’t sow, neither do they reap, nor gather into barns. Your heavenly Father feeds them. Aren’t you of much more value than they?",
+      "wedau": "inana  [birds] ana  [sky] raketana tauhi [don’t] [sow] [neither] rura tauhi [reap] [nor] [gather] au [barns] ami marei Tamatei [feeds] hita [aren’t] omi ana [much] ghe vavahagha [value] da [they?]",
+      "ljpw": [
+        0.5301462317210348,
+        0.5,
+        0.47739032620922384,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5093990344436409,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "27": {
+      "verse_ref": "Matthew 6:27",
+      "english": "“Which of you, by being anxious, can add one moment to his lifespan?",
+      "wedau": "[“which] ana omi au  [anxious] ita [add] [one] [moment] da ana [lifespan?]",
+      "ljpw": [
+        0.5296703296703297,
+        0.5,
+        0.4777472527472527,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.509388999100694,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "28": {
+      "verse_ref": "Matthew 6:28",
+      "english": "Why are you anxious about clothing? Consider the lilies of the field, how they grow. They don’t toil, neither do they spin,",
+      "wedau": "yamna  omi [anxious] awarina [clothing?] [consider]  [lilies] ana  [field] aiwaꞌi tauhi [grow] tauhi [don’t] [toil] [neither] rura tauhi [spin]",
+      "ljpw": [
+        0.5321428571428571,
+        0.5,
+        0.4758928571428571,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094401064902786,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "29": {
+      "verse_ref": "Matthew 6:29",
+      "english": "yet I tell you that even Solomon in all his glory was not dressed like one of these.",
+      "wedau": "[yet] tau riwehi omi raketana ma [solomon] au anatapuhi ana [glory]  egha [dressed] [like] [one] ana ina",
+      "ljpw": [
+        0.5113636363636364,
+        0.5,
+        0.5,
+        0.5113636363636364
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5113636363636364,
+      "harmony": 0.5028406297529624,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "30": {
+      "verse_ref": "Matthew 6:30",
+      "english": "But if God so clothes the grass of the field, which today exists, and tomorrow is thrown into the oven, won’t he much more clothe you, you of little faith?",
+      "wedau": "tuna tora God yamna [clothes]  [grass] ana  [field] aiyai [today] [exists] ma [tomorrow]  [thrown] au  [oven] [won’t] tauna [much] ghe vavahagha [clothe] omi omi ana [little] [faith?]",
+      "ljpw": [
+        0.6005217391304347,
+        0.5702898550724638,
+        0.4878695652173913,
+        0.637536231884058
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.637536231884058,
+      "harmony": 0.5379218876160538,
+      "translation_notes": "Primary dimension: Wisdom (0.64); Strong secondary: Love"
+    },
+    "31": {
+      "verse_ref": "Matthew 6:31",
+      "english": "“Therefore don’t be anxious, saying, ‘What will we eat?’, ‘What will we drink?’ or, ‘With what will we be clothed?’",
+      "wedau": "[“therefore] [don’t]  [anxious] riwa ipa [‘what] ina ita [eat?’] [‘what] ina ita [drink?’] bo [‘with] aiwaꞌi ina ita  [clothed?’]",
+      "ljpw": [
+        0.5324514991181658,
+        0.5,
+        0.4756613756613757,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094463068533099,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "32": {
+      "verse_ref": "Matthew 6:32",
+      "english": "For the Gentiles seek after all these things; for your heavenly Father knows that you need all these things.",
+      "wedau": "yamna  [gentiles] [seek] muriyai anatapuhi ina [things;] yamna ami marei Tamatei haramaneꞌi raketana omi [need] anatapuhi ina [things]",
+      "ljpw": [
+        0.5,
+        0.5666666666666667,
+        0.5,
+        0.6333333333333333
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6333333333333333,
+      "harmony": 0.5244485592242087,
+      "translation_notes": "Primary dimension: Wisdom (0.63)"
+    },
+    "33": {
+      "verse_ref": "Matthew 6:33",
+      "english": "But seek first God’s Kingdom, and his righteousness; and all these things will be given to you as well.",
+      "wedau": "I tuna [seek] naona [god’s] vibadana ma ana [righteousness;] ma anatapuhi ina [things] ina  verei da omi  ahiahina",
+      "ljpw": [
+        0.5,
+        0.75,
+        0.85,
+        0.7
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.85,
+      "harmony": 0.6053561034430176,
+      "translation_notes": "Primary dimension: Power (0.85); Strong secondary: Justice"
+    },
+    "34": {
+      "verse_ref": "Matthew 6:34",
+      "english": "Therefore don’t be anxious for tomorrow, for tomorrow will be anxious for itself. Each day’s own evil is sufficient.",
+      "wedau": "[therefore] [don’t]  [anxious] yamna [tomorrow] yamna [tomorrow] ina  [anxious] yamna [itself] tagotagogi [day’s] ana [evil]  [sufficient]",
+      "ljpw": [
+        0.42278225806451614,
+        0.41875,
+        0.5,
+        0.5040322580645161
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5040322580645161,
+      "harmony": 0.48070334335433207,
+      "translation_notes": "Primary dimension: Wisdom (0.50); Low harmony verse (distinctive emphasis)"
+    }
+  }
+}

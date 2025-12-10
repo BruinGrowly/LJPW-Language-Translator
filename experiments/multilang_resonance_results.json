@@ -1,0 +1,58 @@
+{
+  "1": {
+    "languages": [
+      "greek",
+      "english",
+      "spanish",
+      "chinese",
+      "wedau"
+    ],
+    "pairs_tested": 10,
+    "all_equivalent": true,
+    "max_euclidean": 0.22317563351230404,
+    "min_euclidean": 0.03498675940675256,
+    "avg_euclidean": 0.12454280008024614
+  },
+  "11": {
+    "languages": [
+      "greek",
+      "english",
+      "spanish",
+      "chinese",
+      "wedau"
+    ],
+    "pairs_tested": 10,
+    "all_equivalent": true,
+    "max_euclidean": 0.38549184062600483,
+    "min_euclidean": 0.02154979256700318,
+    "avg_euclidean": 0.2190639636687116
+  },
+  "15": {
+    "languages": [
+      "greek",
+      "english",
+      "spanish",
+      "chinese",
+      "wedau"
+    ],
+    "pairs_tested": 10,
+    "all_equivalent": true,
+    "max_euclidean": 0.8787973792791107,
+    "min_euclidean": 0.03501245835209984,
+    "avg_euclidean": 0.4841646578657473
+  },
+  "41": {
+    "languages": [
+      "greek",
+      "english",
+      "spanish",
+      "chinese",
+      "wedau"
+    ],
+    "pairs_tested": 10,
+    "all_equivalent": true,
+    "max_euclidean": 0.49298502994728494,
+    "min_euclidean": 0.06904975537070626,
+    "avg_euclidean": 0.23579643153179713
+  }
+}

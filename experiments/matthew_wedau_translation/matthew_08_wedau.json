@@ -1,0 +1,520 @@
+{
+  "book": "Matthew",
+  "chapter": 8,
+  "source_language": "English",
+  "target_language": "Wedau",
+  "translation_method": "LJPW-Guided Pure Meaning Translation",
+  "timestamp": "2025-12-10T20:04:15.700151",
+  "verses": {
+    "1": {
+      "verse_ref": "Matthew 8:1",
+      "english": "When he came down from the mountain, great multitudes followed him.",
+      "wedau": "maranaina tauna neꞌi au au  dobuna ghe vavahagha [multitudes] taghotaghoi tauna",
+      "ljpw": [
+        0.5477272727272727,
+        0.5,
+        0.4713636363636364,
+        0.5720454545454545
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5720454545454545,
+      "harmony": 0.5108085576845717,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "2": {
+      "verse_ref": "Matthew 8:2",
+      "english": "Behold, a leper came to him and worshiped him, saying, “Lord, if you want to, you can make me clean.”",
+      "wedau": "[behold]  opina pagapagana neꞌi da tauna ma [worshiped] tauna riwa ipa [“lord] tora omi [want] da omi ita rura tau [clean”]",
+      "ljpw": [
+        0.6096989394457749,
+        0.5548523206751056,
+        0.47298152582962716,
+        0.5846447713536322
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6096989394457749,
+      "harmony": 0.52774574762606,
+      "translation_notes": "Primary dimension: Love (0.61)"
+    },
+    "3": {
+      "verse_ref": "Matthew 8:3",
+      "english": "Jesus stretched out his hand, and touched him, saying, “I want to. Be made clean.” Immediately his leprosy was cleansed.",
+      "wedau": "Yesu [stretched] hopu ana nimana ma dodani tauna riwa ipa [“i] [want] da  rura [clean”] maratagogi ana paga  [cleansed]",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "4": {
+      "verse_ref": "Matthew 8:4",
+      "english": "Jesus said to him, “See that you tell nobody, but go, show yourself to the priest, and offer the gift that Moses commanded, as a testimony to them.”",
+      "wedau": "Yesu riwa da tauna [“see] raketana omi riwehi [nobody] tuna nae atataiyana [yourself] da  pirisina ma [offer]  [gift] raketana moses ririweiya   inavi heghehi da [them”]",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "5": {
+      "verse_ref": "Matthew 8:5",
+      "english": "When he came into Capernaum, a centurion came to him, asking him,",
+      "wedau": "maranaina tauna neꞌi au kapernaum  [centurion] neꞌi da tauna rau-baghei tauna",
+      "ljpw": [
+        0.5286053130929792,
+        0.5651881720430109,
+        0.5739721695129666,
+        0.5939911448450349
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5939911448450349,
+      "harmony": 0.5346415443139757,
+      "translation_notes": "Primary dimension: Wisdom (0.59)"
+    },
+    "6": {
+      "verse_ref": "Matthew 8:6",
+      "english": "and saying, “Lord, my servant lies in the house paralyzed, grievously tormented.”",
+      "wedau": "ma riwa ipa [“lord] au [servant] [lies] au  numa [paralyzed] [grievously] [tormented”]",
+      "ljpw": [
+        0.5859375,
+        0.5677083333333334,
+        0.5,
+        0.5994791666666668
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5994791666666668,
+      "harmony": 0.5328278896123833,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "7": {
+      "verse_ref": "Matthew 8:7",
+      "english": "Jesus said to him, “I will come and heal him.”",
+      "wedau": "Yesu riwa da tauna [“i] ina neꞌi ma [heal] [him”]",
+      "ljpw": [
+        0.6103567318757193,
+        0.5548523206751056,
+        0.4720368239355581,
+        0.5840429612581512
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6103567318757193,
+      "harmony": 0.5275927244215205,
+      "translation_notes": "Primary dimension: Love (0.61)"
+    },
+    "8": {
+      "verse_ref": "Matthew 8:8",
+      "english": "The centurion answered, “Lord, I’m not worthy for you to come under my roof. Just say the word, and my servant will be healed.",
+      "wedau": "[centurion] [answered] [“lord] [i’m] egha tagotagogiu yamna omi da neꞌi au au [roof] tagotagogi riwa  riwana ma au [servant] ina  yawahanihi",
+      "ljpw": [
+        0.6798076923076922,
+        0.6474358974358974,
+        0.5,
+        0.7092948717948717
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7092948717948717,
+      "harmony": 0.5716826321893653,
+      "translation_notes": "Primary dimension: Wisdom (0.71); Strong secondary: Love"
+    },
+    "9": {
+      "verse_ref": "Matthew 8:9",
+      "english": "For I am also a man under authority, having under myself soldiers. I tell this one, ‘Go,’ and he goes; and tell another, ‘Come,’ and he comes; and tell my servant, ‘Do this,’ and he does it.”",
+      "wedau": "yamna tau [am] maitehi  oroto au rewapana [having] au [myself] [soldiers] tau riwehi ina [one] [‘go’] ma tauna [goes;] ma riwehi [another] [‘come’] ma tauna [comes;] ma riwehi au [servant] [‘do] [this’] ma tauna rura [it”]",
+      "ljpw": [
+        0.5046532846715328,
+        0.5677083333333334,
+        0.5947916666666667,
+        0.5588199513381995
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5947916666666667,
+      "harmony": 0.5292613507390369,
+      "translation_notes": "Primary dimension: Power (0.59)"
+    },
+    "10": {
+      "verse_ref": "Matthew 8:10",
+      "english": "When Jesus heard it, he marveled, and said to those who followed, “Most certainly I tell you, I haven’t found so great a faith, not even in Israel.",
+      "wedau": "maranaina Yesu [heard] tauna tauna [marveled] ma riwa da raketana aiyai taghotaghoi [“most] [certainly] tau riwehi omi tau [haven’t] tuhaghai yamna ghe vavahagha  [faith] egha ma au [israel]",
+      "ljpw": [
+        0.6005590062111801,
+        0.5702898550724638,
+        0.48784161490683225,
+        0.637536231884058
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.637536231884058,
+      "harmony": 0.5379220803302328,
+      "translation_notes": "Primary dimension: Wisdom (0.64); Strong secondary: Love"
+    },
+    "11": {
+      "verse_ref": "Matthew 8:11",
+      "english": "I tell you that many will come from the east and the west, and will sit down with Abraham, Isaac, and Jacob in the Kingdom of Heaven,",
+      "wedau": "tau riwehi omi raketana anatapuhi ina neꞌi au  [east] ma  [west] ma ina [sit] au maitehi Abraham [isaac] ma Jacob au  vibadana ana marei",
+      "ljpw": [
+        0.6081320457883894,
+        0.7633542226201133,
+        0.7427126520702412,
+        0.759879821412533
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7633542226201133,
+      "harmony": 0.6339457564280517,
+      "translation_notes": "Primary dimension: Justice (0.76); Strong secondary: Wisdom"
+    },
+    "12": {
+      "verse_ref": "Matthew 8:12",
+      "english": "but the children of the Kingdom will be thrown out into the outer darkness. There will be weeping and gnashing of teeth.”",
+      "wedau": "tuna  natunatuna ana  vibadana ina  [thrown] hopu au  [outer] [darkness] kampa ina  [weeping] ma [gnashing] ana [teeth”]",
+      "ljpw": [
+        0.5046781599237633,
+        0.6376230904733027,
+        0.6920875566721534,
+        0.6077593924167605
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.6920875566721534,
+      "harmony": 0.5584177572383697,
+      "translation_notes": "Primary dimension: Power (0.69); Strong secondary: Justice"
+    },
+    "13": {
+      "verse_ref": "Matthew 8:13",
+      "english": "Jesus said to the centurion, “Go your way. Let it be done for you as you have believed.” His servant was healed in that hour.",
+      "wedau": "Yesu riwa da  [centurion] [“go] ami parata ita tauna  [done] yamna omi  omi ana [believed”] ana [servant]  yawahanihi au raketana [hour]",
+      "ljpw": [
+        0.6035187969924812,
+        0.5619047619047619,
+        0.4780751879699248,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6035187969924812,
+      "harmony": 0.5290573276242811,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "14": {
+      "verse_ref": "Matthew 8:14",
+      "english": "When Jesus came into Peter’s house, he saw his wife’s mother lying sick with a fever.",
+      "wedau": "maranaina Yesu neꞌi au [peter’s] numa tauna inana ana [wife’s] hinana enoeno doridoriahi maitehi  gaugaururuna",
+      "ljpw": [
+        0.6014229249011858,
+        0.5702898550724638,
+        0.48719367588932805,
+        0.637536231884058
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.637536231884058,
+      "harmony": 0.5379263429792545,
+      "translation_notes": "Primary dimension: Wisdom (0.64); Strong secondary: Love"
+    },
+    "15": {
+      "verse_ref": "Matthew 8:15",
+      "english": "He touched her hand, and the fever left her. She got up and served him.",
+      "wedau": "tauna dodani ana nimana ma  gaugaururuna voterei ana tauna varahai au ma inana vaitetehi tauna",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "16": {
+      "verse_ref": "Matthew 8:16",
+      "english": "When evening came, they brought to him many possessed with demons. He cast out the spirits with a word, and healed all who were sick;",
+      "wedau": "maranaina madegha neꞌi tauhi neiyahi da tauna anatapuhi [possessed] maitehi aruwa-apoapoehi tauna [cast] hopu  aruwa maitehi  riwana ma yawahanihi anatapuhi aiyai  [sick;]",
+      "ljpw": [
+        0.6007453416149068,
+        0.5702898550724638,
+        0.48770186335403726,
+        0.637536231884058
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.637536231884058,
+      "harmony": 0.5379230329404527,
+      "translation_notes": "Primary dimension: Wisdom (0.64); Strong secondary: Love"
+    },
+    "17": {
+      "verse_ref": "Matthew 8:17",
+      "english": "that it might be fulfilled which was spoken through Isaiah the prophet, saying, “He took our infirmities, and bore our diseases.”",
+      "wedau": "raketana tauna ita  ririweiya aiyai  [spoken] au aisaiya  peroveta riwa ipa [“he] varahai ahi [infirmities] ma [bore] ahi [diseases”]",
+      "ljpw": [
+        0.5269625520110957,
+        0.5619047619047619,
+        0.5664447526583449,
+        0.5495238095238095
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5664447526583449,
+      "harmony": 0.526841518655401,
+      "translation_notes": "Primary dimension: Power (0.57)"
+    },
+    "18": {
+      "verse_ref": "Matthew 8:18",
+      "english": "Now when Jesus saw great multitudes around him, he gave the order to depart to the other side.",
+      "wedau": "ina marana maranaina Yesu inana ghe vavahagha [multitudes] [around] tauna tauna verei  [order] da [depart] da  ghehauna [side]",
+      "ljpw": [
+        0.684290909090909,
+        0.6393939393939393,
+        0.4872363636363636,
+        0.6951515151515151
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6951515151515151,
+      "harmony": 0.5665002716376476,
+      "translation_notes": "Primary dimension: Wisdom (0.70); Strong secondary: Love"
+    },
+    "19": {
+      "verse_ref": "Matthew 8:19",
+      "english": "A scribe came, and said to him, “Teacher, I will follow you wherever you go.”",
+      "wedau": "[scribe] neꞌi ma riwa da tauna [“teacher] tau ina votaghou omi [wherever] omi [go”]",
+      "ljpw": [
+        0.5297744360902256,
+        0.5495238095238095,
+        0.4776691729323308,
+        0.599047619047619
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.5191879217298112,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "20": {
+      "verse_ref": "Matthew 8:20",
+      "english": "Jesus said to him, “The foxes have holes, and the birds of the sky have nests, but the Son of Man has nowhere to lay his head.”",
+      "wedau": "Yesu riwa da tauna [“the] [foxes] ana [holes] ma  [birds] ana  [sky] ana [nests] tuna  natuna ana oroto ana [nowhere] da [lay] ana [head”]",
+      "ljpw": [
+        0.6013533834586466,
+        0.5619047619047619,
+        0.47969924812030074,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6013533834586466,
+      "harmony": 0.529052745734431,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "21": {
+      "verse_ref": "Matthew 8:21",
+      "english": "Another of his disciples said to him, “Lord, allow me first to go and bury my father.”",
+      "wedau": "[another] ana ana tauvotaghotagho riwa da tauna [“lord] [allow] tau naona da nae ma [bury] au [father”]",
+      "ljpw": [
+        0.5852884615384615,
+        0.5677083333333334,
+        0.5,
+        0.5988301282051283
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5988301282051283,
+      "harmony": 0.5326566726340234,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "22": {
+      "verse_ref": "Matthew 8:22",
+      "english": "But Jesus said to him, “Follow me, and leave the dead to bury their own dead.”",
+      "wedau": "tuna Yesu riwa da tauna [“follow] tau ma [leave]  [dead] da [bury] ahi ana [dead”]",
+      "ljpw": [
+        0.6008866995073892,
+        0.5619047619047619,
+        0.48004926108374385,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6008866995073892,
+      "harmony": 0.5290514565376723,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "23": {
+      "verse_ref": "Matthew 8:23",
+      "english": "When he got into a boat, his disciples followed him.",
+      "wedau": "maranaina tauna varahai au  auwaga ana tauvotaghotagho taghotaghoi tauna",
+      "ljpw": [
+        0.5306620209059234,
+        0.5,
+        0.4770034843205575,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.509409804111157,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "24": {
+      "verse_ref": "Matthew 8:24",
+      "english": "Behold, a violent storm came up on the sea, so much that the boat was covered with the waves, but he was asleep.",
+      "wedau": "[behold]  [violent] [storm] neꞌi au au  topana yamna [much] raketana  auwaga  [covered] maitehi  [waves] tuna tauna  [asleep]",
+      "ljpw": [
+        0.5534883720930233,
+        0.5,
+        0.45988372093023255,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5534883720930233,
+      "harmony": 0.5011177017262961,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "25": {
+      "verse_ref": "Matthew 8:25",
+      "english": "They came to him, and woke him up, saying, “Save us, Lord! We are dying!”",
+      "wedau": "tauhi neꞌi da tauna ma [woke] tauna au riwa ipa [“save] ita [lord!] ita  [dying!”]",
+      "ljpw": [
+        0.6025210084033614,
+        0.5619047619047619,
+        0.4788235294117647,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6025210084033614,
+      "harmony": 0.5290555025382124,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "26": {
+      "verse_ref": "Matthew 8:26",
+      "english": "He said to them, “Why are you fearful, O you of little faith?” Then he got up, rebuked the wind and the sea, and there was a great calm.",
+      "wedau": "tauna riwa da hita [“why]  omi [fearful] [o] omi ana [little] [faith?”] maratagogi tauna varahai au rau-gamopotai  [wind] ma  topana ma kampa   ghe vavahagha [calm]",
+      "ljpw": [
+        0.532,
+        0.5,
+        0.476,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094372231303027,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "27": {
+      "verse_ref": "Matthew 8:27",
+      "english": "The men marveled, saying, “What kind of man is this, that even the wind and the sea obey him?”",
+      "wedau": "rava [marveled] riwa ipa [“what] [kind] ana oroto  ina raketana ma  [wind] ma  topana [obey] [him?”]",
+      "ljpw": [
+        0.5293877551020408,
+        0.5,
+        0.4779591836734694,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.509382995722386,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "28": {
+      "verse_ref": "Matthew 8:28",
+      "english": "When he came to the other side, into the country of the Gergesenes, two people possessed by demons met him there, coming out of the tombs, exceedingly fierce, so that nobody could pass that way.",
+      "wedau": "maranaina tauna neꞌi da  ghehauna [side] au  [country] ana  [gergesenes] [two] rava [possessed] au aruwa-apoapoehi [met] tauna kampa naenae hopu ana  [tombs] [exceedingly] [fierce] yamna raketana [nobody] ita [pass] raketana parata",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.6
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6,
+      "harmony": 0.5117866509228262,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "29": {
+      "verse_ref": "Matthew 8:29",
+      "english": "Behold, they cried out, saying, “What do we have to do with you, Jesus, Son of God? Have you come here to torment us before the time?”",
+      "wedau": "[behold] tauhi [cried] hopu riwa ipa [“what] rura ita ana da rura maitehi omi Yesu natuna ana [god?] ana omi neꞌi ina da [torment] ita naona  [time?”]",
+      "ljpw": [
+        0.8389586160108549,
+        0.7744092039800995,
+        0.5901373812754409,
+        0.843594527363184
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.843594527363184,
+      "harmony": 0.6583635204398557,
+      "translation_notes": "Primary dimension: Wisdom (0.84); Strong secondary: Love"
+    },
+    "30": {
+      "verse_ref": "Matthew 8:30",
+      "english": "Now there was a herd of many pigs feeding far away from them.",
+      "wedau": "ina marana kampa   [herd] ana anatapuhi [pigs] [feeding] [far] [away] au hita",
+      "ljpw": [
+        0.5625000000000001,
+        0.5,
+        0.4609375,
+        0.5104166666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5625000000000001,
+      "harmony": 0.5035901994372788,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "31": {
+      "verse_ref": "Matthew 8:31",
+      "english": "The demons begged him, saying, “If you cast us out, permit us to go away into the herd of pigs.”",
+      "wedau": "aruwa-apoapoehi [begged] tauna riwa ipa [“if] omi [cast] ita hopu [permit] ita da nae [away] au  [herd] ana [pigs”]",
+      "ljpw": [
+        0.5507042253521127,
+        0.5190140845070422,
+        0.4873239436619718,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5507042253521127,
+      "harmony": 0.5069319213423307,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "32": {
+      "verse_ref": "Matthew 8:32",
+      "english": "He said to them, “Go!” They came out, and went into the herd of pigs: and behold, the whole herd of pigs rushed down the cliff into the sea, and died in the water.",
+      "wedau": "tauna riwa da hita [“go!”] tauhi neꞌi hopu ma nae au  [herd] ana [pigs:] ma [behold]  [whole] [herd] ana [pigs] [rushed] au  [cliff] au  topana ma [died] au  waira",
+      "ljpw": [
+        0.5520661157024793,
+        0.5,
+        0.4609504132231405,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5520661157024793,
+      "harmony": 0.5011024427755173,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "33": {
+      "verse_ref": "Matthew 8:33",
+      "english": "Those who fed them fled, and went away into the city, and told everything, including what happened to those who were possessed with demons.",
+      "wedau": "raketana aiyai [fed] hita [fled] ma nae [away] au  meyagaihi ma riwehi [everything] [including] aiwaꞌi [happened] da raketana aiyai  [possessed] maitehi aruwa-apoapoehi",
+      "ljpw": [
+        0.5517857142857143,
+        0.5,
+        0.46116071428571426,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5517857142857143,
+      "harmony": 0.501099340583763,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "34": {
+      "verse_ref": "Matthew 8:34",
+      "english": "Behold, all the city came out to meet Jesus. When they saw him, they begged that he would depart from their borders.",
+      "wedau": "[behold] anatapuhi  meyagaihi neꞌi hopu da [meet] Yesu maranaina tauhi inana tauna tauhi [begged] raketana tauna ina [depart] au ahi [borders]",
+      "ljpw": [
+        0.684175824175824,
+        0.6393939393939393,
+        0.4873226773226773,
+        0.6951515151515151
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6951515151515151,
+      "harmony": 0.5665035910253052,
+      "translation_notes": "Primary dimension: Wisdom (0.70); Strong secondary: Love"
+    }
+  }
+}

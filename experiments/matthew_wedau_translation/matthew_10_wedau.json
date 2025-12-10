@@ -1,0 +1,640 @@
+{
+  "book": "Matthew",
+  "chapter": 10,
+  "source_language": "English",
+  "target_language": "Wedau",
+  "translation_method": "LJPW-Guided Pure Meaning Translation",
+  "timestamp": "2025-12-10T20:04:15.708785",
+  "verses": {
+    "1": {
+      "verse_ref": "Matthew 10:1",
+      "english": "He called to himself his twelve disciples, and gave them authority over unclean spirits, to cast them out, and to heal every disease and every sickness.",
+      "wedau": "tauna ghorehi da [himself] ana [twelve] tauvotaghotagho ma verei hita rewapana au apoapoena aruwa da [cast] hita hopu ma da [heal] anatapuhi [disease] ma anatapuhi [sickness]",
+      "ljpw": [
+        0.7,
+        0.6666666666666666,
+        0.5,
+        0.7333333333333333
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7333333333333333,
+      "harmony": 0.5805011589293861,
+      "translation_notes": "Primary dimension: Wisdom (0.73); Strong secondary: Love"
+    },
+    "2": {
+      "verse_ref": "Matthew 10:2",
+      "english": "Now the names of the twelve apostles are these. The first, Simon, who is called Peter; Andrew, his brother; James the son of Zebedee; John, his brother;",
+      "wedau": "ina marana  wava ana  [twelve] [apostles]  ina  naona simon aiyai  ghorehi [peter;] andrew ana [brother;] james  natuna ana [zebedee;] john ana [brother;]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "3": {
+      "verse_ref": "Matthew 10:3",
+      "english": "Philip; Bartholomew; Thomas; Matthew the tax collector; James the son of Alphaeus; Lebbaeus, who was also called Thaddaeus;",
+      "wedau": "[philip;] [bartholomew;] [thomas;] [matthew]  [tax] [collector;] james  natuna ana [alphaeus;] [lebbaeus] aiyai  maitehi ghorehi [thaddaeus;]",
+      "ljpw": [
+        0.5515151515151515,
+        0.5,
+        0.46136363636363636,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5515151515151515,
+      "harmony": 0.5010963179420901,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "4": {
+      "verse_ref": "Matthew 10:4",
+      "english": "Simon the Zealot; and Judas Iscariot, who also betrayed him.",
+      "wedau": "simon  [zealot;] ma [judas] [iscariot] aiyai maitehi [betrayed] tauna",
+      "ljpw": [
+        0.5520833333333334,
+        0.5,
+        0.4609375,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5520833333333334,
+      "harmony": 0.5011026322537805,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "5": {
+      "verse_ref": "Matthew 10:5",
+      "english": "Jesus sent these twelve out, and commanded them, saying, “Don’t go among the Gentiles, and don’t enter into any city of the Samaritans.",
+      "wedau": "Yesu vivohi ina [twelve] hopu ma ririweiya hita riwa ipa [“don’t] nae [among]  [gentiles] ma [don’t] rui au ghehauna meyagaihi ana  [samaritans]",
+      "ljpw": [
+        0.5851785714285714,
+        0.5677083333333334,
+        0.5,
+        0.5987202380952381
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5987202380952381,
+      "harmony": 0.5326276790920847,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "6": {
+      "verse_ref": "Matthew 10:6",
+      "english": "Rather, go to the lost sheep of the house of Israel.",
+      "wedau": "[rather] nae da  [lost] [sheep] ana  numa ana [israel]",
+      "ljpw": [
+        0.555,
+        0.5,
+        0.45875,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.555,
+      "harmony": 0.5011330474711493,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "7": {
+      "verse_ref": "Matthew 10:7",
+      "english": "As you go, preach, saying, ‘The Kingdom of Heaven is at hand!’",
+      "wedau": "omi nae rau-guguyei riwa ipa [‘the] vibadana ana marei  au [hand!’]",
+      "ljpw": [
+        0.6063432835820896,
+        0.7744092039800995,
+        0.7557213930348258,
+        0.7682213930348258
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7744092039800995,
+      "harmony": 0.6389685387232427,
+      "translation_notes": "Primary dimension: Justice (0.77); Strong secondary: Wisdom"
+    },
+    "8": {
+      "verse_ref": "Matthew 10:8",
+      "english": "Heal the sick, cleanse the lepers, and cast out demons. Freely you received, so freely give.",
+      "wedau": "[heal]  doridoriahi [cleanse]  opina pagapagana ma [cast] hopu aruwa-apoapoehi tuyeghana omi [received] yamna tuyeghana verei",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "9": {
+      "verse_ref": "Matthew 10:9",
+      "english": "Don’t take any gold, silver, or brass in your money belts.",
+      "wedau": "[don’t] varahai ghehauna [gold] [silver] bo [brass] au ami [money] tairoro",
+      "ljpw": [
+        0.5049586776859505,
+        0.5818181818181818,
+        0.6227272727272728,
+        0.5049586776859505
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.6227272727272728,
+      "harmony": 0.5267254059257003,
+      "translation_notes": "Primary dimension: Power (0.62)"
+    },
+    "10": {
+      "verse_ref": "Matthew 10:10",
+      "english": "Take no bag for your journey, neither two coats, nor sandals, nor staff: for the laborer is worthy of his food.",
+      "wedau": "varahai egha [bag] yamna ami [journey] [neither] [two] [coats] [nor] ghuravana [nor] [staff:] yamna  [laborer]  tagotagogiu ana ana [food]",
+      "ljpw": [
+        0.5038054968287526,
+        0.5818181818181818,
+        0.6227272727272728,
+        0.5038054968287526
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.6227272727272728,
+      "harmony": 0.5263729407698369,
+      "translation_notes": "Primary dimension: Power (0.62)"
+    },
+    "11": {
+      "verse_ref": "Matthew 10:11",
+      "english": "Into whatever city or village you enter, find out who in it is worthy; and stay there until you go on.",
+      "wedau": "au [whatever] meyagaihi bo [village] omi rui [find] hopu aiyai au tauna  [worthy;] ma [stay] kampa [until] omi nae au",
+      "ljpw": [
+        0.5556962025316456,
+        0.5,
+        0.4582278481012658,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5556962025316456,
+      "harmony": 0.5011398128501949,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "12": {
+      "verse_ref": "Matthew 10:12",
+      "english": "As you enter into the household, greet it.",
+      "wedau": "omi rui au  [household] [greet] tauna",
+      "ljpw": [
+        0.5575757575757576,
+        0.5,
+        0.4568181818181818,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5575757575757576,
+      "harmony": 0.5011571249822784,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "13": {
+      "verse_ref": "Matthew 10:13",
+      "english": "If the household is worthy, let your peace come on it, but if it isn’t worthy, let your peace return to you.",
+      "wedau": "tora  [household]  tagotagogiu ita ami [peace] neꞌi au tauna tuna tora tauna [isn’t] tagotagogiu ita ami [peace] [return] da omi",
+      "ljpw": [
+        0.5560975609756098,
+        0.5,
+        0.45792682926829265,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5560975609756098,
+      "harmony": 0.5011436264064134,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "14": {
+      "verse_ref": "Matthew 10:14",
+      "english": "Whoever doesn’t receive you, nor hear your words, as you go out of that house or that city, shake the dust off your feet.",
+      "wedau": "[whoever] [doesn’t] [receive] omi [nor] [hear] ami riwehi  omi nae hopu ana raketana numa bo raketana meyagaihi [shake]  [dust] [off] ami [feet]",
+      "ljpw": [
+        0.5331797235023041,
+        0.5,
+        0.4751152073732719,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094607784746921,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "15": {
+      "verse_ref": "Matthew 10:15",
+      "english": "Most certainly I tell you, it will be more tolerable for the land of Sodom and Gomorrah in the day of judgment than for that city.",
+      "wedau": "anatapuhi [certainly] tau riwehi omi tauna ina  ghe vavahagha [tolerable] yamna  [land] ana [sodom] ma [gomorrah] au  mara ana [judgment] da yamna raketana meyagaihi",
+      "ljpw": [
+        0.512621359223301,
+        0.5,
+        0.5,
+        0.512621359223301
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.512621359223301,
+      "harmony": 0.5031549564308627,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "16": {
+      "verse_ref": "Matthew 10:16",
+      "english": "“Behold, I send you out as sheep among wolves. Therefore be wise as serpents, and harmless as doves.",
+      "wedau": "[“behold] tau vivohi omi hopu  [sheep] [among] [wolves] [therefore]  [wise]  [serpents] ma [harmless]  gabubu",
+      "ljpw": [
+        0.5,
+        0.5666666666666667,
+        0.5,
+        0.6333333333333333
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6333333333333333,
+      "harmony": 0.5244485592242087,
+      "translation_notes": "Primary dimension: Wisdom (0.63)"
+    },
+    "17": {
+      "verse_ref": "Matthew 10:17",
+      "english": "But beware of men: for they will deliver you up to councils, and in their synagogues they will scourge you.",
+      "wedau": "tuna [beware] ana [men:] yamna tauhi ina [deliver] omi au da [councils] ma au ahi pari numana tauhi ina [scourge] omi",
+      "ljpw": [
+        0.5529411764705883,
+        0.5,
+        0.4602941176470588,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5529411764705883,
+      "harmony": 0.5011119251692628,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "18": {
+      "verse_ref": "Matthew 10:18",
+      "english": "Yes, and you will be brought before governors and kings for my sake, for a testimony to them and to the nations.",
+      "wedau": "[yes] ma omi ina  neiyahi naona [governors] ma kingi yamna au [sake] yamna  inavi heghehi da hita ma da  [nations]",
+      "ljpw": [
+        0.5040482954545454,
+        0.5677083333333334,
+        0.5947916666666667,
+        0.5582149621212121
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5947916666666667,
+      "harmony": 0.5290829169947548,
+      "translation_notes": "Primary dimension: Power (0.59)"
+    },
+    "19": {
+      "verse_ref": "Matthew 10:19",
+      "english": "But when they deliver you up, don’t be anxious how or what you will say, for it will be given you in that hour what you will say.",
+      "wedau": "tuna maranaina tauhi [deliver] omi au [don’t]  [anxious] aiwaꞌi bo aiwaꞌi omi ina riwa yamna tauna ina  verei omi au raketana [hour] aiwaꞌi omi ina riwa",
+      "ljpw": [
+        0.5612244897959184,
+        0.5,
+        0.45408163265306123,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5612244897959184,
+      "harmony": 0.5011867621029535,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "20": {
+      "verse_ref": "Matthew 10:20",
+      "english": "For it is not you who speak, but the Spirit of your Father who speaks in you.",
+      "wedau": "yamna tauna  egha omi aiyai pa tuna  aruwa ana ami Tamatei aiyai pa au omi",
+      "ljpw": [
+        0.6030508474576272,
+        0.5619047619047619,
+        0.4784261501210654,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6030508474576272,
+      "harmony": 0.5290565325874792,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "21": {
+      "verse_ref": "Matthew 10:21",
+      "english": "“Brother will deliver up brother to death, and the father his child. Children will rise up against parents, and cause them to be put to death.",
+      "wedau": "[“brother] ina [deliver] au tevera da mate ma  Tamatei ana ghoraghora natunatuna ina [rise] au awarina [parents] ma [cause] hita da  terei da mate",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "22": {
+      "verse_ref": "Matthew 10:22",
+      "english": "You will be hated by all men for my name’s sake, but he who endures to the end will be saved.",
+      "wedau": "omi ina  [hated] au anatapuhi rava yamna au [name’s] [sake] tuna tauna aiyai [endures] da  [end] ina  [saved]",
+      "ljpw": [
+        0.5621428571428572,
+        0.5,
+        0.4614285714285714,
+        0.5107142857142858
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5621428571428572,
+      "harmony": 0.503655550232445,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "23": {
+      "verse_ref": "Matthew 10:23",
+      "english": "But when they persecute you in this city, flee into the next, for most certainly I tell you, you will not have gone through the cities of Israel until the Son of Man has come.",
+      "wedau": "tuna maranaina tauhi [persecute] omi au ina meyagaihi [flee] au  [next] yamna anatapuhi [certainly] tau riwehi omi omi ina egha ana nae au  [cities] ana [israel] [until]  natuna ana oroto ana neꞌi",
+      "ljpw": [
+        0.5525547445255474,
+        0.5,
+        0.46058394160583943,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5525547445255474,
+      "harmony": 0.5011077748075726,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "24": {
+      "verse_ref": "Matthew 10:24",
+      "english": "“A disciple is not above his teacher, nor a servant above his lord.",
+      "wedau": "[“a] [disciple]  egha [above] ana [teacher] [nor]  [servant] [above] ana Guyau",
+      "ljpw": [
+        0.7,
+        0.6666666666666666,
+        0.5,
+        0.7333333333333333
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7333333333333333,
+      "harmony": 0.5805011589293861,
+      "translation_notes": "Primary dimension: Wisdom (0.73); Strong secondary: Love"
+    },
+    "25": {
+      "verse_ref": "Matthew 10:25",
+      "english": "It is enough for the disciple that he be like his teacher, and the servant like his lord. If they have called the master of the house Beelzebul, how much more those of his household!",
+      "wedau": "tauna  [enough] yamna  [disciple] raketana tauna  [like] ana [teacher] ma  [servant] [like] ana Guyau tora tauhi ana ghorehi  [master] ana  numa [beelzebul] aiwaꞌi [much] ghe vavahagha raketana ana ana [household!]",
+      "ljpw": [
+        0.6849999999999998,
+        0.6393939393939393,
+        0.48670454545454545,
+        0.6951515151515151
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6951515151515151,
+      "harmony": 0.5664796297667383,
+      "translation_notes": "Primary dimension: Wisdom (0.70); Strong secondary: Love"
+    },
+    "26": {
+      "verse_ref": "Matthew 10:26",
+      "english": "Therefore don’t be afraid of them, for there is nothing covered that will not be revealed; and hidden that will not be known.",
+      "wedau": "[therefore] [don’t]  [afraid] ana hita yamna kampa  [nothing] [covered] raketana ina egha  [revealed;] ma [hidden] raketana ina egha  haramaneꞌi",
+      "ljpw": [
+        0.5041666666666667,
+        0.5541666666666667,
+        0.5,
+        0.6124999999999999
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6124999999999999,
+      "harmony": 0.521073231717507,
+      "translation_notes": "Primary dimension: Wisdom (0.61)"
+    },
+    "27": {
+      "verse_ref": "Matthew 10:27",
+      "english": "What I tell you in the darkness, speak in the light; and what you hear whispered in the ear, proclaim on the housetops.",
+      "wedau": "aiwaꞌi tau riwehi omi au  [darkness] pa au  [light;] ma aiwaꞌi omi [hear] [whispered] au  [ear] [proclaim] au  [housetops]",
+      "ljpw": [
+        0.5313364055299539,
+        0.5,
+        0.47649769585253454,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094237176537793,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "28": {
+      "verse_ref": "Matthew 10:28",
+      "english": "Don’t be afraid of those who kill the body, but are not able to kill the soul. Rather, fear him who is able to destroy both soul and body in Gehenna.",
+      "wedau": "[don’t]  [afraid] ana raketana aiyai [kill]  [body] tuna  egha [able] da [kill]  [soul] [rather] [fear] tauna aiyai  [able] da rau-iviꞌapoapoyeꞌai ruwagha [soul] ma [body] au [gehenna]",
+      "ljpw": [
+        0.525438596491228,
+        0.575,
+        0.593421052631579,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.593421052631579,
+      "harmony": 0.5246128034826532,
+      "translation_notes": "Primary dimension: Power (0.59)"
+    },
+    "29": {
+      "verse_ref": "Matthew 10:29",
+      "english": "“Aren’t two sparrows sold for an assarion coin? Not one of them falls on the ground apart from your Father’s will,",
+      "wedau": "[“aren’t] [two] [sparrows] [sold] yamna [an] [assarion] [coin?] egha [one] ana hita [falls] au  [ground] [apart] au ami [father’s] ina",
+      "ljpw": [
+        0.505913660555884,
+        0.5,
+        0.5,
+        0.5848610289769367
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5848610289769367,
+      "harmony": 0.5109026500523451,
+      "translation_notes": "Primary dimension: Wisdom (0.58)"
+    },
+    "30": {
+      "verse_ref": "Matthew 10:30",
+      "english": "but the very hairs of your head are all numbered.",
+      "wedau": "tuna  ghe aparana ana ami [head]  anatapuhi [numbered]",
+      "ljpw": [
+        0.5653846153846155,
+        0.5,
+        0.4596153846153846,
+        0.5115384615384616
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5653846153846155,
+      "harmony": 0.503871677789091,
+      "translation_notes": "Primary dimension: Love (0.57)"
+    },
+    "31": {
+      "verse_ref": "Matthew 10:31",
+      "english": "Therefore don’t be afraid. You are of more value than many sparrows.",
+      "wedau": "[therefore] [don’t]  [afraid] omi  ana ghe vavahagha [value] da anatapuhi [sparrows]",
+      "ljpw": [
+        0.5638888888888889,
+        0.5,
+        0.4611111111111111,
+        0.5120370370370371
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5638888888888889,
+      "harmony": 0.5039746986797725,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "32": {
+      "verse_ref": "Matthew 10:32",
+      "english": "Everyone therefore who confesses me before men, I will also confess him before my Father who is in heaven.",
+      "wedau": "anatapuhi [therefore] aiyai [confesses] tau naona rava tau ina maitehi [confess] tauna naona au Tamatei aiyai  au marei",
+      "ljpw": [
+        0.5645348837209303,
+        0.5,
+        0.45988372093023255,
+        0.511046511627907
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5645348837209303,
+      "harmony": 0.5037518046829125,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "33": {
+      "verse_ref": "Matthew 10:33",
+      "english": "But whoever denies me before men, I will also deny him before my Father who is in heaven.",
+      "wedau": "tuna [whoever] [denies] tau naona rava tau ina maitehi [deny] tauna naona au Tamatei aiyai  au marei",
+      "ljpw": [
+        0.5671428571428572,
+        0.5,
+        0.4582142857142857,
+        0.5114285714285715
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5671428571428572,
+      "harmony": 0.5038589964385973,
+      "translation_notes": "Primary dimension: Love (0.57)"
+    },
+    "34": {
+      "verse_ref": "Matthew 10:34",
+      "english": "“Don’t think that I came to send peace on the earth. I didn’t come to send peace, but a sword.",
+      "wedau": "[“don’t] [think] raketana tau neꞌi da vivohi [peace] au  dobuna tau [didn’t] neꞌi da vivohi [peace] tuna  [sword]",
+      "ljpw": [
+        0.5,
+        0.5217391304347826,
+        0.5289855072463768,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5289855072463768,
+      "harmony": 0.5063339637674721,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "35": {
+      "verse_ref": "Matthew 10:35",
+      "english": "For I came to set a man at odds against his father, and a daughter against her mother, and a daughter-in-law against her mother-in-law.",
+      "wedau": "yamna tau neꞌi da [set]  oroto au [odds] awarina ana Tamatei ma  natuna awarina ana hinana ma  [daughter-in-law] awarina ana pohiyana",
+      "ljpw": [
+        0.5039285714285714,
+        0.6083333333333333,
+        0.540625,
+        0.5716369047619048
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.6083333333333333,
+      "harmony": 0.528800491639348,
+      "translation_notes": "Primary dimension: Justice (0.61)"
+    },
+    "36": {
+      "verse_ref": "Matthew 10:36",
+      "english": "A man’s foes will be those of his own household.",
+      "wedau": "[man’s] [foes] ina  raketana ana ana ana [household]",
+      "ljpw": [
+        0.5567567567567567,
+        0.5,
+        0.4574324324324324,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5567567567567567,
+      "harmony": 0.5011497522811612,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "37": {
+      "verse_ref": "Matthew 10:37",
+      "english": "He who loves father or mother more than me is not worthy of me; and he who loves son or daughter more than me isn’t worthy of me.",
+      "wedau": "tauna aiyai [loves] Tamatei bo hinana ghe vavahagha da tau  egha tagotagogiu ana [me;] ma tauna aiyai [loves] natuna bo natuna ghe vavahagha da tau [isn’t] tagotagogiu ana tau",
+      "ljpw": [
+        0.6326428845416188,
+        0.5,
+        0.4396432681242808,
+        0.5521672420406598
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6326428845416188,
+      "harmony": 0.5132357270905026,
+      "translation_notes": "Primary dimension: Love (0.63)"
+    },
+    "38": {
+      "verse_ref": "Matthew 10:38",
+      "english": "He who doesn’t take his cross and follow after me, isn’t worthy of me.",
+      "wedau": "tauna aiyai [doesn’t] varahai ana [cross] ma votaghou muriyai tau [isn’t] tagotagogiu ana tau",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "39": {
+      "verse_ref": "Matthew 10:39",
+      "english": "He who seeks his life will lose it; and he who loses his life for my sake will find it.",
+      "wedau": "tauna aiyai [seeks] ana yawahana ina [lose] [it;] ma tauna aiyai [loses] ana yawahana yamna au [sake] ina [find] tauna",
+      "ljpw": [
+        0.5545454545454546,
+        0.5,
+        0.4590909090909091,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5545454545454546,
+      "harmony": 0.501128527515227,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "40": {
+      "verse_ref": "Matthew 10:40",
+      "english": "He who receives you receives me, and he who receives me receives him who sent me.",
+      "wedau": "tauna aiyai [receives] omi [receives] tau ma tauna aiyai [receives] tau [receives] tauna aiyai vivohi tau",
+      "ljpw": [
+        0.5609375,
+        0.5,
+        0.454296875,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5609375,
+      "harmony": 0.5011846209787331,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "41": {
+      "verse_ref": "Matthew 10:41",
+      "english": "He who receives a prophet in the name of a prophet will receive a prophet’s reward. He who receives a righteous man in the name of a righteous man will receive a righteous man’s reward.",
+      "wedau": "tauna aiyai [receives]  peroveta au  wava ana  peroveta ina [receive]  [prophet’s] puyona tauna aiyai [receives]  [righteous] oroto au  wava ana  [righteous] oroto ina [receive]  [righteous] [man’s] puyona",
+      "ljpw": [
+        0.5296347110272681,
+        0.7061624649859944,
+        0.5585577087978049,
+        0.6334819642142571
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7061624649859944,
+      "harmony": 0.5561760905197713,
+      "translation_notes": "Primary dimension: Justice (0.71); Strong secondary: Wisdom"
+    },
+    "42": {
+      "verse_ref": "Matthew 10:42",
+      "english": "Whoever gives one of these little ones just a cup of cold water to drink in the name of a disciple, most certainly I tell you he will in no way lose his reward.”",
+      "wedau": "[whoever] verei [one] ana ina [little] au tagotagogi  [cup] ana [cold] waira da [drink] au  wava ana  [disciple] anatapuhi [certainly] tau riwehi omi tauna ina au egha parata [lose] ana [reward”]",
+      "ljpw": [
+        0.5264774193548388,
+        0.6043010752688173,
+        0.5226516129032259,
+        0.6060075268817205
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6060075268817205,
+      "harmony": 0.5336151888175568,
+      "translation_notes": "Primary dimension: Wisdom (0.61); Strong secondary: Justice"
+    }
+  }
+}

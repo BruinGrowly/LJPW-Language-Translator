@@ -1,0 +1,760 @@
+{
+  "book": "Matthew",
+  "chapter": 12,
+  "source_language": "English",
+  "target_language": "Wedau",
+  "translation_method": "LJPW-Guided Pure Meaning Translation",
+  "timestamp": "2025-12-10T20:04:15.716734",
+  "verses": {
+    "1": {
+      "verse_ref": "Matthew 12:1",
+      "english": "At that time, Jesus went on the Sabbath day through the grain fields. His disciples were hungry and began to pluck heads of grain and to eat.",
+      "wedau": "au raketana mara Yesu nae au  sabate mara au  [grain] [fields] ana tauvotaghotagho  [hungry] ma [began] da [pluck] [heads] ana [grain] ma da [eat]",
+      "ljpw": [
+        0.5742857142857143,
+        0.5718920068027211,
+        0.5133163265306122,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5866666666666667,
+      "harmony": 0.5322667022680555,
+      "translation_notes": "Primary dimension: Wisdom (0.59)"
+    },
+    "2": {
+      "verse_ref": "Matthew 12:2",
+      "english": "But the Pharisees, when they saw it, said to him, “Behold, your disciples do what is not lawful to do on the Sabbath.”",
+      "wedau": "tuna  [pharisees] maranaina tauhi inana tauna riwa da tauna [“behold] ami tauvotaghotagho rura aiwaꞌi  egha [lawful] da rura au  [sabbath”]",
+      "ljpw": [
+        0.5277367576243981,
+        0.599047619047619,
+        0.5163402889245586,
+        0.5619047619047619
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.5263697350250391,
+      "translation_notes": "Primary dimension: Justice (0.60)"
+    },
+    "3": {
+      "verse_ref": "Matthew 12:3",
+      "english": "But he said to them, “Haven’t you read what David did, when he was hungry, and those who were with him;",
+      "wedau": "tuna tauna riwa da hita [“haven’t] omi [read] aiwaꞌi David rura maranaina tauna  [hungry] ma raketana aiyai  maitehi [him;]",
+      "ljpw": [
+        0.5610389610389611,
+        0.5,
+        0.4542207792207792,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5610389610389611,
+      "harmony": 0.501185381649216,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "4": {
+      "verse_ref": "Matthew 12:4",
+      "english": "how he entered into God’s house, and ate the show bread, which was not lawful for him to eat, neither for those who were with him, but only for the priests?",
+      "wedau": "aiwaꞌi tauna rui au [god’s] numa ma [ate]  atataiyana [bread] aiyai  egha [lawful] yamna tauna da [eat] [neither] yamna raketana aiyai  maitehi tauna tuna tagotagogi yamna  [priests?]",
+      "ljpw": [
+        0.6899354838709678,
+        0.6473118279569893,
+        0.4901290322580646,
+        0.7352688172043012
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7352688172043012,
+      "harmony": 0.5740492702205541,
+      "translation_notes": "Primary dimension: Wisdom (0.74); Strong secondary: Love"
+    },
+    "5": {
+      "verse_ref": "Matthew 12:5",
+      "english": "Or have you not read in the law, that on the Sabbath day, the priests in the temple profane the Sabbath, and are guiltless?",
+      "wedau": "bo ana omi egha [read] au  [law] raketana au  sabate mara  pirisina au  [temple] [profane]  sabate ma  [guiltless?]",
+      "ljpw": [
+        0.5,
+        0.6333333333333333,
+        0.55,
+        0.6297250859106529
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.6333333333333333,
+      "harmony": 0.5402747617406652,
+      "translation_notes": "Primary dimension: Justice (0.63); Strong secondary: Wisdom"
+    },
+    "6": {
+      "verse_ref": "Matthew 12:6",
+      "english": "But I tell you that one greater than the temple is here.",
+      "wedau": "tuna tau riwehi omi raketana [one] [greater] da  [temple]  ina",
+      "ljpw": [
+        0.5625,
+        0.5,
+        0.46079545454545456,
+        0.5102272727272728
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5625,
+      "harmony": 0.5035466449058474,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "7": {
+      "verse_ref": "Matthew 12:7",
+      "english": "But if you had known what this means, ‘I desire mercy, and not sacrifice,’ you wouldn’t have condemned the guiltless.",
+      "wedau": "tuna tora omi ana haramaneꞌi aiwaꞌi ina [means] [‘i] [desire] nuwaboyei ma egha [sacrifice’] omi [wouldn’t] ana [condemned]  [guiltless]",
+      "ljpw": [
+        0.5,
+        0.6333333333333333,
+        0.5,
+        0.7666666666666666
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7666666666666666,
+      "harmony": 0.5464500861452716,
+      "translation_notes": "Primary dimension: Wisdom (0.77)"
+    },
+    "8": {
+      "verse_ref": "Matthew 12:8",
+      "english": "For the Son of Man is Lord of the Sabbath.”",
+      "wedau": "yamna  natuna ana oroto  Guyau ana  [sabbath”]",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "9": {
+      "verse_ref": "Matthew 12:9",
+      "english": "He departed from there, and went into their synagogue.",
+      "wedau": "tauna [departed] au kampa ma nae au ahi pari numana",
+      "ljpw": [
+        0.5102272727272728,
+        0.5,
+        0.5,
+        0.5102272727272728
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5102272727272728,
+      "harmony": 0.5025566148524319,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "10": {
+      "verse_ref": "Matthew 12:10",
+      "english": "And behold there was a man with a withered hand. They asked him, “Is it lawful to heal on the Sabbath day?” that they might accuse him.",
+      "wedau": "ma [behold] kampa   oroto maitehi  [withered] nimana tauhi rau-baghei tauna [“is] tauna [lawful] da [heal] au  sabate [day?”] raketana tauhi ita [accuse] tauna",
+      "ljpw": [
+        0.5130786094581898,
+        0.6473118279569893,
+        0.6964276020461426,
+        0.6468817204301075
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.6964276020461426,
+      "harmony": 0.5680268429848425,
+      "translation_notes": "Primary dimension: Power (0.70); Strong secondary: Justice"
+    },
+    "11": {
+      "verse_ref": "Matthew 12:11",
+      "english": "He said to them, “What man is there among you, who has one sheep, and if this one falls into a pit on the Sabbath day, won’t he grab on to it, and lift it out?",
+      "wedau": "tauna riwa da hita [“what] oroto  kampa [among] omi aiyai ana [one] [sheep] ma tora ina [one] [falls] au  [pit] au  sabate mara [won’t] tauna [grab] au da tauna ma [lift] tauna [out?]",
+      "ljpw": [
+        0.5305418719211823,
+        0.5,
+        0.4770935960591133,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094073053272554,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "12": {
+      "verse_ref": "Matthew 12:12",
+      "english": "Of how much more value then is a man than a sheep! Therefore it is lawful to do good on the Sabbath day.”",
+      "wedau": "ana aiwaꞌi [much] ghe vavahagha [value] maratagogi   oroto da  [sheep!] [therefore] tauna  [lawful] da rura [good] au  sabate [day”]",
+      "ljpw": [
+        0.5282857142857142,
+        0.599047619047619,
+        0.5159285714285715,
+        0.5619047619047619
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.526388176086621,
+      "translation_notes": "Primary dimension: Justice (0.60)"
+    },
+    "13": {
+      "verse_ref": "Matthew 12:13",
+      "english": "Then he told the man, “Stretch out your hand.” He stretched it out; and it was restored whole, just like the other.",
+      "wedau": "maratagogi tauna riwehi  oroto [“stretch] hopu ami [hand”] tauna [stretched] tauna [out;] ma tauna  [restored] [whole] tagotagogi [like]  ghehauna",
+      "ljpw": [
+        0.5260098522167488,
+        0.599047619047619,
+        0.5176354679802956,
+        0.5619047619047619
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.5263107955145663,
+      "translation_notes": "Primary dimension: Justice (0.60)"
+    },
+    "14": {
+      "verse_ref": "Matthew 12:14",
+      "english": "But the Pharisees went out, and conspired against him, how they might destroy him.",
+      "wedau": "tuna  [pharisees] nae hopu ma [conspired] awarina tauna aiwaꞌi tauhi ita rau-iviꞌapoapoyeꞌai tauna",
+      "ljpw": [
+        0.5264935064935065,
+        0.5619047619047619,
+        0.5667965367965369,
+        0.5495238095238095
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5667965367965369,
+      "harmony": 0.5268200319485926,
+      "translation_notes": "Primary dimension: Power (0.57)"
+    },
+    "15": {
+      "verse_ref": "Matthew 12:15",
+      "english": "Jesus, perceiving that, withdrew from there. Great multitudes followed him; and he healed them all,",
+      "wedau": "Yesu [perceiving] raketana [withdrew] au kampa ghe vavahagha [multitudes] taghotaghoi [him;] ma tauna yawahanihi hita anatapuhi",
+      "ljpw": [
+        0.585234375,
+        0.5677083333333334,
+        0.5,
+        0.5987760416666668
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5987760416666668,
+      "harmony": 0.5326424025345411,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "16": {
+      "verse_ref": "Matthew 12:16",
+      "english": "and commanded them that they should not make him known:",
+      "wedau": "ma ririweiya hita raketana tauhi ina egha rura tauna [known:]",
+      "ljpw": [
+        0.5045833333333334,
+        0.5541666666666667,
+        0.5,
+        0.6129166666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6129166666666667,
+      "harmony": 0.5211819545737216,
+      "translation_notes": "Primary dimension: Wisdom (0.61)"
+    },
+    "17": {
+      "verse_ref": "Matthew 12:17",
+      "english": "that it might be fulfilled which was spoken through Isaiah the prophet, saying,",
+      "wedau": "raketana tauna ita  ririweiya aiyai  [spoken] au aisaiya  peroveta riwa ipa",
+      "ljpw": [
+        0.5269010989010989,
+        0.5619047619047619,
+        0.5664908424908425,
+        0.5495238095238095
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5664908424908425,
+      "harmony": 0.5268387093659916,
+      "translation_notes": "Primary dimension: Power (0.57)"
+    },
+    "18": {
+      "verse_ref": "Matthew 12:18",
+      "english": "“Behold, my servant whom I have chosen; my beloved in whom my soul is well pleased: I will put my Spirit on him. He will proclaim justice to the nations.",
+      "wedau": "[“behold] au [servant] aiyai tau ana [chosen;] au [beloved] au aiyai au [soul]  ahiahina [pleased:] tau ina terei au aruwa au tauna tauna ina [proclaim] [justice] da  [nations]",
+      "ljpw": [
+        0.5018832391713748,
+        0.8682539682539682,
+        0.638095238095238,
+        0.7320419693301049
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.8682539682539682,
+      "harmony": 0.5937217047724264,
+      "translation_notes": "Primary dimension: Justice (0.87)"
+    },
+    "19": {
+      "verse_ref": "Matthew 12:19",
+      "english": "He will not strive, nor shout; neither will anyone hear his voice in the streets.",
+      "wedau": "tauna ina egha [strive] [nor] [shout;] [neither] ina [anyone] [hear] ana ponana au  [streets]",
+      "ljpw": [
+        0.56484375,
+        0.5,
+        0.46015625,
+        0.51171875
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.56484375,
+      "harmony": 0.5039090617238704,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "20": {
+      "verse_ref": "Matthew 12:20",
+      "english": "He won’t break a bruised reed. He won’t quench a smoking flax, until he leads justice to victory.",
+      "wedau": "tauna [won’t] [break]  [bruised] [reed] tauna [won’t] [quench]  [smoking] [flax] [until] tauna [leads] [justice] da [victory]",
+      "ljpw": [
+        0.5,
+        0.9,
+        0.65,
+        0.75
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.9,
+      "harmony": 0.599850084312943,
+      "translation_notes": "Primary dimension: Justice (0.90)"
+    },
+    "21": {
+      "verse_ref": "Matthew 12:21",
+      "english": "In his name, the nations will hope.”",
+      "wedau": "au ana wava  [nations] ina [hope”]",
+      "ljpw": [
+        0.5685185185185185,
+        0.5,
+        0.4583333333333333,
+        0.512962962962963
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5685185185185185,
+      "harmony": 0.5042224063037253,
+      "translation_notes": "Primary dimension: Love (0.57)"
+    },
+    "22": {
+      "verse_ref": "Matthew 12:22",
+      "english": "Then one possessed by a demon, blind and mute, was brought to him and he healed him, so that the blind and mute man both spoke and saw.",
+      "wedau": "maratagogi [one] [possessed] au  [demon] [blind] ma [mute]  neiyahi da tauna ma tauna yawahanihi tauna yamna raketana  [blind] ma [mute] oroto ruwagha [spoke] ma inana",
+      "ljpw": [
+        0.5,
+        0.5194711538461538,
+        0.5259615384615385,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5259615384615385,
+      "harmony": 0.5056740663228038,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "23": {
+      "verse_ref": "Matthew 12:23",
+      "english": "All the multitudes were amazed, and said, “Can this be the son of David?”",
+      "wedau": "anatapuhi  [multitudes]  tarapirivivira ma riwa [“can] ina   natuna ana [david?”]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.6
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6,
+      "harmony": 0.5117866509228262,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "24": {
+      "verse_ref": "Matthew 12:24",
+      "english": "But when the Pharisees heard it, they said, “This man does not cast out demons, except by Beelzebul, the prince of the demons.”",
+      "wedau": "tuna maranaina  [pharisees] [heard] tauna tauhi riwa [“this] oroto rura egha [cast] hopu aruwa-apoapoehi [except] au [beelzebul]  [prince] ana  [demons”]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "25": {
+      "verse_ref": "Matthew 12:25",
+      "english": "Knowing their thoughts, Jesus said to them, “Every kingdom divided against itself is brought to desolation, and every city or house divided against itself will not stand.",
+      "wedau": "I haramaneꞌi ahi [thoughts] Yesu riwa da hita [“every] vibadana [divided] awarina [itself]  neiyahi da [desolation] ma anatapuhi meyagaihi bo numa [divided] awarina [itself] ina egha [stand]",
+      "ljpw": [
+        0.5,
+        0.7256988302487781,
+        0.8156900433851393,
+        0.6770992366412214
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.8156900433851393,
+      "harmony": 0.594958018815137,
+      "translation_notes": "Primary dimension: Power (0.82); Strong secondary: Justice"
+    },
+    "26": {
+      "verse_ref": "Matthew 12:26",
+      "english": "If Satan casts out Satan, he is divided against himself. How then will his kingdom stand?",
+      "wedau": "I tora satan [casts] hopu satan tauna  [divided] awarina [himself] aiwaꞌi maratagogi ina ana vibadana [stand?]",
+      "ljpw": [
+        0.5,
+        0.6666666666666666,
+        0.7333333333333333,
+        0.6661800486618005
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.7333333333333333,
+      "harmony": 0.5755953344758131,
+      "translation_notes": "Primary dimension: Power (0.73); Strong secondary: Justice"
+    },
+    "27": {
+      "verse_ref": "Matthew 12:27",
+      "english": "If I by Beelzebul cast out demons, by whom do your children cast them out? Therefore they will be your judges.",
+      "wedau": "tora tau au [beelzebul] [cast] hopu aruwa-apoapoehi au aiyai rura ami natunatuna [cast] hita [out?] [therefore] tauhi ina  ami [judges]",
+      "ljpw": [
+        0.5288998357963876,
+        0.5,
+        0.47832512315270936,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5093725512927902,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "28": {
+      "verse_ref": "Matthew 12:28",
+      "english": "But if I by the Spirit of God cast out demons, then God’s Kingdom has come upon you.",
+      "wedau": "tuna tora tau au  aruwa ana God [cast] hopu aruwa-apoapoehi maratagogi [god’s] vibadana ana neꞌi [upon] omi",
+      "ljpw": [
+        0.7656488549618322,
+        0.7262046755725191,
+        0.5064408396946565,
+        0.8099236641221375
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.8099236641221375,
+      "harmony": 0.6097520318924584,
+      "translation_notes": "Primary dimension: Wisdom (0.81); Strong secondary: Love"
+    },
+    "29": {
+      "verse_ref": "Matthew 12:29",
+      "english": "Or how can one enter into the house of the strong man, and plunder his goods, unless he first bind the strong man? Then he will plunder his house.",
+      "wedau": "bo aiwaꞌi ita [one] rui au  numa ana  [strong] oroto ma [plunder] ana [goods] [unless] tauna naona [bind]  [strong] [man?] maratagogi tauna ina [plunder] ana numa",
+      "ljpw": [
+        0.5051708217913204,
+        0.5,
+        0.5,
+        0.584118190212373
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.584118190212373,
+      "harmony": 0.5107184782031176,
+      "translation_notes": "Primary dimension: Wisdom (0.58)"
+    },
+    "30": {
+      "verse_ref": "Matthew 12:30",
+      "english": "“He who is not with me is against me, and he who doesn’t gather with me, scatters.",
+      "wedau": "[“he] aiyai  egha maitehi tau  awarina tau ma tauna aiyai [doesn’t] [gather] maitehi tau [scatters]",
+      "ljpw": [
+        0.5540983606557377,
+        0.5,
+        0.4594262295081967,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5540983606557377,
+      "harmony": 0.5011240023715314,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "31": {
+      "verse_ref": "Matthew 12:31",
+      "english": "Therefore I tell you, every sin and blasphemy will be forgiven men, but the blasphemy against the Spirit will not be forgiven men.",
+      "wedau": "[therefore] tau riwehi omi anatapuhi [sin] ma [blasphemy] ina  [forgiven] rava tuna  [blasphemy] awarina  aruwa ina egha  [forgiven] rava",
+      "ljpw": [
+        0.6797802197802197,
+        0.6474358974358974,
+        0.5,
+        0.7092673992673992
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7092673992673992,
+      "harmony": 0.5716753111337656,
+      "translation_notes": "Primary dimension: Wisdom (0.71); Strong secondary: Love"
+    },
+    "32": {
+      "verse_ref": "Matthew 12:32",
+      "english": "Whoever speaks a word against the Son of Man, it will be forgiven him; but whoever speaks against the Holy Spirit, it will not be forgiven him, neither in this age, nor in that which is to come.",
+      "wedau": "[whoever] pa  riwana awarina  natuna ana oroto tauna ina  [forgiven] [him;] tuna [whoever] pa awarina  [holy] aruwa tauna ina egha  [forgiven] tauna [neither] au ina [age] [nor] au raketana aiyai  da neꞌi",
+      "ljpw": [
+        0.8133951517248196,
+        0.7500621890547263,
+        0.5910497182959376,
+        0.843594527363184
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.843594527363184,
+      "harmony": 0.6503722594532736,
+      "translation_notes": "Primary dimension: Wisdom (0.84); Strong secondary: Love"
+    },
+    "33": {
+      "verse_ref": "Matthew 12:33",
+      "english": "“Either make the tree good, and its fruit good, or make the tree corrupt, and its fruit corrupt; for the tree is known by its fruit.",
+      "wedau": "[“either] rura  [tree] [good] ma tauna [fruit] [good] bo rura  [tree] [corrupt] ma tauna [fruit] [corrupt;] yamna  [tree]  haramaneꞌi au tauna [fruit]",
+      "ljpw": [
+        0.5,
+        0.5598349834983498,
+        0.5137482319660538,
+        0.599047619047619
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.521639531282756,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "34": {
+      "verse_ref": "Matthew 12:34",
+      "english": "You offspring of vipers, how can you, being evil, speak good things? For out of the abundance of the heart, the mouth speaks.",
+      "wedau": "omi [offspring] ana [vipers] aiwaꞌi ita omi  [evil] pa [good] [things?] yamna hopu ana  [abundance] ana  urana  [mouth] pa",
+      "ljpw": [
+        0.4,
+        0.4,
+        0.5,
+        0.5463917525773196
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5463917525773196,
+      "harmony": 0.4797716566721492,
+      "translation_notes": "Primary dimension: Wisdom (0.55); Low harmony verse (distinctive emphasis)"
+    },
+    "35": {
+      "verse_ref": "Matthew 12:35",
+      "english": "The good man out of his good treasure brings out good things, and the evil man out of his evil treasure brings out evil things.",
+      "wedau": "[good] oroto hopu ana ana [good] [treasure] [brings] hopu [good] [things] ma  [evil] oroto hopu ana ana [evil] [treasure] [brings] hopu [evil] [things]",
+      "ljpw": [
+        0.4,
+        0.4,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5,
+      "harmony": 0.47516409872148213,
+      "translation_notes": "Primary dimension: Power (0.50); Low harmony verse (distinctive emphasis)"
+    },
+    "36": {
+      "verse_ref": "Matthew 12:36",
+      "english": "I tell you that every idle word that men speak, they will give account of it in the day of judgment.",
+      "wedau": "tau riwehi omi raketana anatapuhi [idle] riwana raketana rava pa tauhi ina verei [account] ana tauna au  mara ana [judgment]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "37": {
+      "verse_ref": "Matthew 12:37",
+      "english": "For by your words you will be justified, and by your words you will be condemned.”",
+      "wedau": "yamna au ami riwehi omi ina  [justified] ma au ami riwehi omi ina  [condemned”]",
+      "ljpw": [
+        0.5421875,
+        0.5877637130801688,
+        0.5064774525316456,
+        0.5617945675105486
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.5877637130801688,
+      "harmony": 0.5255303393023396,
+      "translation_notes": "Primary dimension: Justice (0.59)"
+    },
+    "38": {
+      "verse_ref": "Matthew 12:38",
+      "english": "Then certain of the scribes and Pharisees answered, “Teacher, we want to see a sign from you.”",
+      "wedau": "maratagogi [certain] ana  tauviharaharamanahi ma [pharisees] [answered] [“teacher] ita [want] da inana  [sign] au [you”]",
+      "ljpw": [
+        0.5260665362035225,
+        0.5495238095238095,
+        0.48045009784735815,
+        0.599047619047619
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.5191001279999373,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "39": {
+      "verse_ref": "Matthew 12:39",
+      "english": "But he answered them, “An evil and adulterous generation seeks after a sign, but no sign will be given to it but the sign of Jonah the prophet.",
+      "wedau": "tuna tauna [answered] hita [“an] [evil] ma [adulterous] [generation] [seeks] muriyai  [sign] tuna egha [sign] ina  verei da tauna tuna  [sign] ana [jonah]  peroveta",
+      "ljpw": [
+        0.4,
+        0.4,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5,
+      "harmony": 0.47516409872148213,
+      "translation_notes": "Primary dimension: Power (0.50); Low harmony verse (distinctive emphasis)"
+    },
+    "40": {
+      "verse_ref": "Matthew 12:40",
+      "english": "For as Jonah was three days and three nights in the belly of the whale, so will the Son of Man be three days and three nights in the heart of the earth.",
+      "wedau": "yamna  [jonah]  [three] maratom ma [three] diedie au  [belly] ana  [whale] yamna ina  natuna ana oroto  [three] maratom ma [three] diedie au  urana ana  dobuna",
+      "ljpw": [
+        0.552542372881356,
+        0.5,
+        0.46059322033898303,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.552542372881356,
+      "harmony": 0.5011076409635277,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "41": {
+      "verse_ref": "Matthew 12:41",
+      "english": "The men of Nineveh will stand up in the judgment with this generation, and will condemn it, for they repented at the preaching of Jonah; and behold, someone greater than Jonah is here.",
+      "wedau": "rava ana [nineveh] ina [stand] au au  [judgment] maitehi ina [generation] ma ina [condemn] tauna yamna tauhi wanavira-meyemi au  rau-guguyei ana [jonah;] ma [behold] [someone] [greater] da [jonah]  ina",
+      "ljpw": [
+        0.5037006802721089,
+        0.6679999999999999,
+        0.5,
+        0.5037006802721089
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.6679999999999999,
+      "harmony": 0.5198859500965094,
+      "translation_notes": "Primary dimension: Justice (0.67)"
+    },
+    "42": {
+      "verse_ref": "Matthew 12:42",
+      "english": "The Queen of the South will rise up in the judgment with this generation, and will condemn it, for she came from the ends of the earth to hear the wisdom of Solomon; and behold, someone greater than Solomon is here.",
+      "wedau": "[queen] ana  [south] ina [rise] au au  [judgment] maitehi ina [generation] ma ina [condemn] tauna yamna tauna neꞌi au  [ends] ana  dobuna da [hear]  [wisdom] ana [solomon;] ma [behold] [someone] [greater] da [solomon]  ina",
+      "ljpw": [
+        0.5041911764705882,
+        0.5541666666666667,
+        0.5,
+        0.6125245098039215
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6125245098039215,
+      "harmony": 0.5210796274527891,
+      "translation_notes": "Primary dimension: Wisdom (0.61)"
+    },
+    "43": {
+      "verse_ref": "Matthew 12:43",
+      "english": "When an unclean spirit has gone out of a man, he passes through waterless places, seeking rest, and doesn’t find it.",
+      "wedau": "maranaina [an] apoapoena aruwa ana nae hopu ana  oroto tauna [passes] au [waterless] gabu [seeking] [rest] ma [doesn’t] [find] tauna",
+      "ljpw": [
+        0.7,
+        0.6666666666666666,
+        0.5,
+        0.7661800486618005
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7661800486618005,
+      "harmony": 0.584390643134162,
+      "translation_notes": "Primary dimension: Wisdom (0.77); Strong secondary: Love"
+    },
+    "44": {
+      "verse_ref": "Matthew 12:44",
+      "english": "Then he says, ‘I will return into my house from which I came out,’ and when he has come back, he finds it empty, swept, and put in order.",
+      "wedau": "maratagogi tauna riwa [‘i] ina [return] au au numa au aiyai tau neꞌi [out’] ma maranaina tauna ana neꞌi [back] tauna [finds] tauna [empty] [swept] ma terei au [order]",
+      "ljpw": [
+        0.5264780763790664,
+        0.599047619047619,
+        0.5172842998585574,
+        0.5619047619047619
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.5263269151116347,
+      "translation_notes": "Primary dimension: Justice (0.60)"
+    },
+    "45": {
+      "verse_ref": "Matthew 12:45",
+      "english": "Then he goes, and takes with himself seven other spirits more evil than he is, and they enter in and dwell there. The last state of that man becomes worse than the first. Even so will it be also to this evil generation.”",
+      "wedau": "maratagogi tauna nae ma varahai maitehi [himself] [seven] ghehauna aruwa ghe vavahagha [evil] da tauna  ma tauhi rui au ma [dwell] kampa  muriyai [state] ana raketana oroto [becomes] [worse] da  naona ma yamna ina tauna  maitehi da ina [evil] [generation”]",
+      "ljpw": [
+        0.7,
+        0.6666666666666666,
+        0.5,
+        0.7333333333333333
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7333333333333333,
+      "harmony": 0.5805011589293861,
+      "translation_notes": "Primary dimension: Wisdom (0.73); Strong secondary: Love"
+    },
+    "46": {
+      "verse_ref": "Matthew 12:46",
+      "english": "While he was yet speaking to the multitudes, behold, his mother and his brothers stood outside, seeking to speak to him.",
+      "wedau": "[while] tauna  [yet] pa da  [multitudes] [behold] ana hinana ma ana tevera [stood] [outside] [seeking] da pa da tauna",
+      "ljpw": [
+        0.5385104790419162,
+        0.5666323602794412,
+        0.5634200349301398,
+        0.5415169660678643
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.5666323602794412,
+      "harmony": 0.5276167972071778,
+      "translation_notes": "Primary dimension: Justice (0.57)"
+    },
+    "47": {
+      "verse_ref": "Matthew 12:47",
+      "english": "One said to him, “Behold, your mother and your brothers stand outside, seeking to speak to you.”",
+      "wedau": "[one] riwa da tauna [“behold] ami hinana ma ami tevera [stand] [outside] [seeking] da pa da [you”]",
+      "ljpw": [
+        0.5264092664092664,
+        0.5619047619047619,
+        0.5668597168597169,
+        0.5495238095238095
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5668597168597169,
+      "harmony": 0.5268161620889651,
+      "translation_notes": "Primary dimension: Power (0.57)"
+    },
+    "48": {
+      "verse_ref": "Matthew 12:48",
+      "english": "But he answered him who spoke to him, “Who is my mother? Who are my brothers?”",
+      "wedau": "tuna tauna [answered] tauna aiyai [spoke] da tauna [“who]  au [mother?] aiyai  au [brothers?”]",
+      "ljpw": [
+        0.5334975369458128,
+        0.5,
+        0.4748768472906404,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094670247202366,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "49": {
+      "verse_ref": "Matthew 12:49",
+      "english": "He stretched out his hand toward his disciples, and said, “Behold, my mother and my brothers!",
+      "wedau": "tauna [stretched] hopu ana nimana [toward] ana tauvotaghotagho ma riwa [“behold] au hinana ma au [brothers!]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "50": {
+      "verse_ref": "Matthew 12:50",
+      "english": "For whoever does the will of my Father who is in heaven, he is my brother, and sister, and mother.”",
+      "wedau": "yamna [whoever] rura  ina ana au Tamatei aiyai  au marei tauna  au tevera ma [sister] ma [mother”]",
+      "ljpw": [
+        0.5640000000000001,
+        0.5,
+        0.45999999999999996,
+        0.5106666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5640000000000001,
+      "harmony": 0.5036601141545779,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    }
+  }
+}

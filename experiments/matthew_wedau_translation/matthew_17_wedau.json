@@ -1,0 +1,415 @@
+{
+  "book": "Matthew",
+  "chapter": 17,
+  "source_language": "English",
+  "target_language": "Wedau",
+  "translation_method": "LJPW-Guided Pure Meaning Translation",
+  "timestamp": "2025-12-10T20:04:15.738243",
+  "verses": {
+    "1": {
+      "verse_ref": "Matthew 17:1",
+      "english": "After six days, Jesus took with him Peter, James, and John his brother, and brought them up into a high mountain by themselves.",
+      "wedau": "muriyai [six] maratom Yesu varahai maitehi tauna [peter] james ma john ana tevera ma neiyahi hita au au  [high] dobuna au [themselves]",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "2": {
+      "verse_ref": "Matthew 17:2",
+      "english": "He was changed before them. His face shone like the sun, and his garments became as white as the light.",
+      "wedau": "tauna  [changed] naona hita ana [face] [shone] [like]  [sun] ma ana [garments] [became]  [white]   [light]",
+      "ljpw": [
+        0.5518518518518519,
+        0.5,
+        0.4611111111111111,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5518518518518519,
+      "harmony": 0.5011000750750837,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "3": {
+      "verse_ref": "Matthew 17:3",
+      "english": "Behold, Moses and Elijah appeared to them talking with him.",
+      "wedau": "[behold] moses ma [elijah] [appeared] da hita [talking] maitehi tauna",
+      "ljpw": [
+        0.5,
+        0.5833333333333334,
+        0.6166666666666667,
+        0.5666666666666667
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.534524006175688,
+      "translation_notes": "Primary dimension: Power (0.62)"
+    },
+    "4": {
+      "verse_ref": "Matthew 17:4",
+      "english": "Peter answered, and said to Jesus, “Lord, it is good for us to be here. If you want, let’s make three tents here: one for you, one for Moses, and one for Elijah.”",
+      "wedau": "[peter] [answered] ma riwa da Yesu [“lord] tauna  [good] yamna ita da  ina tora omi [want] [let’s] rura [three] [tents] [here:] [one] yamna omi [one] yamna moses ma [one] yamna [elijah”]",
+      "ljpw": [
+        0.7,
+        0.6666666666666666,
+        0.5,
+        0.7333333333333333
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7333333333333333,
+      "harmony": 0.5805011589293861,
+      "translation_notes": "Primary dimension: Wisdom (0.73); Strong secondary: Love"
+    },
+    "5": {
+      "verse_ref": "Matthew 17:5",
+      "english": "While he was still speaking, behold, a bright cloud overshadowed them. Behold, a voice came out of the cloud, saying, “This is my beloved Son, in whom I am well pleased. Listen to him.”",
+      "wedau": "I [while] tauna  [still] pa [behold]  [bright] [cloud] [overshadowed] hita [behold]  ponana neꞌi hopu ana  [cloud] riwa ipa [“this]  au [beloved] natuna au aiyai tau [am] ahiahina nuwa-ahiahiniu [listen] da [him”]",
+      "ljpw": [
+        0.511694006821504,
+        0.7213740458015268,
+        0.8011531590060095,
+        0.6770992366412214
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.8011531590060095,
+      "harmony": 0.5958961964283668,
+      "translation_notes": "Primary dimension: Power (0.80); Strong secondary: Justice"
+    },
+    "6": {
+      "verse_ref": "Matthew 17:6",
+      "english": "When the disciples heard it, they fell on their faces, and were very afraid.",
+      "wedau": "maranaina  tauvotaghotagho [heard] tauna tauhi [fell] au ahi [faces] ma  ghe [afraid]",
+      "ljpw": [
+        0.5295238095238095,
+        0.5,
+        0.47785714285714287,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5093858903978661,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "7": {
+      "verse_ref": "Matthew 17:7",
+      "english": "Jesus came and touched them and said, “Get up, and don’t be afraid.”",
+      "wedau": "Yesu neꞌi ma dodani hita ma riwa [“get] au ma [don’t]  [afraid”]",
+      "ljpw": [
+        0.5742857142857143,
+        0.5727047619047619,
+        0.5144,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5866666666666667,
+      "harmony": 0.5325489261707573,
+      "translation_notes": "Primary dimension: Wisdom (0.59)"
+    },
+    "8": {
+      "verse_ref": "Matthew 17:8",
+      "english": "Lifting up their eyes, they saw no one, except Jesus alone.",
+      "wedau": "[lifting] au ahi [eyes] tauhi inana egha [one] [except] Yesu [alone]",
+      "ljpw": [
+        0.6011180124223603,
+        0.5619047619047619,
+        0.47987577639751555,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6011180124223603,
+      "harmony": 0.529052108903355,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "9": {
+      "verse_ref": "Matthew 17:9",
+      "english": "As they were coming down from the mountain, Jesus commanded them, saying, “Don’t tell anyone what you saw, until the Son of Man has risen from the dead.”",
+      "wedau": "tauhi  naenae au au  dobuna Yesu ririweiya hita riwa ipa [“don’t] riwehi [anyone] aiwaꞌi omi inana [until]  natuna ana oroto ana [risen] au  [dead”]",
+      "ljpw": [
+        0.5856991525423729,
+        0.5677083333333334,
+        0.5,
+        0.5992408192090396
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5992408192090396,
+      "harmony": 0.5327650185292461,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "10": {
+      "verse_ref": "Matthew 17:10",
+      "english": "His disciples asked him, saying, “Then why do the scribes say that Elijah must come first?”",
+      "wedau": "ana tauvotaghotagho rau-baghei tauna riwa ipa [“then] yamna rura  tauviharaharamanahi riwa raketana [elijah] ina neꞌi [first?”]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.6
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6,
+      "harmony": 0.5117866509228262,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "11": {
+      "verse_ref": "Matthew 17:11",
+      "english": "Jesus answered them, “Elijah indeed comes first, and will restore all things,",
+      "wedau": "Yesu [answered] hita [“elijah] [indeed] neꞌi naona ma ina [restore] anatapuhi [things]",
+      "ljpw": [
+        0.5857862903225807,
+        0.5677083333333334,
+        0.5,
+        0.5993279569892473
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5993279569892473,
+      "harmony": 0.5327880043595313,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "12": {
+      "verse_ref": "Matthew 17:12",
+      "english": "but I tell you that Elijah has come already, and they didn’t recognize him, but did to him whatever they wanted to. Even so the Son of Man will also suffer by them.”",
+      "wedau": "tuna tau riwehi omi raketana [elijah] ana neꞌi [already] ma tauhi [didn’t] [recognize] tauna tuna rura da tauna [whatever] tauhi [wanted] da ma yamna  natuna ana oroto ina maitehi [suffer] au [them”]",
+      "ljpw": [
+        0.5511811023622047,
+        0.5,
+        0.46161417322834647,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5511811023622047,
+      "harmony": 0.5010925463579574,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "13": {
+      "verse_ref": "Matthew 17:13",
+      "english": "Then the disciples understood that he spoke to them of John the Baptizer.",
+      "wedau": "maratagogi  tauvotaghotagho [understood] raketana tauna [spoke] da hita ana john  [baptizer]",
+      "ljpw": [
+        0.5,
+        0.52125,
+        0.5283333333333333,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5283333333333333,
+      "harmony": 0.506191669086743,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "14": {
+      "verse_ref": "Matthew 17:14",
+      "english": "When they came to the multitude, a man came to him, kneeling down to him, and saying,",
+      "wedau": "maranaina tauhi neꞌi da  [multitude]  oroto neꞌi da tauna peꞌu au da tauna ma riwa ipa",
+      "ljpw": [
+        0.5478846153846154,
+        0.5,
+        0.47057692307692306,
+        0.5711538461538461
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5711538461538461,
+      "harmony": 0.5106106347710223,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "15": {
+      "verse_ref": "Matthew 17:15",
+      "english": "“Lord, have mercy on my son, for he is epileptic, and suffers grievously; for he often falls into the fire, and often into the water.",
+      "wedau": "[“lord] ana nuwaboyei au au natuna yamna tauna  [epileptic] ma [suffers] [grievously;] yamna tauna [often] [falls] au  [fire] ma [often] au  waira",
+      "ljpw": [
+        0.679524886877828,
+        0.6474358974358974,
+        0.5,
+        0.7090120663650075
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7090120663650075,
+      "harmony": 0.5716072563352319,
+      "translation_notes": "Primary dimension: Wisdom (0.71); Strong secondary: Love"
+    },
+    "16": {
+      "verse_ref": "Matthew 17:16",
+      "english": "So I brought him to your disciples, and they could not cure him.”",
+      "wedau": "yamna tau neiyahi tauna da ami tauvotaghotagho ma tauhi ita egha [cure] [him”]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "17": {
+      "verse_ref": "Matthew 17:17",
+      "english": "Jesus answered, “Faithless and perverse generation! How long will I be with you? How long will I bear with you? Bring him here to me.”",
+      "wedau": "Yesu [answered] [“faithless] ma [perverse] [generation!] aiwaꞌi [long] ina tau  maitehi [you?] aiwaꞌi [long] ina tau [bear] maitehi [you?] [bring] tauna ina da [me”]",
+      "ljpw": [
+        0.6067647979956154,
+        0.5651881720430109,
+        0.48224240526150963,
+        0.6324159620002089
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6324159620002089,
+      "harmony": 0.536415711994047,
+      "translation_notes": "Primary dimension: Wisdom (0.63); Strong secondary: Love"
+    },
+    "18": {
+      "verse_ref": "Matthew 17:18",
+      "english": "Jesus rebuked him, the demon went out of him, and the boy was cured from that hour.",
+      "wedau": "Yesu rau-gamopotai tauna  [demon] nae hopu ana tauna ma  [boy]  [cured] au raketana [hour]",
+      "ljpw": [
+        0.6008035714285714,
+        0.5619047619047619,
+        0.48011160714285717,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6008035714285714,
+      "harmony": 0.5290512156736578,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "19": {
+      "verse_ref": "Matthew 17:19",
+      "english": "Then the disciples came to Jesus privately, and said, “Why weren’t we able to cast it out?”",
+      "wedau": "maratagogi  tauvotaghotagho neꞌi da Yesu [privately] ma riwa [“why] [weren’t] ita [able] da [cast] tauna [out?”]",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6630584192439863
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6630584192439863,
+      "harmony": 0.5449741131137927,
+      "translation_notes": "Primary dimension: Wisdom (0.66)"
+    },
+    "20": {
+      "verse_ref": "Matthew 17:20",
+      "english": "He said to them, “Because of your unbelief. For most certainly I tell you, if you have faith as a grain of mustard seed, you will tell this mountain, ‘Move from here to there,’ and it will move; and nothing will be impossible for you.",
+      "wedau": "tauna riwa da hita [“because] ana ami [unbelief] yamna anatapuhi [certainly] tau riwehi omi tora omi ana [faith]   [grain] ana [mustard] [seed] omi ina riwehi ina dobuna [‘move] au ina da [there’] ma tauna ina [move;] ma [nothing] ina  [impossible] yamna omi",
+      "ljpw": [
+        0.5622905027932961,
+        0.5,
+        0.46145251396648046,
+        0.5108938547486034
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5622905027932961,
+      "harmony": 0.5036981260654104,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "21": {
+      "verse_ref": "Matthew 17:21",
+      "english": "But this kind doesn’t go out except by prayer and fasting.”",
+      "wedau": "tuna ina [kind] [doesn’t] nae hopu [except] au [prayer] ma [fasting”]",
+      "ljpw": [
+        0.5,
+        0.5260869565217392,
+        0.5347826086956522,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5347826086956522,
+      "harmony": 0.5075981702808516,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "22": {
+      "verse_ref": "Matthew 17:22",
+      "english": "While they were staying in Galilee, Jesus said to them, “The Son of Man is about to be delivered up into the hands of men,",
+      "wedau": "[while] tauhi  [staying] au galili Yesu riwa da hita [“the] natuna ana oroto  awarina da  [delivered] au au  nimana ana rava",
+      "ljpw": [
+        0.6010942249240121,
+        0.5619047619047619,
+        0.4798936170212766,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6010942249240121,
+      "harmony": 0.5290520430285922,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "23": {
+      "verse_ref": "Matthew 17:23",
+      "english": "and they will kill him, and the third day he will be raised up.” They were exceedingly sorry.",
+      "wedau": "ma tauhi ina [kill] tauna ma  [third] mara tauna ina  [raised] [up”] tauhi  [exceedingly] [sorry]",
+      "ljpw": [
+        0.563888888888889,
+        0.5,
+        0.46041666666666664,
+        0.5111111111111112
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.563888888888889,
+      "harmony": 0.5037615367448339,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "24": {
+      "verse_ref": "Matthew 17:24",
+      "english": "When they had come to Capernaum, those who collected the didrachma coins came to Peter, and said, “Doesn’t your teacher pay the didrachma?”",
+      "wedau": "maranaina tauhi ana neꞌi da kapernaum raketana aiyai [collected]  [didrachma] [coins] neꞌi da [peter] ma riwa [“doesn’t] ami [teacher] [pay]  [didrachma?”]",
+      "ljpw": [
+        0.5162213438735177,
+        0.556231884057971,
+        0.4878339920948616,
+        0.6515942028985506
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6515942028985506,
+      "harmony": 0.5255987269895263,
+      "translation_notes": "Primary dimension: Wisdom (0.65)"
+    },
+    "25": {
+      "verse_ref": "Matthew 17:25",
+      "english": "He said, “Yes.” When he came into the house, Jesus anticipated him, saying, “What do you think, Simon? From whom do the kings of the earth receive toll or tribute? From their children, or from strangers?”",
+      "wedau": "tauna riwa [“yes”] maranaina tauna neꞌi au  numa Yesu [anticipated] tauna riwa ipa [“what] rura omi [think] [simon?] au aiyai rura  kingi ana  dobuna [receive] [toll] bo [tribute?] au ahi natunatuna bo au [strangers?”]",
+      "ljpw": [
+        0.6884620187304891,
+        0.6473118279569893,
+        0.4912341311134235,
+        0.7352688172043012
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7352688172043012,
+      "harmony": 0.5740958619431187,
+      "translation_notes": "Primary dimension: Wisdom (0.74); Strong secondary: Love"
+    },
+    "26": {
+      "verse_ref": "Matthew 17:26",
+      "english": "Peter said to him, “From strangers.” Jesus said to him, “Therefore the children are exempt.",
+      "wedau": "[peter] riwa da tauna [“from] [strangers”] Yesu riwa da tauna [“therefore]  natunatuna  [exempt]",
+      "ljpw": [
+        0.5852678571428571,
+        0.5677083333333334,
+        0.5,
+        0.5988095238095239
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5988095238095239,
+      "harmony": 0.5326512364421119,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "27": {
+      "verse_ref": "Matthew 17:27",
+      "english": "But, lest we cause them to stumble, go to the sea, cast a hook, and take up the first fish that comes up. When you have opened its mouth, you will find a stater coin. Take that, and give it to them for me and you.”",
+      "wedau": "tuna [lest] ita [cause] hita da [stumble] nae da  topana [cast]  [hook] ma varahai au  naona [fish] raketana neꞌi au maranaina omi ana wana-tawaneꞌi tauna [mouth] omi ina [find]  [stater] [coin] varahai raketana ma verei tauna da hita yamna tau ma [you”]",
+      "ljpw": [
+        0.5509433962264151,
+        0.5,
+        0.46179245283018866,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5509433962264151,
+      "harmony": 0.5010898358273143,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    }
+  }
+}

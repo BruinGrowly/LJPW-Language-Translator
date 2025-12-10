@@ -1,0 +1,460 @@
+{
+  "book": "Matthew",
+  "chapter": 19,
+  "source_language": "English",
+  "target_language": "Wedau",
+  "translation_method": "LJPW-Guided Pure Meaning Translation",
+  "timestamp": "2025-12-10T20:04:15.747089",
+  "verses": {
+    "1": {
+      "verse_ref": "Matthew 19:1",
+      "english": "When Jesus had finished these words, he departed from Galilee, and came into the borders of Judea beyond the Jordan.",
+      "wedau": "maranaina Yesu ana [finished] ina riwehi tauna [departed] au galili ma neꞌi au  [borders] ana judiya [beyond]  jordan",
+      "ljpw": [
+        0.7,
+        0.6666666666666666,
+        0.5,
+        0.7661800486618005
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7661800486618005,
+      "harmony": 0.584390643134162,
+      "translation_notes": "Primary dimension: Wisdom (0.77); Strong secondary: Love"
+    },
+    "2": {
+      "verse_ref": "Matthew 19:2",
+      "english": "Great multitudes followed him, and he healed them there.",
+      "wedau": "ghe vavahagha [multitudes] taghotaghoi tauna ma tauna yawahanihi hita kampa",
+      "ljpw": [
+        0.5630434782608696,
+        0.5,
+        0.4608695652173913,
+        0.5108695652173914
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5630434782608696,
+      "harmony": 0.5036989771014146,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "3": {
+      "verse_ref": "Matthew 19:3",
+      "english": "Pharisees came to him, testing him, and saying, “Is it lawful for a man to divorce his wife for any reason?”",
+      "wedau": "[pharisees] neꞌi da tauna [testing] tauna ma riwa ipa [“is] tauna [lawful] yamna  oroto da [divorce] ana [wife] yamna ghehauna [reason?”]",
+      "ljpw": [
+        0.5022823897963751,
+        0.6186544342507645,
+        0.5444954128440367,
+        0.6177258148728277
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.6186544342507645,
+      "harmony": 0.5364358502587304,
+      "translation_notes": "Primary dimension: Justice (0.62); Strong secondary: Wisdom"
+    },
+    "4": {
+      "verse_ref": "Matthew 19:4",
+      "english": "He answered, “Haven’t you read that he who made them from the beginning made them male and female,",
+      "wedau": "tauna [answered] [“haven’t] omi [read] raketana tauna aiyai rura hita au  weꞌi rura hita [male] ma [female]",
+      "ljpw": [
+        0.564935064935065,
+        0.5,
+        0.46006493506493507,
+        0.5116883116883117
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.564935064935065,
+      "harmony": 0.5039027605446602,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "5": {
+      "verse_ref": "Matthew 19:5",
+      "english": "and said, ‘For this cause a man shall leave his father and mother, and shall be joined to his wife; and the two shall become one flesh?’",
+      "wedau": "ma riwa [‘for] ina [cause]  oroto ina [leave] ana Tamatei ma hinana ma ina  [joined] da ana [wife;] ma  [two] ina [become] [one] [flesh?’]",
+      "ljpw": [
+        0.504251012145749,
+        0.5,
+        0.5,
+        0.5831983805668016
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5831983805668016,
+      "harmony": 0.5104903859209053,
+      "translation_notes": "Primary dimension: Wisdom (0.58)"
+    },
+    "6": {
+      "verse_ref": "Matthew 19:6",
+      "english": "So that they are no more two, but one flesh. What therefore God has joined together, don’t let man tear apart.”",
+      "wedau": "yamna raketana tauhi  egha ghe vavahagha [two] tuna [one] [flesh] aiwaꞌi [therefore] God ana [joined] [together] [don’t] ita oroto [tear] [apart”]",
+      "ljpw": [
+        0.6003025210084034,
+        0.5619047619047619,
+        0.4804873949579832,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6003025210084034,
+      "harmony": 0.5290496919867677,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "7": {
+      "verse_ref": "Matthew 19:7",
+      "english": "They asked him, “Why then did Moses command us to give her a certificate of divorce, and divorce her?”",
+      "wedau": "tauhi rau-baghei tauna [“why] maratagogi rura moses [command] ita da verei ana  [certificate] ana [divorce] ma [divorce] [her?”]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.6
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6,
+      "harmony": 0.5117866509228262,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "8": {
+      "verse_ref": "Matthew 19:8",
+      "english": "He said to them, “Moses, because of the hardness of your hearts, allowed you to divorce your wives, but from the beginning it has not been so.",
+      "wedau": "tauna riwa da hita [“moses] yamna ana  [hardness] ana ami urana [allowed] omi da [divorce] ami [wives] tuna au  weꞌi tauna ana egha  yamna",
+      "ljpw": [
+        0.5518181818181819,
+        0.5,
+        0.4611363636363636,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5518181818181819,
+      "harmony": 0.5010997013670888,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "9": {
+      "verse_ref": "Matthew 19:9",
+      "english": "I tell you that whoever divorces his wife, except for sexual immorality, and marries another, commits adultery; and he who marries her when she is divorced commits adultery.”",
+      "wedau": "tau riwehi omi raketana [whoever] [divorces] ana [wife] [except] yamna [sexual] [immorality] ma [marries] [another] [commits] [adultery;] ma tauna aiyai [marries] ana maranaina tauna  [divorced] [commits] [adultery”]",
+      "ljpw": [
+        0.5613475177304965,
+        0.5,
+        0.4622340425531915,
+        0.5109929078014185
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5613475177304965,
+      "harmony": 0.503712502528062,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "10": {
+      "verse_ref": "Matthew 19:10",
+      "english": "His disciples said to him, “If this is the case of the man with his wife, it is not expedient to marry.”",
+      "wedau": "ana tauvotaghotagho riwa da tauna [“if] ina   [case] ana  oroto maitehi ana [wife] tauna  egha [expedient] da [marry”]",
+      "ljpw": [
+        0.5512820512820513,
+        0.5,
+        0.4615384615384615,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5512820512820513,
+      "harmony": 0.5010936907467148,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "11": {
+      "verse_ref": "Matthew 19:11",
+      "english": "But he said to them, “Not all men can receive this saying, but those to whom it is given.",
+      "wedau": "tuna tauna riwa da hita [“not] anatapuhi rava ita [receive] ina riwa ipa tuna raketana da aiyai tauna  verei",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "12": {
+      "verse_ref": "Matthew 19:12",
+      "english": "For there are eunuchs who were born that way from their mother’s womb, and there are eunuchs who were made eunuchs by men; and there are eunuchs who made themselves eunuchs for the Kingdom of Heaven’s sake. He who is able to receive it, let him receive it.”",
+      "wedau": "yamna kampa  [eunuchs] aiyai  [born] raketana parata au ahi [mother’s] [womb] ma kampa  [eunuchs] aiyai  rura [eunuchs] au [men;] ma kampa  [eunuchs] aiyai rura [themselves] [eunuchs] yamna  vibadana ana [heaven’s] [sake] tauna aiyai  [able] da [receive] tauna ita tauna [receive] [it”]",
+      "ljpw": [
+        0.6066979459139944,
+        0.7744092039800995,
+        0.7554553962858972,
+        0.7682213930348258
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7744092039800995,
+      "harmony": 0.6390224113184059,
+      "translation_notes": "Primary dimension: Justice (0.77); Strong secondary: Wisdom"
+    },
+    "13": {
+      "verse_ref": "Matthew 19:13",
+      "english": "Then little children were brought to him, that he should lay his hands on them and pray; and the disciples rebuked them.",
+      "wedau": "maratagogi [little] natunatuna  neiyahi da tauna raketana tauna ina [lay] ana nimana au hita ma [pray;] ma  tauvotaghotagho rau-gamopotai hita",
+      "ljpw": [
+        0.5104166666666667,
+        0.5,
+        0.5,
+        0.5104166666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5104166666666667,
+      "harmony": 0.5026039517765225,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "14": {
+      "verse_ref": "Matthew 19:14",
+      "english": "But Jesus said, “Allow the little children, and don’t forbid them to come to me; for the Kingdom of Heaven belongs to ones like these.”",
+      "wedau": "I tuna Yesu riwa [“allow]  [little] natunatuna ma [don’t] [forbid] hita da neꞌi da [me;] yamna  vibadana ana marei [belongs] da au [like] [these”]",
+      "ljpw": [
+        0.582638136511376,
+        0.8403755868544601,
+        0.874413145539906,
+        0.8140935355724088
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.874413145539906,
+      "harmony": 0.6666648222812441,
+      "translation_notes": "Primary dimension: Power (0.87); Strong secondary: Justice"
+    },
+    "15": {
+      "verse_ref": "Matthew 19:15",
+      "english": "He laid his hands on them, and departed from there.",
+      "wedau": "tauna [laid] ana nimana au hita ma [departed] au kampa",
+      "ljpw": [
+        0.51125,
+        0.5,
+        0.5,
+        0.51125
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.51125,
+      "harmony": 0.5028122289996868,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "16": {
+      "verse_ref": "Matthew 19:16",
+      "english": "Behold, one came to him and said, “Good teacher, what good thing shall I do, that I may have eternal life?”",
+      "wedau": "[behold] [one] neꞌi da tauna ma riwa [“good] [teacher] aiwaꞌi [good] [thing] ina tau rura raketana tau ita ana [eternal] [life?”]",
+      "ljpw": [
+        0.5168260869565218,
+        0.556231884057971,
+        0.4873804347826087,
+        0.6515942028985506
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6515942028985506,
+      "harmony": 0.5256170860587858,
+      "translation_notes": "Primary dimension: Wisdom (0.65)"
+    },
+    "17": {
+      "verse_ref": "Matthew 19:17",
+      "english": "He said to him, “Why do you call me good? No one is good but one, that is, God. But if you want to enter into life, keep the commandments.”",
+      "wedau": "tauna riwa da tauna [“why] rura omi ghorehi tau [good?] egha [one]  [good] tuna [one] raketana  God tuna tora omi [want] da rui au yawahana [keep]  [commandments”]",
+      "ljpw": [
+        0.600464916056823,
+        0.5702898550724638,
+        0.48791218252260005,
+        0.637536231884058
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.637536231884058,
+      "harmony": 0.5379215923681658,
+      "translation_notes": "Primary dimension: Wisdom (0.64); Strong secondary: Love"
+    },
+    "18": {
+      "verse_ref": "Matthew 19:18",
+      "english": "He said to him, “Which ones?” Jesus said, “ ‘You shall not murder.’ ‘You shall not commit adultery.’ ‘You shall not steal.’ ‘You shall not offer false testimony.’",
+      "wedau": "tauna riwa da tauna [“which] [ones?”] Yesu riwa [“] [‘you] ina egha [murder’] [‘you] ina egha [commit] [adultery’] [‘you] ina egha [steal’] [‘you] ina egha [offer] [false] [testimony’]",
+      "ljpw": [
+        0.6050248138957817,
+        0.5651881720430109,
+        0.483529776674938,
+        0.6323924731182797
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6323924731182797,
+      "harmony": 0.5364061722283379,
+      "translation_notes": "Primary dimension: Wisdom (0.63); Strong secondary: Love"
+    },
+    "19": {
+      "verse_ref": "Matthew 19:19",
+      "english": "‘Honor your father and your mother.’ And, ‘You shall love your neighbor as yourself.’ ”",
+      "wedau": "[‘honor] ami Tamatei ma ami [mother’] ma [‘you] ina [love] ami [neighbor]  [yourself’] [”]",
+      "ljpw": [
+        0.6345602077247647,
+        0.5,
+        0.4386952288218111,
+        0.5528205128205128
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6345602077247647,
+      "harmony": 0.5133644278863015,
+      "translation_notes": "Primary dimension: Love (0.63)"
+    },
+    "20": {
+      "verse_ref": "Matthew 19:20",
+      "english": "The young man said to him, “All these things I have observed from my youth. What do I still lack?”",
+      "wedau": "[young] oroto riwa da tauna [“all] ina [things] tau ana [observed] au au [youth] aiwaꞌi rura tau [still] [lack?”]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.6
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6,
+      "harmony": 0.5117866509228262,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "21": {
+      "verse_ref": "Matthew 19:21",
+      "english": "Jesus said to him, “If you want to be perfect, go, sell what you have, and give to the poor, and you will have treasure in heaven; and come, follow me.”",
+      "wedau": "Yesu riwa da tauna [“if] omi [want] da  [perfect] nae [sell] aiwaꞌi omi ana ma verei da  apoapoena ma omi ina ana [treasure] au [heaven;] ma neꞌi votaghou [me”]",
+      "ljpw": [
+        0.602295918367347,
+        0.5619047619047619,
+        0.4789923469387755,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.602295918367347,
+      "harmony": 0.5290550232046621,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "22": {
+      "verse_ref": "Matthew 19:22",
+      "english": "But when the young man heard the saying, he went away sad, for he was one who had great possessions.",
+      "wedau": "tuna maranaina  [young] oroto [heard]  riwa ipa tauna nae [away] [sad] yamna tauna  [one] aiyai ana ghe vavahagha [possessions]",
+      "ljpw": [
+        0.5576923076923077,
+        0.5,
+        0.4567307692307692,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5576923076923077,
+      "harmony": 0.5011581527149481,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "23": {
+      "verse_ref": "Matthew 19:23",
+      "english": "Jesus said to his disciples, “Most certainly I say to you, a rich man will enter into the Kingdom of Heaven with difficulty.",
+      "wedau": "I Yesu riwa da ana tauvotaghotagho [“most] [certainly] tau riwa da omi  [rich] oroto ina rui au  vibadana ana marei maitehi [difficulty]",
+      "ljpw": [
+        0.5857142857142856,
+        0.8571428571428571,
+        0.8928571428571428,
+        0.8285714285714285
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.8928571428571428,
+      "harmony": 0.6744882127235805,
+      "translation_notes": "Primary dimension: Power (0.89); Strong secondary: Justice"
+    },
+    "24": {
+      "verse_ref": "Matthew 19:24",
+      "english": "Again I tell you, it is easier for a camel to go through a needle’s eye, than for a rich man to enter into God’s Kingdom.”",
+      "wedau": "I vouna tau riwehi omi tauna  [easier] yamna  kamel da nae au  [needle’s] [eye] da yamna  [rich] oroto da rui au [god’s] [kingdom”]",
+      "ljpw": [
+        0.5199944459872257,
+        0.7093862815884475,
+        0.7808227873209821,
+        0.6710794620541911
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.7808227873209821,
+      "harmony": 0.5929934520724269,
+      "translation_notes": "Primary dimension: Power (0.78); Strong secondary: Justice"
+    },
+    "25": {
+      "verse_ref": "Matthew 19:25",
+      "english": "When the disciples heard it, they were exceedingly astonished, saying, “Who then can be saved?”",
+      "wedau": "maranaina  tauvotaghotagho [heard] tauna tauhi  [exceedingly] [astonished] riwa ipa [“who] maratagogi ita  [saved?”]",
+      "ljpw": [
+        0.5304761904761905,
+        0.5,
+        0.47714285714285715,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094059367769884,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "26": {
+      "verse_ref": "Matthew 19:26",
+      "english": "Looking at them, Jesus said, “With men this is impossible, but with God all things are possible.”",
+      "wedau": "baibaihem au hita Yesu riwa [“with] rava ina  [impossible] tuna maitehi God anatapuhi [things]  [possible”]",
+      "ljpw": [
+        0.8,
+        0.75,
+        0.5,
+        0.85
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.85,
+      "harmony": 0.6202041028867288,
+      "translation_notes": "Primary dimension: Wisdom (0.85); Strong secondary: Love"
+    },
+    "27": {
+      "verse_ref": "Matthew 19:27",
+      "english": "Then Peter answered, “Behold, we have left everything, and followed you. What then will we have?”",
+      "wedau": "maratagogi [peter] [answered] [“behold] ita ana voterei [everything] ma taghotaghoi omi aiwaꞌi maratagogi ina ita [have?”]",
+      "ljpw": [
+        0.532,
+        0.5,
+        0.476,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094372231303027,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "28": {
+      "verse_ref": "Matthew 19:28",
+      "english": "Jesus said to them, “Most certainly I tell you that you who have followed me, in the regeneration when the Son of Man will sit on the throne of his glory, you also will sit on twelve thrones, judging the twelve tribes of Israel.",
+      "wedau": "Yesu riwa da hita [“most] [certainly] tau riwehi omi raketana omi aiyai ana taghotaghoi tau au  [regeneration] maranaina  natuna ana oroto ina [sit] au  [throne] ana ana [glory] omi maitehi ina [sit] au [twelve] [thrones] [judging]  [twelve] [tribes] ana [israel]",
+      "ljpw": [
+        0.6082101690120926,
+        0.5548523206751056,
+        0.47365108549607526,
+        0.5840487471418807
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6082101690120926,
+      "harmony": 0.5275972870798786,
+      "translation_notes": "Primary dimension: Love (0.61)"
+    },
+    "29": {
+      "verse_ref": "Matthew 19:29",
+      "english": "Everyone who has left houses, or brothers, or sisters, or father, or mother, or wife, or children, or lands, for my name’s sake, will receive one hundred times, and will inherit eternal life.",
+      "wedau": "anatapuhi aiyai ana voterei numa bo tevera bo [sisters] bo Tamatei bo hinana bo [wife] bo natunatuna bo [lands] yamna au [name’s] [sake] ina [receive] [one] [hundred] mara ma ina ana vouna [eternal] yawahana",
+      "ljpw": [
+        0.5139455782312925,
+        0.5,
+        0.5,
+        0.5139455782312925
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5139455782312925,
+      "harmony": 0.5034858764970714,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "30": {
+      "verse_ref": "Matthew 19:30",
+      "english": "But many will be last who are first; and first who are last.",
+      "wedau": "tuna anatapuhi ina  muriyai aiyai  [first;] ma naona aiyai  muriyai",
+      "ljpw": [
+        0.5119565217391304,
+        0.5,
+        0.5,
+        0.5119565217391304
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5119565217391304,
+      "harmony": 0.5029888047965129,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    }
+  }
+}

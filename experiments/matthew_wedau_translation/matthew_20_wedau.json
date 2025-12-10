@@ -1,0 +1,520 @@
+{
+  "book": "Matthew",
+  "chapter": 20,
+  "source_language": "English",
+  "target_language": "Wedau",
+  "translation_method": "LJPW-Guided Pure Meaning Translation",
+  "timestamp": "2025-12-10T20:04:15.750977",
+  "verses": {
+    "1": {
+      "verse_ref": "Matthew 20:1",
+      "english": "“For the Kingdom of Heaven is like a man who was the master of a household, who went out early in the morning to hire laborers for his vineyard.",
+      "wedau": "[“for]  vibadana ana marei  [like]  oroto aiyai   [master] ana  [household] aiyai nae hopu [early] au  maratomtom da [hire] [laborers] yamna ana [vineyard]",
+      "ljpw": [
+        0.6091870607902012,
+        0.7633542226201133,
+        0.742078708508621,
+        0.7600895783321846
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7633542226201133,
+      "harmony": 0.6341546561667016,
+      "translation_notes": "Primary dimension: Justice (0.76); Strong secondary: Wisdom"
+    },
+    "2": {
+      "verse_ref": "Matthew 20:2",
+      "english": "When he had agreed with the laborers for a denarius a day, he sent them into his vineyard.",
+      "wedau": "maranaina tauna ana [agreed] maitehi  [laborers] yamna  [denarius]  mara tauna vivohi hita au ana [vineyard]",
+      "ljpw": [
+        0.5321931589537223,
+        0.5,
+        0.47585513078470826,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094411197276886,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "3": {
+      "verse_ref": "Matthew 20:3",
+      "english": "He went out about the third hour, and saw others standing idle in the marketplace.",
+      "wedau": "tauna nae hopu awarina  [third] [hour] ma inana ghehauna [standing] [idle] au  [marketplace]",
+      "ljpw": [
+        0.5,
+        0.5193181818181818,
+        0.5257575757575758,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5257575757575758,
+      "harmony": 0.5056295470578555,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "4": {
+      "verse_ref": "Matthew 20:4",
+      "english": "He said to them, ‘You also go into the vineyard, and whatever is right I will give you.’ So they went their way.",
+      "wedau": "tauna riwa da hita [‘you] maitehi nae au  [vineyard] ma [whatever]  [right] tau ina verei [you’] yamna tauhi nae ahi parata",
+      "ljpw": [
+        0.5306122448979592,
+        0.599047619047619,
+        0.5141836734693879,
+        0.5619047619047619
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.5264647500288856,
+      "translation_notes": "Primary dimension: Justice (0.60)"
+    },
+    "5": {
+      "verse_ref": "Matthew 20:5",
+      "english": "Again he went out about the sixth and the ninth hour, and did likewise.",
+      "wedau": "vouna tauna nae hopu awarina  [sixth] ma  [ninth] [hour] ma rura [likewise]",
+      "ljpw": [
+        0.5284693877551021,
+        0.5495238095238095,
+        0.4786479591836735,
+        0.599047619047619
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.519157727479225,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "6": {
+      "verse_ref": "Matthew 20:6",
+      "english": "About the eleventh hour he went out, and found others standing idle. He said to them, ‘Why do you stand here all day idle?’",
+      "wedau": "awarina  [eleventh] [hour] tauna nae hopu ma tuhaghai ghehauna [standing] [idle] tauna riwa da hita [‘why] rura omi [stand] ina anatapuhi mara [idle?’]",
+      "ljpw": [
+        0.5310030395136778,
+        0.5,
+        0.47674772036474167,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094168635657241,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "7": {
+      "verse_ref": "Matthew 20:7",
+      "english": "“They said to him, ‘Because no one has hired us.’ “He said to them, ‘You also go into the vineyard, and you will receive whatever is right.’",
+      "wedau": "[“they] riwa da tauna [‘because] egha [one] ana taunoya [us’] [“he] riwa da hita [‘you] maitehi nae au  [vineyard] ma omi ina [receive] [whatever]  [right’]",
+      "ljpw": [
+        0.5299583911234397,
+        0.599047619047619,
+        0.5146740638002775,
+        0.5619047619047619
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.5264434881246727,
+      "translation_notes": "Primary dimension: Justice (0.60)"
+    },
+    "8": {
+      "verse_ref": "Matthew 20:8",
+      "english": "When evening had come, the lord of the vineyard said to his manager, ‘Call the laborers and pay them their wages, beginning from the last to the first.’",
+      "wedau": "maranaina madegha ana neꞌi  Guyau ana  [vineyard] riwa da ana [manager] [‘call]  [laborers] ma [pay] hita ahi [wages] weꞌi au  muriyai da  [first’]",
+      "ljpw": [
+        0.5913961915041246,
+        0.5741590214067279,
+        0.5,
+        0.647512399455195
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.647512399455195,
+      "harmony": 0.5405327858801616,
+      "translation_notes": "Primary dimension: Wisdom (0.65)"
+    },
+    "9": {
+      "verse_ref": "Matthew 20:9",
+      "english": "“When those who were hired at about the eleventh hour came, they each received a denarius.",
+      "wedau": "[“when] raketana aiyai  taunoya au awarina  [eleventh] [hour] neꞌi tauhi tagotagogi [received]  [denarius]",
+      "ljpw": [
+        0.5625,
+        0.5,
+        0.453125,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5625,
+      "harmony": 0.5011958856587216,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "10": {
+      "verse_ref": "Matthew 20:10",
+      "english": "When the first came, they supposed that they would receive more; and they likewise each received a denarius.",
+      "wedau": "maranaina  naona neꞌi tauhi [supposed] raketana tauhi ina [receive] [more;] ma tauhi [likewise] tagotagogi [received]  [denarius]",
+      "ljpw": [
+        0.5174308300395256,
+        0.556231884057971,
+        0.4869268774703557,
+        0.6515942028985506
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6515942028985506,
+      "harmony": 0.5256352728170127,
+      "translation_notes": "Primary dimension: Wisdom (0.65)"
+    },
+    "11": {
+      "verse_ref": "Matthew 20:11",
+      "english": "When they received it, they murmured against the master of the household,",
+      "wedau": "maranaina tauhi [received] tauna tauhi [murmured] awarina  [master] ana  [household]",
+      "ljpw": [
+        0.5314285714285714,
+        0.5,
+        0.4764285714285714,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094256044161078,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "12": {
+      "verse_ref": "Matthew 20:12",
+      "english": "saying, ‘These last have spent one hour, and you have made them equal to us, who have borne the burden of the day and the scorching heat!’",
+      "wedau": "riwa ipa [‘these] muriyai ana [spent] [one] [hour] ma omi ana rura hita [equal] da ita aiyai ana [borne]  [burden] ana  mara ma  [scorching] [heat!’]",
+      "ljpw": [
+        0.5273584905660378,
+        0.575,
+        0.5919811320754718,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5919811320754718,
+      "harmony": 0.5247108768724122,
+      "translation_notes": "Primary dimension: Power (0.59)"
+    },
+    "13": {
+      "verse_ref": "Matthew 20:13",
+      "english": "“But he answered one of them, ‘Friend, I am doing you no wrong. Didn’t you agree with me for a denarius?",
+      "wedau": "[“but] tauna [answered] [one] ana hita [‘friend] tau [am] rura omi egha [wrong] [didn’t] omi [agree] maitehi tau yamna  [denarius?]",
+      "ljpw": [
+        0.4497695852534563,
+        0.4217741935483872,
+        0.4826089233347298,
+        0.5410976120653541
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5410976120653541,
+      "harmony": 0.4863536011171055,
+      "translation_notes": "Primary dimension: Wisdom (0.54); Low harmony verse (distinctive emphasis)"
+    },
+    "14": {
+      "verse_ref": "Matthew 20:14",
+      "english": "Take that which is yours, and go your way. It is my desire to give to this last just as much as to you.",
+      "wedau": "varahai raketana aiyai  ami ma nae ami parata tauna  au [desire] da verei da ina muriyai tagotagogi  [much]  da omi",
+      "ljpw": [
+        0.5158357771260997,
+        0.6575268817204301,
+        0.5961876832844576,
+        0.571236559139785
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.6575268817204301,
+      "harmony": 0.5447138962807955,
+      "translation_notes": "Primary dimension: Justice (0.66)"
+    },
+    "15": {
+      "verse_ref": "Matthew 20:15",
+      "english": "Isn’t it lawful for me to do what I want to with what I own? Or is your eye evil, because I am good?’",
+      "wedau": "[isn’t] tauna [lawful] yamna tau da rura aiwaꞌi tau [want] da maitehi aiwaꞌi tau [own?] bo  ami [eye] [evil] yamna tau [am] [good?’]",
+      "ljpw": [
+        0.5136809544851967,
+        0.7356989247311828,
+        0.5781263809102961,
+        0.6763440860215054
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7356989247311828,
+      "harmony": 0.5657634552099614,
+      "translation_notes": "Primary dimension: Justice (0.74); Strong secondary: Wisdom"
+    },
+    "16": {
+      "verse_ref": "Matthew 20:16",
+      "english": "So the last will be first, and the first last. For many are called, but few are chosen.”",
+      "wedau": "yamna  muriyai ina  naona ma  naona muriyai yamna anatapuhi  ghorehi tuna ghehauhi  [chosen”]",
+      "ljpw": [
+        0.5113636363636364,
+        0.5,
+        0.5,
+        0.5113636363636364
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5113636363636364,
+      "harmony": 0.5028406297529624,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "17": {
+      "verse_ref": "Matthew 20:17",
+      "english": "As Jesus was going up to Jerusalem, he took the twelve disciples aside, and on the way he said to them,",
+      "wedau": "Yesu  nae au da jerusalem tauna varahai  [twelve] tauvotaghotagho [aside] ma au  parata tauna riwa da hita",
+      "ljpw": [
+        0.6012857142857143,
+        0.5619047619047619,
+        0.47975,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6012857142857143,
+      "harmony": 0.5290525654328522,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "18": {
+      "verse_ref": "Matthew 20:18",
+      "english": "“Behold, we are going up to Jerusalem, and the Son of Man will be delivered to the chief priests and scribes, and they will condemn him to death,",
+      "wedau": "[“behold] ita  nae au da jerusalem ma  natuna ana oroto ina  [delivered] da  [chief] pirisina ma tauviharaharamanahi ma tauhi ina [condemn] tauna da mate",
+      "ljpw": [
+        0.5106194690265486,
+        0.5,
+        0.5,
+        0.5106194690265486
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5106194690265486,
+      "harmony": 0.5026546395079321,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "19": {
+      "verse_ref": "Matthew 20:19",
+      "english": "and will hand him over to the Gentiles to mock, to scourge, and to crucify; and the third day he will be raised up.”",
+      "wedau": "ma ina nimana tauna au da  [gentiles] da [mock] da [scourge] ma da [crucify;] ma  [third] mara tauna ina  [raised] [up”]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "20": {
+      "verse_ref": "Matthew 20:20",
+      "english": "Then the mother of the sons of Zebedee came to him with her sons, kneeling and asking a certain thing of him.",
+      "wedau": "maratagogi  hinana ana  natuna ana zebedi neꞌi da tauna maitehi ana natuna peꞌu ma rau-baghei  [certain] [thing] ana tauna",
+      "ljpw": [
+        0.5,
+        0.5833333333333334,
+        0.6166666666666667,
+        0.5666666666666667
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.534524006175688,
+      "translation_notes": "Primary dimension: Power (0.62)"
+    },
+    "21": {
+      "verse_ref": "Matthew 20:21",
+      "english": "He said to her, “What do you want?” She said to him, “Command that these, my two sons, may sit, one on your right hand, and one on your left hand, in your Kingdom.”",
+      "wedau": "I tauna riwa da ana [“what] rura omi [want?”] tauna riwa da tauna [“command] raketana ina au [two] natuna ita [sit] [one] au ami [right] nimana ma [one] au ami voterei nimana au ami [kingdom”]",
+      "ljpw": [
+        0.5162509630200308,
+        0.7180397727272726,
+        0.7950175751155624,
+        0.6983387904468412
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.7950175751155624,
+      "harmony": 0.5994375533216604,
+      "translation_notes": "Primary dimension: Power (0.80); Strong secondary: Justice"
+    },
+    "22": {
+      "verse_ref": "Matthew 20:22",
+      "english": "But Jesus answered, “You don’t know what you are asking. Are you able to drink the cup that I am about to drink, and be baptized with the baptism that I am baptized with?” They said to him, “We are able.”",
+      "wedau": "tuna Yesu [answered] [“you] [don’t] haramaneꞌi aiwaꞌi omi  rau-baghei  omi [able] da [drink]  [cup] raketana tau [am] awarina da [drink] ma  babataitoi maitehi  [baptism] raketana tau [am] babataitoi [with?”] tauhi riwa da tauna [“we]  [able”]",
+      "ljpw": [
+        0.7714609070331889,
+        0.719790558782623,
+        0.496945648913251,
+        0.819749652294854
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.819749652294854,
+      "harmony": 0.6078236028924892,
+      "translation_notes": "Primary dimension: Wisdom (0.82); Strong secondary: Love"
+    },
+    "23": {
+      "verse_ref": "Matthew 20:23",
+      "english": "He said to them, “You will indeed drink my cup, and be baptized with the baptism that I am baptized with, but to sit on my right hand and on my left hand is not mine to give; but it is for whom it has been prepared by my Father.”",
+      "wedau": "tauna riwa da hita [“you] ina [indeed] [drink] au [cup] ma  babataitoi maitehi  [baptism] raketana tau [am] babataitoi maitehi tuna da [sit] au au [right] nimana ma au au voterei nimana  egha [mine] da [give;] tuna tauna  yamna aiyai tauna ana  [prepared] au au [father”]",
+      "ljpw": [
+        0.5,
+        0.6099724745389485,
+        0.5517093311312965,
+        0.5619047619047619
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.6099724745389485,
+      "harmony": 0.5286431388624679,
+      "translation_notes": "Primary dimension: Justice (0.61)"
+    },
+    "24": {
+      "verse_ref": "Matthew 20:24",
+      "english": "When the ten heard it, they were indignant with the two brothers.",
+      "wedau": "maranaina  [ten] [heard] tauna tauhi  [indignant] maitehi  [two] tevera",
+      "ljpw": [
+        0.5318681318681319,
+        0.5,
+        0.4760989010989011,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094345539979876,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "25": {
+      "verse_ref": "Matthew 20:25",
+      "english": "But Jesus summoned them, and said, “You know that the rulers of the nations lord it over them, and their great ones exercise authority over them.",
+      "wedau": "tuna Yesu [summoned] hita ma riwa [“you] haramaneꞌi raketana  [rulers] ana  [nations] Guyau tauna au hita ma ahi ghe vavahagha au [exercise] rewapana au hita",
+      "ljpw": [
+        0.8,
+        0.75,
+        0.5,
+        0.85
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.85,
+      "harmony": 0.6202041028867288,
+      "translation_notes": "Primary dimension: Wisdom (0.85); Strong secondary: Love"
+    },
+    "26": {
+      "verse_ref": "Matthew 20:26",
+      "english": "It shall not be so among you, but whoever desires to become great among you shall be your servant.",
+      "wedau": "tauna ina egha  yamna [among] omi tuna [whoever] [desires] da [become] ghe vavahagha [among] omi ina  ami [servant]",
+      "ljpw": [
+        0.5102564102564103,
+        0.5,
+        0.5,
+        0.5102564102564103
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5102564102564103,
+      "harmony": 0.5025638974839433,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "27": {
+      "verse_ref": "Matthew 20:27",
+      "english": "Whoever desires to be first among you shall be your bondservant,",
+      "wedau": "[whoever] [desires] da  naona [among] omi ina  ami [bondservant]",
+      "ljpw": [
+        0.504369414101291,
+        0.5,
+        0.5,
+        0.5833167825223435
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5833167825223435,
+      "harmony": 0.5105197496665341,
+      "translation_notes": "Primary dimension: Wisdom (0.58)"
+    },
+    "28": {
+      "verse_ref": "Matthew 20:28",
+      "english": "even as the Son of Man came not to be served, but to serve, and to give his life as a ransom for many.”",
+      "wedau": "ma   natuna ana oroto neꞌi egha da  inana vaitetehi tuna da [serve] ma da verei ana yawahana   [ransom] yamna [many”]",
+      "ljpw": [
+        0.5105263157894737,
+        0.5,
+        0.5,
+        0.5105263157894737
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5105263157894737,
+      "harmony": 0.5026313571671494,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "29": {
+      "verse_ref": "Matthew 20:29",
+      "english": "As they went out from Jericho, a great multitude followed him.",
+      "wedau": "tauhi nae hopu au [jericho]  ghe vavahagha [multitude] taghotaghoi tauna",
+      "ljpw": [
+        0.552,
+        0.5,
+        0.46099999999999997,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.552,
+      "harmony": 0.5011017140960295,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "30": {
+      "verse_ref": "Matthew 20:30",
+      "english": "Behold, two blind men sitting by the road, when they heard that Jesus was passing by, cried out, “Lord, have mercy on us, you son of David!”",
+      "wedau": "[behold] [two] [blind] rava [sitting] au  [road] maranaina tauhi [heard] raketana Yesu  [passing] au [cried] hopu [“lord] ana nuwaboyei au ita omi natuna ana [david!”]",
+      "ljpw": [
+        0.8,
+        0.75,
+        0.5,
+        0.85
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.85,
+      "harmony": 0.6202041028867288,
+      "translation_notes": "Primary dimension: Wisdom (0.85); Strong secondary: Love"
+    },
+    "31": {
+      "verse_ref": "Matthew 20:31",
+      "english": "The multitude rebuked them, telling them that they should be quiet, but they cried out even more, “Lord, have mercy on us, you son of David!”",
+      "wedau": "[multitude] rau-gamopotai hita riwehi hita raketana tauhi ina  [quiet] tuna tauhi [cried] hopu ma ghe vavahagha [“lord] ana nuwaboyei au ita omi natuna ana [david!”]",
+      "ljpw": [
+        0.7,
+        0.6666666666666666,
+        0.5,
+        0.7333333333333333
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7333333333333333,
+      "harmony": 0.5805011589293861,
+      "translation_notes": "Primary dimension: Wisdom (0.73); Strong secondary: Love"
+    },
+    "32": {
+      "verse_ref": "Matthew 20:32",
+      "english": "Jesus stood still, and called them, and asked, “What do you want me to do for you?”",
+      "wedau": "Yesu [stood] [still] ma ghorehi hita ma rau-baghei [“what] rura omi [want] tau da rura yamna [you?”]",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6630584192439863
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6630584192439863,
+      "harmony": 0.5449741131137927,
+      "translation_notes": "Primary dimension: Wisdom (0.66)"
+    },
+    "33": {
+      "verse_ref": "Matthew 20:33",
+      "english": "They told him, “Lord, that our eyes may be opened.”",
+      "wedau": "tauhi riwehi tauna [“lord] raketana ahi [eyes] ita  [opened”]",
+      "ljpw": [
+        0.6020849420849421,
+        0.5619047619047619,
+        0.4791505791505791,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6020849420849421,
+      "harmony": 0.5290545513283214,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "34": {
+      "verse_ref": "Matthew 20:34",
+      "english": "Jesus, being moved with compassion, touched their eyes; and immediately their eyes received their sight, and they followed him.",
+      "wedau": "Yesu  nuwaboyei maitehi [compassion] dodani ahi [eyes;] ma maratagogi ahi [eyes] [received] ahi [sight] ma tauhi taghotaghoi tauna",
+      "ljpw": [
+        0.6845804195804195,
+        0.6393939393939393,
+        0.48701923076923076,
+        0.6951515151515151
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6951515151515151,
+      "harmony": 0.5664918832975144,
+      "translation_notes": "Primary dimension: Wisdom (0.70); Strong secondary: Love"
+    }
+  }
+}

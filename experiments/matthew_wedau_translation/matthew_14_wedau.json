@@ -1,0 +1,550 @@
+{
+  "book": "Matthew",
+  "chapter": 14,
+  "source_language": "English",
+  "target_language": "Wedau",
+  "translation_method": "LJPW-Guided Pure Meaning Translation",
+  "timestamp": "2025-12-10T20:04:15.726315",
+  "verses": {
+    "1": {
+      "verse_ref": "Matthew 14:1",
+      "english": "At that time, Herod the tetrarch heard the report concerning Jesus,",
+      "wedau": "au raketana mara [herod]  [tetrarch] [heard]  [report] [concerning] Yesu",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "2": {
+      "verse_ref": "Matthew 14:2",
+      "english": "and said to his servants, “This is John the Baptizer. He is risen from the dead. That is why these powers work in him.”",
+      "wedau": "ma riwa da ana taunoya [“this]  john  [baptizer] tauna  [risen] au  [dead] raketana  yamna ina [powers] [work] au [him”]",
+      "ljpw": [
+        0.5,
+        0.5833333333333334,
+        0.6166666666666667,
+        0.5666666666666667
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.534524006175688,
+      "translation_notes": "Primary dimension: Power (0.62)"
+    },
+    "3": {
+      "verse_ref": "Matthew 14:3",
+      "english": "For Herod had arrested John, and bound him, and put him in prison for the sake of Herodias, his brother Philip’s wife.",
+      "wedau": "yamna [herod] ana pani john ma [bound] tauna ma terei tauna au deri yamna  [sake] ana [herodias] ana tevera [philip’s] [wife]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "4": {
+      "verse_ref": "Matthew 14:4",
+      "english": "For John said to him, “It is not lawful for you to have her.”",
+      "wedau": "yamna john riwa da tauna [“it]  egha [lawful] yamna omi da ana [her”]",
+      "ljpw": [
+        0.5280519480519481,
+        0.599047619047619,
+        0.5161038961038962,
+        0.5619047619047619
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.5263803405957802,
+      "translation_notes": "Primary dimension: Justice (0.60)"
+    },
+    "5": {
+      "verse_ref": "Matthew 14:5",
+      "english": "When he would have put him to death, he feared the multitude, because they counted him as a prophet.",
+      "wedau": "maranaina tauna ina ana terei tauna da mate tauna [feared]  [multitude] yamna tauhi [counted] tauna   peroveta",
+      "ljpw": [
+        0.5332730560578662,
+        0.5,
+        0.4750452079566003,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094626171954032,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "6": {
+      "verse_ref": "Matthew 14:6",
+      "english": "But when Herod’s birthday came, the daughter of Herodias danced among them and pleased Herod.",
+      "wedau": "tuna maranaina [herod’s] [birthday] neꞌi  natuna ana [herodias] [danced] [among] hita ma nuwa-ahiahiniu [herod]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "7": {
+      "verse_ref": "Matthew 14:7",
+      "english": "Whereupon he promised with an oath to give her whatever she should ask.",
+      "wedau": "[whereupon] tauna [promised] maitehi [an] [oath] da verei ana [whatever] tauna ina rau-baghei",
+      "ljpw": [
+        0.5334975369458128,
+        0.5,
+        0.4748768472906404,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094670247202366,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "8": {
+      "verse_ref": "Matthew 14:8",
+      "english": "She, being prompted by her mother, said, “Give me here on a platter the head of John the Baptizer.”",
+      "wedau": "tauna  [prompted] au ana hinana riwa [“give] tau ina au  [platter]  [head] ana john  [baptizer”]",
+      "ljpw": [
+        0.5,
+        0.519,
+        0.5253333333333333,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5253333333333333,
+      "harmony": 0.5055369430623501,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "9": {
+      "verse_ref": "Matthew 14:9",
+      "english": "The king was grieved, but for the sake of his oaths, and of those who sat at the table with him, he commanded it to be given,",
+      "wedau": "kingi  [grieved] tuna yamna  [sake] ana ana [oaths] ma ana raketana aiyai [sat] au  [table] maitehi tauna tauna ririweiya tauna da  verei",
+      "ljpw": [
+        0.5389158525055153,
+        0.5661918268725707,
+        0.5625286269566132,
+        0.5415169660678643
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.5661918268725707,
+      "harmony": 0.5274944786626602,
+      "translation_notes": "Primary dimension: Justice (0.57)"
+    },
+    "10": {
+      "verse_ref": "Matthew 14:10",
+      "english": "and he sent and beheaded John in the prison.",
+      "wedau": "ma tauna vivohi ma [beheaded] john au  deri",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "11": {
+      "verse_ref": "Matthew 14:11",
+      "english": "His head was brought on a platter, and given to the young lady; and she brought it to her mother.",
+      "wedau": "ana [head]  neiyahi au  [platter] ma verei da  [young] [lady;] ma tauna neiyahi tauna da ana hinana",
+      "ljpw": [
+        0.5506666666666667,
+        0.52,
+        0.48866666666666664,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5506666666666667,
+      "harmony": 0.5072346235339185,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "12": {
+      "verse_ref": "Matthew 14:12",
+      "english": "His disciples came, and took the body, and buried it. Then they went and told Jesus.",
+      "wedau": "ana tauvotaghotagho neꞌi ma varahai  [body] ma [buried] tauna maratagogi tauhi nae ma riwehi Yesu",
+      "ljpw": [
+        0.5742857142857143,
+        0.5725860805860805,
+        0.5142417582417582,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5866666666666667,
+      "harmony": 0.5325077131880801,
+      "translation_notes": "Primary dimension: Wisdom (0.59)"
+    },
+    "13": {
+      "verse_ref": "Matthew 14:13",
+      "english": "Now when Jesus heard this, he withdrew from there in a boat, to a deserted place apart. When the multitudes heard it, they followed him on foot from the cities.",
+      "wedau": "ina marana maranaina Yesu [heard] ina tauna [withdrew] au kampa au  auwaga da  [deserted] gabu [apart] maranaina  [multitudes] [heard] tauna tauhi taghotaghoi tauna au [foot] au  [cities]",
+      "ljpw": [
+        0.6016326530612245,
+        0.5619047619047619,
+        0.4794897959183674,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6016326530612245,
+      "harmony": 0.5290534660379491,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "14": {
+      "verse_ref": "Matthew 14:14",
+      "english": "Jesus went out, and he saw a great multitude. He had compassion on them, and healed their sick.",
+      "wedau": "Yesu nae hopu ma tauna inana  ghe vavahagha [multitude] tauna ana [compassion] au hita ma yawahanihi ahi doridoriahi",
+      "ljpw": [
+        0.684078624078624,
+        0.6393939393939393,
+        0.4873955773955774,
+        0.6951515151515151
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6951515151515151,
+      "harmony": 0.56650638786648,
+      "translation_notes": "Primary dimension: Wisdom (0.70); Strong secondary: Love"
+    },
+    "15": {
+      "verse_ref": "Matthew 14:15",
+      "english": "When evening had come, his disciples came to him, saying, “This place is deserted, and the hour is already late. Send the multitudes away, that they may go into the villages, and buy themselves food.”",
+      "wedau": "maranaina madegha ana neꞌi ana tauvotaghotagho neꞌi da tauna riwa ipa [“this] gabu  [deserted] ma  [hour]  [already] [late] vivohi  [multitudes] [away] raketana tauhi ita nae au  [villages] ma [buy] [themselves] [food”]",
+      "ljpw": [
+        0.528937728937729,
+        0.5,
+        0.47829670329670326,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5093733659934211,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "16": {
+      "verse_ref": "Matthew 14:16",
+      "english": "But Jesus said to them, “They don’t need to go away. You give them something to eat.”",
+      "wedau": "tuna Yesu riwa da hita [“they] [don’t] [need] da nae [away] omi verei hita [something] da [eat”]",
+      "ljpw": [
+        0.602994011976048,
+        0.5671656686626747,
+        0.48982035928143713,
+        0.5726546906187625
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.602994011976048,
+      "harmony": 0.5297680663748406,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "17": {
+      "verse_ref": "Matthew 14:17",
+      "english": "They told him, “We only have here five loaves and two fish.”",
+      "wedau": "tauhi riwehi tauna [“we] tagotagogi ana ina [five] [loaves] ma [two] [fish”]",
+      "ljpw": [
+        0.5577777777777778,
+        0.5,
+        0.45666666666666667,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5577777777777778,
+      "harmony": 0.5011589029871442,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "18": {
+      "verse_ref": "Matthew 14:18",
+      "english": "He said, “Bring them here to me.”",
+      "wedau": "tauna riwa [“bring] hita ina da [me”]",
+      "ljpw": [
+        0.5630434782608696,
+        0.5,
+        0.4608695652173913,
+        0.5108695652173914
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5630434782608696,
+      "harmony": 0.5036989771014146,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "19": {
+      "verse_ref": "Matthew 14:19",
+      "english": "He commanded the multitudes to sit down on the grass; and he took the five loaves and the two fish, and looking up to heaven, he blessed, broke and gave the loaves to the disciples, and the disciples gave to the multitudes.",
+      "wedau": "tauna ririweiya  [multitudes] da [sit] au au  [grass;] ma tauna varahai  [five] [loaves] ma  [two] [fish] ma baibaihem au da marei tauna nuwaboyei [broke] ma verei  [loaves] da  tauvotaghotagho ma  tauvotaghotagho verei da  [multitudes]",
+      "ljpw": [
+        0.5,
+        0.5833333333333334,
+        0.6166666666666667,
+        0.5666666666666667
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.534524006175688,
+      "translation_notes": "Primary dimension: Power (0.62)"
+    },
+    "20": {
+      "verse_ref": "Matthew 14:20",
+      "english": "They all ate, and were filled. They took up twelve baskets full of that which remained left over from the broken pieces.",
+      "wedau": "tauhi anatapuhi [ate] ma  yawahana tauhi varahai au [twelve] [baskets] [full] ana raketana aiyai [remained] voterei au au  [broken] [pieces]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "21": {
+      "verse_ref": "Matthew 14:21",
+      "english": "Those who ate were about five thousand men, in addition to women and children.",
+      "wedau": "raketana aiyai [ate]  awarina [five] [thousand] rava au [addition] da vaivinehi ma natunatuna",
+      "ljpw": [
+        0.553968253968254,
+        0.5,
+        0.4595238095238095,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.553968253968254,
+      "harmony": 0.5011226707617453,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "22": {
+      "verse_ref": "Matthew 14:22",
+      "english": "Immediately Jesus made the disciples get into the boat, and to go ahead of him to the other side, while he sent the multitudes away.",
+      "wedau": "maratagogi Yesu rura  tauvotaghotagho varahai au  auwaga ma da nae [ahead] ana tauna da  ghehauna [side] [while] tauna vivohi  [multitudes] [away]",
+      "ljpw": [
+        0.602204081632653,
+        0.5619047619047619,
+        0.47906122448979593,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.602204081632653,
+      "harmony": 0.5290548204872357,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "23": {
+      "verse_ref": "Matthew 14:23",
+      "english": "After he had sent the multitudes away, he went up into the mountain by himself to pray. When evening had come, he was there alone.",
+      "wedau": "muriyai tauna ana vivohi  [multitudes] [away] tauna nae au au  dobuna au [himself] da [pray] maranaina madegha ana neꞌi tauna  kampa [alone]",
+      "ljpw": [
+        0.5558823529411765,
+        0.5,
+        0.45808823529411763,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5558823529411765,
+      "harmony": 0.5011415894627405,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "24": {
+      "verse_ref": "Matthew 14:24",
+      "english": "But the boat was now in the middle of the sea, distressed by the waves, for the wind was contrary.",
+      "wedau": "tuna  auwaga  ina marana au  [middle] ana  topana [distressed] au  [waves] yamna  [wind]  [contrary]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "25": {
+      "verse_ref": "Matthew 14:25",
+      "english": "In the fourth watch of the night, Jesus came to them, walking on the sea.",
+      "wedau": "au  [fourth] [watch] ana  diedie Yesu neꞌi da hita bababara au  topana",
+      "ljpw": [
+        0.6842207792207791,
+        0.6393939393939393,
+        0.487288961038961,
+        0.6951515151515151
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6951515151515151,
+      "harmony": 0.5665022954125065,
+      "translation_notes": "Primary dimension: Wisdom (0.70); Strong secondary: Love"
+    },
+    "26": {
+      "verse_ref": "Matthew 14:26",
+      "english": "When the disciples saw him walking on the sea, they were troubled, saying, “It’s a ghost!” and they cried out for fear.",
+      "wedau": "maranaina  tauvotaghotagho inana tauna bababara au  topana tauhi  [troubled] riwa ipa [“it’s]  [ghost!”] ma tauhi [cried] hopu yamna [fear]",
+      "ljpw": [
+        0.5163478260869565,
+        0.5702898550724638,
+        0.5861449275362318,
+        0.5953623188405797
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5953623188405797,
+      "harmony": 0.5353065010301974,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "27": {
+      "verse_ref": "Matthew 14:27",
+      "english": "But immediately Jesus spoke to them, saying, “Cheer up! It is I! Don’t be afraid.”",
+      "wedau": "tuna maratagogi Yesu [spoke] da hita riwa ipa [“cheer] [up!] tauna  [i!] [don’t]  [afraid”]",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "28": {
+      "verse_ref": "Matthew 14:28",
+      "english": "Peter answered him and said, “Lord, if it is you, command me to come to you on the waters.”",
+      "wedau": "[peter] [answered] tauna ma riwa [“lord] tora tauna  omi [command] tau da neꞌi da omi au  [waters”]",
+      "ljpw": [
+        0.6076516153410165,
+        0.5548523206751056,
+        0.47398450784054413,
+        0.5839347565967631
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6076516153410165,
+      "harmony": 0.5275690087422067,
+      "translation_notes": "Primary dimension: Love (0.61)"
+    },
+    "29": {
+      "verse_ref": "Matthew 14:29",
+      "english": "He said, “Come!” Peter stepped down from the boat, and walked on the waters to come to Jesus.",
+      "wedau": "tauna riwa [“come!”] [peter] [stepped] au au  auwaga ma [walked] au  waira da neꞌi da Yesu",
+      "ljpw": [
+        0.5742857142857143,
+        0.5718231292517006,
+        0.5132244897959184,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5866666666666667,
+      "harmony": 0.5322427862379213,
+      "translation_notes": "Primary dimension: Wisdom (0.59)"
+    },
+    "30": {
+      "verse_ref": "Matthew 14:30",
+      "english": "But when he saw that the wind was strong, he was afraid, and beginning to sink, he cried out, saying, “Lord, save me!”",
+      "wedau": "tuna maranaina tauna inana raketana  [wind]  [strong] tauna  [afraid] ma weꞌi da [sink] tauna [cried] hopu riwa ipa [“lord] [save] [me!”]",
+      "ljpw": [
+        0.7,
+        0.6666666666666666,
+        0.5,
+        0.7333333333333333
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7333333333333333,
+      "harmony": 0.5805011589293861,
+      "translation_notes": "Primary dimension: Wisdom (0.73); Strong secondary: Love"
+    },
+    "31": {
+      "verse_ref": "Matthew 14:31",
+      "english": "Immediately Jesus stretched out his hand, took hold of him, and said to him, “You of little faith, why did you doubt?”",
+      "wedau": "maratagogi Yesu [stretched] hopu ana nimana varahai [hold] ana tauna ma riwa da tauna [“you] ana [little] [faith] yamna rura omi [doubt?”]",
+      "ljpw": [
+        0.6010434782608696,
+        0.5702898550724638,
+        0.4874782608695652,
+        0.637536231884058
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.637536231884058,
+      "harmony": 0.5379245191190173,
+      "translation_notes": "Primary dimension: Wisdom (0.64); Strong secondary: Love"
+    },
+    "32": {
+      "verse_ref": "Matthew 14:32",
+      "english": "When they got up into the boat, the wind ceased.",
+      "wedau": "maranaina tauhi varahai au au  auwaga  [wind] [ceased]",
+      "ljpw": [
+        0.5467408585055644,
+        0.518362480127186,
+        0.48942766295707474,
+        0.5588235294117647
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5588235294117647,
+      "harmony": 0.5141787767683293,
+      "translation_notes": "Primary dimension: Wisdom (0.56)"
+    },
+    "33": {
+      "verse_ref": "Matthew 14:33",
+      "english": "Those who were in the boat came and worshiped him, saying, “You are truly the Son of God!”",
+      "wedau": "raketana aiyai  au  auwaga neꞌi ma [worshiped] tauna riwa ipa [“you]  [truly]  natuna ana [god!”]",
+      "ljpw": [
+        0.7811049649217484,
+        0.724388379204893,
+        0.6108455882352941,
+        0.7842125382262998
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7842125382262998,
+      "harmony": 0.6380209632666572,
+      "translation_notes": "Primary dimension: Wisdom (0.78); Strong secondary: Love"
+    },
+    "34": {
+      "verse_ref": "Matthew 14:34",
+      "english": "When they had crossed over, they came to the land of Gennesaret.",
+      "wedau": "maranaina tauhi ana [crossed] au tauhi neꞌi da  [land] ana [gennesaret]",
+      "ljpw": [
+        0.5291316526610644,
+        0.5,
+        0.47815126050420165,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5093775259650627,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "35": {
+      "verse_ref": "Matthew 14:35",
+      "english": "When the people of that place recognized him, they sent into all that surrounding region, and brought to him all who were sick;",
+      "wedau": "maranaina  rava ana raketana gabu [recognized] tauna tauhi vivohi au anatapuhi raketana [surrounding] [region] ma neiyahi da tauna anatapuhi aiyai  [sick;]",
+      "ljpw": [
+        0.5045407636738907,
+        0.5,
+        0.5,
+        0.5834881320949432
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5834881320949432,
+      "harmony": 0.510562243042494,
+      "translation_notes": "Primary dimension: Wisdom (0.58)"
+    },
+    "36": {
+      "verse_ref": "Matthew 14:36",
+      "english": "and they begged him that they might just touch the fringe of his garment. As many as touched it were made whole.",
+      "wedau": "ma tauhi [begged] tauna raketana tauhi ita tagotagogi [touch]  [fringe] ana ana [garment]  anatapuhi  dodani tauna  rura [whole]",
+      "ljpw": [
+        0.5169152196118488,
+        0.6393939393939393,
+        0.6824651004426285,
+        0.6115151515151515
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.6824651004426285,
+      "harmony": 0.5604378572734189,
+      "translation_notes": "Primary dimension: Power (0.68); Strong secondary: Justice"
+    }
+  }
+}

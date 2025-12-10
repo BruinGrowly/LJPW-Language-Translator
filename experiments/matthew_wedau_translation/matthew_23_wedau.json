@@ -1,0 +1,595 @@
+{
+  "book": "Matthew",
+  "chapter": 23,
+  "source_language": "English",
+  "target_language": "Wedau",
+  "translation_method": "LJPW-Guided Pure Meaning Translation",
+  "timestamp": "2025-12-10T20:04:15.765067",
+  "verses": {
+    "1": {
+      "verse_ref": "Matthew 23:1",
+      "english": "Then Jesus spoke to the multitudes and to his disciples,",
+      "wedau": "maratagogi Yesu [spoke] da  [multitudes] ma da ana tauvotaghotagho",
+      "ljpw": [
+        0.5742857142857143,
+        0.5719668737060042,
+        0.513416149068323,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5866666666666667,
+      "harmony": 0.5322926981777067,
+      "translation_notes": "Primary dimension: Wisdom (0.59)"
+    },
+    "2": {
+      "verse_ref": "Matthew 23:2",
+      "english": "saying, “The scribes and the Pharisees sat on Moses’ seat.",
+      "wedau": "riwa ipa [“the] tauviharaharamanahi ma  [pharisees] [sat] au [moses’] [seat]",
+      "ljpw": [
+        0.5,
+        0.6,
+        0.65,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.65,
+      "harmony": 0.5306193073668661,
+      "translation_notes": "Primary dimension: Power (0.65)"
+    },
+    "3": {
+      "verse_ref": "Matthew 23:3",
+      "english": "All things therefore whatever they tell you to observe, observe and do, but don’t do their works; for they say, and don’t do.",
+      "wedau": "anatapuhi [things] [therefore] [whatever] tauhi riwehi omi da [observe] [observe] ma rura tuna [don’t] rura ahi [works;] yamna tauhi riwa ma [don’t] rura",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "4": {
+      "verse_ref": "Matthew 23:4",
+      "english": "For they bind heavy burdens that are grievous to be borne, and lay them on men’s shoulders; but they themselves will not lift a finger to help them.",
+      "wedau": "yamna tauhi [bind] [heavy] [burdens] raketana  [grievous] da  [borne] ma [lay] hita au [men’s] [shoulders;] tuna tauhi [themselves] ina egha [lift]  [finger] da [help] hita",
+      "ljpw": [
+        0.5111111111111112,
+        0.5,
+        0.5,
+        0.5111111111111112
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5111111111111112,
+      "harmony": 0.5027775167393999,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "5": {
+      "verse_ref": "Matthew 23:5",
+      "english": "But they do all their works to be seen by men. They make their phylacteries broad, enlarge the fringes of their garments,",
+      "wedau": "tuna tauhi rura anatapuhi ahi [works] da  inana au rava tauhi rura ahi [phylacteries] [broad] [enlarge]  [fringes] ana ahi [garments]",
+      "ljpw": [
+        0.5108247422680413,
+        0.5,
+        0.5,
+        0.5108247422680413
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5108247422680413,
+      "harmony": 0.5027059442883339,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "6": {
+      "verse_ref": "Matthew 23:6",
+      "english": "and love the place of honor at feasts, the best seats in the synagogues,",
+      "wedau": "ma [love]  gabu ana [honor] au [feasts]  [best] [seats] au  pari numana",
+      "ljpw": [
+        0.6333333333333333,
+        0.5,
+        0.45,
+        0.5666666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6333333333333333,
+      "harmony": 0.5167248709898714,
+      "translation_notes": "Primary dimension: Love (0.63)"
+    },
+    "7": {
+      "verse_ref": "Matthew 23:7",
+      "english": "the salutations in the marketplaces, and to be called ‘Rabbi, Rabbi’ by men.",
+      "wedau": "[salutations] au  [marketplaces] ma da  ghorehi [‘rabbi] [rabbi’] au rava",
+      "ljpw": [
+        0.5110169491525424,
+        0.5203389830508475,
+        0.5271186440677966,
+        0.5110169491525424
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5271186440677966,
+      "harmony": 0.5088152648507845,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "8": {
+      "verse_ref": "Matthew 23:8",
+      "english": "But don’t you be called ‘Rabbi,’ for one is your teacher, the Christ, and all of you are brothers.",
+      "wedau": "tuna [don’t] omi  ghorehi [‘rabbi’] yamna [one]  ami [teacher]  Keriso ma anatapuhi ana omi  tevera",
+      "ljpw": [
+        0.6792939936775553,
+        0.6474358974358974,
+        0.5,
+        0.7087811731647348
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7087811731647348,
+      "harmony": 0.5715456968401071,
+      "translation_notes": "Primary dimension: Wisdom (0.71); Strong secondary: Love"
+    },
+    "9": {
+      "verse_ref": "Matthew 23:9",
+      "english": "Call no man on the earth your father, for one is your Father, he who is in heaven.",
+      "wedau": "ghorehi egha oroto au  dobuna ami Tamatei yamna [one]  ami Tamatei tauna aiyai  au marei",
+      "ljpw": [
+        0.5701612903225807,
+        0.5,
+        0.4564516129032258,
+        0.5120967741935484
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5701612903225807,
+      "harmony": 0.5040322937959036,
+      "translation_notes": "Primary dimension: Love (0.57)"
+    },
+    "10": {
+      "verse_ref": "Matthew 23:10",
+      "english": "Neither be called masters, for one is your master, the Christ.",
+      "wedau": "[neither]  ghorehi [masters] yamna [one]  ami [master]  Keriso",
+      "ljpw": [
+        0.5858418367346938,
+        0.5677083333333334,
+        0.5,
+        0.5993835034013606
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5993835034013606,
+      "harmony": 0.5328026563688641,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "11": {
+      "verse_ref": "Matthew 23:11",
+      "english": "But he who is greatest among you will be your servant.",
+      "wedau": "tuna tauna aiyai  [greatest] [among] omi ina  ami [servant]",
+      "ljpw": [
+        0.5534883720930233,
+        0.5,
+        0.45988372093023255,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5534883720930233,
+      "harmony": 0.5011177017262961,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "12": {
+      "verse_ref": "Matthew 23:12",
+      "english": "Whoever exalts himself will be humbled, and whoever humbles himself will be exalted.",
+      "wedau": "[whoever] [exalts] [himself] ina  [humbled] ma [whoever] [humbles] [himself] ina  [exalted]",
+      "ljpw": [
+        0.5051127819548872,
+        0.5,
+        0.5,
+        0.5840601503759398
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5840601503759398,
+      "harmony": 0.510704087050175,
+      "translation_notes": "Primary dimension: Wisdom (0.58)"
+    },
+    "13": {
+      "verse_ref": "Matthew 23:13",
+      "english": "“Woe to you, scribes and Pharisees, hypocrites! For you devour widows’ houses, and as a pretense you make long prayers. Therefore you will receive greater condemnation.",
+      "wedau": "[“woe] da omi tauviharaharamanahi ma [pharisees] [hypocrites!] yamna omi [devour] [widows’] numa ma   [pretense] omi rura [long] [prayers] [therefore] omi ina [receive] [greater] [condemnation]",
+      "ljpw": [
+        0.5533333333333333,
+        0.5,
+        0.45999999999999996,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5533333333333333,
+      "harmony": 0.50111607698941,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "14": {
+      "verse_ref": "Matthew 23:14",
+      "english": "“But woe to you, scribes and Pharisees, hypocrites! Because you shut up the Kingdom of Heaven against men; for you don’t enter in yourselves, neither do you allow those who are entering in to enter.",
+      "wedau": "[“but] [woe] da omi tauviharaharamanahi ma [pharisees] [hypocrites!] yamna omi [shut] au  vibadana ana marei awarina [men;] yamna omi [don’t] rui au [yourselves] [neither] rura omi [allow] raketana aiyai  rui au da rui",
+      "ljpw": [
+        0.6063217566016074,
+        0.7744092039800995,
+        0.7557375382701874,
+        0.7682213930348258
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7744092039800995,
+      "harmony": 0.6389652649378877,
+      "translation_notes": "Primary dimension: Justice (0.77); Strong secondary: Wisdom"
+    },
+    "15": {
+      "verse_ref": "Matthew 23:15",
+      "english": "Woe to you, scribes and Pharisees, hypocrites! For you travel around by sea and land to make one proselyte; and when he becomes one, you make him twice as much a son of Gehenna as yourselves.",
+      "wedau": "[woe] da omi tauviharaharamanahi ma [pharisees] [hypocrites!] yamna omi [travel] [around] au topana ma [land] da rura [one] [proselyte;] ma maranaina tauna [becomes] [one] omi rura tauna [twice]  [much]  natuna ana [gehenna]  [yourselves]",
+      "ljpw": [
+        0.5533333333333333,
+        0.5,
+        0.45999999999999996,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5533333333333333,
+      "harmony": 0.50111607698941,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "16": {
+      "verse_ref": "Matthew 23:16",
+      "english": "“Woe to you, you blind guides, who say, ‘Whoever swears by the temple, it is nothing; but whoever swears by the gold of the temple, he is obligated.’",
+      "wedau": "[“woe] da omi omi [blind] [guides] aiyai riwa [‘whoever] [swears] au  [temple] tauna  [nothing;] tuna [whoever] [swears] au  [gold] ana  [temple] tauna  [obligated’]",
+      "ljpw": [
+        0.5553571428571429,
+        0.5,
+        0.45848214285714284,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5553571428571429,
+      "harmony": 0.5011365418438734,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "17": {
+      "verse_ref": "Matthew 23:17",
+      "english": "You blind fools! For which is greater, the gold, or the temple that sanctifies the gold?",
+      "wedau": "omi [blind] [fools!] yamna aiyai  [greater]  [gold] bo  [temple] raketana [sanctifies]  [gold?]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.6
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6,
+      "harmony": 0.5117866509228262,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "18": {
+      "verse_ref": "Matthew 23:18",
+      "english": "‘Whoever swears by the altar, it is nothing; but whoever swears by the gift that is on it, he is obligated?’",
+      "wedau": "[‘whoever] [swears] au  [altar] tauna  [nothing;] tuna [whoever] [swears] au  [gift] raketana  au tauna tauna  [obligated?’]",
+      "ljpw": [
+        0.529965156794425,
+        0.5,
+        0.4775261324041812,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5093952272608898,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "19": {
+      "verse_ref": "Matthew 23:19",
+      "english": "You blind fools! For which is greater, the gift, or the altar that sanctifies the gift?",
+      "wedau": "omi [blind] [fools!] yamna aiyai  [greater]  [gift] bo  [altar] raketana [sanctifies]  [gift?]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.6
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6,
+      "harmony": 0.5117866509228262,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "20": {
+      "verse_ref": "Matthew 23:20",
+      "english": "He therefore who swears by the altar, swears by it, and by everything on it.",
+      "wedau": "tauna [therefore] aiyai [swears] au  [altar] [swears] au tauna ma au [everything] au tauna",
+      "ljpw": [
+        0.5542372881355933,
+        0.5,
+        0.45932203389830506,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5542372881355933,
+      "harmony": 0.5011254169095591,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "21": {
+      "verse_ref": "Matthew 23:21",
+      "english": "He who swears by the temple, swears by it, and by him who has been living in it.",
+      "wedau": "tauna aiyai [swears] au  [temple] [swears] au tauna ma au tauna aiyai ana  [living] au tauna",
+      "ljpw": [
+        0.555,
+        0.5,
+        0.45875,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.555,
+      "harmony": 0.5011330474711493,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "22": {
+      "verse_ref": "Matthew 23:22",
+      "english": "He who swears by heaven, swears by the throne of God, and by him who sits on it.",
+      "wedau": "tauna aiyai [swears] au marei [swears] au  [throne] ana God ma au tauna aiyai [sits] au tauna",
+      "ljpw": [
+        0.6034285714285714,
+        0.5619047619047619,
+        0.47814285714285715,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6034285714285714,
+      "harmony": 0.5290571827045772,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "23": {
+      "verse_ref": "Matthew 23:23",
+      "english": "“Woe to you, scribes and Pharisees, hypocrites! For you tithe mint, dill, and cumin, and have left undone the weightier matters of the law: justice, mercy, and faith. But you ought to have done these, and not to have left the other undone.",
+      "wedau": "[“woe] da omi tauviharaharamanahi ma [pharisees] [hypocrites!] yamna omi [tithe] [mint] [dill] ma [cumin] ma ana voterei [undone]  [weightier] [matters] ana  [law:] [justice] nuwaboyei ma [faith] tuna omi [ought] da ana [done] ina ma egha da ana voterei  ghehauna [undone]",
+      "ljpw": [
+        0.5118237636906737,
+        0.8541984732824428,
+        0.6239566047129108,
+        0.7213740458015268
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.8541984732824428,
+      "harmony": 0.5910793615870523,
+      "translation_notes": "Primary dimension: Justice (0.85)"
+    },
+    "24": {
+      "verse_ref": "Matthew 23:24",
+      "english": "You blind guides, who strain out a gnat, and swallow a camel!",
+      "wedau": "omi [blind] [guides] aiyai [strain] hopu  [gnat] ma [swallow]  [camel!]",
+      "ljpw": [
+        0.5617021276595745,
+        0.5,
+        0.46170212765957447,
+        0.5106382978723405
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5617021276595745,
+      "harmony": 0.5036341966214609,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "25": {
+      "verse_ref": "Matthew 23:25",
+      "english": "“Woe to you, scribes and Pharisees, hypocrites! For you clean the outside of the cup and of the platter, but within they are full of extortion and unrighteousness.",
+      "wedau": "[“woe] da omi tauviharaharamanahi ma [pharisees] [hypocrites!] yamna omi ahiahiniu  [outside] ana  [cup] ma ana  [platter] tuna [within] tauhi  [full] ana [extortion] ma [unrighteousness]",
+      "ljpw": [
+        0.5166153846153846,
+        0.7230303030303029,
+        0.5711748251748251,
+        0.6393939393939393
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7230303030303029,
+      "harmony": 0.5586195869731153,
+      "translation_notes": "Primary dimension: Justice (0.72); Strong secondary: Wisdom"
+    },
+    "26": {
+      "verse_ref": "Matthew 23:26",
+      "english": "You blind Pharisee, first clean the inside of the cup and of the platter, that its outside may become clean also.",
+      "wedau": "omi [blind] [pharisee] naona ahiahiniu  [inside] ana  [cup] ma ana  [platter] raketana tauna [outside] ita [become] ahiahiniu maitehi",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "27": {
+      "verse_ref": "Matthew 23:27",
+      "english": "“Woe to you, scribes and Pharisees, hypocrites! For you are like whitened tombs, which outwardly appear beautiful, but inwardly are full of dead men’s bones, and of all uncleanness.",
+      "wedau": "[“woe] da omi tauviharaharamanahi ma [pharisees] [hypocrites!] yamna omi  [like] [whitened] [tombs] aiyai [outwardly] [appear] [beautiful] tuna [inwardly]  [full] ana [dead] [men’s] [bones] ma ana anatapuhi [uncleanness]",
+      "ljpw": [
+        0.5100694444444445,
+        0.5,
+        0.5,
+        0.5100694444444445
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5100694444444445,
+      "harmony": 0.5025171670913936,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "28": {
+      "verse_ref": "Matthew 23:28",
+      "english": "Even so you also outwardly appear righteous to men, but inwardly you are full of hypocrisy and iniquity.",
+      "wedau": "ma yamna omi maitehi [outwardly] [appear] [righteous] da rava tuna [inwardly] omi  [full] ana [hypocrisy] ma [iniquity]",
+      "ljpw": [
+        0.5177112299465241,
+        0.7230303030303029,
+        0.5703529411764705,
+        0.6393939393939393
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7230303030303029,
+      "harmony": 0.5586892467614971,
+      "translation_notes": "Primary dimension: Justice (0.72); Strong secondary: Wisdom"
+    },
+    "29": {
+      "verse_ref": "Matthew 23:29",
+      "english": "“Woe to you, scribes and Pharisees, hypocrites! For you build the tombs of the prophets, and decorate the tombs of the righteous,",
+      "wedau": "[“woe] da omi tauviharaharamanahi ma [pharisees] [hypocrites!] yamna omi [build]  [tombs] ana  peroveta ma [decorate]  [tombs] ana  [righteous]",
+      "ljpw": [
+        0.5,
+        0.7666666666666666,
+        0.6,
+        0.6666666666666666
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7666666666666666,
+      "harmony": 0.5686167523443388,
+      "translation_notes": "Primary dimension: Justice (0.77); Strong secondary: Wisdom"
+    },
+    "30": {
+      "verse_ref": "Matthew 23:30",
+      "english": "and say, ‘If we had lived in the days of our fathers, we wouldn’t have been partakers with them in the blood of the prophets.’",
+      "wedau": "ma riwa [‘if] ita ana [lived] au  maratom ana ahi Tamatei ita [wouldn’t] ana  [partakers] maitehi hita au  [blood] ana  [prophets’]",
+      "ljpw": [
+        0.5520833333333334,
+        0.5,
+        0.4609375,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5520833333333334,
+      "harmony": 0.5011026322537805,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "31": {
+      "verse_ref": "Matthew 23:31",
+      "english": "Therefore you testify to yourselves that you are children of those who killed the prophets.",
+      "wedau": "[therefore] omi [testify] da [yourselves] raketana omi  natunatuna ana raketana aiyai [killed]  peroveta",
+      "ljpw": [
+        0.5539473684210526,
+        0.5,
+        0.4595394736842105,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5539473684210526,
+      "harmony": 0.5011224563831708,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "32": {
+      "verse_ref": "Matthew 23:32",
+      "english": "Fill up, then, the measure of your fathers.",
+      "wedau": "[fill] au maratagogi  [measure] ana ami Tamatei",
+      "ljpw": [
+        0.5621212121212121,
+        0.5,
+        0.46136363636363636,
+        0.5106060606060606
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5621212121212121,
+      "harmony": 0.5036304786700898,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "33": {
+      "verse_ref": "Matthew 23:33",
+      "english": "You serpents, you offspring of vipers, how will you escape the judgment of Gehenna?",
+      "wedau": "omi [serpents] omi [offspring] ana [vipers] aiwaꞌi ina omi [escape]  [judgment] ana [gehenna?]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.6
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6,
+      "harmony": 0.5117866509228262,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "34": {
+      "verse_ref": "Matthew 23:34",
+      "english": "Therefore behold, I send to you prophets, wise men, and scribes. Some of them you will kill and crucify; and some of them you will scourge in your synagogues, and persecute from city to city;",
+      "wedau": "[therefore] [behold] tau vivohi da omi peroveta [wise] rava ma tauviharaharamanahi ghehauhi ana hita omi ina [kill] ma [crucify;] ma ghehauhi ana hita omi ina [scourge] au ami pari numana ma [persecute] au meyagaihi da [city;]",
+      "ljpw": [
+        0.5,
+        0.5666666666666667,
+        0.5,
+        0.6333333333333333
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6333333333333333,
+      "harmony": 0.5244485592242087,
+      "translation_notes": "Primary dimension: Wisdom (0.63)"
+    },
+    "35": {
+      "verse_ref": "Matthew 23:35",
+      "english": "that on you may come all the righteous blood shed on the earth, from the blood of righteous Abel to the blood of Zachariah son of Barachiah, whom you killed between the sanctuary and the altar.",
+      "wedau": "raketana au omi ita neꞌi anatapuhi  [righteous] [blood] [shed] au  dobuna au  [blood] ana [righteous] [abel] da  [blood] ana [zachariah] natuna ana [barachiah] aiyai omi [killed] au  [sanctuary] ma  [altar]",
+      "ljpw": [
+        0.5177360703812317,
+        0.7230303030303029,
+        0.5703343108504397,
+        0.6393939393939393
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7230303030303029,
+      "harmony": 0.5586908176330406,
+      "translation_notes": "Primary dimension: Justice (0.72); Strong secondary: Wisdom"
+    },
+    "36": {
+      "verse_ref": "Matthew 23:36",
+      "english": "Most certainly I tell you, all these things will come upon this generation.",
+      "wedau": "anatapuhi [certainly] tau riwehi omi anatapuhi ina [things] ina neꞌi [upon] ina [generation]",
+      "ljpw": [
+        0.5131147540983607,
+        0.5,
+        0.5,
+        0.5131147540983607
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5131147540983607,
+      "harmony": 0.5032782581256958,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "37": {
+      "verse_ref": "Matthew 23:37",
+      "english": "“Jerusalem, Jerusalem, who kills the prophets, and stones those who are sent to her! How often I would have gathered your children together, even as a hen gathers her chicks under her wings, and you would not!",
+      "wedau": "[“jerusalem] jerusalem aiyai [kills]  peroveta ma [stones] raketana aiyai  vivohi da [her!] aiwaꞌi [often] tau ina ana tagogiyehi ami natunatuna [together] ma   [hen] [gathers] ana [chicks] au ana [wings] ma omi ina [not!]",
+      "ljpw": [
+        0.5515151515151515,
+        0.5,
+        0.46136363636363636,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5515151515151515,
+      "harmony": 0.5010963179420901,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "38": {
+      "verse_ref": "Matthew 23:38",
+      "english": "Behold, your house is left to you desolate.",
+      "wedau": "[behold] ami numa  voterei da omi rauraugovaghana",
+      "ljpw": [
+        0.5588235294117647,
+        0.5,
+        0.45588235294117646,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5588235294117647,
+      "harmony": 0.5011678499344442,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "39": {
+      "verse_ref": "Matthew 23:39",
+      "english": "For I tell you, you will not see me from now on, until you say, ‘Blessed is he who comes in the name of the Lord!’ ”",
+      "wedau": "yamna tau riwehi omi omi ina egha inana tau au ina marana au [until] omi riwa [‘blessed]  tauna aiyai neꞌi au  wava ana  [lord!’] [”]",
+      "ljpw": [
+        0.7755633219902511,
+        0.7703017084696475,
+        0.6588016186884945,
+        0.8022751858031911
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.8022751858031911,
+      "harmony": 0.6628789316633106,
+      "translation_notes": "Primary dimension: Wisdom (0.80); Strong secondary: Love"
+    }
+  }
+}

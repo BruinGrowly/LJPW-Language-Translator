@@ -1,0 +1,1135 @@
+{
+  "book": "Matthew",
+  "chapter": 26,
+  "source_language": "English",
+  "target_language": "Wedau",
+  "translation_method": "LJPW-Guided Pure Meaning Translation",
+  "timestamp": "2025-12-10T20:04:15.786361",
+  "verses": {
+    "1": {
+      "verse_ref": "Matthew 26:1",
+      "english": "When Jesus had finished all these words, he said to his disciples,",
+      "wedau": "maranaina Yesu ana [finished] anatapuhi ina riwehi tauna riwa da ana tauvotaghotagho",
+      "ljpw": [
+        0.6002953240360951,
+        0.5702898550724638,
+        0.488039376538146,
+        0.637536231884058
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.637536231884058,
+      "harmony": 0.5379207010813075,
+      "translation_notes": "Primary dimension: Wisdom (0.64); Strong secondary: Love"
+    },
+    "2": {
+      "verse_ref": "Matthew 26:2",
+      "english": "“You know that after two days the Passover is coming, and the Son of Man will be delivered up to be crucified.”",
+      "wedau": "[“you] haramaneꞌi raketana muriyai [two] maratom  [passover]  naenae ma  natuna ana oroto ina  [delivered] au da  [crucified”]",
+      "ljpw": [
+        0.5,
+        0.5666666666666667,
+        0.5,
+        0.6333333333333333
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6333333333333333,
+      "harmony": 0.5244485592242087,
+      "translation_notes": "Primary dimension: Wisdom (0.63)"
+    },
+    "3": {
+      "verse_ref": "Matthew 26:3",
+      "english": "Then the chief priests, the scribes, and the elders of the people were gathered together in the court of the high priest, who was called Caiaphas.",
+      "wedau": "maratagogi  [chief] pirisina  tauviharaharamanahi ma  [elders] ana  rava  tagogiyehi [together] au  [court] ana  [high] pirisina aiyai  ghorehi [caiaphas]",
+      "ljpw": [
+        0.5512820512820513,
+        0.5,
+        0.4615384615384615,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5512820512820513,
+      "harmony": 0.5010936907467148,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "4": {
+      "verse_ref": "Matthew 26:4",
+      "english": "They took counsel together that they might take Jesus by deceit, and kill him.",
+      "wedau": "tauhi varahai [counsel] [together] raketana tauhi ita varahai Yesu au [deceit] ma [kill] tauna",
+      "ljpw": [
+        0.6672727272727271,
+        0.6464069264069263,
+        0.5093506493506493,
+        0.6951515151515151
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6951515151515151,
+      "harmony": 0.5699339716266874,
+      "translation_notes": "Primary dimension: Wisdom (0.70); Strong secondary: Love"
+    },
+    "5": {
+      "verse_ref": "Matthew 26:5",
+      "english": "But they said, “Not during the feast, lest a riot occur among the people.”",
+      "wedau": "tuna tauhi riwa [“not] [during]  [feast] [lest]  [riot] [occur] [among]  [people”]",
+      "ljpw": [
+        0.5,
+        0.5200892857142857,
+        0.5267857142857143,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5267857142857143,
+      "harmony": 0.5058539478348405,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "6": {
+      "verse_ref": "Matthew 26:6",
+      "english": "Now when Jesus was in Bethany, in the house of Simon the leper,",
+      "wedau": "ina marana maranaina Yesu  au [bethany] au  numa ana simon  opina pagapagana",
+      "ljpw": [
+        0.6036734693877551,
+        0.5619047619047619,
+        0.4779591836734694,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6036734693877551,
+      "harmony": 0.5290575667531698,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "7": {
+      "verse_ref": "Matthew 26:7",
+      "english": "a woman came to him having an alabaster jar of very expensive ointment, and she poured it on his head as he sat at the table.",
+      "wedau": "vaivine neꞌi da tauna [having] [an] [alabaster] [jar] ana ghe [expensive] [ointment] ma tauna [poured] tauna au ana [head]  tauna [sat] au  [table]",
+      "ljpw": [
+        0.5510204081632654,
+        0.5,
+        0.461734693877551,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5510204081632654,
+      "harmony": 0.5010907164157323,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "8": {
+      "verse_ref": "Matthew 26:8",
+      "english": "But when his disciples saw this, they were indignant, saying, “Why this waste?",
+      "wedau": "tuna maranaina ana tauvotaghotagho inana ina tauhi  [indignant] riwa ipa [“why] ina [waste?]",
+      "ljpw": [
+        0.5309133489461358,
+        0.5,
+        0.47681498829039815,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094150115809987,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "9": {
+      "verse_ref": "Matthew 26:9",
+      "english": "For this ointment might have been sold for much, and given to the poor.”",
+      "wedau": "yamna ina [ointment] ita ana  [sold] yamna [much] ma verei da  [poor”]",
+      "ljpw": [
+        0.5040178571428572,
+        0.5677083333333334,
+        0.5947916666666667,
+        0.5581845238095238
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5947916666666667,
+      "harmony": 0.5290739400785848,
+      "translation_notes": "Primary dimension: Power (0.59)"
+    },
+    "10": {
+      "verse_ref": "Matthew 26:10",
+      "english": "However, knowing this, Jesus said to them, “Why do you trouble the woman? She has done a good work for me.",
+      "wedau": "[however] haramaneꞌi ina Yesu riwa da hita [“why] rura omi [trouble]  [woman?] tauna ana [done]  [good] [work] yamna tau",
+      "ljpw": [
+        0.6898387096774194,
+        0.6473118279569893,
+        0.49020161290322584,
+        0.7352688172043012
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7352688172043012,
+      "harmony": 0.5740523759915291,
+      "translation_notes": "Primary dimension: Wisdom (0.74); Strong secondary: Love"
+    },
+    "11": {
+      "verse_ref": "Matthew 26:11",
+      "english": "For you always have the poor with you; but you don’t always have me.",
+      "wedau": "yamna omi [always] ana  apoapoena maitehi [you;] tuna omi [don’t] [always] ana tau",
+      "ljpw": [
+        0.5653846153846154,
+        0.5,
+        0.45096153846153847,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5653846153846154,
+      "harmony": 0.5012141546780803,
+      "translation_notes": "Primary dimension: Love (0.57)"
+    },
+    "12": {
+      "verse_ref": "Matthew 26:12",
+      "english": "For in pouring this ointment on my body, she did it to prepare me for burial.",
+      "wedau": "yamna au [pouring] ina [ointment] au au [body] tauna rura tauna da warihagha tau yamna [burial]",
+      "ljpw": [
+        0.5125000000000001,
+        0.5,
+        0.5,
+        0.5125000000000001
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5125000000000001,
+      "harmony": 0.5031246276381162,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "13": {
+      "verse_ref": "Matthew 26:13",
+      "english": "Most certainly I tell you, wherever this Good News is preached in the whole world, what this woman has done will also be spoken of as a memorial of her.”",
+      "wedau": "anatapuhi [certainly] tau riwehi omi [wherever] ina [good] vouna  rau-guguyei au  [whole] dobuna aiwaꞌi ina vaivine ana [done] ina maitehi  [spoken] ana   [memorial] ana [her”]",
+      "ljpw": [
+        0.5641666666666667,
+        0.5,
+        0.45999999999999996,
+        0.5108333333333334
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5641666666666667,
+      "harmony": 0.5036998123659912,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "14": {
+      "verse_ref": "Matthew 26:14",
+      "english": "Then one of the twelve, who was called Judas Iscariot, went to the chief priests,",
+      "wedau": "maratagogi [one] ana  [twelve] aiyai  ghorehi [judas] [iscariot] nae da  [chief] pirisina",
+      "ljpw": [
+        0.5515625000000001,
+        0.5,
+        0.461328125,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5515625000000001,
+      "harmony": 0.5010968489815254,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "15": {
+      "verse_ref": "Matthew 26:15",
+      "english": "and said, “What are you willing to give me, that I should deliver him to you?” They weighed out for him thirty pieces of silver.",
+      "wedau": "ma riwa [“what]  omi ghohaghohana da verei tau raketana tau ina [deliver] tauna da [you?”] tauhi [weighed] hopu yamna tauna [thirty] [pieces] ana [silver]",
+      "ljpw": [
+        0.532069970845481,
+        0.5,
+        0.4759475218658892,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094386364538448,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "16": {
+      "verse_ref": "Matthew 26:16",
+      "english": "From that time he sought opportunity to betray him.",
+      "wedau": "au raketana mara tauna [sought] [opportunity] da [betray] tauna",
+      "ljpw": [
+        0.5,
+        0.5214285714285715,
+        0.5285714285714286,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5285714285714286,
+      "harmony": 0.5062436195204446,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "17": {
+      "verse_ref": "Matthew 26:17",
+      "english": "Now on the first day of unleavened bread, the disciples came to Jesus, saying to him, “Where do you want us to prepare for you to eat the Passover?”",
+      "wedau": "ina marana au  naona mara ana [unleavened] [bread]  tauvotaghotagho neꞌi da Yesu riwa ipa da tauna [“where] rura omi [want] ita da warihagha yamna omi da [eat]  [passover?”]",
+      "ljpw": [
+        0.6005491990846681,
+        0.5702898550724638,
+        0.48784897025171625,
+        0.637536231884058
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.637536231884058,
+      "harmony": 0.5379220296868191,
+      "translation_notes": "Primary dimension: Wisdom (0.64); Strong secondary: Love"
+    },
+    "18": {
+      "verse_ref": "Matthew 26:18",
+      "english": "He said, “Go into the city to a certain person, and tell him, ‘The Teacher says, “My time is at hand. I will keep the Passover at your house with my disciples.” ’ ”",
+      "wedau": "tauna riwa [“go] au  meyagaihi da  [certain] [person] ma riwehi tauna [‘the] [teacher] riwa [“my] mara  au nimana tau ina [keep]  [passover] au ami numa maitehi au [disciples”] [’] [”]",
+      "ljpw": [
+        0.5267947178871548,
+        0.5495238095238095,
+        0.4799039615846339,
+        0.599047619047619
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.5191178578613647,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "19": {
+      "verse_ref": "Matthew 26:19",
+      "english": "The disciples did as Jesus commanded them, and they prepared the Passover.",
+      "wedau": "tauvotaghotagho rura  Yesu ririweiya hita ma tauhi [prepared]  [passover]",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "20": {
+      "verse_ref": "Matthew 26:20",
+      "english": "Now when evening had come, he was reclining at the table with the twelve disciples.",
+      "wedau": "ina marana maranaina madegha ana neꞌi tauna  [reclining] au  [table] maitehi  [twelve] tauvotaghotagho",
+      "ljpw": [
+        0.5522388059701493,
+        0.5,
+        0.46082089552238803,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5522388059701493,
+      "harmony": 0.5011043379368321,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "21": {
+      "verse_ref": "Matthew 26:21",
+      "english": "As they were eating, he said, “Most certainly I tell you that one of you will betray me.”",
+      "wedau": "tauhi  [eating] tauna riwa [“most] [certainly] tau riwehi omi raketana [one] ana omi ina [betray] [me”]",
+      "ljpw": [
+        0.5567164179104478,
+        0.5,
+        0.45746268656716416,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5567164179104478,
+      "harmony": 0.5011493823263754,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "22": {
+      "verse_ref": "Matthew 26:22",
+      "english": "They were exceedingly sorrowful, and each began to ask him, “It isn’t me, is it, Lord?”",
+      "wedau": "tauhi  [exceedingly] [sorrowful] ma tagotagogi [began] da rau-baghei tauna [“it] [isn’t] tau  tauna [lord?”]",
+      "ljpw": [
+        0.5912270642201836,
+        0.5741590214067279,
+        0.5,
+        0.6473432721712539
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6473432721712539,
+      "harmony": 0.5404885388275222,
+      "translation_notes": "Primary dimension: Wisdom (0.65)"
+    },
+    "23": {
+      "verse_ref": "Matthew 26:23",
+      "english": "He answered, “He who dipped his hand with me in the dish will betray me.",
+      "wedau": "tauna [answered] [“he] aiyai [dipped] ana nimana maitehi tau au  [dish] ina [betray] tau",
+      "ljpw": [
+        0.5581818181818182,
+        0.5,
+        0.45636363636363636,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5581818181818182,
+      "harmony": 0.5011624107993305,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "24": {
+      "verse_ref": "Matthew 26:24",
+      "english": "The Son of Man goes, even as it is written of him, but woe to that man through whom the Son of Man is betrayed! It would be better for that man if he had not been born.”",
+      "wedau": "natuna ana oroto nae ma  tauna  [written] ana tauna tuna [woe] da raketana oroto au aiyai  natuna ana oroto  [betrayed!] tauna ina  [better] yamna raketana oroto tora tauna ana egha  [born”]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "25": {
+      "verse_ref": "Matthew 26:25",
+      "english": "Judas, who betrayed him, answered, “It isn’t me, is it, Rabbi?” He said to him, “You said it.”",
+      "wedau": "[judas] aiyai [betrayed] tauna [answered] [“it] [isn’t] tau  tauna [rabbi?”] tauna riwa da tauna [“you] riwa [it”]",
+      "ljpw": [
+        0.53125,
+        0.5,
+        0.4765625,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094219455913342,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "26": {
+      "verse_ref": "Matthew 26:26",
+      "english": "As they were eating, Jesus took bread, gave thanks for it, and broke it. He gave to the disciples, and said, “Take, eat; this is my body.”",
+      "wedau": "tauhi  [eating] Yesu varahai [bread] verei [thanks] yamna tauna ma [broke] tauna tauna verei da  tauvotaghotagho ma riwa [“take] [eat;] ina  au [body”]",
+      "ljpw": [
+        0.5742857142857143,
+        0.5725978312116926,
+        0.5142574257425743,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5866666666666667,
+      "harmony": 0.5325117936563092,
+      "translation_notes": "Primary dimension: Wisdom (0.59)"
+    },
+    "27": {
+      "verse_ref": "Matthew 26:27",
+      "english": "He took the cup, gave thanks, and gave to them, saying, “All of you drink it,",
+      "wedau": "tauna varahai  [cup] verei [thanks] ma verei da hita riwa ipa [“all] ana omi [drink] tauna",
+      "ljpw": [
+        0.5,
+        0.5200892857142857,
+        0.5267857142857143,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5267857142857143,
+      "harmony": 0.5058539478348405,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "28": {
+      "verse_ref": "Matthew 26:28",
+      "english": "for this is my blood of the new covenant, which is poured out for many for the remission of sins.",
+      "wedau": "yamna ina  au [blood] ana  vouna [covenant] aiyai  [poured] hopu yamna anatapuhi yamna  [remission] ana ghohaꞌapoapoe",
+      "ljpw": [
+        0.4,
+        0.4,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5,
+      "harmony": 0.47516409872148213,
+      "translation_notes": "Primary dimension: Power (0.50); Low harmony verse (distinctive emphasis)"
+    },
+    "29": {
+      "verse_ref": "Matthew 26:29",
+      "english": "But I tell you that I will not drink of this fruit of the vine from now on, until that day when I drink it anew with you in my Father’s Kingdom.”",
+      "wedau": "I tuna tau riwehi omi raketana tau ina egha [drink] ana ina [fruit] ana  [vine] au ina marana au [until] raketana mara maranaina tau [drink] tauna [anew] maitehi omi au au [father’s] [kingdom”]",
+      "ljpw": [
+        0.5025174825174825,
+        0.6474358974358974,
+        0.7064102564102563,
+        0.6204662004662004
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.7064102564102563,
+      "harmony": 0.5630926573140833,
+      "translation_notes": "Primary dimension: Power (0.71); Strong secondary: Justice"
+    },
+    "30": {
+      "verse_ref": "Matthew 26:30",
+      "english": "When they had sung a hymn, they went out to the Mount of Olives.",
+      "wedau": "maranaina tauhi ana [sung]  [hymn] tauhi nae hopu da  [mount] ana [olives]",
+      "ljpw": [
+        0.5326530612244897,
+        0.5,
+        0.4755102040816327,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094503345791289,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "31": {
+      "verse_ref": "Matthew 26:31",
+      "english": "Then Jesus said to them, “All of you will be made to stumble because of me tonight, for it is written, ‘I will strike the shepherd, and the sheep of the flock will be scattered.’",
+      "wedau": "maratagogi Yesu riwa da hita [“all] ana omi ina  rura da [stumble] yamna ana tau [tonight] yamna tauna  [written] [‘i] ina [strike]  [shepherd] ma  [sheep] ana  [flock] ina  [scattered’]",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "32": {
+      "verse_ref": "Matthew 26:32",
+      "english": "But after I am raised up, I will go before you into Galilee.”",
+      "wedau": "tuna muriyai tau [am] [raised] au tau ina nae naona omi au [galilee”]",
+      "ljpw": [
+        0.5543478260869565,
+        0.5,
+        0.4592391304347826,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5543478260869565,
+      "harmony": 0.5011265369666877,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "33": {
+      "verse_ref": "Matthew 26:33",
+      "english": "But Peter answered him, “Even if all will be made to stumble because of you, I will never be made to stumble.”",
+      "wedau": "tuna [peter] [answered] tauna [“even] tora anatapuhi ina  rura da [stumble] yamna ana omi tau ina [never]  rura da [stumble”]",
+      "ljpw": [
+        0.5113095238095239,
+        0.5,
+        0.5,
+        0.5113095238095239
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5113095238095239,
+      "harmony": 0.5028271056058484,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "34": {
+      "verse_ref": "Matthew 26:34",
+      "english": "Jesus said to him, “Most certainly I tell you that tonight, before the rooster crows, you will deny me three times.”",
+      "wedau": "Yesu riwa da tauna [“most] [certainly] tau riwehi omi raketana [tonight] naona  [rooster] [crows] omi ina [deny] tau [three] [times”]",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "35": {
+      "verse_ref": "Matthew 26:35",
+      "english": "Peter said to him, “Even if I must die with you, I will not deny you.” All of the disciples also said likewise.",
+      "wedau": "[peter] riwa da tauna [“even] tora tau ina [die] maitehi omi tau ina egha [deny] [you”] anatapuhi ana  tauvotaghotagho maitehi riwa [likewise]",
+      "ljpw": [
+        0.5278829604130809,
+        0.5495238095238095,
+        0.47908777969018934,
+        0.599047619047619
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.5191439097888424,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "36": {
+      "verse_ref": "Matthew 26:36",
+      "english": "Then Jesus came with them to a place called Gethsemane, and said to his disciples, “Sit here, while I go there and pray.”",
+      "wedau": "maratagogi Yesu neꞌi maitehi hita da  gabu ghorehi [gethsemane] ma riwa da ana tauvotaghotagho [“sit] ina [while] tau nae kampa ma [pray”]",
+      "ljpw": [
+        0.6002764976958526,
+        0.5619047619047619,
+        0.4805069124423963,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6002764976958526,
+      "harmony": 0.5290496094814676,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "37": {
+      "verse_ref": "Matthew 26:37",
+      "english": "He took with him Peter and the two sons of Zebedee, and began to be sorrowful and severely troubled.",
+      "wedau": "tauna varahai maitehi tauna [peter] ma  [two] natuna ana zebedi ma [began] da  [sorrowful] ma [severely] [troubled]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "38": {
+      "verse_ref": "Matthew 26:38",
+      "english": "Then he said to them, “My soul is exceedingly sorrowful, even to death. Stay here, and watch with me.”",
+      "wedau": "maratagogi tauna riwa da hita [“my] [soul]  [exceedingly] [sorrowful] ma da mate [stay] ina ma [watch] maitehi [me”]",
+      "ljpw": [
+        0.5532467532467533,
+        0.5,
+        0.46006493506493507,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5532467532467533,
+      "harmony": 0.5011151655555804,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "39": {
+      "verse_ref": "Matthew 26:39",
+      "english": "He went forward a little, fell on his face, and prayed, saying, “My Father, if it is possible, let this cup pass away from me; nevertheless, not what I desire, but what you desire.”",
+      "wedau": "tauna nae [forward]  [little] [fell] au ana [face] ma dedede riwa ipa [“my] Tamatei tora tauna  [possible] ita ina [cup] [pass] [away] au [me;] [nevertheless] egha aiwaꞌi tau [desire] tuna aiwaꞌi omi [desire”]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "40": {
+      "verse_ref": "Matthew 26:40",
+      "english": "He came to the disciples, and found them sleeping, and said to Peter, “What, couldn’t you watch with me for one hour?",
+      "wedau": "tauna neꞌi da  tauvotaghotagho ma tuhaghai hita [sleeping] ma riwa da [peter] [“what] [couldn’t] omi [watch] maitehi tau yamna [one] [hour?]",
+      "ljpw": [
+        0.528892455858748,
+        0.5,
+        0.478330658105939,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5093723925548015,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "41": {
+      "verse_ref": "Matthew 26:41",
+      "english": "Watch and pray, that you don’t enter into temptation. The spirit indeed is willing, but the flesh is weak.”",
+      "wedau": "[watch] ma [pray] raketana omi [don’t] rui au [temptation]  aruwa [indeed]  ghohaghohana tuna  [flesh]  [weak”]",
+      "ljpw": [
+        0.5742857142857143,
+        0.5725932300631096,
+        0.514251290877797,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5866666666666667,
+      "harmony": 0.5325101958819463,
+      "translation_notes": "Primary dimension: Wisdom (0.59)"
+    },
+    "42": {
+      "verse_ref": "Matthew 26:42",
+      "english": "Again, a second time he went away, and prayed, saying, “My Father, if this cup can’t pass away from me unless I drink it, your desire be done.”",
+      "wedau": "vouna  [second] mara tauna nae [away] ma dedede riwa ipa [“my] Tamatei tora ina [cup] [can’t] [pass] [away] au tau [unless] tau [drink] tauna ami [desire]  [done”]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "43": {
+      "verse_ref": "Matthew 26:43",
+      "english": "He came again and found them sleeping, for their eyes were heavy.",
+      "wedau": "tauna neꞌi vouna ma tuhaghai hita [sleeping] yamna ahi [eyes]  [heavy]",
+      "ljpw": [
+        0.5557692307692308,
+        0.5,
+        0.4581730769230769,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5557692307692308,
+      "harmony": 0.5011405114542355,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "44": {
+      "verse_ref": "Matthew 26:44",
+      "english": "He left them again, went away, and prayed a third time, saying the same words.",
+      "wedau": "tauna voterei hita vouna nae [away] ma dedede  [third] mara riwa ipa  tagotagogi riwehi",
+      "ljpw": [
+        0.5533333333333333,
+        0.5,
+        0.45999999999999996,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5533333333333333,
+      "harmony": 0.50111607698941,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "45": {
+      "verse_ref": "Matthew 26:45",
+      "english": "Then he came to his disciples, and said to them, “Sleep on now, and take your rest. Behold, the hour is at hand, and the Son of Man is betrayed into the hands of sinners.",
+      "wedau": "maratagogi tauna neꞌi da ana tauvotaghotagho ma riwa da hita [“sleep] au ina marana ma varahai ami [rest] [behold]  [hour]  au nimana ma  natuna ana oroto  [betrayed] au  nimana ana [sinners]",
+      "ljpw": [
+        0.4,
+        0.4,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5,
+      "harmony": 0.47516409872148213,
+      "translation_notes": "Primary dimension: Power (0.50); Low harmony verse (distinctive emphasis)"
+    },
+    "46": {
+      "verse_ref": "Matthew 26:46",
+      "english": "Arise, let’s be going. Behold, he who betrays me is at hand.”",
+      "wedau": "[arise] [let’s]  nae [behold] tauna aiyai [betrays] tau  au [hand”]",
+      "ljpw": [
+        0.5522727272727272,
+        0.5,
+        0.46079545454545456,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5522727272727272,
+      "harmony": 0.5011047088230359,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "47": {
+      "verse_ref": "Matthew 26:47",
+      "english": "While he was still speaking, behold, Judas, one of the twelve, came, and with him a great multitude with swords and clubs, from the chief priests and elders of the people.",
+      "wedau": "[while] tauna  [still] pa [behold] [judas] [one] ana  [twelve] neꞌi ma maitehi tauna  ghe vavahagha [multitude] maitehi [swords] ma [clubs] au  [chief] pirisina ma [elders] ana  rava",
+      "ljpw": [
+        0.5,
+        0.5833333333333334,
+        0.6166666666666667,
+        0.5666666666666667
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.534524006175688,
+      "translation_notes": "Primary dimension: Power (0.62)"
+    },
+    "48": {
+      "verse_ref": "Matthew 26:48",
+      "english": "Now he who betrayed him gave them a sign, saying, “Whoever I kiss, he is the one. Seize him.”",
+      "wedau": "ina marana tauna aiyai [betrayed] tauna verei hita  [sign] riwa ipa [“whoever] tau [kiss] tauna   [one] [seize] [him”]",
+      "ljpw": [
+        0.5602941176470588,
+        0.5,
+        0.4547794117647059,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5602941176470588,
+      "harmony": 0.5011797030560678,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "49": {
+      "verse_ref": "Matthew 26:49",
+      "english": "Immediately he came to Jesus, and said, “Hail, Rabbi!” and kissed him.",
+      "wedau": "maratagogi tauna neꞌi da Yesu ma riwa [“hail] [rabbi!”] ma [kissed] tauna",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "50": {
+      "verse_ref": "Matthew 26:50",
+      "english": "Jesus said to him, “Friend, why are you here?” Then they came and laid hands on Jesus, and took him.",
+      "wedau": "Yesu riwa da tauna [“friend] yamna  omi [here?”] maratagogi tauhi neꞌi ma [laid] nimana au Yesu ma varahai tauna",
+      "ljpw": [
+        0.6012690951821387,
+        0.5702898550724638,
+        0.48730904817861337,
+        0.637536231884058
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.637536231884058,
+      "harmony": 0.5379256127072615,
+      "translation_notes": "Primary dimension: Wisdom (0.64); Strong secondary: Love"
+    },
+    "51": {
+      "verse_ref": "Matthew 26:51",
+      "english": "Behold, one of those who were with Jesus stretched out his hand, and drew his sword, and struck the servant of the high priest, and struck off his ear.",
+      "wedau": "[behold] [one] ana raketana aiyai  maitehi Yesu [stretched] hopu ana nimana ma [drew] ana [sword] ma [struck]  [servant] ana  [high] pirisina ma [struck] [off] ana [ear]",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "52": {
+      "verse_ref": "Matthew 26:52",
+      "english": "Then Jesus said to him, “Put your sword back into its place, for all those who take the sword will die by the sword.",
+      "wedau": "maratagogi Yesu riwa da tauna [“put] ami [sword] [back] au tauna gabu yamna anatapuhi raketana aiyai varahai  [sword] ina [die] au  [sword]",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "53": {
+      "verse_ref": "Matthew 26:53",
+      "english": "Or do you think that I couldn’t ask my Father, and he would even now send me more than twelve legions of angels?",
+      "wedau": "bo rura omi [think] raketana tau [couldn’t] rau-baghei au Tamatei ma tauna ina ma ina marana vivohi tau ghe vavahagha da [twelve] [legions] ana [angels?]",
+      "ljpw": [
+        0.5048396854204477,
+        0.5,
+        0.5,
+        0.5837870538415003
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5837870538415003,
+      "harmony": 0.5106363693365318,
+      "translation_notes": "Primary dimension: Wisdom (0.58)"
+    },
+    "54": {
+      "verse_ref": "Matthew 26:54",
+      "english": "How then would the Scriptures be fulfilled that it must be so?”",
+      "wedau": "aiwaꞌi maratagogi ina  [scriptures]  ririweiya raketana tauna ina  [so?”]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.6
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6,
+      "harmony": 0.5117866509228262,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "55": {
+      "verse_ref": "Matthew 26:55",
+      "english": "In that hour Jesus said to the multitudes, “Have you come out as against a robber with swords and clubs to seize me? I sat daily in the temple teaching, and you didn’t arrest me.",
+      "wedau": "au raketana [hour] Yesu riwa da  [multitudes] [“have] omi neꞌi hopu  awarina  [robber] maitehi [swords] ma [clubs] da [seize] [me?] tau [sat] [daily] au  [temple] viharaharamana ma omi [didn’t] [arrest] tau",
+      "ljpw": [
+        0.7,
+        0.6666666666666666,
+        0.5,
+        0.7661800486618005
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7661800486618005,
+      "harmony": 0.584390643134162,
+      "translation_notes": "Primary dimension: Wisdom (0.77); Strong secondary: Love"
+    },
+    "56": {
+      "verse_ref": "Matthew 26:56",
+      "english": "But all this has happened that the Scriptures of the prophets might be fulfilled.” Then all the disciples left him and fled.",
+      "wedau": "tuna anatapuhi ina ana [happened] raketana  [scriptures] ana  peroveta ita  [fulfilled”] maratagogi anatapuhi  tauvotaghotagho voterei tauna ma [fled]",
+      "ljpw": [
+        0.5,
+        0.5719333333333334,
+        0.6000380952380953,
+        0.5495238095238095
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.6000380952380953,
+      "harmony": 0.5284668059731091,
+      "translation_notes": "Primary dimension: Power (0.60)"
+    },
+    "57": {
+      "verse_ref": "Matthew 26:57",
+      "english": "Those who had taken Jesus led him away to Caiaphas the high priest, where the scribes and the elders were gathered together.",
+      "wedau": "raketana aiyai ana varahai Yesu [led] tauna [away] da [caiaphas]  [high] pirisina aiwaꞌi  tauviharaharamanahi ma  [elders]  tagogiyehi [together]",
+      "ljpw": [
+        0.6028005657708628,
+        0.5619047619047619,
+        0.4786138613861386,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6028005657708628,
+      "harmony": 0.5290560632069631,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "58": {
+      "verse_ref": "Matthew 26:58",
+      "english": "But Peter followed him from a distance, to the court of the high priest, and entered in and sat with the officers, to see the end.",
+      "wedau": "tuna [peter] taghotaghoi tauna au  [distance] da  [court] ana  [high] pirisina ma rui au ma [sat] maitehi  [officers] da inana  [end]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "59": {
+      "verse_ref": "Matthew 26:59",
+      "english": "Now the chief priests, the elders, and the whole council sought false testimony against Jesus, that they might put him to death;",
+      "wedau": "ina marana  [chief] pirisina  [elders] ma  [whole] [council] [sought] [false] inavi heghehi awarina Yesu raketana tauhi ita terei tauna da [death;]",
+      "ljpw": [
+        0.7,
+        0.6666666666666666,
+        0.5,
+        0.7333333333333333
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7333333333333333,
+      "harmony": 0.5805011589293861,
+      "translation_notes": "Primary dimension: Wisdom (0.73); Strong secondary: Love"
+    },
+    "60": {
+      "verse_ref": "Matthew 26:60",
+      "english": "and they found none. Even though many false witnesses came forward, they found none. But at last two false witnesses came forward,",
+      "wedau": "ma tauhi tuhaghai [none] ma [though] anatapuhi [false] [witnesses] neꞌi [forward] tauhi tuhaghai [none] tuna au muriyai [two] [false] [witnesses] neꞌi [forward]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "61": {
+      "verse_ref": "Matthew 26:61",
+      "english": "and said, “This man said, ‘I am able to destroy the temple of God, and to build it in three days.’ ”",
+      "wedau": "ma riwa [“this] oroto riwa [‘i] [am] [able] da rau-iviꞌapoapoyeꞌai  [temple] ana God ma da [build] tauna au [three] [days’] [”]",
+      "ljpw": [
+        0.5742857142857143,
+        0.5727699530516432,
+        0.5144869215291751,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5866666666666667,
+      "harmony": 0.532571564526659,
+      "translation_notes": "Primary dimension: Wisdom (0.59)"
+    },
+    "62": {
+      "verse_ref": "Matthew 26:62",
+      "english": "The high priest stood up, and said to him, “Have you no answer? What is this that these testify against you?”",
+      "wedau": "[high] pirisina [stood] au ma riwa da tauna [“have] omi egha [answer?] aiwaꞌi  ina raketana ina [testify] awarina [you?”]",
+      "ljpw": [
+        0.5316695352839931,
+        0.5,
+        0.4762478485370052,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094305205091012,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "63": {
+      "verse_ref": "Matthew 26:63",
+      "english": "But Jesus held his peace. The high priest answered him, “I adjure you by the living God, that you tell us whether you are the Christ, the Son of God.”",
+      "wedau": "tuna Yesu [held] ana [peace]  [high] pirisina [answered] tauna [“i] [adjure] omi au  [living] God raketana omi riwehi ita [whether] omi   Keriso  natuna ana [god”]",
+      "ljpw": [
+        0.8666586190246258,
+        0.8325688073394496,
+        0.5742032834379527,
+        0.8857798165137615
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.8857798165137615,
+      "harmony": 0.6711123438891325,
+      "translation_notes": "Primary dimension: Wisdom (0.89); Strong secondary: Love"
+    },
+    "64": {
+      "verse_ref": "Matthew 26:64",
+      "english": "Jesus said to him, “You have said it. Nevertheless, I tell you, after this you will see the Son of Man sitting at the right hand of Power, and coming on the clouds of the sky.”",
+      "wedau": "Yesu riwa da tauna [“you] ana riwa tauna [nevertheless] tau riwehi omi muriyai ina omi ina inana  natuna ana oroto [sitting] au  [right] nimana ana [power] ma naenae au  [clouds] ana  [sky”]",
+      "ljpw": [
+        0.7771853297365552,
+        0.7213740458015268,
+        0.4913476439189577,
+        0.8099236641221375
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.8099236641221375,
+      "harmony": 0.6061637659227708,
+      "translation_notes": "Primary dimension: Wisdom (0.81); Strong secondary: Love"
+    },
+    "65": {
+      "verse_ref": "Matthew 26:65",
+      "english": "Then the high priest tore his clothing, saying, “He has spoken blasphemy! Why do we need any more witnesses? Behold, now you have heard his blasphemy.",
+      "wedau": "maratagogi  [high] pirisina [tore] ana [clothing] riwa ipa [“he] ana [spoken] [blasphemy!] yamna rura ita [need] ghehauna ghe vavahagha [witnesses?] [behold] ina marana omi ana [heard] ana [blasphemy]",
+      "ljpw": [
+        0.5314769975786925,
+        0.5,
+        0.47639225181598066,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094265943437015,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "66": {
+      "verse_ref": "Matthew 26:66",
+      "english": "What do you think?” They answered, “He is worthy of death!”",
+      "wedau": "aiwaꞌi rura omi [think?”] tauhi [answered] [“he]  tagotagogiu ana [death!”]",
+      "ljpw": [
+        0.5358803986710963,
+        0.5,
+        0.47308970099667774,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5095125110765062,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "67": {
+      "verse_ref": "Matthew 26:67",
+      "english": "Then they spat in his face and beat him with their fists, and some slapped him,",
+      "wedau": "maratagogi tauhi [spat] au ana [face] ma [beat] tauna maitehi ahi [fists] ma ghehauhi [slapped] tauna",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "68": {
+      "verse_ref": "Matthew 26:68",
+      "english": "saying, “Prophesy to us, you Christ! Who hit you?”",
+      "wedau": "riwa ipa [“prophesy] da ita omi [christ!] aiyai [hit] [you?”]",
+      "ljpw": [
+        0.6034782608695651,
+        0.5702898550724638,
+        0.48565217391304344,
+        0.637536231884058
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.637536231884058,
+      "harmony": 0.5379349055620836,
+      "translation_notes": "Primary dimension: Wisdom (0.64); Strong secondary: Love"
+    },
+    "69": {
+      "verse_ref": "Matthew 26:69",
+      "english": "Now Peter was sitting outside in the court, and a maid came to him, saying, “You were also with Jesus, the Galilean!”",
+      "wedau": "ina marana [peter]  [sitting] [outside] au  [court] ma  [maid] neꞌi da tauna riwa ipa [“you]  maitehi maitehi Yesu  [galilean!”]",
+      "ljpw": [
+        0.6020224719101124,
+        0.5619047619047619,
+        0.47919743178170143,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6020224719101124,
+      "harmony": 0.5290544074095631,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "70": {
+      "verse_ref": "Matthew 26:70",
+      "english": "But he denied it before them all, saying, “I don’t know what you are talking about.”",
+      "wedau": "tuna tauna [denied] tauna naona hita anatapuhi riwa ipa [“i] [don’t] haramaneꞌi aiwaꞌi omi  [talking] [about”]",
+      "ljpw": [
+        0.5267206477732794,
+        0.6344804318488529,
+        0.6675438596491228,
+        0.5993252361673415
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.6675438596491228,
+      "harmony": 0.5577605269990625,
+      "translation_notes": "Primary dimension: Power (0.67); Strong secondary: Justice"
+    },
+    "71": {
+      "verse_ref": "Matthew 26:71",
+      "english": "When he had gone out onto the porch, someone else saw him, and said to those who were there, “This man also was with Jesus of Nazareth.”",
+      "wedau": "maranaina tauna ana nae hopu [onto]  [porch] [someone] [else] inana tauna ma riwa da raketana aiyai  kampa [“this] oroto maitehi  maitehi Yesu ana [nazareth”]",
+      "ljpw": [
+        0.6024080267558528,
+        0.5702898550724638,
+        0.48645484949832773,
+        0.637536231884058
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.637536231884058,
+      "harmony": 0.5379307243417081,
+      "translation_notes": "Primary dimension: Wisdom (0.64); Strong secondary: Love"
+    },
+    "72": {
+      "verse_ref": "Matthew 26:72",
+      "english": "Again he denied it with an oath, “I don’t know the man.”",
+      "wedau": "vouna tauna [denied] tauna maitehi [an] [oath] [“i] [don’t] haramaneꞌi  [man”]",
+      "ljpw": [
+        0.5295714285714286,
+        0.5495238095238095,
+        0.47782142857142856,
+        0.599047619047619
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.5191832752482266,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "73": {
+      "verse_ref": "Matthew 26:73",
+      "english": "After a little while those who stood by came and said to Peter, “Surely you are also one of them, for your speech makes you known.”",
+      "wedau": "muriyai  [little] [while] raketana aiyai [stood] au neꞌi ma riwa da [peter] [“surely] omi  maitehi [one] ana hita yamna ami [speech] rura omi [known”]",
+      "ljpw": [
+        0.5280056577086281,
+        0.5495238095238095,
+        0.478995756718529,
+        0.599047619047619
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.519146813653403,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "74": {
+      "verse_ref": "Matthew 26:74",
+      "english": "Then he began to curse and to swear, “I don’t know the man!” Immediately the rooster crowed.",
+      "wedau": "maratagogi tauna [began] da [curse] ma da [swear] [“i] [don’t] haramaneꞌi  [man!”] maratagogi  [rooster] [crowed]",
+      "ljpw": [
+        0.5040178571428572,
+        0.5541666666666667,
+        0.5,
+        0.6123511904761905
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6123511904761905,
+      "harmony": 0.5210343997384096,
+      "translation_notes": "Primary dimension: Wisdom (0.61)"
+    },
+    "75": {
+      "verse_ref": "Matthew 26:75",
+      "english": "Peter remembered the word which Jesus had said to him, “Before the rooster crows, you will deny me three times.” Then he went out and wept bitterly.",
+      "wedau": "[peter] [remembered]  riwana aiyai Yesu ana riwa da tauna [“before]  [rooster] [crows] omi ina [deny] tau [three] [times”] maratagogi tauna nae hopu ma [wept] [bitterly]",
+      "ljpw": [
+        0.6008866995073892,
+        0.5619047619047619,
+        0.48004926108374385,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6008866995073892,
+      "harmony": 0.5290514565376723,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    }
+  }
+}

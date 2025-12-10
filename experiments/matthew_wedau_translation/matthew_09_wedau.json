@@ -1,0 +1,580 @@
+{
+  "book": "Matthew",
+  "chapter": 9,
+  "source_language": "English",
+  "target_language": "Wedau",
+  "translation_method": "LJPW-Guided Pure Meaning Translation",
+  "timestamp": "2025-12-10T20:04:15.704748",
+  "verses": {
+    "1": {
+      "verse_ref": "Matthew 9:1",
+      "english": "He entered into a boat, and crossed over, and came into his own city.",
+      "wedau": "tauna rui au  auwaga ma [crossed] au ma neꞌi au ana ana meyagaihi",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "2": {
+      "verse_ref": "Matthew 9:2",
+      "english": "Behold, they brought to him a man who was paralyzed, lying on a bed. Jesus, seeing their faith, said to the paralytic, “Son, cheer up! Your sins are forgiven you.”",
+      "wedau": "[behold] tauhi neiyahi da tauna  oroto aiyai  [paralyzed] enoeno au  [bed] Yesu inana ahi [faith] riwa da  [paralytic] [“son] [cheer] [up!] ami ghohaꞌapoapoe  [forgiven] [you”]",
+      "ljpw": [
+        0.6845676274944567,
+        0.6393939393939393,
+        0.48702882483370286,
+        0.6951515151515151
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6951515151515151,
+      "harmony": 0.5664922550866338,
+      "translation_notes": "Primary dimension: Wisdom (0.70); Strong secondary: Love"
+    },
+    "3": {
+      "verse_ref": "Matthew 9:3",
+      "english": "Behold, some of the scribes said to themselves, “This man blasphemes.”",
+      "wedau": "[behold] ghehauhi ana  tauviharaharamanahi riwa da [themselves] [“this] oroto [blasphemes”]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "4": {
+      "verse_ref": "Matthew 9:4",
+      "english": "Jesus, knowing their thoughts, said, “Why do you think evil in your hearts?",
+      "wedau": "Yesu haramaneꞌi ahi [thoughts] riwa [“why] rura omi [think] [evil] au ami [hearts?]",
+      "ljpw": [
+        0.7831167502302262,
+        0.7277448071216618,
+        0.49263276373682596,
+        0.8410979228486647
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.8410979228486647,
+      "harmony": 0.6114419406007605,
+      "translation_notes": "Primary dimension: Wisdom (0.84); Strong secondary: Love"
+    },
+    "5": {
+      "verse_ref": "Matthew 9:5",
+      "english": "For which is easier, to say, ‘Your sins are forgiven;’ or to say, ‘Get up, and walk?’",
+      "wedau": "yamna aiyai  [easier] da riwa [‘your] ghohaꞌapoapoe  [forgiven;’] bo da riwa [‘get] au ma [walk?’]",
+      "ljpw": [
+        0.43210022107590274,
+        0.41565217391304343,
+        0.48766396462785555,
+        0.5391304347826087
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5391304347826087,
+      "harmony": 0.483752086777411,
+      "translation_notes": "Primary dimension: Wisdom (0.54); Low harmony verse (distinctive emphasis)"
+    },
+    "6": {
+      "verse_ref": "Matthew 9:6",
+      "english": "But that you may know that the Son of Man has authority on earth to forgive sins-” (then he said to the paralytic), “Get up, and take up your mat, and go to your house.”",
+      "wedau": "I tuna raketana omi ita haramaneꞌi raketana  natuna ana oroto ana rewapana au dobuna da [forgive] [sins-”] [(then] tauna riwa da  [paralytic)] [“get] au ma varahai au ami [mat] ma nae da ami [house”]",
+      "ljpw": [
+        0.5122748091603053,
+        0.7213740458015268,
+        0.8007175572519084,
+        0.6770992366412214
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.8007175572519084,
+      "harmony": 0.5959992474765499,
+      "translation_notes": "Primary dimension: Power (0.80); Strong secondary: Justice"
+    },
+    "7": {
+      "verse_ref": "Matthew 9:7",
+      "english": "He arose and departed to his house.",
+      "wedau": "tauna [arose] ma [departed] da ana numa",
+      "ljpw": [
+        0.5571428571428572,
+        0.5,
+        0.45714285714285713,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5571428571428572,
+      "harmony": 0.5011532608765227,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "8": {
+      "verse_ref": "Matthew 9:8",
+      "english": "But when the multitudes saw it, they marveled and glorified God, who had given such authority to men.",
+      "wedau": "tuna maranaina  [multitudes] inana tauna tauhi [marveled] ma [glorified] God aiyai ana verei [such] rewapana da rava",
+      "ljpw": [
+        0.6842424242424241,
+        0.6393939393939393,
+        0.48727272727272725,
+        0.6951515151515151
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6951515151515151,
+      "harmony": 0.5665016711311653,
+      "translation_notes": "Primary dimension: Wisdom (0.70); Strong secondary: Love"
+    },
+    "9": {
+      "verse_ref": "Matthew 9:9",
+      "english": "As Jesus passed by from there, he saw a man called Matthew sitting at the tax collection office. He said to him, “Follow me.” He got up and followed him.",
+      "wedau": "Yesu [passed] au au kampa tauna inana  oroto ghorehi [matthew] [sitting] au  [tax] [collection] [office] tauna riwa da tauna [“follow] [me”] tauna varahai au ma taghotaghoi tauna",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "10": {
+      "verse_ref": "Matthew 9:10",
+      "english": "As he sat in the house, behold, many tax collectors and sinners came and sat down with Jesus and his disciples.",
+      "wedau": "tauna [sat] au  numa [behold] anatapuhi [tax] [collectors] ma [sinners] neꞌi ma [sat] au maitehi Yesu ma ana tauvotaghotagho",
+      "ljpw": [
+        0.7,
+        0.6666666666666666,
+        0.5,
+        0.7333333333333333
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7333333333333333,
+      "harmony": 0.5805011589293861,
+      "translation_notes": "Primary dimension: Wisdom (0.73); Strong secondary: Love"
+    },
+    "11": {
+      "verse_ref": "Matthew 9:11",
+      "english": "When the Pharisees saw it, they said to his disciples, “Why does your teacher eat with tax collectors and sinners?”",
+      "wedau": "maranaina  [pharisees] inana tauna tauhi riwa da ana tauvotaghotagho [“why] rura ami [teacher] [eat] maitehi [tax] [collectors] ma [sinners?”]",
+      "ljpw": [
+        0.5122509748316201,
+        0.6178494623655914,
+        0.4908117688762851,
+        0.764731182795699
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.764731182795699,
+      "harmony": 0.5447215449885063,
+      "translation_notes": "Primary dimension: Wisdom (0.76)"
+    },
+    "12": {
+      "verse_ref": "Matthew 9:12",
+      "english": "When Jesus heard it, he said to them, “Those who are healthy have no need for a physician, but those who are sick do.",
+      "wedau": "maranaina Yesu [heard] tauna tauna riwa da hita [“those] aiyai  [healthy] ana egha [need] yamna  [physician] tuna raketana aiyai  doridoriahi rura",
+      "ljpw": [
+        0.6029897410845139,
+        0.5702898550724638,
+        0.48601856375183194,
+        0.637536231884058
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.637536231884058,
+      "harmony": 0.5379330717757476,
+      "translation_notes": "Primary dimension: Wisdom (0.64); Strong secondary: Love"
+    },
+    "13": {
+      "verse_ref": "Matthew 9:13",
+      "english": "But you go and learn what this means: ‘I desire mercy, and not sacrifice,’ for I came not to call the righteous, but sinners to repentance.”",
+      "wedau": "tuna omi nae ma [learn] aiwaꞌi ina [means:] [‘i] [desire] nuwaboyei ma egha [sacrifice’] yamna tau neꞌi egha da ghorehi  [righteous] tuna [sinners] da [repentance”]",
+      "ljpw": [
+        0.5017801513128616,
+        0.8682539682539682,
+        0.638095238095238,
+        0.7319388814715917
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.8682539682539682,
+      "harmony": 0.5936810233713891,
+      "translation_notes": "Primary dimension: Justice (0.87)"
+    },
+    "14": {
+      "verse_ref": "Matthew 9:14",
+      "english": "Then John’s disciples came to him, saying, “Why do we and the Pharisees fast often, but your disciples don’t fast?”",
+      "wedau": "maratagogi [john’s] tauvotaghotagho neꞌi da tauna riwa ipa [“why] rura ita ma  [pharisees] [fast] [often] tuna ami tauvotaghotagho [don’t] [fast?”]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.6
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6,
+      "harmony": 0.5117866509228262,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "15": {
+      "verse_ref": "Matthew 9:15",
+      "english": "Jesus said to them, “Can the friends of the bridegroom mourn, as long as the bridegroom is with them? But the days will come when the bridegroom will be taken away from them, and then they will fast.",
+      "wedau": "Yesu riwa da hita [“can]  [friends] ana  [bridegroom] nuwanuwaboyei  [long]   [bridegroom]  maitehi [them?] tuna  maratom ina neꞌi maranaina  [bridegroom] ina  varahai [away] au hita ma maratagogi tauhi ina [fast]",
+      "ljpw": [
+        0.5913196894848272,
+        0.5741590214067279,
+        0.5,
+        0.6474358974358976
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6474358974358976,
+      "harmony": 0.5405127719957915,
+      "translation_notes": "Primary dimension: Wisdom (0.65)"
+    },
+    "16": {
+      "verse_ref": "Matthew 9:16",
+      "english": "No one puts a piece of unshrunk cloth on an old garment; for the patch would tear away from the garment, and a worse hole is made.",
+      "wedau": "egha [one] terei  [piece] ana [unshrunk] [cloth] au [an] [old] [garment;] yamna  [patch] ina [tear] [away] au  [garment] ma  [worse] [hole]  rura",
+      "ljpw": [
+        0.5118811881188119,
+        0.5,
+        0.5,
+        0.5118811881188119
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5118811881188119,
+      "harmony": 0.502969977539966,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "17": {
+      "verse_ref": "Matthew 9:17",
+      "english": "Neither do people put new wine into old wine skins, or else the skins would burst, and the wine be spilled, and the skins ruined. No, they put new wine into fresh wine skins, and both are preserved.”",
+      "wedau": "[neither] rura rava terei vouna [wine] au [old] [wine] [skins] bo [else]  [skins] ina [burst] ma  [wine]  [spilled] ma  [skins] [ruined] egha tauhi terei vouna [wine] au [fresh] [wine] [skins] ma ruwagha  [preserved”]",
+      "ljpw": [
+        0.5107142857142858,
+        0.5,
+        0.5,
+        0.5107142857142858
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5107142857142858,
+      "harmony": 0.5026783374952833,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "18": {
+      "verse_ref": "Matthew 9:18",
+      "english": "While he told these things to them, behold, a ruler came and worshiped him, saying, “My daughter has just died, but come and lay your hand on her, and she will live.”",
+      "wedau": "[while] tauna riwehi ina [things] da hita [behold]  [ruler] neꞌi ma [worshiped] tauna riwa ipa [“my] natuna ana tagotagogi [died] tuna neꞌi ma [lay] ami nimana au ana ma tauna ina [live”]",
+      "ljpw": [
+        0.5280912364945979,
+        0.6288515406162465,
+        0.6628351340536214,
+        0.6077631052420969
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.6628351340536214,
+      "harmony": 0.5578952277306065,
+      "translation_notes": "Primary dimension: Power (0.66); Strong secondary: Justice"
+    },
+    "19": {
+      "verse_ref": "Matthew 9:19",
+      "english": "Jesus got up and followed him, as did his disciples.",
+      "wedau": "Yesu varahai au ma taghotaghoi tauna  rura ana tauvotaghotagho",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "20": {
+      "verse_ref": "Matthew 9:20",
+      "english": "Behold, a woman who had a discharge of blood for twelve years came behind him, and touched the fringe of his garment;",
+      "wedau": "[behold]  vaivine aiyai ana  [discharge] ana [blood] yamna [twelve] [years] neꞌi [behind] tauna ma dodani  [fringe] ana ana [garment;]",
+      "ljpw": [
+        0.5516129032258065,
+        0.5,
+        0.4612903225806452,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5516129032258065,
+      "harmony": 0.50109741331326,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "21": {
+      "verse_ref": "Matthew 9:21",
+      "english": "for she said within herself, “If I just touch his garment, I will be made well.”",
+      "wedau": "yamna tauna riwa [within] [herself] [“if] tau tagotagogi [touch] ana [garment] tau ina  rura [well”]",
+      "ljpw": [
+        0.5,
+        0.6333333333333333,
+        0.55,
+        0.5833333333333334
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.6333333333333333,
+      "harmony": 0.5341599669741636,
+      "translation_notes": "Primary dimension: Justice (0.63)"
+    },
+    "22": {
+      "verse_ref": "Matthew 9:22",
+      "english": "But Jesus, turning around and seeing her, said, “Daughter, cheer up! Your faith has made you well.” And the woman was made well from that hour.",
+      "wedau": "tuna Yesu [turning] [around] ma inana ana riwa [“daughter] [cheer] [up!] ami [faith] ana rura omi [well”] ma  vaivine  rura ahiahina au raketana [hour]",
+      "ljpw": [
+        0.6087794681221693,
+        0.5548523206751056,
+        0.4731912669840902,
+        0.584004954902644
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6087794681221693,
+      "harmony": 0.5275856408782611,
+      "translation_notes": "Primary dimension: Love (0.61)"
+    },
+    "23": {
+      "verse_ref": "Matthew 9:23",
+      "english": "When Jesus came into the ruler’s house, and saw the flute players, and the crowd in noisy disorder,",
+      "wedau": "maranaina Yesu neꞌi au  [ruler’s] numa ma inana  [flute] [players] ma  [crowd] au [noisy] [disorder]",
+      "ljpw": [
+        0.782905982905983,
+        0.7347094801223242,
+        0.5,
+        0.8527836587469615
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.8527836587469615,
+      "harmony": 0.61582264534445,
+      "translation_notes": "Primary dimension: Wisdom (0.85); Strong secondary: Love"
+    },
+    "24": {
+      "verse_ref": "Matthew 9:24",
+      "english": "he said to them, “Make room, because the girl isn’t dead, but sleeping.” They were ridiculing him.",
+      "wedau": "tauna riwa da hita [“make] [room] yamna  [girl] [isn’t] [dead] tuna [sleeping”] tauhi  [ridiculing] tauna",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "25": {
+      "verse_ref": "Matthew 9:25",
+      "english": "But when the crowd was put out, he entered in, took her by the hand, and the girl arose.",
+      "wedau": "tuna maranaina  [crowd]  terei hopu tauna rui au varahai ana au  nimana ma  [girl] [arose]",
+      "ljpw": [
+        0.5530303030303031,
+        0.5193181818181818,
+        0.48598484848484846,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5530303030303031,
+      "harmony": 0.5070644091122437,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "26": {
+      "verse_ref": "Matthew 9:26",
+      "english": "The report of this went out into all that land.",
+      "wedau": "[report] ana ina nae hopu au anatapuhi raketana [land]",
+      "ljpw": [
+        0.5108108108108108,
+        0.5202702702702703,
+        0.5270270270270271,
+        0.5108108108108108
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5270270270270271,
+      "harmony": 0.5087407505232121,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "27": {
+      "verse_ref": "Matthew 9:27",
+      "english": "As Jesus passed by from there, two blind men followed him, calling out and saying, “Have mercy on us, son of David!”",
+      "wedau": "Yesu [passed] au au kampa [two] [blind] rava taghotaghoi tauna ghorehi hopu ma riwa ipa [“have] nuwaboyei au ita natuna ana [david!”]",
+      "ljpw": [
+        0.6794143356643356,
+        0.6474358974358974,
+        0.5,
+        0.7089015151515151
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7089015151515151,
+      "harmony": 0.5715777839824098,
+      "translation_notes": "Primary dimension: Wisdom (0.71); Strong secondary: Love"
+    },
+    "28": {
+      "verse_ref": "Matthew 9:28",
+      "english": "When he had come into the house, the blind men came to him. Jesus said to them, “Do you believe that I am able to do this?” They told him, “Yes, Lord.”",
+      "wedau": "maranaina tauna ana neꞌi au  numa  [blind] rava neꞌi da tauna Yesu riwa da hita [“do] omi tumaghanei raketana tau [am] [able] da rura [this?”] tauhi riwehi tauna [“yes] [lord”]",
+      "ljpw": [
+        0.689559041136431,
+        0.6473118279569893,
+        0.49041136430896715,
+        0.7352688172043012
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7352688172043012,
+      "harmony": 0.5740613152644548,
+      "translation_notes": "Primary dimension: Wisdom (0.74); Strong secondary: Love"
+    },
+    "29": {
+      "verse_ref": "Matthew 9:29",
+      "english": "Then he touched their eyes, saying, “According to your faith be it done to you.”",
+      "wedau": "maratagogi tauna dodani ahi [eyes] riwa ipa [“according] da ami [faith]  tauna [done] da [you”]",
+      "ljpw": [
+        0.5573770491803279,
+        0.5,
+        0.4569672131147541,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5573770491803279,
+      "harmony": 0.5011553604529735,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "30": {
+      "verse_ref": "Matthew 9:30",
+      "english": "Their eyes were opened. Jesus strictly commanded them, saying, “See that no one knows about this.”",
+      "wedau": "ahi [eyes]  wana-tawaneꞌi Yesu [strictly] ririweiya hita riwa ipa [“see] raketana egha [one] haramaneꞌi awarina [this”]",
+      "ljpw": [
+        0.7,
+        0.6666666666666666,
+        0.5,
+        0.7333333333333333
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7333333333333333,
+      "harmony": 0.5805011589293861,
+      "translation_notes": "Primary dimension: Wisdom (0.73); Strong secondary: Love"
+    },
+    "31": {
+      "verse_ref": "Matthew 9:31",
+      "english": "But they went out and spread abroad his fame in all that land.",
+      "wedau": "tuna tauhi nae hopu ma howai [abroad] ana [fame] au anatapuhi raketana [land]",
+      "ljpw": [
+        0.5102040816326531,
+        0.5198979591836735,
+        0.5265306122448979,
+        0.5102040816326531
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5265306122448979,
+      "harmony": 0.5084709830279387,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "32": {
+      "verse_ref": "Matthew 9:32",
+      "english": "As they went out, behold, a mute man who was demon possessed was brought to him.",
+      "wedau": "tauhi nae hopu [behold]  [mute] oroto aiyai  [demon] [possessed]  neiyahi da tauna",
+      "ljpw": [
+        0.5532258064516129,
+        0.5,
+        0.4600806451612903,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5532258064516129,
+      "harmony": 0.5011149446045431,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "33": {
+      "verse_ref": "Matthew 9:33",
+      "english": "When the demon was cast out, the mute man spoke. The multitudes marveled, saying, “Nothing like this has ever been seen in Israel!”",
+      "wedau": "maranaina  [demon]  [cast] hopu  [mute] oroto [spoke]  [multitudes] [marveled] riwa ipa [“nothing] [like] ina ana [ever]  inana au [israel!”]",
+      "ljpw": [
+        0.5043343653250774,
+        0.5,
+        0.5,
+        0.58328173374613
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.58328173374613,
+      "harmony": 0.510511057634659,
+      "translation_notes": "Primary dimension: Wisdom (0.58)"
+    },
+    "34": {
+      "verse_ref": "Matthew 9:34",
+      "english": "But the Pharisees said, “By the prince of the demons, he casts out demons.”",
+      "wedau": "tuna  [pharisees] riwa [“by]  [prince] ana  aruwa-apoapoehi tauna [casts] hopu [demons”]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "35": {
+      "verse_ref": "Matthew 9:35",
+      "english": "Jesus went about all the cities and the villages, teaching in their synagogues, and preaching the Good News of the Kingdom, and healing every disease and every sickness among the people.",
+      "wedau": "I Yesu nae awarina anatapuhi  [cities] ma  [villages] viharaharamana au ahi pari numana ma rau-guguyei  [good] vouna ana  vibadana ma [healing] anatapuhi [disease] ma anatapuhi [sickness] [among]  rava",
+      "ljpw": [
+        0.5,
+        0.75,
+        0.85,
+        0.7
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.85,
+      "harmony": 0.6053561034430176,
+      "translation_notes": "Primary dimension: Power (0.85); Strong secondary: Justice"
+    },
+    "36": {
+      "verse_ref": "Matthew 9:36",
+      "english": "But when he saw the multitudes, he was moved with compassion for them, because they were harassed and scattered, like sheep without a shepherd.",
+      "wedau": "tuna maranaina tauna inana  [multitudes] tauna  nuwaboyei maitehi [compassion] yamna hita yamna tauhi  [harassed] ma [scattered] [like] [sheep] [without]  [shepherd]",
+      "ljpw": [
+        0.6269786535303776,
+        0.5,
+        0.4419088669950739,
+        0.5495238095238095
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6269786535303776,
+      "harmony": 0.5126767230190652,
+      "translation_notes": "Primary dimension: Love (0.63)"
+    },
+    "37": {
+      "verse_ref": "Matthew 9:37",
+      "english": "Then he said to his disciples, “The harvest indeed is plentiful, but the laborers are few.",
+      "wedau": "maratagogi tauna riwa da ana tauvotaghotagho [“the] [harvest] [indeed]  [plentiful] tuna  [laborers]  ghehauhi",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "38": {
+      "verse_ref": "Matthew 9:38",
+      "english": "Pray therefore that the Lord of the harvest will send out laborers into his harvest.”",
+      "wedau": "[pray] [therefore] raketana  Guyau ana  [harvest] ina vivohi hopu [laborers] au ana [harvest”]",
+      "ljpw": [
+        0.5850543478260869,
+        0.5677083333333334,
+        0.5,
+        0.5985960144927537
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5985960144927537,
+      "harmony": 0.5325949022491276,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    }
+  }
+}

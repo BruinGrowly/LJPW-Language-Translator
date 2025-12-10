@@ -1,0 +1,385 @@
+{
+  "book": "Matthew",
+  "chapter": 4,
+  "source_language": "English",
+  "target_language": "Wedau",
+  "translation_method": "LJPW-Guided Pure Meaning Translation",
+  "timestamp": "2025-12-10T20:04:15.684784",
+  "verses": {
+    "1": {
+      "verse_ref": "Matthew 4:1",
+      "english": "Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil.",
+      "wedau": "maratagogi Yesu  [led] au au  aruwa au  mutuyuwa da  rau-dadani au  [devil]",
+      "ljpw": [
+        0.7656488549618322,
+        0.7263185287994448,
+        0.5065926439972241,
+        0.8099236641221375
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.8099236641221375,
+      "harmony": 0.6098136698439097,
+      "translation_notes": "Primary dimension: Wisdom (0.81); Strong secondary: Love"
+    },
+    "2": {
+      "verse_ref": "Matthew 4:2",
+      "english": "When he had fasted forty days and forty nights, he was hungry afterward.",
+      "wedau": "maranaina tauna ana [fasted] 40 maratom ma 40 diedie tauna  [hungry] [afterward]",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.6
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6,
+      "harmony": 0.5117866509228262,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "3": {
+      "verse_ref": "Matthew 4:3",
+      "english": "The tempter came and said to him, “If you are the Son of God, command that these stones become bread.”",
+      "wedau": "[tempter] neꞌi ma riwa da tauna [“if] omi   natuna ana God [command] raketana ina [stones] [become] [bread”]",
+      "ljpw": [
+        0.8002557544757033,
+        0.7502131287297529,
+        0.6335038363171356,
+        0.81692242114237
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.81692242114237,
+      "harmony": 0.6580079509402168,
+      "translation_notes": "Primary dimension: Wisdom (0.82); Strong secondary: Love"
+    },
+    "4": {
+      "verse_ref": "Matthew 4:4",
+      "english": "But he answered, “It is written, ‘Man shall not live by bread alone, but by every word that proceeds out of God’s mouth.’ ”",
+      "wedau": "tuna tauna [answered] [“it]  [written] [‘man] ina egha [live] au [bread] [alone] tuna au anatapuhi riwana raketana [proceeds] hopu ana [god’s] [mouth’] [”]",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "5": {
+      "verse_ref": "Matthew 4:5",
+      "english": "Then the devil took him into the holy city. He set him on the pinnacle of the temple,",
+      "wedau": "maratagogi  [devil] varahai tauna au  [holy] meyagaihi tauna [set] tauna au  [pinnacle] ana  [temple]",
+      "ljpw": [
+        0.6846280991735536,
+        0.6393939393939393,
+        0.4869834710743801,
+        0.6951515151515151
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6951515151515151,
+      "harmony": 0.5664904966027147,
+      "translation_notes": "Primary dimension: Wisdom (0.70); Strong secondary: Love"
+    },
+    "6": {
+      "verse_ref": "Matthew 4:6",
+      "english": "and said to him, “If you are the Son of God, throw yourself down, for it is written, ‘He will command his angels concerning you,’ and, ‘On their hands they will bear you up, so that you don’t dash your foot against a stone.’ ”",
+      "wedau": "ma riwa da tauna [“if] omi   natuna ana God [throw] [yourself] au yamna tauna  [written] [‘he] ina [command] ana aneya [concerning] [you’] ma [‘on] ahi nimana tauhi ina [bear] omi au yamna raketana omi [don’t] [dash] ami [foot] awarina  [stone’] [”]",
+      "ljpw": [
+        0.7798961709608305,
+        0.724388379204893,
+        0.6117521837059825,
+        0.7842125382262998
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7842125382262998,
+      "harmony": 0.6380834469630998,
+      "translation_notes": "Primary dimension: Wisdom (0.78); Strong secondary: Love"
+    },
+    "7": {
+      "verse_ref": "Matthew 4:7",
+      "english": "Jesus said to him, “Again, it is written, ‘You shall not test the Lord, your God.’ ”",
+      "wedau": "Yesu riwa da tauna [“again] tauna  [written] [‘you] ina egha [test]  Guyau ami [god’] [”]",
+      "ljpw": [
+        0.8,
+        0.75,
+        0.5,
+        0.85
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.85,
+      "harmony": 0.6202041028867288,
+      "translation_notes": "Primary dimension: Wisdom (0.85); Strong secondary: Love"
+    },
+    "8": {
+      "verse_ref": "Matthew 4:8",
+      "english": "Again, the devil took him to an exceedingly high mountain, and showed him all the kingdoms of the world, and their glory.",
+      "wedau": "I vouna  [devil] varahai tauna da [an] [exceedingly] [high] dobuna ma atataiyana tauna anatapuhi  vibadana ana  dobuna ma ahi [glory]",
+      "ljpw": [
+        0.501736111111111,
+        0.7301587301587301,
+        0.8222222222222221,
+        0.6858630952380952
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.8222222222222221,
+      "harmony": 0.5981435862688974,
+      "translation_notes": "Primary dimension: Power (0.82); Strong secondary: Justice"
+    },
+    "9": {
+      "verse_ref": "Matthew 4:9",
+      "english": "He said to him, “I will give you all of these things, if you will fall down and worship me.”",
+      "wedau": "tauna riwa da tauna [“i] ina verei omi anatapuhi ana ina [things] tora omi ina [fall] au ma [worship] [me”]",
+      "ljpw": [
+        0.5647058823529413,
+        0.5,
+        0.4591911764705882,
+        0.5102941176470589
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5647058823529413,
+      "harmony": 0.5035798402553668,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "10": {
+      "verse_ref": "Matthew 4:10",
+      "english": "Then Jesus said to him, “Get behind me, Satan! For it is written, ‘You shall worship the Lord your God, and you shall serve him only.’ ”",
+      "wedau": "maratagogi Yesu riwa da tauna [“get] [behind] tau [satan!] yamna tauna  [written] [‘you] ina [worship]  Guyau ami God ma omi ina [serve] tauna [only’] [”]",
+      "ljpw": [
+        0.7778571428571429,
+        0.7301587301587301,
+        0.5,
+        0.8238888888888888
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.8238888888888888,
+      "harmony": 0.6116349686754887,
+      "translation_notes": "Primary dimension: Wisdom (0.82); Strong secondary: Love"
+    },
+    "11": {
+      "verse_ref": "Matthew 4:11",
+      "english": "Then the devil left him, and behold, angels came and served him.",
+      "wedau": "maratagogi  [devil] voterei tauna ma [behold] aneya neꞌi ma inana vaitetehi tauna",
+      "ljpw": [
+        0.42325,
+        0.41875,
+        0.5,
+        0.5045
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5045,
+      "harmony": 0.4808107170897961,
+      "translation_notes": "Primary dimension: Wisdom (0.50); Low harmony verse (distinctive emphasis)"
+    },
+    "12": {
+      "verse_ref": "Matthew 4:12",
+      "english": "Now when Jesus heard that John was delivered up, he withdrew into Galilee.",
+      "wedau": "ina marana maranaina Yesu [heard] raketana john  [delivered] au tauna [withdrew] au galili",
+      "ljpw": [
+        0.6034285714285714,
+        0.5619047619047619,
+        0.47814285714285715,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6034285714285714,
+      "harmony": 0.5290571827045772,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "13": {
+      "verse_ref": "Matthew 4:13",
+      "english": "Leaving Nazareth, he came and lived in Capernaum, which is by the sea, in the region of Zebulun and Naphtali,",
+      "wedau": "[leaving] [nazareth] tauna neꞌi ma [lived] au kapernaum aiyai  au  topana au  [region] ana [zebulun] ma [naphtali]",
+      "ljpw": [
+        0.5622093023255814,
+        0.5,
+        0.46162790697674416,
+        0.511046511627907
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5622093023255814,
+      "harmony": 0.503732519029311,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "14": {
+      "verse_ref": "Matthew 4:14",
+      "english": "that it might be fulfilled which was spoken through Isaiah the prophet, saying,",
+      "wedau": "raketana tauna ita  ririweiya aiyai  [spoken] au aisaiya  peroveta riwa ipa",
+      "ljpw": [
+        0.5269010989010989,
+        0.5619047619047619,
+        0.5664908424908425,
+        0.5495238095238095
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5664908424908425,
+      "harmony": 0.5268387093659916,
+      "translation_notes": "Primary dimension: Power (0.57)"
+    },
+    "15": {
+      "verse_ref": "Matthew 4:15",
+      "english": "“The land of Zebulun and the land of Naphtali, toward the sea, beyond the Jordan, Galilee of the Gentiles,",
+      "wedau": "[“the] [land] ana [zebulun] ma  [land] ana [naphtali] [toward]  topana [beyond]  jordan galili ana  [gentiles]",
+      "ljpw": [
+        0.5102409638554217,
+        0.5,
+        0.5,
+        0.5102409638554217
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5102409638554217,
+      "harmony": 0.5025600368130687,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "16": {
+      "verse_ref": "Matthew 4:16",
+      "english": "the people who sat in darkness saw a great light, to those who sat in the region and shadow of death, to them light has dawned.”",
+      "wedau": "rava aiyai [sat] au [darkness] inana  ghe vavahagha [light] da raketana aiyai [sat] au  [region] ma [shadow] ana mate da hita [light] ana [dawned”]",
+      "ljpw": [
+        0.5525252525252525,
+        0.5189393939393939,
+        0.4858585858585858,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5525252525252525,
+      "harmony": 0.5069393896914525,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "17": {
+      "verse_ref": "Matthew 4:17",
+      "english": "From that time, Jesus began to preach, and to say, “Repent! For the Kingdom of Heaven is at hand.”",
+      "wedau": "I au raketana mara Yesu [began] da rau-guguyei ma da riwa [“repent!] yamna  vibadana ana marei  au [hand”]",
+      "ljpw": [
+        0.5857142857142856,
+        0.8571428571428571,
+        0.8928571428571428,
+        0.8285714285714285
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.8928571428571428,
+      "harmony": 0.6744882127235805,
+      "translation_notes": "Primary dimension: Power (0.89); Strong secondary: Justice"
+    },
+    "18": {
+      "verse_ref": "Matthew 4:18",
+      "english": "Walking by the sea of Galilee, he saw two brothers: Simon, who is called Peter, and Andrew, his brother, casting a net into the sea; for they were fishermen.",
+      "wedau": "bababara au  topana ana galili tauna inana [two] [brothers:] simon aiyai  ghorehi [peter] ma andrew ana tevera yetayei  hagida au  [sea;] yamna tauhi  tauyebagha",
+      "ljpw": [
+        0.5263518299881936,
+        0.5619047619047619,
+        0.5669027941755215,
+        0.5495238095238095
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5669027941755215,
+      "harmony": 0.5268135216510234,
+      "translation_notes": "Primary dimension: Power (0.57)"
+    },
+    "19": {
+      "verse_ref": "Matthew 4:19",
+      "english": "He said to them, “Come after me, and I will make you fishers for men.”",
+      "wedau": "tauna riwa da hita [“come] muriyai tau ma tau ina rura omi tuaruhi yamna [men”]",
+      "ljpw": [
+        0.5627450980392157,
+        0.5,
+        0.4617647058823529,
+        0.511764705882353
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5627450980392157,
+      "harmony": 0.5039023599374576,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "20": {
+      "verse_ref": "Matthew 4:20",
+      "english": "They immediately left their nets and followed him.",
+      "wedau": "tauhi maratagogi voterei ahi hagida ma taghotaghoi tauna",
+      "ljpw": [
+        0.511904761904762,
+        0.5,
+        0.5,
+        0.511904761904762
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.511904761904762,
+      "harmony": 0.5029758690708631,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "21": {
+      "verse_ref": "Matthew 4:21",
+      "english": "Going on from there, he saw two other brothers, James the son of Zebedee, and John his brother, in the boat with Zebedee their father, mending their nets. He called them.",
+      "wedau": "nae au au kampa tauna inana [two] ghehauna tevera james  natuna ana zebedi ma john ana tevera au  auwaga maitehi zebedi ahi Tamatei yaruyarumi ahi hagida tauna ghorehi hita",
+      "ljpw": [
+        0.5251879699248121,
+        0.575,
+        0.593609022556391,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.593609022556391,
+      "harmony": 0.5245998772841721,
+      "translation_notes": "Primary dimension: Power (0.59)"
+    },
+    "22": {
+      "verse_ref": "Matthew 4:22",
+      "english": "They immediately left the boat and their father, and followed him.",
+      "wedau": "tauhi maratagogi voterei  auwaga ma ahi Tamatei ma taghotaghoi tauna",
+      "ljpw": [
+        0.5620370370370371,
+        0.5,
+        0.4611111111111111,
+        0.5101851851851852
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5620370370370371,
+      "harmony": 0.5035329856703072,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "23": {
+      "verse_ref": "Matthew 4:23",
+      "english": "Jesus went about in all Galilee, teaching in their synagogues, preaching the Good News of the Kingdom, and healing every disease and every sickness among the people.",
+      "wedau": "I Yesu nae awarina au anatapuhi galili viharaharamana au ahi pari numana rau-guguyei  [good] vouna ana  vibadana ma [healing] anatapuhi [disease] ma anatapuhi [sickness] [among]  rava",
+      "ljpw": [
+        0.5,
+        0.75,
+        0.85,
+        0.7
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.85,
+      "harmony": 0.6053561034430176,
+      "translation_notes": "Primary dimension: Power (0.85); Strong secondary: Justice"
+    },
+    "24": {
+      "verse_ref": "Matthew 4:24",
+      "english": "The report about him went out into all Syria. They brought to him all who were sick, afflicted with various diseases and torments, possessed with demons, epileptics, and paralytics; and he healed them.",
+      "wedau": "[report] awarina tauna nae hopu au anatapuhi [syria] tauhi neiyahi da tauna anatapuhi aiyai  doridoriahi [afflicted] maitehi [various] doria ma [torments] [possessed] maitehi aruwa-apoapoehi [epileptics] ma [paralytics;] ma tauna yawahanihi hita",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "25": {
+      "verse_ref": "Matthew 4:25",
+      "english": "Great multitudes from Galilee, Decapolis, Jerusalem, Judea and from beyond the Jordan followed him.",
+      "wedau": "ghe vavahagha [multitudes] au galili [decapolis] jerusalem judiya ma au [beyond]  jordan taghotaghoi tauna",
+      "ljpw": [
+        0.5121951219512195,
+        0.5,
+        0.5,
+        0.5121951219512195
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5121951219512195,
+      "harmony": 0.5030484348531326,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    }
+  }
+}

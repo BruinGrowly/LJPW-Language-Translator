@@ -1,0 +1,10 @@
+{
+  "deficit_accuracy": 25.0,
+  "convergence_tests": {
+    "anchor_match": "True",
+    "custom_match": "True"
+  },
+  "trajectory_monotonic": true,
+  "test_date": "2024-12-10",
+  "status": "PASSED"
+}

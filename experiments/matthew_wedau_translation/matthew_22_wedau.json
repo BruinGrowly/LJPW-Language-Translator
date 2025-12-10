@@ -1,0 +1,700 @@
+{
+  "book": "Matthew",
+  "chapter": 22,
+  "source_language": "English",
+  "target_language": "Wedau",
+  "translation_method": "LJPW-Guided Pure Meaning Translation",
+  "timestamp": "2025-12-10T20:04:15.759974",
+  "verses": {
+    "1": {
+      "verse_ref": "Matthew 22:1",
+      "english": "Jesus answered and spoke to them again in parables, saying,",
+      "wedau": "Yesu [answered] ma [spoke] da hita vouna au [parables] riwa ipa",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "2": {
+      "verse_ref": "Matthew 22:2",
+      "english": "“The Kingdom of Heaven is like a certain king, who made a wedding feast for his son,",
+      "wedau": "[“the] vibadana ana marei  [like]  [certain] kingi aiyai rura  [wedding] [feast] yamna ana natuna",
+      "ljpw": [
+        0.6063136456211812,
+        0.7995587236931432,
+        0.7864901561439239,
+        0.7928038017651051
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7995587236931432,
+      "harmony": 0.6524781345347568,
+      "translation_notes": "Primary dimension: Justice (0.80); Strong secondary: Wisdom"
+    },
+    "3": {
+      "verse_ref": "Matthew 22:3",
+      "english": "and sent out his servants to call those who were invited to the wedding feast, but they would not come.",
+      "wedau": "ma vivohi hopu ana taunoya da ghorehi raketana aiyai  [invited] da  [wedding] [feast] tuna tauhi ina egha neꞌi",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "4": {
+      "verse_ref": "Matthew 22:4",
+      "english": "Again he sent out other servants, saying, ‘Tell those who are invited, “Behold, I have prepared my dinner. My cattle and my fatlings are killed, and all things are ready. Come to the wedding feast!” ’",
+      "wedau": "vouna tauna vivohi hopu ghehauna taunoya riwa ipa [‘tell] raketana aiyai  [invited] [“behold] tau ana [prepared] au [dinner] au [cattle] ma au [fatlings]  [killed] ma anatapuhi [things]  [ready] neꞌi da  [wedding] [feast!”] [’]",
+      "ljpw": [
+        0.5111111111111112,
+        0.5,
+        0.5,
+        0.5111111111111112
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5111111111111112,
+      "harmony": 0.5027775167393999,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "5": {
+      "verse_ref": "Matthew 22:5",
+      "english": "But they made light of it, and went their ways, one to his own farm, another to his merchandise,",
+      "wedau": "tuna tauhi rura [light] ana tauna ma nae ahi parata [one] da ana ana [farm] [another] da ana [merchandise]",
+      "ljpw": [
+        0.5527027027027027,
+        0.5,
+        0.46047297297297296,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5527027027027027,
+      "harmony": 0.5011093708465928,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "6": {
+      "verse_ref": "Matthew 22:6",
+      "english": "and the rest grabbed his servants, and treated them shamefully, and killed them.",
+      "wedau": "ma  [rest] [grabbed] ana taunoya ma [treated] hita [shamefully] ma [killed] hita",
+      "ljpw": [
+        0.5115384615384616,
+        0.5196153846153846,
+        0.5261538461538462,
+        0.5115384615384616
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5261538461538462,
+      "harmony": 0.5087363639411389,
+      "translation_notes": "Primary dimension: Power (0.53)"
+    },
+    "7": {
+      "verse_ref": "Matthew 22:7",
+      "english": "When the king heard that, he was angry, and sent his armies, destroyed those murderers, and burned their city.",
+      "wedau": "maranaina  kingi [heard] raketana tauna  [angry] ma vivohi ana [armies] rau-iviꞌapoapoyeꞌai raketana [murderers] ma [burned] ahi meyagaihi",
+      "ljpw": [
+        0.5022777602024676,
+        0.5741590214067279,
+        0.603822629969419,
+        0.6028893809975746
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.603822629969419,
+      "harmony": 0.5369436602807633,
+      "translation_notes": "Primary dimension: Power (0.60); Strong secondary: Wisdom"
+    },
+    "8": {
+      "verse_ref": "Matthew 22:8",
+      "english": "“Then he said to his servants, ‘The wedding is ready, but those who were invited weren’t worthy.",
+      "wedau": "[“then] tauna riwa da ana taunoya [‘the] [wedding]  [ready] tuna raketana aiyai  [invited] [weren’t] tagotagogiu",
+      "ljpw": [
+        0.5540540540540541,
+        0.5,
+        0.45945945945945943,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5540540540540541,
+      "harmony": 0.5011235496520066,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "9": {
+      "verse_ref": "Matthew 22:9",
+      "english": "Go therefore to the intersections of the highways, and as many as you may find, invite to the wedding feast.’",
+      "wedau": "nae [therefore] da  [intersections] ana  [highways] ma  anatapuhi  omi ita [find] [invite] da  [wedding] [feast’]",
+      "ljpw": [
+        0.5261627906976745,
+        0.575,
+        0.5928779069767443,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5928779069767443,
+      "harmony": 0.5246499939719486,
+      "translation_notes": "Primary dimension: Power (0.59)"
+    },
+    "10": {
+      "verse_ref": "Matthew 22:10",
+      "english": "Those servants went out into the highways, and gathered together as many as they found, both bad and good. The wedding was filled with guests.",
+      "wedau": "raketana taunoya nae hopu au  [highways] ma tagogiyehi [together]  anatapuhi  tauhi tuhaghai ruwagha [bad] ma [good]  [wedding]  yawahana maitehi [guests]",
+      "ljpw": [
+        0.4257142857142857,
+        0.436203007518797,
+        0.513984962406015,
+        0.5
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.513984962406015,
+      "harmony": 0.48429929854898063,
+      "translation_notes": "Primary dimension: Power (0.51); Low harmony verse (distinctive emphasis)"
+    },
+    "11": {
+      "verse_ref": "Matthew 22:11",
+      "english": "But when the king came in to see the guests, he saw there a man who didn’t have on wedding clothing,",
+      "wedau": "tuna maranaina  kingi neꞌi au da inana  [guests] tauna inana kampa  oroto aiyai [didn’t] ana au [wedding] [clothing]",
+      "ljpw": [
+        0.5267161410018553,
+        0.5619047619047619,
+        0.5666295609152752,
+        0.5495238095238095
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5666295609152752,
+      "harmony": 0.5268302435031811,
+      "translation_notes": "Primary dimension: Power (0.57)"
+    },
+    "12": {
+      "verse_ref": "Matthew 22:12",
+      "english": "and he said to him, ‘Friend, how did you come in here not wearing wedding clothing?’ He was speechless.",
+      "wedau": "ma tauna riwa da tauna [‘friend] aiwaꞌi rura omi neꞌi au ina egha [wearing] [wedding] [clothing?’] tauna  [speechless]",
+      "ljpw": [
+        0.530379746835443,
+        0.5,
+        0.4772151898734177,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094039239956781,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "13": {
+      "verse_ref": "Matthew 22:13",
+      "english": "Then the king said to the servants, ‘Bind him hand and foot, take him away, and throw him into the outer darkness. That is where the weeping and grinding of teeth will be.’",
+      "wedau": "maratagogi  kingi riwa da  taunoya [‘bind] tauna nimana ma [foot] varahai tauna [away] ma [throw] tauna au  [outer] [darkness] raketana  aiwaꞌi  [weeping] ma [grinding] ana [teeth] ina [be’]",
+      "ljpw": [
+        0.5,
+        0.5717651271034729,
+        0.5998138202649481,
+        0.5495238095238095
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5998138202649481,
+      "harmony": 0.5284161904256973,
+      "translation_notes": "Primary dimension: Power (0.60)"
+    },
+    "14": {
+      "verse_ref": "Matthew 22:14",
+      "english": "For many are called, but few chosen.”",
+      "wedau": "yamna anatapuhi  ghorehi tuna ghehauhi [chosen”]",
+      "ljpw": [
+        0.5125000000000001,
+        0.5,
+        0.5,
+        0.5125000000000001
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5125000000000001,
+      "harmony": 0.5031246276381162,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "15": {
+      "verse_ref": "Matthew 22:15",
+      "english": "Then the Pharisees went and took counsel how they might entrap him in his talk.",
+      "wedau": "maratagogi  [pharisees] nae ma varahai [counsel] aiwaꞌi tauhi ita [entrap] tauna au ana [talk]",
+      "ljpw": [
+        0.5265178571428571,
+        0.5619047619047619,
+        0.5667782738095238,
+        0.5495238095238095
+      ],
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5667782738095238,
+      "harmony": 0.5268211499633286,
+      "translation_notes": "Primary dimension: Power (0.57)"
+    },
+    "16": {
+      "verse_ref": "Matthew 22:16",
+      "english": "They sent their disciples to him, along with the Herodians, saying, “Teacher, we know that you are honest, and teach the way of God in truth, no matter whom you teach, for you aren’t partial to anyone.",
+      "wedau": "tauhi vivohi ahi tauvotaghotagho da tauna [along] maitehi  [herodians] riwa ipa [“teacher] ita haramaneꞌi raketana omi  [honest] ma [teach]  parata ana God au [truth] egha [matter] aiyai omi [teach] yamna omi [aren’t] [partial] da [anyone]",
+      "ljpw": [
+        0.5127062299926126,
+        0.6770992366412214,
+        0.49047032750554054,
+        0.8541984732824428
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.8541984732824428,
+      "harmony": 0.5589561097696184,
+      "translation_notes": "Primary dimension: Wisdom (0.85)"
+    },
+    "17": {
+      "verse_ref": "Matthew 22:17",
+      "english": "Tell us therefore, what do you think? Is it lawful to pay taxes to Caesar, or not?”",
+      "wedau": "riwehi ita [therefore] aiwaꞌi rura omi [think?]  tauna [lawful] da [pay] [taxes] da [caesar] bo [not?”]",
+      "ljpw": [
+        0.5161570827489481,
+        0.6124637681159419,
+        0.5300561009817673,
+        0.6094202898550725
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.6124637681159419,
+      "harmony": 0.5346299033920587,
+      "translation_notes": "Primary dimension: Justice (0.61); Strong secondary: Wisdom"
+    },
+    "18": {
+      "verse_ref": "Matthew 22:18",
+      "english": "But Jesus perceived their wickedness, and said, “Why do you test me, you hypocrites?",
+      "wedau": "tuna Yesu [perceived] ahi [wickedness] ma riwa [“why] rura omi [test] tau omi [hypocrites?]",
+      "ljpw": [
+        0.6004743083003952,
+        0.5702898550724638,
+        0.48790513833992094,
+        0.637536231884058
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.637536231884058,
+      "harmony": 0.5379216412866592,
+      "translation_notes": "Primary dimension: Wisdom (0.64); Strong secondary: Love"
+    },
+    "19": {
+      "verse_ref": "Matthew 22:19",
+      "english": "Show me the tax money.” They brought to him a denarius.",
+      "wedau": "atataiyana tau  [tax] [money”] tauhi neiyahi da tauna  [denarius]",
+      "ljpw": [
+        0.5571428571428572,
+        0.5,
+        0.45714285714285713,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5571428571428572,
+      "harmony": 0.5011532608765227,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    },
+    "20": {
+      "verse_ref": "Matthew 22:20",
+      "english": "He asked them, “Whose is this image and inscription?”",
+      "wedau": "tauna rau-baghei hita [“whose]  ina [image] ma [inscription?”]",
+      "ljpw": [
+        0.5292682926829269,
+        0.5,
+        0.47804878048780486,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5093804476866238,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "21": {
+      "verse_ref": "Matthew 22:21",
+      "english": "They said to him, “Caesar’s.” Then he said to them, “Give therefore to Caesar the things that are Caesar’s, and to God the things that are God’s.”",
+      "wedau": "tauhi riwa da tauna [“caesar’s”] maratagogi tauna riwa da hita [“give] [therefore] da [caesar]  [things] raketana  [caesar’s] ma da God  [things] raketana  [god’s”]",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6166666666666667
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667,
+      "harmony": 0.5391633637217109,
+      "translation_notes": "Primary dimension: Wisdom (0.62)"
+    },
+    "22": {
+      "verse_ref": "Matthew 22:22",
+      "english": "When they heard it, they marveled, and left him, and went away.",
+      "wedau": "maranaina tauhi [heard] tauna tauhi [marveled] ma voterei tauna ma nae [away]",
+      "ljpw": [
+        0.55,
+        0.5,
+        0.468359375,
+        0.5703125
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5703125,
+      "harmony": 0.5104520106459278,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "23": {
+      "verse_ref": "Matthew 22:23",
+      "english": "On that day Sadducees (those who say that there is no resurrection) came to him. They asked him,",
+      "wedau": "au raketana mara [sadducees] [(those] aiyai riwa raketana kampa  egha [resurrection)] neꞌi da tauna tauhi rau-baghei tauna",
+      "ljpw": [
+        0.5546666666666666,
+        0.5,
+        0.459,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5546666666666666,
+      "harmony": 0.5011297407838622,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "24": {
+      "verse_ref": "Matthew 22:24",
+      "english": "saying, “Teacher, Moses said, ‘If a man dies, having no children, his brother shall marry his wife, and raise up offspring for his brother.’",
+      "wedau": "riwa ipa [“teacher] moses riwa [‘if]  oroto [dies] [having] egha natunatuna ana tevera ina [marry] ana [wife] ma [raise] au [offspring] yamna ana [brother’]",
+      "ljpw": [
+        0.5022810074449549,
+        0.6056497175141242,
+        0.5686440677966103,
+        0.6220550187443898
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6220550187443898,
+      "harmony": 0.5388930693899242,
+      "translation_notes": "Primary dimension: Wisdom (0.62); Strong secondary: Justice"
+    },
+    "25": {
+      "verse_ref": "Matthew 22:25",
+      "english": "Now there were with us seven brothers. The first married and died, and having no offspring left his wife to his brother.",
+      "wedau": "ina marana kampa  maitehi ita [seven] tevera  naona [married] ma [died] ma [having] egha [offspring] voterei ana [wife] da ana tevera",
+      "ljpw": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5,
+      "harmony": 0.5,
+      "translation_notes": "Primary dimension: Love (0.50)"
+    },
+    "26": {
+      "verse_ref": "Matthew 22:26",
+      "english": "In the same way, the second also, and the third, to the seventh.",
+      "wedau": "au  tagotagogi parata  [second] maitehi ma  [third] da  [seventh]",
+      "ljpw": [
+        0.5520833333333334,
+        0.5,
+        0.4609375,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5520833333333334,
+      "harmony": 0.5011026322537805,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "27": {
+      "verse_ref": "Matthew 22:27",
+      "english": "After them all, the woman died.",
+      "wedau": "muriyai hita anatapuhi  vaivine [died]",
+      "ljpw": [
+        0.5125000000000001,
+        0.5,
+        0.5,
+        0.5125000000000001
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5125000000000001,
+      "harmony": 0.5031246276381162,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "28": {
+      "verse_ref": "Matthew 22:28",
+      "english": "In the resurrection therefore, whose wife will she be of the seven? For they all had her.”",
+      "wedau": "au  [resurrection] [therefore] [whose] [wife] ina tauna  ana  [seven?] yamna tauhi anatapuhi ana [her”]",
+      "ljpw": [
+        0.5318367346938775,
+        0.5,
+        0.47612244897959183,
+        0.5714285714285714
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714,
+      "harmony": 0.5094339174193219,
+      "translation_notes": "Primary dimension: Wisdom (0.57)"
+    },
+    "29": {
+      "verse_ref": "Matthew 22:29",
+      "english": "But Jesus answered them, “You are mistaken, not knowing the Scriptures, nor the power of God.",
+      "wedau": "tuna Yesu [answered] hita [“you]  [mistaken] egha haramaneꞌi  [scriptures] [nor]  [power] ana God",
+      "ljpw": [
+        0.8857142857142857,
+        0.8571428571428571,
+        0.6714285714285714,
+        0.9142857142857141
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.9142857142857141,
+      "harmony": 0.7216494845360824,
+      "translation_notes": "Primary dimension: Wisdom (0.91); High harmony verse (balanced); Strong secondary: Love"
+    },
+    "30": {
+      "verse_ref": "Matthew 22:30",
+      "english": "For in the resurrection they neither marry, nor are given in marriage, but are like God’s angels in heaven.",
+      "wedau": "yamna au  [resurrection] tauhi [neither] [marry] [nor]  verei au [marriage] tuna  [like] [god’s] aneya au marei",
+      "ljpw": [
+        0.586764705882353,
+        0.5677083333333334,
+        0.5,
+        0.6003063725490196
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6003063725490196,
+      "harmony": 0.5330460419481271,
+      "translation_notes": "Primary dimension: Wisdom (0.60)"
+    },
+    "31": {
+      "verse_ref": "Matthew 22:31",
+      "english": "But concerning the resurrection of the dead, haven’t you read that which was spoken to you by God, saying,",
+      "wedau": "tuna [concerning]  [resurrection] ana  [dead] [haven’t] omi [read] raketana aiyai  [spoken] da omi au God riwa ipa",
+      "ljpw": [
+        0.6006122448979592,
+        0.5619047619047619,
+        0.48025510204081634,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6006122448979592,
+      "harmony": 0.5290506484068992,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "32": {
+      "verse_ref": "Matthew 22:32",
+      "english": "‘I am the God of Abraham, and the God of Isaac, and the God of Jacob?’ God is not the God of the dead, but of the living.”",
+      "wedau": "[‘i] [am]  God ana Abraham ma  God ana [isaac] ma  God ana [jacob?’] God  egha  God ana  [dead] tuna ana  [living”]",
+      "ljpw": [
+        0.5843478260869565,
+        0.5773063468265867,
+        0.5093553223388305,
+        0.637536231884058
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.637536231884058,
+      "harmony": 0.5403603992182652,
+      "translation_notes": "Primary dimension: Wisdom (0.64)"
+    },
+    "33": {
+      "verse_ref": "Matthew 22:33",
+      "english": "When the multitudes heard it, they were astonished at his teaching.",
+      "wedau": "maranaina  [multitudes] [heard] tauna tauhi  [astonished] au ana viharaharamana",
+      "ljpw": [
+        0.5176442687747036,
+        0.556231884057971,
+        0.4867667984189723,
+        0.6515942028985506
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6515942028985506,
+      "harmony": 0.5256416505189948,
+      "translation_notes": "Primary dimension: Wisdom (0.65)"
+    },
+    "34": {
+      "verse_ref": "Matthew 22:34",
+      "english": "But the Pharisees, when they heard that he had silenced the Sadducees, gathered themselves together.",
+      "wedau": "tuna  [pharisees] maranaina tauhi [heard] raketana tauna ana [silenced]  [sadducees] tagogiyehi [themselves] [together]",
+      "ljpw": [
+        0.5530120481927712,
+        0.5,
+        0.4602409638554217,
+        0.5
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5530120481927712,
+      "harmony": 0.501112679975021,
+      "translation_notes": "Primary dimension: Love (0.55)"
+    },
+    "35": {
+      "verse_ref": "Matthew 22:35",
+      "english": "One of them, a lawyer, asked him a question, testing him.",
+      "wedau": "[one] ana hita  [lawyer] rau-baghei tauna  [question] [testing] tauna",
+      "ljpw": [
+        0.5275083056478406,
+        0.599047619047619,
+        0.5165116279069768,
+        0.5619047619047619
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.599047619047619,
+      "harmony": 0.5263620187158818,
+      "translation_notes": "Primary dimension: Justice (0.60)"
+    },
+    "36": {
+      "verse_ref": "Matthew 22:36",
+      "english": "“Teacher, which is the greatest commandment in the law?”",
+      "wedau": "[“teacher] aiyai   [greatest] [commandment] au  [law?”]",
+      "ljpw": [
+        0.5016473459426479,
+        0.6225950782997762,
+        0.49999999999999994,
+        0.7770388448240796
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7770388448240796,
+      "harmony": 0.5461603204266807,
+      "translation_notes": "Primary dimension: Wisdom (0.78)"
+    },
+    "37": {
+      "verse_ref": "Matthew 22:37",
+      "english": "Jesus said to him, “ ‘You shall love the Lord your God with all your heart, with all your soul, and with all your mind.’",
+      "wedau": "Yesu riwa da tauna [“] [‘you] ina [love]  Guyau ami God maitehi anatapuhi ami urana maitehi anatapuhi ami [soul] ma maitehi anatapuhi ami [mind’]",
+      "ljpw": [
+        0.7729850322475966,
+        0.7093862815884475,
+        0.4865837829067456,
+        0.7969739991076136
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7969739991076136,
+      "harmony": 0.6009855003162219,
+      "translation_notes": "Primary dimension: Wisdom (0.80); Strong secondary: Love"
+    },
+    "38": {
+      "verse_ref": "Matthew 22:38",
+      "english": "This is the first and great commandment.",
+      "wedau": "ina   naona ma ghe vavahagha [commandment]",
+      "ljpw": [
+        0.5121212121212122,
+        0.5,
+        0.5,
+        0.5121212121212122
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5121212121212122,
+      "harmony": 0.5030299636752905,
+      "translation_notes": "Primary dimension: Love (0.51)"
+    },
+    "39": {
+      "verse_ref": "Matthew 22:39",
+      "english": "A second likewise is this, ‘You shall love your neighbor as yourself.’",
+      "wedau": "[second] [likewise]  ina [‘you] ina [love] ami [neighbor]  [yourself’]",
+      "ljpw": [
+        0.5178512396694215,
+        0.6115151515151515,
+        0.4866115702479339,
+        0.7230303030303029
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7230303030303029,
+      "harmony": 0.54033998318841,
+      "translation_notes": "Primary dimension: Wisdom (0.72)"
+    },
+    "40": {
+      "verse_ref": "Matthew 22:40",
+      "english": "The whole law and the prophets depend on these two commandments.”",
+      "wedau": "[whole] [law] ma  peroveta [depend] au ina [two] [commandments”]",
+      "ljpw": [
+        0.5038915094339622,
+        0.6083333333333333,
+        0.540625,
+        0.5715998427672957
+      ],
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.6083333333333333,
+      "harmony": 0.5287897399952992,
+      "translation_notes": "Primary dimension: Justice (0.61)"
+    },
+    "41": {
+      "verse_ref": "Matthew 22:41",
+      "english": "Now while the Pharisees were gathered together, Jesus asked them a question,",
+      "wedau": "ina marana [while]  [pharisees]  tagogiyehi [together] Yesu rau-baghei hita  [question]",
+      "ljpw": [
+        0.6028571428571429,
+        0.5619047619047619,
+        0.4785714285714286,
+        0.5866666666666667
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6028571428571429,
+      "harmony": 0.5290561720041836,
+      "translation_notes": "Primary dimension: Love (0.60)"
+    },
+    "42": {
+      "verse_ref": "Matthew 22:42",
+      "english": "saying, “What do you think of the Christ? Whose son is he?” They said to him, “Of David.”",
+      "wedau": "riwa ipa [“what] rura omi [think] ana  [christ?] [whose] natuna  [he?”] tauhi riwa da tauna [“of] [david”]",
+      "ljpw": [
+        0.6022360248447205,
+        0.5702898550724638,
+        0.486583850931677,
+        0.637536231884058
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.637536231884058,
+      "harmony": 0.5379299961387372,
+      "translation_notes": "Primary dimension: Wisdom (0.64); Strong secondary: Love"
+    },
+    "43": {
+      "verse_ref": "Matthew 22:43",
+      "english": "He said to them, “How then does David in the Spirit call him Lord, saying,",
+      "wedau": "tauna riwa da hita [“how] maratagogi rura David au  aruwa ghorehi tauna Guyau riwa ipa",
+      "ljpw": [
+        0.7,
+        0.6666666666666666,
+        0.5,
+        0.7333333333333333
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7333333333333333,
+      "harmony": 0.5805011589293861,
+      "translation_notes": "Primary dimension: Wisdom (0.73); Strong secondary: Love"
+    },
+    "44": {
+      "verse_ref": "Matthew 22:44",
+      "english": "‘The Lord said to my Lord, sit on my right hand, until I make your enemies a footstool for your feet?’",
+      "wedau": "[‘the] Guyau riwa da au Guyau [sit] au au [right] nimana [until] tau rura ami [enemies]  [footstool] yamna ami [feet?’]",
+      "ljpw": [
+        0.6857752985269763,
+        0.6532438478747202,
+        0.49999999999999994,
+        0.7466254103837995
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7466254103837995,
+      "harmony": 0.5779716083782899,
+      "translation_notes": "Primary dimension: Wisdom (0.75); Strong secondary: Love"
+    },
+    "45": {
+      "verse_ref": "Matthew 22:45",
+      "english": "“If then David calls him Lord, how is he his son?”",
+      "wedau": "[“if] maratagogi David ghorehi tauna Guyau aiwaꞌi  tauna ana [son?”]",
+      "ljpw": [
+        0.6,
+        0.5833333333333334,
+        0.5,
+        0.6630584192439863
+      ],
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6630584192439863,
+      "harmony": 0.5449741131137927,
+      "translation_notes": "Primary dimension: Wisdom (0.66)"
+    },
+    "46": {
+      "verse_ref": "Matthew 22:46",
+      "english": "No one was able to answer him a word, neither did any man dare ask him any more questions from that day forward.",
+      "wedau": "egha [one]  [able] da [answer] tauna  riwana [neither] rura ghehauna oroto [dare] rau-baghei tauna ghehauna ghe vavahagha [questions] au raketana mara [forward]",
+      "ljpw": [
+        0.5636363636363637,
+        0.5,
+        0.46164772727272724,
+        0.5125000000000001
+      ],
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5636363636363637,
+      "harmony": 0.5040791725159258,
+      "translation_notes": "Primary dimension: Love (0.56)"
+    }
+  }
+}

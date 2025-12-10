@@ -1,0 +1,30 @@
+{
+  "summary": {
+    "total_verses": 45,
+    "passed_traditional": 0,
+    "passed_resonance": 45,
+    "euclidean_mean": 0.30731681974859143,
+    "euclidean_max": 0.8308018016629641
+  },
+  "verses": [
+    {
+      "verse": "1",
+      "greek_ljpw": [
+        0.836088379705401,
+        0.7981178396072013,
+        0.5962356792144026,
+        0.8981178396072014
+      ],
+      "wedau_ljpw": [
+        0.7800103506275069,
+        0.7213740458015268,
+        0.48922887825074396,
+        0.8099236641221375
+      ],
+      "greek_harmony": 0.6707146208752207,
+      "wedau_harmony": 0.6059069837974014,
+      "euclidean_distance": 0.16811610058205406,
+      "resonance_convergence": 0.0,
+      "same_attractor": true,
+      "quality": "EXCELLENT - Semantically equivalent under resonance",
+      "passes_traditional": 
