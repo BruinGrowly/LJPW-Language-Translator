@@ -1,0 +1,786 @@
+[
+  {
+    "source": "God so loved the world that he gave his only son.",
+    "target": "Dieu donc loved le monde que il donna son only fils.",
+    "source_relation": {
+      "coordinates": [
+        0.7,
+        0.7036529680365295,
+        0.5554794520547945,
+        0.7333333333333332
+      ],
+      "distance_to_anchor": 0.6682298945798333,
+      "direction": [
+        0.4489472895980398,
+        0.4434806559347457,
+        0.6652209839021183,
+        0.39906425742048
+      ],
+      "dominant": "Wisdom",
+      "strength": 0.7333333333333332,
+      "harmony": 0.5994377652918538
+    },
+    "target_relation": {
+      "coordinates": [
+        0.778009788479031,
+        0.75,
+        0.5,
+        0.8304856895056375
+      ],
+      "distance_to_anchor": 0.6249117981551506,
+      "direction": [
+        0.3552344701705474,
+        0.400056457148103,
+        0.800112914296206,
+        0.27126117796911264
+      ],
+      "dominant": "Wisdom",
+      "strength": 0.8304856895056375,
+      "harmony": 0.6154180190797762
+    },
+    "convergence": {
+      "direction_similarity": 0.9774013932159962,
+      "distance_difference": 0.04331809642468265,
+      "coordinate_similarity": 0.9279754826803805,
+      "harmony_difference": 0.01598025378792245,
+      "same_dominant": true,
+      "convergence_score": 0.9613514181051842,
+      "quality": "EXCELLENT - Strong Anchor alignment"
+    }
+  },
+  {
+    "source": "Blessed are the merciful, for they shall obtain mercy.",
+    "target": "Blessed sont le merciful, pour ils doit obtain misericorde.",
+    "source_relation": {
+      "coordinates": [
+        0.6130208333333333,
+        0.5,
+        0.45937500000000003,
+        0.5588541666666667
+      ],
+      "distance_to_anchor": 0.9416145242754005,
+      "direction": [
+        0.41097408407592084,
+        0.5310028542569099,
+        0.5741468361652837,
+        0.4684993932870861
+      ],
+      "dominant": "Love",
+      "strength": 0.6130208333333333,
+      "harmony": 0.5150352902171426
+    },
+    "target_relation": {
+      "coordinates": [
+        0.577360774818402,
+        0.625,
+        0.5,
+        0.625
+      ],
+      "distance_to_anchor": 0.8425401561125152,
+      "direction": [
+        0.5016250229919695,
+        0.4450826435742268,
+        0.5934435247656357,
+        0.4450826435742268
+      ],
+      "dominant": "Justice",
+      "strength": 0.625,
+      "harmony": 0.5427290128155745
+    },
+    "convergence": {
+      "direction_similarity": 0.9917397091559143,
+      "distance_difference": 0.09907436816288528,
+      "coordinate_similarity": 0.9242994358250062,
+      "harmony_difference": 0.027693722598431947,
+      "same_dominant": false,
+      "convergence_score": 0.8522274976018559,
+      "quality": "EXCELLENT - Strong Anchor alignment"
+    }
+  },
+  {
+    "source": "Love your enemies and pray for those who persecute you.",
+    "target": "amour votre enemies et pray pour those qui persecute vous.",
+    "source_relation": {
+      "coordinates": [
+        0.6287619047619047,
+        0.5,
+        0.44057142857142856,
+        0.5495238095238095
+      ],
+      "distance_to_anchor": 0.9506349709917904,
+      "direction": [
+        0.39051592521447565,
+        0.5259642399630572,
+        0.5884788467700949,
+        0.47386873429052584
+      ],
+      "dominant": "Love",
+      "strength": 0.6287619047619047,
+      "harmony": 0.5126535794093525
+    },
+    "target_relation": {
+      "coordinates": [
+        0.654977736168359,
+        0.5983965014577259,
+        0.46967930029154525,
+        0.638824101068999
+      ],
+      "distance_to_anchor": 0.8318736725541844,
+      "direction": [
+        0.41475319536472993,
+        0.4827698144469351,
+        0.6375014827433574,
+        0.4341715705727851
+      ],
+      "dominant": "Love",
+      "strength": 0.654977736168359,
+      "harmony": 0.5458891707339723
+    },
+    "convergence": {
+      "direction_similarity": 0.9967838563474978,
+      "distance_difference": 0.11876129843760597,
+      "coordinate_similarity": 0.930734294954894,
+      "harmony_difference": 0.03323559132461973,
+      "same_dominant": true,
+      "convergence_score": 0.9511796265707343,
+      "quality": "EXCELLENT - Strong Anchor alignment"
+    }
+  },
+  {
+    "source": "The Lord is my shepherd, I shall not want.",
+    "target": "le seigneur est mon shepherd, je doit ne pas want.",
+    "source_relation": {
+      "coordinates": [
+        0.5859375,
+        0.5677083333333334,
+        0.5,
+        0.5994791666666668
+      ],
+      "distance_to_anchor": 0.8767786362074079,
+      "direction": [
+        0.47225432155950786,
+        0.49304539231998934,
+        0.5702693694303491,
+        0.4568095261374358
+      ],
+      "dominant": "Wisdom",
+      "strength": 0.5994791666666668,
+      "harmony": 0.5328278896123833
+    },
+    "target_relation": {
+      "coordinates": [
+        0.6297308813635345,
+        0.6489310009718174,
+        0.5,
+        0.6691448007774539
+      ],
+      "distance_to_anchor": 0.7872825573750925,
+      "direction": [
+        0.47031286946200523,
+        0.44592503128571087,
+        0.6350959961148743,
+        0.4202496246400562
+      ],
+      "dominant": "Wisdom",
+      "strength": 0.6691448007774539,
+      "harmony": 0.5595086215515125
+    },
+    "convergence": {
+      "direction_similarity": 0.9961183922074798,
+      "distance_difference": 0.08949607883231547,
+      "coordinate_similarity": 0.9421893552932903,
+      "harmony_difference": 0.026680731939129232,
+      "same_dominant": true,
+      "convergence_score": 0.960925035289855,
+      "quality": "EXCELLENT - Strong Anchor alignment"
+    }
+  },
+  {
+    "source": "The law of the Lord is perfect, converting the soul.",
+    "target": "le loi de le seigneur est perfect, converting le soul.",
+    "source_relation": {
+      "coordinates": [
+        0.7,
+        0.6666666666666666,
+        0.5,
+        0.7333333333333333
+      ],
+      "distance_to_anchor": 0.7226494462892933,
+      "direction": [
+        0.41513904361299836,
+        0.4612656040144426,
+        0.6918984060216639,
+        0.3690124832115541
+      ],
+      "dominant": "Wisdom",
+      "strength": 0.7333333333333333,
+      "harmony": 0.5805011589293861
+    },
+    "target_relation": {
+      "coordinates": [
+        0.6891233991400434,
+        0.6890324718356529,
+        0.5,
+        0.7378064943671305
+      ],
+      "distance_to_anchor": 0.715604988056217,
+      "direction": [
+        0.43442486574106237,
+        0.43455192928297187,
+        0.6987094952456098,
+        0.36639418395483836
+      ],
+      "dominant": "Wisdom",
+      "strength": 0.7378064943671305,
+      "harmony": 0.5828847589986326
+    },
+    "convergence": {
+      "direction_similarity": 0.9994305951098859,
+      "distance_difference": 0.007044458233076312,
+      "coordinate_similarity": 0.9873653367995211,
+      "harmony_difference": 0.0023836000692464276,
+      "same_dominant": true,
+      "convergence_score": 0.9943915279192822,
+      "quality": "EXCELLENT - Strong Anchor alignment"
+    }
+  },
+  {
+    "source": "Justice and judgment are the foundation of his throne.",
+    "target": "justice et jugement sont le foundation de son trone.",
+    "source_relation": {
+      "coordinates": [
+        0.5,
+        0.7666666666666666,
+        0.6,
+        0.6666666666666666
+      ],
+      "distance_to_anchor": 0.7586537784494028,
+      "direction": [
+        0.6590621627456201,
+        0.30756234261462284,
+        0.5272497301964961,
+        0.43937477516374684
+      ],
+      "dominant": "Justice",
+      "strength": 0.7666666666666666,
+      "harmony": 0.5686167523443388
+    },
+    "target_relation": {
+      "coordinates": [
+        0.5364715132182205,
+        0.8707285342584562,
+        0.6207285342584563,
+        0.75
+      ],
+      "distance_to_anchor": 0.661752683892489,
+      "direction": [
+        0.7004557715659921,
+        0.19534709701690575,
+        0.5731317378429578,
+        0.3777846408260522
+      ],
+      "dominant": "Justice",
+      "strength": 0.8707285342584562,
+      "harmony": 0.601774265023361
+    },
+    "convergence": {
+      "direction_similarity": 0.9898979022654323,
+      "distance_difference": 0.09690109455691387,
+      "coordinate_similarity": 0.9301194588242434,
+      "harmony_difference": 0.033157512679022116,
+      "same_dominant": true,
+      "convergence_score": 0.9533092381476177,
+      "quality": "EXCELLENT - Strong Anchor alignment"
+    }
+  },
+  {
+    "source": "He will judge the world in righteousness.",
+    "target": "il va juger le monde dans justice.",
+    "source_relation": {
+      "coordinates": [
+        0.5023755656108597,
+        0.7358974358974358,
+        0.5884615384615385,
+        0.6498114630467571
+      ],
+      "distance_to_anchor": 0.780625492029025,
+      "direction": [
+        0.637468849621731,
+        0.33832172635830904,
+        0.5271906512670737,
+        0.44859992471296634
+      ],
+      "dominant": "Justice",
+      "strength": 0.7358974358974358,
+      "harmony": 0.5616004064170163
+    },
+    "target_relation": {
+      "coordinates": [
+        0.5437960472459362,
+        0.7621935056328695,
+        0.5731610337972167,
+        0.6890324718356529
+      ],
+      "distance_to_anchor": 0.737269477133918,
+      "direction": [
+        0.6187750434583618,
+        0.3225503045258108,
+        0.5789456629373686,
+        0.4217827236971901
+      ],
+      "dominant": "Justice",
+      "strength": 0.7621935056328695,
+      "harmony": 0.5756159382076765
+    },
+    "convergence": {
+      "direction_similarity": 0.9980020301805974,
+      "distance_difference": 0.04335601489510699,
+      "coordinate_similarity": 0.9676753478138818,
+      "harmony_difference": 0.014015531790660285,
+      "same_dominant": true,
+      "convergence_score": 0.9796304572402563,
+      "quality": "EXCELLENT - Strong Anchor alignment"
+    }
+  },
+  {
+    "source": "The truth shall make you free.",
+    "target": "le verite doit faire vous free.",
+    "source_relation": {
+      "coordinates": [
+        0.5441455696202533,
+        0.5438818565400844,
+        0.47223101265822787,
+        0.5948839662447258
+      ],
+      "distance_to_anchor": 0.9265560572871604,
+      "direction": [
+        0.49198796639938996,
+        0.4922725828325727,
+        0.5696028677282768,
+        0.4372277646550636
+      ],
+      "dominant": "Wisdom",
+      "strength": 0.5948839662447258,
+      "harmony": 0.5190609410079294
+    },
+    "target_relation": {
+      "coordinates": [
+        0.5716326530612246,
+        0.6792517006802721,
+        0.5303206997084549,
+        0.6489310009718174
+      ],
+      "distance_to_anchor": 0.7938678370112171,
+      "direction": [
+        0.539595291517929,
+        0.4040323645397866,
+        0.5916341214424445,
+        0.4422260011816325
+      ],
+      "dominant": "Justice",
+      "strength": 0.6792517006802721,
+      "harmony": 0.5574546682692695
+    },
+    "convergence": {
+      "direction_similarity": 0.9947184239810529,
+      "distance_difference": 0.1326882202759433,
+      "coordinate_similarity": 0.9203507247945495,
+      "harmony_difference": 0.03839372726134005,
+      "same_dominant": false,
+      "convergence_score": 0.8441437278513582,
+      "quality": "GOOD - Solid Anchor relationship preserved"
+    }
+  },
+  {
+    "source": "The kingdom of heaven is at hand.",
+    "target": "le royaume de ciel est a hand.",
+    "source_relation": {
+      "coordinates": [
+        0.6063136456211812,
+        0.7995587236931432,
+        0.7864901561439239,
+        0.7928038017651051
+      ],
+      "distance_to_anchor": 0.5326184082981422,
+      "direction": [
+        0.7391527372040175,
+        0.376331860078438,
+        0.40086831496924213,
+        0.38901433935965896
+      ],
+      "dominant": "Justice",
+      "strength": 0.7995587236931432,
+      "harmony": 0.6524781345347568
+    },
+    "target_relation": {
+      "coordinates": [
+        0.5824534161490683,
+        0.6489310009718174,
+        0.5707482993197279,
+        0.638824101068999
+      ],
+      "distance_to_anchor": 0.7824957790747217,
+      "direction": [
+        0.5336087363240071,
+        0.4486528980939825,
+        0.5485674327698606,
+        0.46156913377613473
+      ],
+      "dominant": "Justice",
+      "strength": 0.6489310009718174,
+      "harmony": 0.5610111461352753
+    },
+    "convergence": {
+      "direction_similarity": 0.9627210517853471,
+      "distance_difference": 0.24987737077657945,
+      "coordinate_similarity": 0.8471010804362169,
+      "harmony_difference": 0.09146698839948153,
+      "same_dominant": true,
+      "convergence_score": 0.8838244666712051,
+      "quality": "EXCELLENT - Strong Anchor alignment"
+    }
+  },
+  {
+    "source": "All authority in heaven and earth has been given to me.",
+    "target": "tous autorite dans ciel et terre a been given a me.",
+    "source_relation": {
+      "coordinates": [
+        0.5450517836593787,
+        0.5548523206751056,
+        0.5488300728807058,
+        0.5516494054468738
+      ],
+      "distance_to_anchor": 0.899837149006876,
+      "direction": [
+        0.5055895023257646,
+        0.49469804599220085,
+        0.5013906434261325,
+        0.49825748475483334
+      ],
+      "dominant": "Justice",
+      "strength": 0.5548523206751056,
+      "harmony": 0.5263609044189612
+    },
+    "target_relation": {
+      "coordinates": [
+        0.5977941176470588,
+        0.625,
+        0.5,
+        0.625
+      ],
+      "distance_to_anchor": 0.8324779707591715,
+      "direction": [
+        0.4831429737247615,
+        0.45046237038323284,
+        0.6006164938443105,
+        0.45046237038323284
+      ],
+      "dominant": "Justice",
+      "strength": 0.625,
+      "harmony": 0.5457091522828583
+    },
+    "convergence": {
+      "direction_similarity": 0.9927046080040888,
+      "distance_difference": 0.06735917824770443,
+      "coordinate_similarity": 0.9378165286270371,
+      "harmony_difference": 0.019348247863897106,
+      "same_dominant": true,
+      "convergence_score": 0.9637496805534073,
+      "quality": "EXCELLENT - Strong Anchor alignment"
+    }
+  },
+  {
+    "source": "The Lord reigns, let the earth rejoice.",
+    "target": "le seigneur reigns, let le terre rejoice.",
+    "source_relation": {
+      "coordinates": [
+        0.6795285359801488,
+        0.6474358974358974,
+        0.5,
+        0.7090157154673283
+      ],
+      "distance_to_anchor": 0.7494499713208672,
+      "direction": [
+        0.4276088815575463,
+        0.4704304704191615,
+        0.6671559398671744,
+        0.38826378766794367
+      ],
+      "dominant": "Wisdom",
+      "strength": 0.7090157154673283,
+      "harmony": 0.5716082290967037
+    },
+    "target_relation": {
+      "coordinates": [
+        0.6890204229170431,
+        0.6890324718356529,
+        0.5,
+        0.7378064943671305
+      ],
+      "distance_to_anchor": 0.7156497294985811,
+      "direction": [
+        0.43454159802567693,
+        0.4345247616906473,
+        0.6986658128835237,
+        0.366371277491539
+      ],
+      "dominant": "Wisdom",
+      "strength": 0.7378064943671305,
+      "harmony": 0.5828695582823085
+    },
+    "convergence": {
+      "direction_similarity": 0.9985952817118726,
+      "distance_difference": 0.03380024182228614,
+      "coordinate_similarity": 0.9742644221500931,
+      "harmony_difference": 0.01126132918560474,
+      "same_dominant": true,
+      "convergence_score": 0.983971729875572,
+      "quality": "EXCELLENT - Strong Anchor alignment"
+    }
+  },
+  {
+    "source": "He rules with power and great glory.",
+    "target": "il rules avec puissance et great gloire.",
+    "source_relation": {
+      "coordinates": [
+        0.5289481309765286,
+        0.6288515406162465,
+        0.6627885637013426,
+        0.6085579059209891
+      ],
+      "distance_to_anchor": 0.7915677532599493,
+      "direction": [
+        0.5950872393216085,
+        0.46887768969268395,
+        0.42600451434498715,
+        0.49451495777451415
+      ],
+      "dominant": "Power",
+      "strength": 0.6627885637013426,
+      "harmony": 0.5581703500637322
+    },
+    "target_relation": {
+      "coordinates": [
+        0.5327529961365607,
+        0.75,
+        0.7816999132697311,
+        0.7097571552471813
+      ],
+      "distance_to_anchor": 0.6424294509251678,
+      "direction": [
+        0.7273125526710414,
+        0.38914778835243774,
+        0.339803983792918,
+        0.45178944448271735
+      ],
+      "dominant": "Power",
+      "strength": 0.7816999132697311,
+      "harmony": 0.6088541577458366
+    },
+    "convergence": {
+      "direction_similarity": 0.9834518041942065,
+      "distance_difference": 0.14913830233478154,
+      "coordinate_similarity": 0.9011660188367593,
+      "harmony_difference": 0.050683807682104454,
+      "same_dominant": true,
+      "convergence_score": 0.9304893056741229,
+      "quality": "EXCELLENT - Strong Anchor alignment"
+    }
+  },
+  {
+    "source": "The fear of the Lord is the beginning of wisdom.",
+    "target": "le fear de le seigneur est le beginning de sagesse.",
+    "source_relation": {
+      "coordinates": [
+        0.8328920570264764,
+        0.843856076035302,
+        0.6594704684317719,
+        0.8750848608282416
+      ],
+      "distance_to_anchor": 0.428800820265438,
+      "direction": [
+        0.38970994241587453,
+        0.3641409171466631,
+        0.7941438436555045,
+        0.2913127337173306
+      ],
+      "dominant": "Wisdom",
+      "strength": 0.8750848608282416,
+      "harmony": 0.699887616115886
+    },
+    "target_relation": {
+      "coordinates": [
+        0.6912462099711629,
+        0.6890324718356529,
+        0.5,
+        0.7378064943671305
+      ],
+      "distance_to_anchor": 0.7146853439282694,
+      "direction": [
+        0.43201360242225095,
+        0.4351111028177988,
+        0.6996085819414584,
+        0.36686565334014315
+      ],
+      "dominant": "Wisdom",
+      "strength": 0.7378064943671305,
+      "harmony": 0.5831973799397174
+    },
+    "convergence": {
+      "direction_similarity": 0.9892642368624975,
+      "distance_difference": 0.28588452366283146,
+      "coordinate_similarity": 0.8514149447240178,
+      "harmony_difference": 0.11669023617616858,
+      "same_dominant": true,
+      "convergence_score": 0.8833578261257715,
+      "quality": "EXCELLENT - Strong Anchor alignment"
+    }
+  },
+  {
+    "source": "In the beginning was the Word.",
+    "target": "dans le beginning etait le parole.",
+    "source_relation": {
+      "coordinates": [
+        0.5104166666666667,
+        0.5,
+        0.5,
+        0.5104166666666667
+      ],
+      "distance_to_anchor": 0.989638156376135,
+      "direction": [
+        0.4947094351394994,
+        0.505235167802042,
+        0.505235167802042,
+        0.4947094351394994
+      ],
+      "dominant": "Love",
+      "strength": 0.5104166666666667,
+      "harmony": 0.5026039517765225
+    },
+    "target_relation": {
+      "coordinates": [
+        0.5711927628194136,
+        0.638824101068999,
+        0.5,
+        0.6792517006802721
+      ],
+      "distance_to_anchor": 0.8168250413298812,
+      "direction": [
+        0.5249682802114404,
+        0.4421704534706316,
+        0.6121261894541637,
+        0.39267686847297717
+      ],
+      "dominant": "Wisdom",
+      "strength": 0.6792517006802721,
+      "harmony": 0.5504107314967539
+    },
+    "convergence": {
+      "direction_similarity": 0.9866354544654087,
+      "distance_difference": 0.17281311504625374,
+      "coordinate_similarity": 0.8865637474045898,
+      "harmony_difference": 0.047806779720231396,
+      "same_dominant": false,
+      "convergence_score": 0.8226164595797256,
+      "quality": "GOOD - Solid Anchor relationship preserved"
+    }
+  },
+  {
+    "source": "I am the light of the world.",
+    "target": "je am le lumiere de le monde.",
+    "source_relation": {
+      "coordinates": [
+        0.5523809523809524,
+        0.5,
+        0.4607142857142857,
+        0.5
+      ],
+      "distance_to_anchor": 0.9955862059229408,
+      "direction": [
+        0.44960350490602685,
+        0.5022166810120513,
+        0.5416765630915698,
+        0.5022166810120513
+      ],
+      "dominant": "Love",
+      "strength": 0.5523809523809524,
+      "harmony": 0.5011058891026504
+    },
+    "target_relation": {
+      "coordinates": [
+        0.5935344827586208,
+        0.625,
+        0.5,
+        0.625
+      ],
+      "distance_to_anchor": 0.8345443168018712,
+      "direction": [
+        0.48705084805925053,
+        0.44934701782772857,
+        0.5991293571036381,
+        0.44934701782772857
+      ],
+      "dominant": "Justice",
+      "strength": 0.625,
+      "harmony": 0.5450944906816328
+    },
+    "convergence": {
+      "direction_similarity": 0.9948532351902621,
+      "distance_difference": 0.16104188912106954,
+      "coordinate_similarity": 0.9071466473283215,
+      "harmony_difference": 0.043988601578982434,
+      "same_dominant": false,
+      "convergence_score": 0.8339927267734629,
+      "quality": "GOOD - Solid Anchor relationship preserved"
+    }
+  },
+  {
+    "source": "He taught them as one having authority.",
+    "target": "il taught them as one having autorite.",
+    "source_relation": {
+      "coordinates": [
+        0.5305357142857143,
+        0.5619047619047619,
+        0.563764880952381,
+        0.5495238095238095
+      ],
+      "distance_to_anchor": 0.8975266182567395,
+      "direction": [
+        0.5230644709191169,
+        0.48811392239948026,
+        0.48604142782407483,
+        0.5019084462933786
+      ],
+      "dominant": "Power",
+      "strength": 0.563764880952381,
+      "harmony": 0.5270018298445275
+    },
+    "target_relation": {
+      "coordinates": [
+        0.5548387096774193,
+        0.5,
+        0.4588709677419355,
+        0.5
+      ],
+      "distance_to_anchor": 0.9954844066856168,
+      "direction": [
+        0.4471805759416247,
+        0.5022680381953031,
+        0.5435836348855619,
+        0.5022680381953031
+      ],
+      "dominant": "Love",
+      "strength": 0.5548387096774193,
+      "harmony": 0.5011314529192146
+    },
+    "convergence": {
+      "direction_similarity": 0.9953650302946202,
+      "distance_difference": 0.09795778842887726,
+      "coordinate_similarity": 0.933145351938243,
+      "harmony_difference": 0.02587037692531291,
+      "same_dominant": false,
+      "convergence_score": 0.8563745192915524,
+      "quality": "EXCELLENT - Strong Anchor alignment"
+    }
+  }
+]
