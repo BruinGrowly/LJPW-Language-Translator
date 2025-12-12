@@ -1,0 +1,302 @@
+{
+  "book": "Matthew",
+  "chapter": 10,
+  "source": "LJPW Anchor Point Translation",
+  "target_language": "Wedau",
+  "verses": [
+    {
+      "verse": 1,
+      "english": "And when he had called unto him his twelve disciples, he gave them power against unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease.",
+      "wedau": "ma [when] tauna [had] i ḡorei [unto] tauna ana 12 Tauvotaḡotaḡo, tauna i verei taui Rewapana [against] [unclean] [spirits], da [cast] taui [out], ma da ona vilawana anatapui [manner] ana [sickness] ma anatapui [manner] ana [disease].",
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.7090289143480633
+    },
+    {
+      "verse": 2,
+      "english": "Now the names of the twelve apostles are these; The first, Simon, who is called Peter, and Andrew his brother; James the son of Zebedee, and John his brother;",
+      "wedau": "[now] wavai ana 12 Apasol [are] [these]; naona, Simon, aiai [is] i ḡorei Peter, ma Andrew ana Turana; James Natuna ana [zebedee], ma John ana Turana;",
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5
+    },
+    {
+      "verse": 3,
+      "english": "Philip, and Bartholomew; Thomas, and Matthew the publican; James the son of Alphaeus, and Lebbaeus, whose surname was Thaddaeus;",
+      "wedau": "Philip, ma Batolomeo; Thomas, ma Matthew [publican]; James Natuna ana [alphaeus], ma [lebbaeus], [whose] [surname] [was] [thaddaeus];",
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5514563106796116
+    },
+    {
+      "verse": 4,
+      "english": "Simon the Canaanite, and Judas Iscariot, who also betrayed him.",
+      "wedau": "Simon [canaanite], ma Judas Iskariot, aiai [also] [betrayed] tauna.",
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5529411764705883
+    },
+    {
+      "verse": 5,
+      "english": "These twelve Jesus sent forth, and commanded them, saying, Go not into the way of the Gentiles, and into any city of the Samaritans enter ye not:",
+      "wedau": "[these] 12 Iesu i paritawanei [forth], ma [commanded] taui, [saying], ona nae eḡa [into] [way] ana Jentail, ma [into] [any] Taon ana [samaritans] [enter] taumi eḡa:",
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.85
+    },
+    {
+      "verse": 6,
+      "english": "But go rather to the lost sheep of the house of Israel.",
+      "wedau": "wate ona nae [rather] da Voladaḡei Sipu ana Israel [numa] [ravai].",
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5534883720930233
+    },
+    {
+      "verse": 7,
+      "english": "And as ye go, preach, saying, The kingdom of heaven is at hand.",
+      "wedau": "ma [as] taumi ona nae, ona raugugula, [saying], God [ana] Vigulau [is] [e] [tuḡereḡerei].",
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.7744092039800995
+    },
+    {
+      "verse": 8,
+      "english": "Heal the sick, cleanse the lepers, raise the dead, cast out devils: freely ye have received, freely give.",
+      "wedau": "ona vilawana Doridori, [cleanse] [lepers], [raise] Iraḡe, [ona] [viḡaei] [devils]: [freely] taumi [have] [received], [freely] ona vere.",
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5
+    },
+    {
+      "verse": 9,
+      "english": "Provide neither gold, nor silver, nor brass in your purses,",
+      "wedau": "[provide] [neither] [gold], [nor] [silver], [nor] [brass] au [your] [purses],",
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5148936170212767
+    },
+    {
+      "verse": 10,
+      "english": "Nor scrip for your journey, neither two coats, neither shoes, nor yet staves: for the workman is worthy of his meat.",
+      "wedau": "[nor] [scrip] aubaina [your] [journey], [neither] [two] [coats], [neither] [shoes], [nor] [yet] [staves]: aubaina [workman] [is] Vivouna ana ana [meat].",
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.560989010989011
+    },
+    {
+      "verse": 11,
+      "english": "And into whatsoever city or town ye shall enter, enquire who in it is worthy; and there abide till ye go thence.",
+      "wedau": "ma [into] [whatsoever] Taon [or] Melagai taumi [shall] [enter], [enquire] aiai au [it] [is] Vivouna; ma [there] [abide] [till] taumi ona nae [thence].",
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5647727272727273
+    },
+    {
+      "verse": 12,
+      "english": "And when ye come into an house, salute it.",
+      "wedau": "ma [when] taumi [come] [into] [an] Numa, [salute] [it].",
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5593750000000001
+    },
+    {
+      "verse": 13,
+      "english": "And if the house be worthy, let your peace come upon it: but if it be not worthy, let your peace return to you.",
+      "wedau": "ma [if] Numa [be] Vivouna, [let] [your] Nuaubai [come] [upon] [it]: wate [if] [it] [be] eḡa Vivouna, [let] [your] Nuaubai [return] da taumi.",
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.555952380952381
+    },
+    {
+      "verse": 14,
+      "english": "And whosoever shall not receive you, nor hear your words, when ye depart out of that house or city, shake off the dust of your feet.",
+      "wedau": "ma [whosoever] [shall] eḡa i vaia taumi, [nor] [hear] [your] [words], [when] taumi [depart] [out] ana da Numa [or] Taon, [shake] [off] [dust] ana [your] [feet].",
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5563106796116505
+    },
+    {
+      "verse": 15,
+      "english": "Verily I say unto you, It shall be more tolerable for the land of Sodom and Gomorra in the day of judgment, than for that city.",
+      "wedau": "riwa kaua tau [say] [unto] taumi, [it] [shall] [be] ina ḡetelara [tolerable] aubaina [land] ana Sodom ma Gomora au [rauetara] [marana], [than] aubaina da Taon.",
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5116161616161616
+    },
+    {
+      "verse": 16,
+      "english": "Behold, I send you forth as sheep in the midst of wolves: be ye therefore wise as serpents, and harmless as doves.",
+      "wedau": "ona inana, tau ana paritawane taumi [forth] [as] Sipu au [midst] ana Woofi apoapoei: [be] taumi lamna aubaina Nuaulaula [as] Mota, ma Nuaulaulai [as] Bunebune.",
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.9
+    },
+    {
+      "verse": 17,
+      "english": "But beware of men: for they will deliver you up to the councils, and they will scourge you in their synagogues;",
+      "wedau": "wate [beware] ana rava: aubaina taui [will] [deliver] taumi [up] da [councils], ma taui [will] [scourge] taumi au [their] [synagogues];",
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.553409090909091
+    },
+    {
+      "verse": 18,
+      "english": "And ye shall be brought before governors and kings for my sake, for a testimony against them and the Gentiles.",
+      "wedau": "ma taumi [shall] [be] [brought] [before] Gavena ma Gulau [tau] [aubaiu], aubaina [testimony] [against] taui ma Jentail.",
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5947916666666667
+    },
+    {
+      "verse": 19,
+      "english": "But when they deliver you up, take no thought how or what ye shall speak: for it shall be given you in that same hour what ye shall speak.",
+      "wedau": "wate [when] taui [deliver] taumi [up], [take] [no] [thought] [how] [or] [what] taumi [shall] ona babani: aubaina [it] [shall] [be] [given] taumi au da [same] [hour] [what] taumi [shall] ona babani.",
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5570093457943925
+    },
+    {
+      "verse": 20,
+      "english": "For it is not ye that speak, but the Spirit of your Father which speaketh in you.",
+      "wedau": "aubaina [it] [is] eḡa taumi da ona babani, wate Arua ana [your] Amana lamna [speaketh] au taumi.",
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6020408163265306
+    },
+    {
+      "verse": 21,
+      "english": "And the brother shall deliver up the brother to death, and the father the child: and the children shall rise up against their parents, and cause them to be put to death.",
+      "wedau": "ma Turana [shall] [deliver] [up] Turana da Iraḡe, ma Amana [child]: ma [children] [shall] [rise] [up] [against] [their] [parents], ma [cause] taui da [be] [put] da Iraḡe.",
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.5261194029850746
+    },
+    {
+      "verse": 22,
+      "english": "And ye shall be hated of all men for my name's sake: but he that endureth to the end shall be saved.",
+      "wedau": "ma taumi [shall] [be] [hated] ana anatapui rava [wavau] [aubaina]: wate tauna da [endureth] da [au] [damona] [shall] [be] [saved].",
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5105263157894737
+    },
+    {
+      "verse": 23,
+      "english": "But when they persecute you in this city, flee ye into another: for verily I say unto you, Ye shall not have gone over the cities of Israel, till the Son of man be come.",
+      "wedau": "wate [when] taui [persecute] taumi au [this] Taon, [flee] taumi [into] [another]: aubaina riwa kaua tau [say] [unto] taumi, taumi [shall] eḡa [have] [gone] [over] [cities] ana Israel, [till] Rava Natuna [be] [come].",
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5546153846153846
+    },
+    {
+      "verse": 24,
+      "english": "The disciple is not above his master, nor the servant above his lord.",
+      "wedau": "Tauvotaḡotaḡo [is] eḡa [above] ana [master], [nor] [servant] [above] ana Bada.",
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6166666666666667
+    },
+    {
+      "verse": 25,
+      "english": "It is enough for the disciple that he be as his master, and the servant as his lord. If they have called the master of the house Beelzebub, how much more shall they call them of his household?",
+      "wedau": "[it] [is] [enough] aubaina Tauvotaḡotaḡo da tauna [be] [as] ana [master], ma [servant] [as] ana Bada. [if] taui [have] i ḡorei [master] ana Numa [beelzebub], [how] [much] ina ḡetelara [shall] taui [call] taui ana ana [household]?",
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.637536231884058
+    },
+    {
+      "verse": 26,
+      "english": "Fear them not therefore: for there is nothing covered, that shall not be revealed; and hid, that shall not be known.",
+      "wedau": "ona rovo taui eḡa lamna aubaina: aubaina [there] [is] aiwai eḡa [covered], da [shall] eḡa [be] [revealed]; ma [hid], da [shall] eḡa [be] [known].",
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.6126602564102563
+    },
+    {
+      "verse": 27,
+      "english": "What I tell you in darkness, that speak ye in light: and what ye hear in the ear, that preach ye upon the housetops.",
+      "wedau": "[what] tau [tell] taumi au [darkness], da ona babani taumi au [light]: ma [what] taumi [hear] au [ear], da ona raugugula taumi [upon] [housetops].",
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5714285714285714
+    },
+    {
+      "verse": 28,
+      "english": "And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell.",
+      "wedau": "ma [eḡa] [ona] [rovo] taui lamna e viraḡeraḡei Tupua, wate [are] eḡa [able] da e viraḡeraḡei Arua: wate [rather] ona rovo tauna lamna [is] [able] da [destroy] [both] Arua ma Tupua au [hell].",
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5101769911504425
+    },
+    {
+      "verse": 29,
+      "english": "Are not two sparrows sold for a farthing? and one of them shall not fall on the ground without your Father.",
+      "wedau": "[are] eḡa [two] Kiu aburuburu [sold] aubaina [farthing]? ma [one] ana taui [shall] eḡa [fall] [on] [ground] [without] [your] Amana.",
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5841486068111454
+    },
+    {
+      "verse": 30,
+      "english": "But the very hairs of your head are all numbered.",
+      "wedau": "wate [very] [hairs] ana [your] [head] [are] anatapui [numbered].",
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5653846153846155
+    },
+    {
+      "verse": 31,
+      "english": "Fear ye not therefore, ye are of more value than many sparrows.",
+      "wedau": "ona rovo taumi eḡa lamna aubaina, taumi [are] ana ina ḡetelara [value] [than] [many] Kiu aburuburu.",
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5670000000000001
+    },
+    {
+      "verse": 32,
+      "english": "Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven.",
+      "wedau": "[whosoever] lamna aubaina [shall] e vinolenolei tau [rava] [au] [naoi], tauna [will] tau e vinolenolei [also] [before] au Amana lamna [is] [au] [mara].",
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5709269662921348
+    },
+    {
+      "verse": 33,
+      "english": "But whosoever shall deny me before men, him will I also deny before my Father which is in heaven.",
+      "wedau": "wate [whosoever] [shall] e gedugeduaei tau [rava] [au] [naoi], tauna [will] tau [also] e gedugeduaei [before] au Amana lamna [is] [au] [mara].",
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5662337662337663
+    },
+    {
+      "verse": 34,
+      "english": "Think not that I am come to send peace on earth: I came not to send peace, but a sword.",
+      "wedau": "[think] eḡa da tau [am] [come] da ana paritawane Nuaubai [au] [dobu]: tau [came] eḡa da ana paritawane Nuaubai, wate Ua.",
+      "dominant_dimension": "Power",
+      "dimension_strength": 0.6166666666666667
+    },
+    {
+      "verse": 35,
+      "english": "For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law.",
+      "wedau": "aubaina tau [am] [come] da [set] rava [at] [variance] [against] ana Amana, ma Natuvavine [against] ana Alona, ma Natuvavine au [law] [against] ana Alona au [law].",
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.5877637130801688
+    },
+    {
+      "verse": 36,
+      "english": "And a man's foes shall be they of his own household.",
+      "wedau": "ma [man's] [foes] [shall] [be] taui ana ana [own] [household].",
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.555
+    },
+    {
+      "verse": 37,
+      "english": "He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me.",
+      "wedau": "tauna da [loveth] Amana [or] Alona ina ḡetelara [than] tau [is] eḡa Vivouna ana tau: ma tauna da [loveth] Natuna [or] Natuvavine ina ḡetelara [than] tau [is] eḡa Vivouna ana tau.",
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.6311424862057774
+    },
+    {
+      "verse": 38,
+      "english": "And he that taketh not his cross, and followeth after me, is not worthy of me.",
+      "wedau": "ma tauna da [taketh] eḡa ana Korosi, ma [followeth] [after] tau, [is] eḡa Vivouna ana tau.",
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5
+    },
+    {
+      "verse": 39,
+      "english": "He that findeth his life shall lose it: and he that loseth his life for my sake shall find it.",
+      "wedau": "tauna da [findeth] ana Lawana [shall] ina voladaḡei [it]: ma tauna da [loseth] ana Lawana [tau] [aubaiu] [shall] ina nelaḡai [it].",
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5
+    },
+    {
+      "verse": 40,
+      "english": "He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me.",
+      "wedau": "tauna da [receiveth] taumi [receiveth] tau, ma tauna da [receiveth] tau [receiveth] tauna da i paritawanei tau.",
+      "dominant_dimension": "Love",
+      "dimension_strength": 0.5563380281690141
+    },
+    {
+      "verse": 41,
+      "english": "He that receiveth a prophet in the name of a prophet shall receive a prophet's reward; and he that receiveth a righteous man in the name of a righteous man shall receive a righteous man's reward.",
+      "wedau": "tauna da [receiveth] Peroveta au wava ana Peroveta [shall] i vaia [prophet's] Pulo; ma tauna da [receiveth] Jijimanina rava au wava ana Jijimanina rava [shall] i vaia Jijimanina [man's] Pulo.",
+      "dominant_dimension": "Justice",
+      "dimension_strength": 0.8541984732824428
+    },
+    {
+      "verse": 42,
+      "english": "And whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward.",
+      "wedau": "ma [whosoever] [shall] ona vere da [drink] [unto] [one] ana [these] Aburuburu [ones] Kopu ana Maemae Waira [only] au wava ana Tauvotaḡotaḡo, riwa kaua tau [say] [unto] taumi, tauna [shall] au [no] Nuaulaula ina voladaḡei ana Pulo.",
+      "dominant_dimension": "Wisdom",
+      "dimension_strength": 0.5950515016133036
+    }
+  ]
+}
